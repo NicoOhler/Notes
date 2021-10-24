@@ -1,0 +1,115 @@
+{
+  "main": {
+    "id": "43f50e0355cef38d",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac846adfc91eafc0",
+        "type": "leaf",
+        "dimension": 43.452380952380956,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Biologie/Chromosome.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "185e9c508c324353",
+        "type": "leaf",
+        "dimension": 56.547619047619044,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Biologie/Chromosome.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3dcb2a47d5910cae",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f8c8c23e5b6687c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "097b9a58ea336072",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "67d43403474fe91c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d1219e90b492538d",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9867b4bfd2d4abe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c5aae94aad54a600",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Biologie/Chromosome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ac846adfc91eafc0",
+  "lastOpenFiles": [
+    "Biologie/Chromosome.md",
+    "Biologie/Gene.md",
+    "Chromosome.md",
+    "Biologie/Allel.md",
+    "Biologie/Gregor Mendel.md",
+    "Biologie/Humane Genome Project.md",
+    "Biologie/Vererbung.md",
+    "Punett Square.md",
+    "Untitled.md",
+    "Vererbung.md"
+  ]
+}

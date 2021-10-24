@@ -1,0 +1,32 @@
+# Zeichensammlung
++ ∞
++ Vergleich
+	+ ≤
+	+ ≥
++ Quantoren
+	+ ∀
+	+ ∃
+	+ ∄
++ Mengenoperatoren
+	+	∅
+	+	∈
+	+	∉
+	+	∪
+	+	∩
+	+	\
+	+	⊆
+	+	⊄
++	Zahlenmengen
+	+	ℕ
+	+	ℤ
+	+	ℚ
+	+	ℝ
++	Logik
+	+	∧
+	+	∨
+	+	¬
+	+	↔
+	+	→
+	+	<==>
+	+	==>
+
