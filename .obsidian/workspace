@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Monotonie.md",
+            "file": "Analysis/Beschränktheit.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Monotonie.md",
+                "file": "Analysis/Beschränktheit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,8 +99,8 @@
   },
   "active": "71bf06fb767950c0",
   "lastOpenFiles": [
-    "Analysis/Monotonie.md",
     "Analysis/Beschränktheit.md",
+    "Analysis/Monotonie.md",
     "Analysis/Werkzeuge/Satz von Bolzano-Weierstraß.md",
     "Analysis/Werkzeuge/Bernoulli Ungleichung.md",
     "Analysis/Werkzeuge/Intervallschachtelung.md",
