@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Monotonie.md",
+            "file": "Analysis/Supremum und Infimum.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Monotonie.md",
+                "file": "Analysis/Supremum und Infimum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,12 +99,12 @@
   },
   "active": "71bf06fb767950c0",
   "lastOpenFiles": [
+    "Analysis/Supremum und Infimum.md",
     "Analysis/Monotonie.md",
     "Analysis/Werkzeuge/Intervallschachtelung.md",
     "Analysis/Werkzeuge/Bernoulli Ungleichung.md",
     "Analysis/Binomische Lehrsatz.md",
     "Allgemeine Mathematik/Zeichensammlung.md",
-    "Untitled.md",
     "new file test.md",
     "Biologie/Chromosome.md",
     "Biologie/Gene.md",
