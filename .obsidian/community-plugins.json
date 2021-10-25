@@ -1,1 +1,9 @@
-[]
+[
+  "obsidian-git",
+  "obsidian-style-settings",
+  "markdown-prettifier",
+  "cm-editor-syntax-highlight-obsidian",
+  "code-block-copy",
+  "obsidian-code-block-enhancer",
+  "obsidian-admonition"
+]

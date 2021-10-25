@@ -6,25 +6,9 @@
       {
         "id": "ac846adfc91eafc0",
         "type": "leaf",
-        "dimension": 43.452380952380956,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Biologie/Chromosome.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "185e9c508c324353",
-        "type": "leaf",
-        "dimension": 56.547619047619044,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Biologie/Chromosome.md",
-            "mode": "preview"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -81,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biologie/Chromosome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +84,8 @@
   },
   "active": "ac846adfc91eafc0",
   "lastOpenFiles": [
+    "Untitled.md",
+    "new file test.md",
     "Biologie/Chromosome.md",
     "Biologie/Gene.md",
     "Chromosome.md",
@@ -108,8 +93,6 @@
     "Biologie/Gregor Mendel.md",
     "Biologie/Humane Genome Project.md",
     "Biologie/Vererbung.md",
-    "Punett Square.md",
-    "Untitled.md",
-    "Vererbung.md"
+    "Punett Square.md"
   ]
 }
