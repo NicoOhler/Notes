@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "ac846adfc91eafc0",
+        "id": "71bf06fb767950c0",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Analysis/Monotonie.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Analysis/Monotonie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -74,25 +78,36 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "ac846adfc91eafc0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Allgemeine Mathematik/Zeichensammlung.md",
+                "mode": "source"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "ac846adfc91eafc0",
+  "active": "71bf06fb767950c0",
   "lastOpenFiles": [
+    "Analysis/Monotonie.md",
+    "Analysis/Werkzeuge/Intervallschachtelung.md",
+    "Analysis/Werkzeuge/Bernoulli Ungleichung.md",
+    "Analysis/Binomische Lehrsatz.md",
+    "Allgemeine Mathematik/Zeichensammlung.md",
     "Untitled.md",
     "new file test.md",
     "Biologie/Chromosome.md",
     "Biologie/Gene.md",
-    "Chromosome.md",
-    "Biologie/Allel.md",
-    "Biologie/Gregor Mendel.md",
-    "Biologie/Humane Genome Project.md",
-    "Biologie/Vererbung.md",
-    "Punett Square.md"
+    "Chromosome.md"
   ]
 }
