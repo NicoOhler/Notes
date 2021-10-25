@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Beschränktheit.md",
-            "mode": "preview"
+            "file": "Analysis/Werkzeuge/Intervallschachtelung.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Beschränktheit.md",
+                "file": "Analysis/Werkzeuge/Intervallschachtelung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,11 +99,11 @@
   },
   "active": "71bf06fb767950c0",
   "lastOpenFiles": [
+    "Analysis/Werkzeuge/Intervallschachtelung.md",
+    "Analysis/Werkzeuge/Sandwich Theorem.md",
+    "Analysis/Werkzeuge/Satz von Bolzano-Weierstraß.md",
     "Analysis/Beschränktheit.md",
     "Analysis/Monotonie.md",
-    "Analysis/Werkzeuge/Sandwich Theorem.md",
-    "Analysis/Werkzeuge/Intervallschachtelung.md",
-    "Analysis/Werkzeuge/Satz von Bolzano-Weierstraß.md",
     "Analysis/Werkzeuge/Bernoulli Ungleichung.md",
     "Analysis/Vollständige Induktion.md",
     "Analysis/Binomische Lehrsatz.md",
