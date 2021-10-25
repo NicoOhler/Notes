@@ -6,4 +6,8 @@
 + Jede beschränkte Folge besitzt eine größte und eine kleinste Schranke
 	+ Infimum i = größte untere Schranke
 	+ Supremum s = kleinste obere Schranke
-∀x∈A: i≤|x|≤s
+	+ ∀x∈A: i≤|x|≤s
+
+
+
+[[Analysis]][[Monotonie]]

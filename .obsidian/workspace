@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 272
   },
   "right": {
     "id": "d1219e90b492538d",
@@ -95,19 +95,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 380
   },
   "active": "71bf06fb767950c0",
   "lastOpenFiles": [
     "Analysis/Beschränktheit.md",
-    "Analysis/Vollständige Induktion.md",
-    "Analysis/Werkzeuge/Satz von Bolzano-Weierstraß.md",
     "Analysis/Monotonie.md",
+    "Analysis/Werkzeuge/Sandwich Theorem.md",
     "Analysis/Werkzeuge/Intervallschachtelung.md",
+    "Analysis/Werkzeuge/Satz von Bolzano-Weierstraß.md",
     "Analysis/Werkzeuge/Bernoulli Ungleichung.md",
+    "Analysis/Vollständige Induktion.md",
     "Analysis/Binomische Lehrsatz.md",
     "Allgemeine Mathematik/Zeichensammlung.md",
-    "new file test.md",
-    "Biologie/Chromosome.md"
+    "new file test.md"
   ]
 }
