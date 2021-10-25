@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Beschränktheit.md",
+            "file": "Analysis/Werkzeuge/Konvergenzkriterium von Cauchy.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272
+    "width": 296
   },
   "right": {
     "id": "d1219e90b492538d",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Beschränktheit.md",
+                "file": "Analysis/Werkzeuge/Konvergenzkriterium von Cauchy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,19 +95,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 380
+    "width": 396
   },
   "active": "71bf06fb767950c0",
   "lastOpenFiles": [
+    "Analysis/Werkzeuge/Konvergenzkriterium von Cauchy.md",
+    "Analysis/Werkzeuge/Intervallschachtelung.md",
+    "Analysis/Werkzeuge/Bernoulli Ungleichung.md",
     "Analysis/Beschränktheit.md",
     "Analysis/Monotonie.md",
     "Analysis/Werkzeuge/Satz von Bolzano-Weierstraß.md",
-    "Analysis/Werkzeuge/Bernoulli Ungleichung.md",
-    "Analysis/Werkzeuge/Intervallschachtelung.md",
     "Analysis/Werkzeuge/Sandwich Theorem.md",
     "Analysis/Vollständige Induktion.md",
     "Analysis/Analysis.md",
-    "Analysis/Binomische Lehrsatz.md",
-    "Allgemeine Mathematik/Zeichensammlung.md"
+    "Analysis/Binomische Lehrsatz.md"
   ]
 }

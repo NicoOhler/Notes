@@ -5,12 +5,14 @@
 
 ## Supremum und Infimum
 + Jede beschränkte Folge besitzt eine größte und eine kleinste Schranke
-	+ Supremum s = kleinste obere Schranke
+	+ Supremum s ==> kleinste obere Schranke
 		+ größte Häufungspunkt
-		+ limes superior ==> obere Hä
-	+ Infimum i = größte untere Schranke
+		+ limes superior ==> obere Häufungsgrenze
+	+ Infimum i ==> größte untere Schranke
 		+ kleinste Häufungspunkt
+		+ limes inferior ==> untere Häufungsgrenze
 	+ ∀x∈A: i≤|x|≤s
++ Eine Folge ist konvergent, wenn limes inferior = limes superior
 + Supremum und Infimum können mittels Intervallschachtelung bestimmt werden
 
 ``` ad-note

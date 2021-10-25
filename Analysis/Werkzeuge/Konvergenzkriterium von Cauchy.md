@@ -1,0 +1,1 @@
+# Konvergenzkriterium von Cauchy
