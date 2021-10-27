@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Allgemeine Mathematik/Zeichensammlung.md",
+            "file": "Analysis/Werkzeuge/Intervallschachtelung.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Allgemeine Mathematik/Zeichensammlung.md",
+                "file": "Analysis/Werkzeuge/Intervallschachtelung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,16 +95,16 @@
       }
     ],
     "direction": "horizontal",
-    "width": 925
+    "width": 582
   },
   "active": "71bf06fb767950c0",
   "lastOpenFiles": [
-    "Allgemeine Mathematik/Zeichensammlung.md",
-    "Analysis/Werkzeuge/Konvergenzkriterium von Cauchy.md",
+    "Analysis/Werkzeuge/Intervallschachtelung.md",
     "Analysis/Werkzeuge/Satz von Bolzano-Weierstraß.md",
     "Analysis/Werkzeuge/Sandwich Theorem.md",
+    "Allgemeine Mathematik/Zeichensammlung.md",
+    "Analysis/Werkzeuge/Konvergenzkriterium von Cauchy.md",
     "Analysis/Werkzeuge/Bernoulli Ungleichung.md",
-    "Analysis/Werkzeuge/Intervallschachtelung.md",
     "Analysis/Beschränktheit.md",
     "Analysis/Monotonie.md",
     "Analysis/Vollständige Induktion.md",
