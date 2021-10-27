@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Analysis/Werkzeuge/Konvergenzkriterium von Cauchy.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -100,12 +100,12 @@
   "active": "71bf06fb767950c0",
   "lastOpenFiles": [
     "Analysis/Werkzeuge/Konvergenzkriterium von Cauchy.md",
-    "Analysis/Werkzeuge/Intervallschachtelung.md",
-    "Analysis/Werkzeuge/Bernoulli Ungleichung.md",
-    "Analysis/Beschränktheit.md",
-    "Analysis/Monotonie.md",
     "Analysis/Werkzeuge/Satz von Bolzano-Weierstraß.md",
     "Analysis/Werkzeuge/Sandwich Theorem.md",
+    "Analysis/Werkzeuge/Bernoulli Ungleichung.md",
+    "Analysis/Werkzeuge/Intervallschachtelung.md",
+    "Analysis/Beschränktheit.md",
+    "Analysis/Monotonie.md",
     "Analysis/Vollständige Induktion.md",
     "Analysis/Analysis.md",
     "Analysis/Binomische Lehrsatz.md"
