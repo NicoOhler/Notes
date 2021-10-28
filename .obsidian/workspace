@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Determinante.md",
+            "file": "NRLA/Determinante.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Determinante.md",
+                "file": "NRLA/Determinante.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
   },
   "active": "71bf06fb767950c0",
   "lastOpenFiles": [
-    "Determinante.md",
+    "NRLA/Determinante.md",
+    "NRLA/NRLA.md",
+    "Allgemeine Mathematik/Quantoren.md",
+    "Images/Pasted image 20211025165140.png",
     "Analysis/Werkzeuge/Intervallschachtelung.md",
     "Analysis/Werkzeuge/Satz von Bolzano-Weierstraß.md",
     "Analysis/Werkzeuge/Sandwich Theorem.md",
     "Allgemeine Mathematik/Zeichensammlung.md",
     "Analysis/Werkzeuge/Konvergenzkriterium von Cauchy.md",
-    "Analysis/Werkzeuge/Bernoulli Ungleichung.md",
-    "Analysis/Beschränktheit.md",
-    "Analysis/Monotonie.md",
-    "Analysis/Vollständige Induktion.md"
+    "Analysis/Werkzeuge/Bernoulli Ungleichung.md"
   ]
 }
