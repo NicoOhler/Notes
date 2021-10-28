@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Werkzeuge/Intervallschachtelung.md",
-            "mode": "preview"
+            "file": "Determinante.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Werkzeuge/Intervallschachtelung.md",
+                "file": "Determinante.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +99,7 @@
   },
   "active": "71bf06fb767950c0",
   "lastOpenFiles": [
+    "Determinante.md",
     "Analysis/Werkzeuge/Intervallschachtelung.md",
     "Analysis/Werkzeuge/Satz von Bolzano-Weierstraß.md",
     "Analysis/Werkzeuge/Sandwich Theorem.md",
@@ -107,7 +108,6 @@
     "Analysis/Werkzeuge/Bernoulli Ungleichung.md",
     "Analysis/Beschränktheit.md",
     "Analysis/Monotonie.md",
-    "Analysis/Vollständige Induktion.md",
-    "Analysis/Analysis.md"
+    "Analysis/Vollständige Induktion.md"
   ]
 }
