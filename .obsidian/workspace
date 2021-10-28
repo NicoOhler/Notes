@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NRLA/Determinante.md",
+            "file": "NRLA/LR-Zerlegung einer Regulären Matrix.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NRLA/Determinante.md",
+                "file": "NRLA/LR-Zerlegung einer Regulären Matrix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
   },
   "active": "71bf06fb767950c0",
   "lastOpenFiles": [
+    "NRLA/LR-Zerlegung einer Regulären Matrix.md",
     "NRLA/Determinante.md",
+    "NRLA/Gaußsche Eliminationsverfahren.md",
     "NRLA/NRLA.md",
     "Allgemeine Mathematik/Quantoren.md",
     "Images/Pasted image 20211025165140.png",
     "Analysis/Werkzeuge/Intervallschachtelung.md",
     "Analysis/Werkzeuge/Satz von Bolzano-Weierstraß.md",
     "Analysis/Werkzeuge/Sandwich Theorem.md",
-    "Allgemeine Mathematik/Zeichensammlung.md",
-    "Analysis/Werkzeuge/Konvergenzkriterium von Cauchy.md",
-    "Analysis/Werkzeuge/Bernoulli Ungleichung.md"
+    "Allgemeine Mathematik/Zeichensammlung.md"
   ]
 }
