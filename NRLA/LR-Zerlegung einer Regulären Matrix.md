@@ -4,4 +4,9 @@
 ## Anwendungen
 + lineares Gleichungssystem: A*x = b
 	+ A ist regulär
-	+ genau
+	+ genau eine Lösung
++ A = LR ==> LRx = b
+	+ y := Rx ==>  zwei Gleichungssysteme
+		+ Ly = b
+		+ Rx = y
+	+ leicht zu lösen wegen △-Matrix
