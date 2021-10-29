@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Binomialkoeffizient.md",
+            "file": "NRLA/Matrizen/Matrix.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Binomialkoeffizient.md",
+                "file": "NRLA/Matrizen/Matrix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
   },
   "active": "71bf06fb767950c0",
   "lastOpenFiles": [
-    "Binomialkoeffizient.md",
-    "Kombinatorik.md",
-    "Numerisches Rechnen.md",
+    "NRLA/Matrizen/Matrix.md",
+    "NRLA/Matrizen/Determinante.md",
+    "NRLA/Numerisches Rechnen.md",
+    "Allgemeine Mathematik/Binomische Lehrsatz.md",
+    "NRLA/Matrizen/LR-Zerlegung einer Regulären Matrix.md",
     "NRLA/NRLA.md",
-    "NRLA/LR-Zerlegung einer Regulären Matrix.md",
-    "NRLA/Determinante.md",
-    "NRLA/Gaußsche Eliminationsverfahren.md",
-    "Allgemeine Mathematik/Quantoren.md",
-    "Images/Pasted image 20211025165140.png",
-    "Analysis/Werkzeuge/Intervallschachtelung.md"
+    "Analysis/Binomialkoeffizient.md",
+    "Analysis/Kombinatorik.md",
+    "NRLA/Matrizen/Gaußsche Eliminationsverfahren.md",
+    "Allgemeine Mathematik/Quantoren.md"
   ]
 }

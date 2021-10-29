@@ -1,4 +1,6 @@
 # Determinante
++ beschreibt das Volumen/die Fläche einer Matrix
+
 ## Vorgehensweise
 ...
 
@@ -25,3 +27,4 @@
 4. Entsteht A' durch Addieren des λ-fachen einer Zeile/Spalte
 	+ det A' = det A
 	+ Determinante ändert sich nicht!
+
