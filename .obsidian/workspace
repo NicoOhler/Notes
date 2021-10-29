@@ -102,12 +102,12 @@
     "NRLA/Matrizen/Matrix.md",
     "NRLA/Matrizen/Determinante.md",
     "NRLA/Numerisches Rechnen.md",
+    "Allgemeine Mathematik/Logische Verknüpfungen.md",
     "Allgemeine Mathematik/Binomische Lehrsatz.md",
     "NRLA/Matrizen/LR-Zerlegung einer Regulären Matrix.md",
     "NRLA/NRLA.md",
     "Analysis/Binomialkoeffizient.md",
     "Analysis/Kombinatorik.md",
-    "NRLA/Matrizen/Gaußsche Eliminationsverfahren.md",
-    "Allgemeine Mathematik/Quantoren.md"
+    "NRLA/Matrizen/Gaußsche Eliminationsverfahren.md"
   ]
 }

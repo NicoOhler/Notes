@@ -40,4 +40,9 @@
 	+	==>
 +	Sonstiges
 	+	△
+	+	Matrix/Table
+	A | B | A∧B 
+	--- | --- | ---
+	True | True | True 
+	True | False | False 
 
