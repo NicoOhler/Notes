@@ -4,9 +4,11 @@
 	+ z.B. Adjazenzmatrix, Lineare Gleichungsysteme
 + Auf diese lassen sich bestimmte Rechenregeln anwenden.
 + Matrix A: ℝ<sup>mxn</sup>  
-	+ m = Zeilen = 3,  i = Zeilenindex
-	+ n = Spalten = 3,  j = Spaltenindex
+	+ m = Zeilenanzahl = 3,  i = Zeilenindex
+	+ n = Spaltenanzahl = 3,  j = Spaltenindex
 	+ a<sub>ij</sub> = Element der i-ten Zeile und j-ten Spalte
+	+ Hauptdiagonale: Diagonale von links oben nach rechts unten bzw. alle  a<sub>ij</sub> mit i=j
+		+ a<sub>11</sub>, a<sub>22</sub>, a<sub>33</sub>
 	<br>
 
 	1 | 0 | 0 
@@ -16,8 +18,24 @@
 
 ### Arten von Matrizen
 + quadratische Matrix ==> m=n
-+ Einheitsmatrix I<sub>n</sub> ==> Nichtnullelemente nur in der Hauptdiagonale (i=j)
++ symmetrische Matrix
+	+ symmetrisch entlang der Hauptdiagonale
+	+ jedes Element a<sub>ij</sub> = a<sub>ji</sub>
+	+ 
+	2 | 4 | 3 
+	--- | --- | ---
+	4 | 1 | 0 
+	3 | 0| 1 
++ Einheitsmatrix/Identitätsmatrix I<sub>n</sub> ==> Elemente in der Hauptdiagonale (i=j) sind 1, ansonsten 0
+	+ 
+	1 | 0 | 0 
+	--- | --- | ---
+	0 | 1 | 0 
+	0 | 0 | 1 
++ Diagonalmatrix ==> Nichtnullelemente in der Hauptdiagonale, ansonsten 0
+	+ z.B. Einheitsmatrix
 + obere/untere Dreiecksmatrix ==> Nichtnullelemente nur in und ober/unterhalb der Hauptdiagonale
+	+ z.B. Einheitsmatrix
 + Transponierte Matrix A<sup>T</sup> ==> gespiegelt an der Hauptdiagonale
 	+ 1 | 0 
 	--- | ---
@@ -49,6 +67,8 @@
 	+  Spaltenanzahl der linken = Zeilenanzahl der rechten
 	+ (AB)<sub>ij</sub>= Σ von k=0 bis i (a<sub>ik</sub>*b<sub>ki</sub>)
 + k-te Potenz von Matrix A
-	+ A<sup>k</sup> = Π von 
+	+ A<sup>k</sup> = Π von i=1 bis k (A)
+	+  A<sup>3</sup> = A\*A\*A
+
 
 [[NRLA]]
