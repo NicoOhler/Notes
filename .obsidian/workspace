@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NRLA/Matrizen/LR-Zerlegung einer Regulären Matrix.md",
+            "file": "NRLA/Matrizen/Elementare Matrixumformungen.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NRLA/Matrizen/LR-Zerlegung einer Regulären Matrix.md",
+                "file": "NRLA/Matrizen/Elementare Matrixumformungen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
   },
   "active": "71bf06fb767950c0",
   "lastOpenFiles": [
+    "NRLA/Matrizen/Elementare Matrixumformungen.md",
+    "NRLA/Matrizen/Matrix.md",
+    "NRLA/Matrizen/Gaußsche Eliminationsverfahren.md",
+    "NRLA/Matrizen/Determinante.md",
     "NRLA/Matrizen/LR-Zerlegung einer Regulären Matrix.md",
     "Analysis/Analysis.md",
     "Analysis/Kombinatorik.md",
-    "NRLA/Matrizen/Matrix.md",
     "Analysis/Binomialkoeffizient.md",
     "Analysis/Werkzeuge/Intervallschachtelung.md",
-    "Analysis/Binomische Lehrsatz.md",
-    "Analysis/Beschränktheit.md",
-    "Biologie/Humane Genome Project.md",
-    "Allgemeine Mathematik/Zeichensammlung.md"
+    "Analysis/Binomische Lehrsatz.md"
   ]
 }
