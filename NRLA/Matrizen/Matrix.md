@@ -28,9 +28,9 @@
 	0 | 3 | 3 
 	
 + Inverse Matrix A<sup>-1</sup> ==> AxA<sup>-1</sup> = I<sub>n</sub>
-	+ nicht jede Matrix ist invertierbar
-		+ muss quadratisch sein
-		+ selbst dann nicht immer
+	+ muss quadratisch sein
+	+ Achtung: nicht jede quadratische Matrix ist invertierbar
+	+ Matrizen sind regulär wenn invertierbar ansonsten singulär
 	+ 2 | 1 
 	--- | ---
 	6| 4
@@ -48,3 +48,5 @@
 +  Multiplikation von Matrix A (mxn) mit Matrix B (mxn)
 	+  Spaltenanzahl der linken = Zeilenanzahl der rechten
 	+ (AB)<sub>ij</sub>= Σ von k=0 bis i (a<sub>ik</sub>*b<sub>ki</sub>)
+
+[[NRLA]]

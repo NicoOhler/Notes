@@ -22,4 +22,4 @@
 		+  M=N: M⊆N und N⊆M
 	+  MxN: kartesische Produkt von M und N
 
-[[Analysis]] [[NRLA]] [[Quantoren]]
+[[Allgemeine Mathematik]][[Quantoren]]

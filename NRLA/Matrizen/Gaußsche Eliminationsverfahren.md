@@ -22,4 +22,4 @@ Lösungen des linearen Gleichungssystem: A * x = B
 	+  x<sub>P</sub> (eine) partikuläre/spezielle Lösung
 
 
-[[NRLA]]
+[[Matrix]]

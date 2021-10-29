@@ -7,11 +7,8 @@
         "id": "71bf06fb767950c0",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "NRLA/Matrizen/Matrix.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NRLA/Matrizen/Matrix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +95,15 @@
   },
   "active": "71bf06fb767950c0",
   "lastOpenFiles": [
-    "NRLA/Matrizen/Matrix.md",
-    "NRLA/Matrizen/Determinante.md",
-    "NRLA/Numerisches Rechnen.md",
-    "Allgemeine Mathematik/Logische Verknüpfungen.md",
-    "Allgemeine Mathematik/Binomische Lehrsatz.md",
-    "NRLA/Matrizen/LR-Zerlegung einer Regulären Matrix.md",
-    "NRLA/NRLA.md",
+    "Allgemeine Mathematik/Zeichensammlung.md",
+    "Analysis/Werkzeuge/Satz von Bolzano-Weierstraß.md",
+    "Analysis/Werkzeuge/Sandwich Theorem.md",
+    "Analysis/Werkzeuge/Konvergenzkriterium von Cauchy.md",
+    "Analysis/Werkzeuge/Intervallschachtelung.md",
+    "Analysis/Werkzeuge/Bernoulli Ungleichung.md",
+    "Analysis/Beschränktheit.md",
+    "Analysis/Analysis.md",
     "Analysis/Binomialkoeffizient.md",
-    "Analysis/Kombinatorik.md",
-    "NRLA/Matrizen/Gaußsche Eliminationsverfahren.md"
+    "Analysis/Kombinatorik.md"
   ]
 }

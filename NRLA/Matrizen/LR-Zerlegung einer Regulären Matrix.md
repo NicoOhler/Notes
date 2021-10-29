@@ -12,4 +12,4 @@
 	+ leicht zu lösen wegen △-Matrix
 ![[Pasted image 20211028131447.png]]
 
-[[NRLA]]
+[[Matrix]]

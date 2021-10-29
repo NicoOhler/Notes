@@ -81,5 +81,5 @@
 	1. A∧B ⇔ B∧A
 
 	
-[[Analysis]] [[NRLA]] #Computer_Science
+[[Allgemeine Mathematik]] #Computer_Science
 	

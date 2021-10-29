@@ -28,3 +28,5 @@
 	+ det A' = det A
 	+ Determinante ändert sich nicht!
 
+[[Matrix]]
+
