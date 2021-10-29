@@ -6,6 +6,7 @@
 + Matrix A: ℝ<sup>mxn</sup>  
 	+ m = Zeilen = 3,  i = Zeilenindex
 	+ n = Spalten = 3,  j = Spaltenindex
+	+ a<sub>ij</sub> = Element der i-ten Zeile und j-ten Spalte
 	<br>
 
 	1 | 0 | 0 
@@ -27,6 +28,9 @@
 	0 | 3 | 3 
 	
 + Inverse Matrix A<sup>-1</sup> ==> AxA<sup>-1</sup> = I<sub>n</sub>
+	+ nicht jede Matrix ist invertierbar
+		+ muss quadratisch sein
+		+ selbst dann nicht immer
 	+ 2 | 1 
 	--- | ---
 	6| 4
@@ -37,5 +41,10 @@
 ### Rechenoperationen auf Matrizen
 + Addition von Matrix zu Skalar
 	+ Skalar zu jedem Element der Matrix addieren
-+  Addition von Matrix zu Matrix
-	+ jedes M zu jedem Element der Matrix addieren
++  Addition von Matrix A (mxn) zu Matrix B (mxn)
+	+ a<sub>ij</sub> + b<sub>ij</sub> für alle Elemente
++ Multiplikation von Matrix mit Skalar
+	+ Skalar mit jedem Element der Matrix multiplizieren
++  Multiplikation von Matrix A (mxn) mit Matrix B (mxn)
+	+  Spaltenanzahl der linken = Zeilenanzahl der rechten
+	+ (AB)<sub>ij</sub>= Σ von k=0 bis i (a<sub>ik</sub>*b<sub>ki</sub>)
