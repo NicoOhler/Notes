@@ -48,5 +48,7 @@
 +  Multiplikation von Matrix A (mxn) mit Matrix B (mxn)
 	+  Spaltenanzahl der linken = Zeilenanzahl der rechten
 	+ (AB)<sub>ij</sub>= Σ von k=0 bis i (a<sub>ik</sub>*b<sub>ki</sub>)
++ k-te Potenz von Matrix A
+	+ A<sup>k</sup> = Π von 
 
 [[NRLA]]
