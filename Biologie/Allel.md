@@ -4,7 +4,7 @@
 + Allele können dominant/rezessiv sein
 	+ Chancen, welche Eigenschaft weitergegeben werden, können mit Punnett Square bestimmt werden
 	
-		![[Pasted image 20211024131005.png]]	
+		![[Punnett Square.png]]	
 	+ nicht nur DNA der Eltern, sondern auch jene der Großeltern und deren Vorfahren beinflussen Resultat
 	+ beide Großelternpaare gaben Bb weiter
 		+ b: 25%

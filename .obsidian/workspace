@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NRLA/Matrizen/Elementare Matrixumformungen.md",
+            "file": "NRLA/Matrizen/Determinante.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NRLA/Matrizen/Elementare Matrixumformungen.md",
+                "file": "NRLA/Matrizen/Determinante.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
   },
   "active": "71bf06fb767950c0",
   "lastOpenFiles": [
-    "NRLA/Matrizen/Elementare Matrixumformungen.md",
-    "NRLA/Matrizen/Matrix.md",
-    "NRLA/Matrizen/Gaußsche Eliminationsverfahren.md",
     "NRLA/Matrizen/Determinante.md",
     "NRLA/Matrizen/LR-Zerlegung einer Regulären Matrix.md",
-    "Analysis/Analysis.md",
-    "Analysis/Kombinatorik.md",
-    "Analysis/Binomialkoeffizient.md",
-    "Analysis/Werkzeuge/Intervallschachtelung.md",
-    "Analysis/Binomische Lehrsatz.md"
+    "Images/Kombinatorik-Formeln-1024x576.jpg",
+    "Images/Pasted image 20211025164615.png",
+    "Images/Gaußsche, Bestimmung unendlicher Lsg.png",
+    "Images/Pasted image 20211028131447.png",
+    "Images/Pasted image 20211028131411.png",
+    "Images/Pasted image 20211028125806.png",
+    "Images/Pasted image 20211025165140.png",
+    "Images/Pasted image 20211025165019.png"
   ]
 }
