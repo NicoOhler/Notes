@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Analysis/Werkzeuge/Konvergenzkriterium von Cauchy.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -100,14 +100,14 @@
   "active": "71bf06fb767950c0",
   "lastOpenFiles": [
     "Analysis/Werkzeuge/Konvergenzkriterium von Cauchy.md",
+    "Analysis/Werkzeuge/Sandwich Theorem.md",
+    "Analysis/Vollständige Induktion.md",
+    "Analysis/Werkzeuge/Satz von Bolzano-Weierstraß.md",
     "Analysis/Werkzeuge/Intervallschachtelung.md",
+    "Analysis/Werkzeuge/Bernoulli Ungleichung.md",
     "NRLA/Matrizen/Determinante.md",
     "NRLA/Matrizen/LR-Zerlegung einer Regulären Matrix.md",
     "Images/Kombinatorik-Formeln-1024x576.jpg",
-    "Images/Pasted image 20211025164615.png",
-    "Images/Gaußsche, Bestimmung unendlicher Lsg.png",
-    "Images/Pasted image 20211028131447.png",
-    "Images/Pasted image 20211028131411.png",
-    "Images/Pasted image 20211028125806.png"
+    "Images/Pasted image 20211025164615.png"
   ]
 }
