@@ -1,4 +1,14 @@
 # Konvergenzkriterium von Cauchy
++ Kriterium um Konvergenz und Divergenz zu zeigen
++ Partialsummen der Reihe werden verglichen
+
+### Anwendung
++ werden die Folgeglieder immer kleiner, wird zur Summe immer weniger dazugezählt
+	+ ==> Unterschied zwischen n-ter und m-ter Partialsumme wird immer kleiner
+		+ ![[Pasted image 20211102094333.png]]
++ 
+
+
 + ka, versteh ich nicht. gar nicht. aber schön bunt
 
 ![[Pasted image 20211025164615.png]]

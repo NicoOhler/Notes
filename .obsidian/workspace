@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NRLA/Matrizen/Determinante.md",
+            "file": "Analysis/Werkzeuge/Konvergenzkriterium von Cauchy.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NRLA/Matrizen/Determinante.md",
+                "file": "Analysis/Werkzeuge/Konvergenzkriterium von Cauchy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +99,8 @@
   },
   "active": "71bf06fb767950c0",
   "lastOpenFiles": [
+    "Analysis/Werkzeuge/Konvergenzkriterium von Cauchy.md",
+    "Analysis/Werkzeuge/Intervallschachtelung.md",
     "NRLA/Matrizen/Determinante.md",
     "NRLA/Matrizen/LR-Zerlegung einer Regulären Matrix.md",
     "Images/Kombinatorik-Formeln-1024x576.jpg",
@@ -106,8 +108,6 @@
     "Images/Gaußsche, Bestimmung unendlicher Lsg.png",
     "Images/Pasted image 20211028131447.png",
     "Images/Pasted image 20211028131411.png",
-    "Images/Pasted image 20211028125806.png",
-    "Images/Pasted image 20211025165140.png",
-    "Images/Pasted image 20211025165019.png"
+    "Images/Pasted image 20211028125806.png"
   ]
 }
