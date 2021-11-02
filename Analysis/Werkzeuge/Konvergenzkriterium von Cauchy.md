@@ -7,6 +7,7 @@
 ![[Pasted image 20211102094333.png]]
 +  Eine Reihe S konvergiert, wenn es für jeden Maximalabstand ε einen Mindestindex N gibt, wo für alle Indizes n,m≥N gilt, dass der Abstand zwischen n-ter und m-ter Partialsumme immer kleiner als ε ist.
 
+#Todo Summe??
 ![[Pasted image 20211102100255.png]]
 
 
