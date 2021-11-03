@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Reihen und Folgen.md",
+            "file": "Majoranten und Minorantenkriterium (Reihen).md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reihen und Folgen.md",
+                "file": "Majoranten und Minorantenkriterium (Reihen).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +99,7 @@
   },
   "active": "71bf06fb767950c0",
   "lastOpenFiles": [
+    "Majoranten und Minorantenkriterium (Reihen).md",
     "Reihen und Folgen.md",
     "Analysis/Werkzeuge/Konvergenzkriterium von Cauchy.md",
     "Analysis/Werkzeuge/Sandwich Theorem.md",
@@ -107,7 +108,6 @@
     "Analysis/Werkzeuge/Intervallschachtelung.md",
     "Analysis/Werkzeuge/Bernoulli Ungleichung.md",
     "NRLA/Matrizen/Determinante.md",
-    "NRLA/Matrizen/LR-Zerlegung einer Regulären Matrix.md",
-    "Images/Kombinatorik-Formeln-1024x576.jpg"
+    "NRLA/Matrizen/LR-Zerlegung einer Regulären Matrix.md"
   ]
 }
