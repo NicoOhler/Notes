@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Werkzeuge/Konvergenzkriterium von Cauchy.md",
+            "file": "Reihen und Folgen.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Werkzeuge/Konvergenzkriterium von Cauchy.md",
+                "file": "Reihen und Folgen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +99,7 @@
   },
   "active": "71bf06fb767950c0",
   "lastOpenFiles": [
+    "Reihen und Folgen.md",
     "Analysis/Werkzeuge/Konvergenzkriterium von Cauchy.md",
     "Analysis/Werkzeuge/Sandwich Theorem.md",
     "Analysis/Vollständige Induktion.md",
@@ -107,7 +108,6 @@
     "Analysis/Werkzeuge/Bernoulli Ungleichung.md",
     "NRLA/Matrizen/Determinante.md",
     "NRLA/Matrizen/LR-Zerlegung einer Regulären Matrix.md",
-    "Images/Kombinatorik-Formeln-1024x576.jpg",
-    "Images/Pasted image 20211025164615.png"
+    "Images/Kombinatorik-Formeln-1024x576.jpg"
   ]
 }
