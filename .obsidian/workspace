@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Majoranten und Minorantenkriterium (Reihen).md",
+            "file": "Konvergenzkriterien für Reihen.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Majoranten und Minorantenkriterium (Reihen).md",
+                "file": "Konvergenzkriterien für Reihen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +99,7 @@
   },
   "active": "71bf06fb767950c0",
   "lastOpenFiles": [
-    "Majoranten und Minorantenkriterium (Reihen).md",
+    "Konvergenzkriterien für Reihen.md",
     "Reihen und Folgen.md",
     "Analysis/Werkzeuge/Konvergenzkriterium von Cauchy.md",
     "Analysis/Werkzeuge/Sandwich Theorem.md",

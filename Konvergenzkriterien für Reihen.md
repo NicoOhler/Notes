@@ -5,3 +5,8 @@
 		+ b ist die konvergente Majorante von a
 	+ Minorantenkriterium: ist a divergent, muss auch b divergieren
 		+ a ist die divergente Minorante von b
+
+### Quotientenkriterium
+
+
+
