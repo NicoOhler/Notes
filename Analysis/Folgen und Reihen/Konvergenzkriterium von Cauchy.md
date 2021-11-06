@@ -12,5 +12,5 @@
 ![[Pasted image 20211025165019.png]]
 ![[Pasted image 20211025165140.png]]
 
-[[Analysis]] [[Satz von Bolzano-Weierstraß]]
+[[Analysis]] [[Reihen und Folgen]]
 

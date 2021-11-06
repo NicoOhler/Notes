@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Konvergenzkriterien für Reihen.md",
+            "file": "Analysis/Folgen und Reihen/Reihen und Folgen.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Konvergenzkriterien für Reihen.md",
+                "file": "Analysis/Folgen und Reihen/Reihen und Folgen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
   },
   "active": "71bf06fb767950c0",
   "lastOpenFiles": [
-    "Konvergenzkriterien für Reihen.md",
-    "Reihen und Folgen.md",
-    "Analysis/Werkzeuge/Konvergenzkriterium von Cauchy.md",
-    "Analysis/Werkzeuge/Sandwich Theorem.md",
-    "Analysis/Vollständige Induktion.md",
-    "Analysis/Werkzeuge/Satz von Bolzano-Weierstraß.md",
-    "Analysis/Werkzeuge/Intervallschachtelung.md",
+    "Analysis/Folgen und Reihen/Reihen und Folgen.md",
+    "Analysis/Folgen und Reihen/Beschränktheit.md",
+    "Analysis/Folgen und Reihen/Intervallschachtelung.md",
+    "Analysis/Folgen und Reihen/Konvergenzkriterien für Reihen.md",
+    "Analysis/Folgen und Reihen/Konvergenzkriterium von Cauchy.md",
+    "Analysis/Folgen und Reihen/Sandwich Theorem.md",
+    "Analysis/Folgen und Reihen/Satz von Bolzano-Weierstraß.md",
+    "Analysis/Folgen und Reihen/Monotonie.md",
     "Analysis/Werkzeuge/Bernoulli Ungleichung.md",
-    "NRLA/Matrizen/Determinante.md",
-    "NRLA/Matrizen/LR-Zerlegung einer Regulären Matrix.md"
+    "Analysis/Analysis.md"
   ]
 }

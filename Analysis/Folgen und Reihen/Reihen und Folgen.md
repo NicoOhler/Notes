@@ -14,3 +14,5 @@
 	+ s<sub>n</sub>= Σ von n=1 bis n (a<sub>n</sub>)
 		+ n-te Partialsumme
 	+ Grenzwert von s<sub>n</sub> = tatsächlicher Wert der Reihe
+
+[[Analysis]]
