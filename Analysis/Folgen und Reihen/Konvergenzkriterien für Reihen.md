@@ -13,7 +13,7 @@
 + Sei  Σ a<sub>n</sub> eine Reihe mit positiven Gliedern gilt: 
 	+ lim sup a<sub>n+1</sub>/a<sub>n</sub> < 1  ==> konvergent
 	+ lim inf a<sub>n+1</sub>/a<sub>n</sub> > 1 ==> divergent
-	+ wenn $q = \lim$ a<sub>n+1</sub>/a<sub>n</sub> existiert, dann
+	+ wenn q = lim a<sub>n+1</sub>/a<sub>n</sub> existiert, dann
 		+ $q < 1$ ==> konvergent
 		+ $q > 1$ ==> divergent
 		+ $q = 1$ ==> keine Aussage
@@ -22,7 +22,9 @@
 + $\sqrt[n]{q^n} = q$ 
 + Sei  Σ a<sub>n</sub> eine Reihe mit positiven Gliedern gilt: 
 	+  $\lim sup \sqrt[n]{a_n} = q$
-		+ $q > 1$ ==>  $\sqrt[n]{a_n} ≥ 1$ ==> ${a_n ≥ 1}$
+		+ $q > 1$ ==>  $\sqrt[n]{a_n} ≥ 1$ ==> ${a_n ≥ 1}$ für ∞ Glieder ==> divergent
+		+ $q < 1$ ∃N ∀n ≥ N ==> $\sqrt[n]{a_n} ≥ 1$
+		+  ==>  $\sqrt[n]{a_n} ≤ \frac{1+q}{2} < 1$ ==> ${a_n ≥ 1}$ für ∞ Glieder ==> konvergent
 
 [[Reihen und Folgen]]
 
