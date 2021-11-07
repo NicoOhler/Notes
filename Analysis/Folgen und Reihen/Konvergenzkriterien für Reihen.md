@@ -24,7 +24,7 @@
 	+  $\lim sup \sqrt[n]{a_n} = q$
 		+ $q > 1$ ==>  $\sqrt[n]{a_n} ≥ 1$ ==> ${a_n ≥ 1}$ für ∞ Glieder ==> divergent
 		+ $q < 1$ ∃N ∀n ≥ N ==> $\sqrt[n]{a_n} ≥ 1$
-		+  ==>  $\sqrt[n]{a_n} ≤ \frac{1+q}{2} < 1$ ==> ${a_n ≥ 1}$ für ∞ Glieder ==> konvergent
+		+  ==>  $\sqrt[n]{a_n} ≤ \frac{1+q}{2} < 1$ ==> ${a_n ≤ (\frac{1+q}{2})^n}$ ==> konvergent
 
 [[Reihen und Folgen]]
 
