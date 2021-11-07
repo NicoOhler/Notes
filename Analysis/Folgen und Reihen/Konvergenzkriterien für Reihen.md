@@ -9,7 +9,10 @@
 	+ Ist Reihe Σ b<sub>n</sub> konvergent, b<sub>n</sub>≥0 und lim a<sub>n</sub>/b<sub>n</sub>≥0 ==> Reihe Σ a<sub>n</sub> konvergent
 	+  Ist Reihe Σ b<sub>n</sub> divergent, b<sub>n</sub>≥0 und lim a<sub>n</sub>/b<sub>n</sub><0 ==> Reihe Σ a<sub>n</sub> divergent
 
-### Quotientenkriterium
+### Quotientenkriterium/test
++ lim sup a<sub>n+1</sub>/a<sub>n</sub>
++ 
++ Sei  Σ b<sub>n eine Reihe mit positiven Gliedern gilt: 
 
 [[Reihen und Folgen]]
 
