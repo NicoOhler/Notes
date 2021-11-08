@@ -14,5 +14,9 @@
 	+ s<sub>n</sub>= Σ von n=1 bis n (a<sub>n</sub>)
 		+ n-te Partialsumme
 	+ Grenzwert von s<sub>n</sub> = tatsächlicher Wert der Reihe
++ Reihe s ist absolut konvergent, wenn Summe über Absolutbeträge konvergiert
+	+ Summe über Absolutbeträge ==> Reihe mit positiven Gliedern ==> Anwendung von Kriterien für Reihen mit positiven Gliedern möglich
+	+ Ist Reihe absolut konvergent ==> Reihe konvergent
+		+ Ist Reihe konvergent ist sie nicht unbedingt absolut konvergent
 
 [[Analysis]]
