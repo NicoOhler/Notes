@@ -6,4 +6,4 @@
 + Mathematische Darstellung: 
 	+ Solche Folgen werden mit einfachem (oder doppeltem bei streng) Pfeil nach oben/unten (wachsend/falled) dargestellt.
 
-[[Analysis]][[Reihen und Folgen]]
+[[Reihen und Folgen]]

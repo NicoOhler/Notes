@@ -28,4 +28,4 @@ m<sub>n+1</sub> = (a<sub>n</sub> + b<sub>n</sub>)/2
 
 
 
-[[Analysis]][[Monotonie]][[Reihen und Folgen]]
+[[Monotonie]][[Reihen und Folgen]]

@@ -3,4 +3,4 @@
 
 #Todo komplexer Zahlen
 
-[[Analysis]][[Beschränktheit]][[Reihen und Folgen]]
+[[Beschränktheit]][[Reihen und Folgen]]
