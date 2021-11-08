@@ -59,9 +59,20 @@
     "type": "split",
     "children": [
       {
-        "id": "b9867b4bfd2d4abe",
+        "id": "7e6994f72503dd96",
         "type": "tabs",
         "children": [
+          {
+            "id": "ac846adfc91eafc0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Allgemeine Mathematik/Zeichensammlung.md",
+                "mode": "source"
+              }
+            }
+          },
           {
             "id": "c5aae94aad54a600",
             "type": "leaf",
@@ -78,20 +89,8 @@
                 "unlinkedCollapsed": true
               }
             }
-          },
-          {
-            "id": "ac846adfc91eafc0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Allgemeine Mathematik/Zeichensammlung.md",
-                "mode": "source"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
