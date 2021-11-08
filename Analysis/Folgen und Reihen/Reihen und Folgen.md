@@ -1,10 +1,11 @@
 # Reihen und Folgen
 ### Folge
 + Auflistung von (un)endlichen fortlaufend nummerierten Objekten (z.B. Zahlen)
-+ Konvergent, wenn Cauchy-Folge oder monoton und beschränkt
++ Konvergenz nachweisbar mit [[Cauchy-Kriterium]] oder [[Monotonie]] und [[Beschränktheit]]
 
 ### Reihe
 + Reihe = Summe aller Folgeglieder
++ Konvergenz nachweisbar mit [[Konvergenzkriterien für Reihen]]
 + Sei a<sub>n</sub> eine Folge reeller Zahlen:
 	+ Dann ist Σ von n=1 bis ∞ (a<sub>n</sub>) eine Reihe
 + können scheinbar verschiedene Werte annehmen

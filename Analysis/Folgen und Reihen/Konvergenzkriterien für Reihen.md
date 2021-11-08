@@ -30,6 +30,9 @@
 ### Leibnizkriterium
 + Sei a<sub>n</sub> eine monoton fallende Nullfolge ==> konvergiert $\sum_{n=1}^{∞} (-1)^n a_n$
 
+### Cauchy-Kriterium für Reihen
++ [[Cauchy-Kriterium]]
+
 [[Reihen und Folgen]]
 
 
