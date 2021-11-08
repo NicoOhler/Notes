@@ -100,6 +100,7 @@
   "active": "71bf06fb767950c0",
   "lastOpenFiles": [
     "Analysis/Folgen und Reihen/Cauchy-Kriterium.md",
+    "Analysis/Folgen und Reihen/Reihen und Folgen.md",
     "Analysis/Werkzeuge/Bernoulli Ungleichung.md",
     "Analysis/Folgen und Reihen/Beschränktheit.md",
     "Analysis/Folgen und Reihen/Monotonie.md",
@@ -107,7 +108,6 @@
     "Analysis/Folgen und Reihen/Intervallschachtelung.md",
     "Analysis/Folgen und Reihen/Sandwich Theorem.md",
     "Analysis/Folgen und Reihen/Konvergenzkriterien für Reihen.md",
-    "NRLA/Matrizen/Determinante.md",
-    "Analysis/Folgen und Reihen/Reihen und Folgen.md"
+    "NRLA/Matrizen/Determinante.md"
   ]
 }
