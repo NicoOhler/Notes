@@ -31,6 +31,8 @@
 	+ $x = +-\sqrt[2]{\frac{a + \sqrt[2]{s^2 + b^2}}{2}}$
 	+ $y = +-\sqrt[2]{\frac{-a + \sqrt[2]{s^2 + b^2}}{2}}$
 	+ Vorzeichen sind so zu wählen, dass 2xy = b gilt ==> 2 Lösungen
+		+ +x, -y
+		+ -x, +y
 
 
 ### Komplexe Zahlen im Graph
