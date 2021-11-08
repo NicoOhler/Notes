@@ -27,6 +27,9 @@
 		+ wenn Grenzwert existiert ==> Grenzwert = lim sup
 	+ $q = 1$ ==>  keine Aussage
 
+### Leibnizkriterium
++ Sei a<sub>n</sub> eine monoton fallende Nullfolge ==> konvergiert $\sum_{n=1}^{∞} (-1)^n a_n$
+
 [[Reihen und Folgen]]
 
 
