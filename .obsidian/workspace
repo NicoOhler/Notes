@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Folgen und Reihen/Konvergenzkriterium von Cauchy.md",
+            "file": "Analysis/Folgen und Reihen/Cauchy-Kriterium.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Folgen und Reihen/Konvergenzkriterium von Cauchy.md",
+                "file": "Analysis/Folgen und Reihen/Cauchy-Kriterium.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +99,7 @@
   },
   "active": "71bf06fb767950c0",
   "lastOpenFiles": [
-    "Analysis/Folgen und Reihen/Konvergenzkriterium von Cauchy.md",
+    "Analysis/Folgen und Reihen/Cauchy-Kriterium.md",
     "Analysis/Werkzeuge/Bernoulli Ungleichung.md",
     "Analysis/Folgen und Reihen/Beschränktheit.md",
     "Analysis/Folgen und Reihen/Monotonie.md",
