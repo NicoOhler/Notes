@@ -18,13 +18,14 @@
 		+ $q > 1$ ==> divergent
 		+ $q = 1$ ==> keine Aussage
 
-### Wurzelkriterium
-+ $\sqrt[n]{q^n} = q$ 
-+ Sei  Σ a<sub>n</sub> eine Reihe mit positiven Gliedern gilt: 
-	+  $\lim sup \sqrt[n]{a_n} = q$
-		+ $q > 1$ ==>  $\sqrt[n]{a_n} ≥ 1$ ==> ${a_n ≥ 1}$ für ∞ Glieder ==> divergent
-		+ $q < 1$ ∃N ∀n ≥ N ==> $\sqrt[n]{a_n} ≥ 1$
-		+  ==>  $\sqrt[n]{a_n} ≤ \frac{1+q}{2} < 1$ ==> ${a_n ≤ (\frac{1+q}{2})^n}$ ==> konvergent
+### Wurzelkriterium/test
++ Sei  Σ a<sub>n</sub> eine Reihe mit positiven Gliedern gilt für $\lim sup \sqrt[n]{a_n} = q$
+	+ $q > 1$ ==>  divergent
+		+ weil $\sqrt[n]{a_n} ≥ 1$ ==> ${a_n ≥ 1}$ für ∞ Glieder
+	+ $q < 1$ ==> konvergent
+		+ weil ∃N ∀n ≥ N ==> $\sqrt[n]{a_n} ≥ 1$ ==>  $\sqrt[n]{a_n} ≤ \frac{1+q}{2} < 1$ ==> ${a_n ≤ (\frac{1+q}{2})^n}$
+		+ wenn Grenzwert existiert ==> Grenzwert = lim sup
+	+ $q = 1$ ==>  keine Aussage
 
 [[Reihen und Folgen]]
 
