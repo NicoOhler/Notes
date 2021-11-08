@@ -23,3 +23,23 @@
 + (Z + W) = (Z) + (W)
 + (Z \* W) = (Z) \* (W)
 + |z \* w| = |z| \* |w|
+
+### Wurzel
+
+
+
+### Komplexe Zahlen im Graph
++ X/Y-Diagramm
+	+ x = Re(z)
+	+ y = Im(z)
++ Rechenoperationen:
+	+ Addition ==> Zahlen zusammenhängen
+![[Pasted image 20211108172201.png]]		
+	+ Konjugieren ==> Spiegeln an Achse des Realteils
+		![[Pasted image 20211108172217.png]]
+	+ Multiplikation ==> Längen multipliziert und Winkel addiert
+	![[Pasted image 20211108172247.png]]
+
+
+
+

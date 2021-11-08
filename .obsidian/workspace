@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Analysis/Komplexe Zahlen/Komplexe Zahlen.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -99,14 +99,14 @@
   "active": "71bf06fb767950c0",
   "lastOpenFiles": [
     "Analysis/Komplexe Zahlen/Komplexe Zahlen.md",
+    "Pasted image 20211108172247.png",
+    "Pasted image 20211108172201.png",
+    "Images/Pasted image 20211108172217.png",
     "Analysis/Folgen und Reihen/Satz von Bolzano-Weierstraß.md",
     "Analysis/Folgen und Reihen/Reihen und Folgen.md",
     "Analysis/Folgen und Reihen/Konvergenzkriterien für Reihen.md",
     "Analysis/Folgen und Reihen/Cauchy-Kriterium.md",
     "Analysis/Folgen und Reihen/Beschränktheit.md",
-    "Analysis/Folgen und Reihen/Intervallschachtelung.md",
-    "Analysis/Folgen und Reihen/Monotonie.md",
-    "Analysis/Bernoulli Ungleichung.md",
-    "Analysis/Folgen und Reihen/Sandwich Theorem.md"
+    "Analysis/Folgen und Reihen/Intervallschachtelung.md"
   ]
 }
