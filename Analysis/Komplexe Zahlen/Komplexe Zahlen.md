@@ -17,5 +17,9 @@
 	+ $i < 0$ ==> $i^2 = -1 > 0$
 
 ### Konjugation
-+  konjugiert komplexe Zahl x - iy =  _x+iy_ (eigentlich mit Strich darüber)
-+ z \* _z_ = x<sup>2</sup> + y<sup>2</sup> ≥ 0 
++ konjugiert komplexe Zahl x - iy =  \_x+iy\_ (eigentlich mit Strich darüber)
++ z \* Z = x<sup>2</sup> + y<sup>2</sup> ≥ 0 
++ |z| =  $\sqrt[2]{z*Z}$ ∈ ℝ
++ (Z + W) = (Z) + (W)
++ (Z \* W) = (Z) \* (W)
++ |z \* w| = |z| \* |w|
