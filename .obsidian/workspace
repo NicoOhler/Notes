@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Folgen und Reihen/Reihen und Folgen.md",
+            "file": "Analysis/Komplexe Zahlen/Komplexe Zahlen.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Folgen und Reihen/Reihen und Folgen.md",
+                "file": "Analysis/Komplexe Zahlen/Komplexe Zahlen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +99,8 @@
   },
   "active": "71bf06fb767950c0",
   "lastOpenFiles": [
+    "Analysis/Komplexe Zahlen/Komplexe Zahlen.md",
+    "Analysis/Folgen und Reihen/Satz von Bolzano-Weierstraß.md",
     "Analysis/Folgen und Reihen/Reihen und Folgen.md",
     "Analysis/Folgen und Reihen/Konvergenzkriterien für Reihen.md",
     "Analysis/Folgen und Reihen/Cauchy-Kriterium.md",
@@ -106,8 +108,6 @@
     "Analysis/Folgen und Reihen/Intervallschachtelung.md",
     "Analysis/Folgen und Reihen/Monotonie.md",
     "Analysis/Bernoulli Ungleichung.md",
-    "Analysis/Folgen und Reihen/Satz von Bolzano-Weierstraß.md",
-    "Analysis/Folgen und Reihen/Sandwich Theorem.md",
-    "NRLA/Matrizen/Determinante.md"
+    "Analysis/Folgen und Reihen/Sandwich Theorem.md"
   ]
 }

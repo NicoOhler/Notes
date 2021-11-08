@@ -1,6 +1,5 @@
 # Satz von Bolzano-Weierstraß
--   Jede beschränkte Folge komplexer Zahlen (mit unendlich vielen Gliedern) hat (mindestens) einen Häufungspunkt.
+-   Jede beschränkte Folge reeller Zahlen (mit unendlich vielen Gliedern) hat (mindestens) einen Häufungspunkt.
 
-#Todo komplexer Zahlen
 
 [[Beschränktheit]][[Reihen und Folgen]]
