@@ -1,6 +1,7 @@
 # Reihen und Folgen
 ### Folge
 + Auflistung von (un)endlichen fortlaufend nummerierten Objekten (z.B. Zahlen)
++ Konvergent, wenn Cauchy-Folge oder monoton und beschränkt
 
 ### Reihe
 + Reihe = Summe aller Folgeglieder
