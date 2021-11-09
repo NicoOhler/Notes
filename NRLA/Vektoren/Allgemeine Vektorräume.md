@@ -1,6 +1,7 @@
 # Allgemeine Vektorräume
 + Insofern gewisse Rechengesetze gelten ist (V,+,\*) ein K-Vektorraum
 	+ (V,+,\*) = eine Menge V zusammen mit Addition und Multiplikation
+	+ V ≠ {} 
 + (ℝ<sup>n</sup>, + ,\*) ist ein ℝ-VR
 + M(m×n; K) = K<sup>m×n</sup> ist ein K-VR
 
