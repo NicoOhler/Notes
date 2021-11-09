@@ -14,3 +14,11 @@
 	+ können somit parallel verschoben sein
 + Gegenvektor von $\overrightarrow{a}$ ist -$\overrightarrow{a}$
 	+ komplett ident, jedoch mit umgekehrter Richtung
++ Nullvektor  $\overrightarrow{0}$ ==> Betrag 0
+
+### Grundrechnungsarten
++ Addition
+	+ Vektor a an b durch passende Verschiebung anhängen
+	+ Anfang von b = Ende von a
+	+ Anfang von a bis Ende von b = Summenvektor $\overrightarrow{a + b}$
+	+ $\overrightarrow{a + b} = \overrightarrow{a} + \overrightarrow{b}$ = Komponenten aufsummieren
