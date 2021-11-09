@@ -3,7 +3,7 @@
 + Mehrere Matrizen können Zusammenhänge darstellen oder auch Rechenvorgänge erleichtern.
 	+ z.B. Adjazenzmatrix, Lineare Gleichungsysteme
 + Auf diese lassen sich bestimmte Rechenregeln anwenden.
-+ Matrix A: ℝ<sup>mxn</sup>  
++ Matrix A: ℝ<sup>m×n</sup>  
 	+ m = Zeilenanzahl = 3,  i = Zeilenindex
 	+ n = Spaltenanzahl = 3,  j = Spaltenindex
 	+ a<sub>ij</sub> = Element der i-ten Zeile und j-ten Spalte

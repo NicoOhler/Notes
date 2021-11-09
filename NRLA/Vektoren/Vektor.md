@@ -30,6 +30,8 @@
 + Multiplikation mit Skalar
 	+  $\overrightarrow{a} * λ =$ Vektor mit gleicher Richtung, jedoch mit λ-fachen Betrag
 	+  jede Komponente wird mit λ multipliziert
+  
+
 +  Skalarprodukt <a, b>
 	+  Produkt der Beträge multipliziert mit Cosinus des Winkels α dazwischen $|\overrightarrow{a}| * |\overrightarrow{b}| * cos(α)$
 	+  Vektoren senkrecht zueinander ==> cos(90°) = 0 ==> Skalarprodukt = 0
@@ -48,3 +50,6 @@
 		+ 0×a = a×0 = 0
 		+ a×b = 0 ==> kolinear ==> α = 0
 +  Spatprodukt
+	+  drei Vektoren a, b, c spannen Parallelepiped (ähnlich wie Quader jedoch ohne rechte Winkel) auf
+	+  Spatprodukt (a, b, c) = Skalarprodukt von Kreuzprodukt a×b und c = +/-Volumen
+		+ V = |<a×b, c>|

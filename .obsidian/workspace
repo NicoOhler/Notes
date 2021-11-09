@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NRLA/Matrizen/Matrix.md",
-            "mode": "preview"
+            "file": "NRLA/Vektoren/Vektor.md",
+            "mode": "source"
           }
         }
       }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NRLA/Matrizen/Matrix.md",
+                "file": "NRLA/Vektoren/Vektor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +98,15 @@
   },
   "active": "71bf06fb767950c0",
   "lastOpenFiles": [
-    "NRLA/Matrizen/Matrix.md",
     "NRLA/Vektoren/Vektor.md",
+    "NRLA/Matrizen/Determinante.md",
+    "NRLA/Matrizen/Elementare Zeilenumformungen.md",
+    "NRLA/Matrizen/Gaußsche Eliminationsverfahren.md",
     "NRLA/Matrizen/LR-Zerlegung einer Regulären Matrix.md",
+    "NRLA/Matrizen/Matrix.md",
     "Analysis/Komplexe Zahlen/Komplexe Zahlen.md",
     "Pasted image 20211108172247.png",
     "Pasted image 20211108172201.png",
-    "Images/Pasted image 20211108172217.png",
-    "Analysis/Folgen und Reihen/Satz von Bolzano-Weierstraß.md",
-    "Analysis/Folgen und Reihen/Reihen und Folgen.md",
-    "Analysis/Folgen und Reihen/Konvergenzkriterien für Reihen.md"
+    "Images/Pasted image 20211108172217.png"
   ]
 }
