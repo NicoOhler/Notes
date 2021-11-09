@@ -33,8 +33,18 @@
 +  Skalarprodukt <a, b>
 	+  Produkt der Beträge multipliziert mit Cosinus des Winkels α dazwischen $|\overrightarrow{a}| * |\overrightarrow{b}| * cos(α)$
 	+  Vektoren senkrecht zueinander ==> cos(90°) = 0 ==> Skalarprodukt = 0
-+  Kreuzprodukt
++  Kreuzprodukt/Vektorprodukt
 	+  nur in $ℝ^3$
-	+  Kreuzprodukt zweier Vektoren a und b liefert Vektor axb
-		+  Länge von c = |axb| = Fläche des von a und b aufgespannten Parallelogramm
-+  Vektorprodukt
+	+  Kreuzprodukt zweier Vektoren a und b = a×b
+		+  liefert dritten Vektor c
+		+  c steht senkrecht zu a und b
+		+  Länge von c = |a×b| = Fläche des von a und b aufgespannten Parallelogramm
+		+  ![[Pasted image 20211109131952.png]]
+	+  Rechte-Hand-Regel
+	+ $|a×b| = |\overrightarrow{a}| * |\overrightarrow{b}| * sin(α)$
+	+ Rechenregeln
+		+ a×b = -b×a
+		+ a×(b×c) = a×b + a×c
+		+ 0×a = a×0 = 0
+		+ a×b = 0 ==> kolinear ==> α = 0
++  Spatprodukt

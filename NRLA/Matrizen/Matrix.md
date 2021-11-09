@@ -59,11 +59,11 @@
 ### Rechenoperationen auf Matrizen
 + Addition von Matrix zu Skalar
 	+ Skalar zu jedem Element der Matrix addieren
-+  Addition von Matrix A (mxn) zu Matrix B (mxn)
++  Addition von Matrix A (m×n) zu Matrix B (m×n)
 	+ a<sub>ij</sub> + b<sub>ij</sub> für alle Elemente
 + Multiplikation von Matrix mit Skalar
 	+ Skalar mit jedem Element der Matrix multiplizieren
-+  Multiplikation von Matrix A (mxn) mit Matrix B (mxn)
++  Multiplikation von Matrix A (m×n) mit Matrix B (m×n)
 	+  Spaltenanzahl der linken = Zeilenanzahl der rechten
 	+ (AB)<sub>ij</sub>= Σ von k=0 bis i (a<sub>ik</sub>*b<sub>ki</sub>)
 + k-te Potenz von Matrix A

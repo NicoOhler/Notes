@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NRLA/Vektoren/Vektor.md",
-            "mode": "source"
+            "file": "NRLA/Matrizen/Matrix.md",
+            "mode": "preview"
           }
         }
       }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NRLA/Vektoren/Vektor.md",
+                "file": "NRLA/Matrizen/Matrix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +98,7 @@
   },
   "active": "71bf06fb767950c0",
   "lastOpenFiles": [
+    "NRLA/Matrizen/Matrix.md",
     "NRLA/Vektoren/Vektor.md",
     "NRLA/Matrizen/LR-Zerlegung einer Regulären Matrix.md",
     "Analysis/Komplexe Zahlen/Komplexe Zahlen.md",
@@ -106,7 +107,6 @@
     "Images/Pasted image 20211108172217.png",
     "Analysis/Folgen und Reihen/Satz von Bolzano-Weierstraß.md",
     "Analysis/Folgen und Reihen/Reihen und Folgen.md",
-    "Analysis/Folgen und Reihen/Konvergenzkriterien für Reihen.md",
-    "Analysis/Folgen und Reihen/Cauchy-Kriterium.md"
+    "Analysis/Folgen und Reihen/Konvergenzkriterien für Reihen.md"
   ]
 }
