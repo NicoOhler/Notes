@@ -6,6 +6,7 @@ https://learninglab.gitlabpages.inria.fr/mooc-rr/mooc-rr-ressources/module1/ress
 + λ
 + ε
 + $\binom{n}{k}$
++ $\overrightarrow{a}$
 + $\sqrt[n]{k}$
 + $\frac{1}{x+iy}$
 + Gaußklammern (Auf/Abrunden)
