@@ -4,7 +4,7 @@ https://learninglab.gitlabpages.inria.fr/mooc-rr/mooc-rr-ressources/module1/ress
 + ×
 + Σ
 + Π
-+ λ
++ λ μ
 + ε
 + $\binom{n}{k}$
 + $\overrightarrow{a}$
