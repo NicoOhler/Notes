@@ -7,8 +7,9 @@
 		+ a + b∈U
 		+ λu∈U
 + Ist U ein Unter-K-VR von (V,+,\*) ==> (U,+,\*) ist ein K-VR
++ Geraden in $ℝ^n$ durch den Ursprung sing lineare Teilräume von $ℝ^n$
 
-
+### Kriterien
 1. Teilraumkriterium
 	+ (U,+,\*) ⊆ V und abg. bzgl. +,\* ==> (U,+,\*) ist K-VR
 2. Abgeschlossenheit
