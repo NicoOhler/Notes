@@ -19,6 +19,17 @@
 ### Grundrechnungsarten
 + Addition
 	+ Vektor a an b durch passende Verschiebung anhängen
-	+ Anfang von b = Ende von a
-	+ Anfang von a bis Ende von b = Summenvektor $\overrightarrow{a + b}$
-	+ $\overrightarrow{a + b} = \overrightarrow{a} + \overrightarrow{b}$ = Komponenten aufsummieren
+		+ Anfang von b = Ende von a
+		+ Anfang von a bis Ende von b =  $\overrightarrow{a + b}$
+	+ Summenvektor erhält man durch Aufsummieren der Komponenten
+		+ $\overrightarrow{a + b} = \overrightarrow{a} + \overrightarrow{b} = (a_x + b_x, a_y + b_y, a_z + b_z)$ 
++ Subtraktion
+	+ gleich der Addition, jedoch wird der Gegenvektor addiert
+	+ Differenzvektor  erhält man durch Subtrahieren der Komponenten
+		+ $\overrightarrow{a - b} = \overrightarrow{a} + (- \overrightarrow{b}) = (a_x - b_x, a_y - b_y, a_z - b_z)$
++ Multiplikation mit Skalar
+	+  $\overrightarrow{a} * λ =$ Vektor mit gleicher Richtung, jedoch mit λ-fachen Betrag
+	+  jede Komponente wird mit λ multipliziert
++  Skalarprodukt
+	+  Produkt der Beträge $|\overrightarrow{a}| * |\overrightarrow{b}|$
++  Vektorprodukt
