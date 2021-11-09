@@ -1,5 +1,7 @@
 # Allgemeine Vektorräume
-
++ Insofern gewisse Rechengesetze gelten ist (V,+,\*) ein K-Vektorraum
+	+ (V,+,\*) = eine Menge V zusammen mit Addition und Multiplikation
++ (ℝ<sup>n</sup>, + ,\*) ist ein ℝ-VR
 
 ### Rechengesetze
 + axiomatisch vorgegeben
@@ -21,4 +23,4 @@
 		+ 1∈K: $1 * \overrightarrow{a} = \overrightarrow{a}$ 
 + Distributivgesetze
 	+ $λ(\overrightarrow{a} + \overrightarrow{b}) = λ\overrightarrow{a} + λ\overrightarrow{b}$
-	+ $\overrightarrow{a} * (μ) = λ\overrightarrow{a} + λ\overrightarrow{b}$
+	+ $\overrightarrow{a}(λ + μ) = λ\overrightarrow{a} + μ\overrightarrow{a}$
