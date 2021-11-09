@@ -30,6 +30,11 @@
 + Multiplikation mit Skalar
 	+  $\overrightarrow{a} * λ =$ Vektor mit gleicher Richtung, jedoch mit λ-fachen Betrag
 	+  jede Komponente wird mit λ multipliziert
-+  Skalarprodukt
-	+  Produkt der Beträge $|\overrightarrow{a}| * |\overrightarrow{b}|$
++  Skalarprodukt <a, b>
+	+  Produkt der Beträge multipliziert mit Cosinus des Winkels α dazwischen $|\overrightarrow{a}| * |\overrightarrow{b}| * cos(α)$
+	+  Vektoren senkrecht zueinander ==> cos(90°) = 0 ==> Skalarprodukt = 0
++  Kreuzprodukt
+	+  nur in $ℝ^3$
+	+  Kreuzprodukt zweier Vektoren a und b liefert Vektor axb
+		+  Länge von c = |axb| = Fläche des von a und b aufgespannten Parallelogramm
 +  Vektorprodukt
