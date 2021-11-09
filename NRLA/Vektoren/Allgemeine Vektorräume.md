@@ -2,9 +2,11 @@
 + Insofern gewisse Rechengesetze gelten ist (V,+,\*) ein K-Vektorraum
 	+ (V,+,\*) = eine Menge V zusammen mit Addition und Multiplikation
 + (ℝ<sup>n</sup>, + ,\*) ist ein ℝ-VR
++ M(m×n; K) = K<sup>m×n</sup> ist ein K-VR
 
 ### Rechengesetze
 + axiomatisch vorgegeben
++ herkömmliche Rechengesetze bezüglich Additiion und Multiplikation mit Skalar
 + Addition
 	+ Kommutativität
 		+ $a + b = b + a$
