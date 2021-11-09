@@ -11,6 +11,8 @@
 	+ U:{$(a_1, a_2)∈ℝ^2: 3a_1 - 4a_2 = 0$}⊆$ℝ^2$
 + Ebene:
 	+ U:{$(a_1, a_2, a_3)∈ℝ^3: 2a_1 - 2a_2 + a_3= 0$}⊆$ℝ^3$
++ Eine Menge M, welche der Durchschnitt zweier Teilräume von V ist, ist Teilraum von V
++ Eine Menge M, welche die Vereinigung zweier Teilräume von V ist, kann Teilraum von V sein
 
 
 ### Kriterien
