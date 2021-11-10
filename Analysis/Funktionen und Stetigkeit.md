@@ -10,6 +10,9 @@
 + Graph von f
 	+ {(x,y)∈I×B | y=f(x)}
 	+ x und y=f(x) als Achsen des Graphen
++ Beispiel
+	+ f: ℝ --> ℝ, x ==> x² + 1
+	+ Kurzform: f(x) = x² + 1
 
 ### Eigenschaften von Funktionen
 + Monotonie
@@ -26,4 +29,8 @@
 	+ f(-x) = -f(x)
 
 ### Stetigkeit
-+ Reelle Funktion f: I --> ℝ ist stetig in x<sub>0</sub>∈I, wenn für 
++ Sei f: I --> ℝ eine reelle Funktion:
++ f ist stetig in x<sub>0</sub>∈I, wenn
+	+ für jede Folge x<sub>n</sub> aus I mit  $x = \lim x_n$ auch $f(x_n) = \lim f(x_n) = f(\lim x_n)$ gilt.
++ f ist stetig auf I, wenn f stetig in jedem Punkt x∈I
++ Graph kann ohne Definitionslücken nahtlos gezeichnet werden
