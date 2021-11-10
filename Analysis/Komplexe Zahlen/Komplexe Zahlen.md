@@ -41,11 +41,11 @@
 	+ y = Im(z)
 + Rechenoperationen:
 	+ Addition ==> Zahlen zusammenhängen
-![[Pasted image 20211108172201.png]]		
+		 ![[Pasted image 20211108172201.png]]		
 	+ Konjugieren ==> Spiegeln an Achse des Realteils
-		![[Pasted image 20211108172217.png]]
+		 ![[Pasted image 20211108172217.png]]
 	+ Multiplikation ==> Längen multipliziert und Winkel addiert
-	![[Pasted image 20211108172247.png]]
+		 ![[Pasted image 20211108172247.png]]
 
 
 

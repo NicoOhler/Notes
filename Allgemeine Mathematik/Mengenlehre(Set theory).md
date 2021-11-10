@@ -1,5 +1,5 @@
 # Mengenlehre(Set theory)
-+ **Definition:** Eine Menge ist eine Sammlung zusammengehörender, unterscheidbarer Objekte. 
++ Eine Menge ist eine Sammlung zusammengehörender, unterscheidbarer Objekte. 
  > M = {1, 2, ... }
 + kann mit [[Logische Verknüpfungen]] verbunden werden
 + Naive Mengenlehre verhindert Selbstreferenzierung.
