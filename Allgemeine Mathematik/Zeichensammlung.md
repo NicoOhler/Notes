@@ -5,7 +5,7 @@ https://learninglab.gitlabpages.inria.fr/mooc-rr/mooc-rr-ressources/module1/ress
 + Σ
 + Π
 + λ μ
-+ ε
++ ε δ
 + $\binom{n}{k}$
 + $\overrightarrow{a}$
 + $\sqrt[n]{k}$

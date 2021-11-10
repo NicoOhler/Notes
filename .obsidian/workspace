@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Funktionen und Stetigkeit.md",
+            "file": "Analysis/Funktionen/Stetigkeit.md",
             "mode": "source"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Funktionen und Stetigkeit.md",
+                "file": "Analysis/Funktionen/Stetigkeit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +98,15 @@
   },
   "active": "71bf06fb767950c0",
   "lastOpenFiles": [
-    "Analysis/Funktionen und Stetigkeit.md",
+    "Analysis/Funktionen/Stetigkeit.md",
+    "Analysis/Funktionen/Funktionen.md",
+    "Analysis/Untitled.md",
     "Analysis/Vollständige Induktion.md",
     "Analysis/Kombinatorik.md",
     "Analysis/Binomische Lehrsatz.md",
     "Analysis/Binomialkoeffizient.md",
     "Analysis/Bernoulli Ungleichung.md",
     "Analysis/Analysis.md",
-    "Analysis/Komplexe Zahlen/Komplexe Zahlen.md",
-    "Allgemeine Mathematik/Allgemeine Mathematik.md",
-    "Allgemeine Mathematik/Logische Verknüpfungen.md"
+    "Analysis/Komplexe Zahlen/Komplexe Zahlen.md"
   ]
 }
