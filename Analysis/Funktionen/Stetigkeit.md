@@ -15,10 +15,8 @@
 +  Vorgehensweise
 	+  |f(x) - f(x<sub>0</sub>)| ersetzen mit Formel hinter Funktion
 	+  umformen/abschätzen sodass |x - x<sub>0</sub>| separater Term ist
-	+  Ausdruck in der Form λ \* |x - x<sub>0</sub>| < ε ensteht
-	+  ==> |x - x<sub>0</sub>| < λε = δ
-	+  Somit gilt wenn |x - x<sub>0</sub>| < λε, dann gilt |f(x) - f(x<sub>0</sub>)| < ε
-
+	+  Ausdruck in der Form λ \* |x - x<sub>0</sub>| < ε ensteht ==> |x - x<sub>0</sub>| < λε = δ
+	+  Wenn |x - x<sub>0</sub>| < λε, dann gilt |f(x) - f(x<sub>0</sub>)| < ε
 
 ### Spezielle Funktionen
 + Polynomfunktionen sind immer stetig
