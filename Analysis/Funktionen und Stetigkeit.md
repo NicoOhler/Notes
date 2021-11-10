@@ -22,5 +22,8 @@
 	+ symmetrisch zur y-Achse
 	+ f(x) = f(-x)
 + Gerade Funktion
-	+ negativ symmetrisch zum Koordinatenursprung
+	+ symmetrisch zum Ursprung
 	+ f(-x) = -f(x)
+
+### Stetigkeit
++ Reelle Funktion f: I --> ℝ ist stetig in x<sub>0</sub>∈I, wenn für 
