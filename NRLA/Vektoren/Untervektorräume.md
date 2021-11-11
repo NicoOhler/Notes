@@ -22,3 +22,5 @@
 2. Abgeschlossenheit
 	+ kann zu λa + μb∈U zusammengefasst werden
 3.  U = { $\overrightarrow{0}$ } ist Unter-VR jedes VR
+
+[[]]

@@ -27,3 +27,5 @@
 + Distributivgesetze
 	+ $λ(\overrightarrow{a} + \overrightarrow{b}) = λ\overrightarrow{a} + λ\overrightarrow{b}$
 	+ $\overrightarrow{a}(λ + μ) = λ\overrightarrow{a} + μ\overrightarrow{a}$
+
+[[Vektor]]
