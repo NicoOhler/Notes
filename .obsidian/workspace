@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NRLA/Vektoren/Lineare Unabhängigkeit.md",
+            "file": "NRLA/Vektoren/Basis.md",
             "mode": "source"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NRLA/Vektoren/Lineare Unabhängigkeit.md",
+                "file": "NRLA/Vektoren/Basis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +98,7 @@
   },
   "active": "71bf06fb767950c0",
   "lastOpenFiles": [
+    "NRLA/Vektoren/Basis.md",
     "NRLA/Vektoren/Lineare Unabhängigkeit.md",
     "NRLA/Vektoren/Vektor.md",
     "NRLA/Vektoren/Untervektorräume.md",
@@ -106,7 +107,6 @@
     "NRLA/NRLA.md",
     "Analysis/Funktionen/Stetigkeit.md",
     "Analysis/Funktionen/Funktionen.md",
-    "Analysis/Untitled.md",
-    "Analysis/Vollständige Induktion.md"
+    "Analysis/Untitled.md"
   ]
 }
