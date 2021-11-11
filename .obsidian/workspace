@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NRLA/Vektoren/Untervektorräume.md",
-            "mode": "source"
+            "file": "NRLA/Vektoren/Lineare Unabhängigkeit.md",
+            "mode": "preview"
           }
         }
       }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NRLA/Vektoren/Untervektorräume.md",
+                "file": "NRLA/Vektoren/Lineare Unabhängigkeit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,10 +98,10 @@
   },
   "active": "71bf06fb767950c0",
   "lastOpenFiles": [
-    "NRLA/Vektoren/Untervektorräume.md",
-    "NRLA/Vektoren/Allgemeine Vektorräume.md",
     "NRLA/Vektoren/Lineare Unabhängigkeit.md",
     "NRLA/Vektoren/Vektor.md",
+    "NRLA/Vektoren/Untervektorräume.md",
+    "NRLA/Vektoren/Allgemeine Vektorräume.md",
     "NRLA/Numerisches Rechnen.md",
     "NRLA/NRLA.md",
     "Analysis/Funktionen/Stetigkeit.md",
