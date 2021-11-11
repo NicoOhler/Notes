@@ -17,5 +17,9 @@
 + $\overrightarrow{v_1}, ..., \overrightarrow{v_n}$∈V 
 	+ $\overrightarrow{v_1}, ..., \overrightarrow{v_n}$ sind linear abhängig, wenn es eine nichttriviale Linearkombination $λ_1\overrightarrow{v_1}, ..., λ_n\overrightarrow{v_n} = \overrightarrow{0}$ gibt
 	+  $\overrightarrow{v_1}, ..., \overrightarrow{v_n}$ sind linear abhängig, wenn es NUR  triviale Linearkombinationen $λ_1\overrightarrow{v_1}, ..., λ_n\overrightarrow{v_n} = \overrightarrow{0}$ gibt
-
++ Gleichsetzen mit 0 und Finden von Lösungen
+	+ $A = (\overrightarrow{v_1}, ..., \overrightarrow{v_n})$
+	+ $A * e_j = \overrightarrow{v_j}$ ==> $A * (λ_1, ..., λ_n)^T = (\overrightarrow{0})$
+		+ eindeutige Lösung ==> lineare Unabhängigkeit
+		+ ∞ Lösung ==> lineare Abhängigkeit
 [[Untervektorräume]]
