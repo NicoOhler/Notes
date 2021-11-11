@@ -3,7 +3,6 @@
 	+ $λ_1\overrightarrow{v_1}, ..., λ_n\overrightarrow{v_n}$ ist Linearkombination von $\overrightarrow{v_1}, ..., \overrightarrow{v_n}$
 + triviale Linearkombination ==> alle λ = 0
 	+ #todo nichttriviale Linearkombination ==> alle λ ≠ 0
-+ 
 
 ### Span
 + Sei U = {$\overrightarrow{v_1}, ..., \overrightarrow{v_n}$}⊆V
@@ -22,4 +21,9 @@
 	+ $A * e_j = \overrightarrow{v_j}$ ==> $A * (λ_1, ..., λ_n)^T = (\overrightarrow{0})$
 		+ eindeutige Lösung ==> lineare Unabhängigkeit
 		+ ∞ Lösung ==> lineare Abhängigkeit
++ Lineare Abhängigkeit
+	+ mindestens ein Vektor $v_j$ ist Linearkombination der übrigen
++ Menge U ist linear unabhängig, wenn je endlich viele Vektoren aus U linear unabhängig
+	+ sonst linear abhängig
+
 [[Untervektorräume]]
