@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Funktionen/Stetigkeit.md",
+            "file": "NRLA/Vektoren/Untervektorräume.md",
             "mode": "source"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Funktionen/Stetigkeit.md",
+                "file": "NRLA/Vektoren/Untervektorräume.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +98,15 @@
   },
   "active": "71bf06fb767950c0",
   "lastOpenFiles": [
+    "NRLA/Vektoren/Untervektorräume.md",
+    "NRLA/Vektoren/Vektor.md",
+    "NRLA/Vektoren/Allgemeine Vektorräume.md",
+    "NRLA/Numerisches Rechnen.md",
+    "NRLA/NRLA.md",
     "Analysis/Funktionen/Stetigkeit.md",
     "Analysis/Funktionen/Funktionen.md",
     "Analysis/Untitled.md",
     "Analysis/Vollständige Induktion.md",
-    "Analysis/Kombinatorik.md",
-    "Analysis/Binomische Lehrsatz.md",
-    "Analysis/Binomialkoeffizient.md",
-    "Analysis/Bernoulli Ungleichung.md",
-    "Analysis/Analysis.md",
-    "Analysis/Komplexe Zahlen/Komplexe Zahlen.md"
+    "Analysis/Kombinatorik.md"
   ]
 }
