@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NRLA/Vektoren/Basis.md",
+            "file": "NRLA/Teststoff.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296
+    "width": 322
   },
   "right": {
     "id": "d1219e90b492538d",
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NRLA/Vektoren/Basis.md",
+                "file": "NRLA/Teststoff.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +98,7 @@
   },
   "active": "71bf06fb767950c0",
   "lastOpenFiles": [
+    "NRLA/Teststoff.md",
     "NRLA/Vektoren/Basis.md",
     "NRLA/Vektoren/Lineare Unabhängigkeit.md",
     "NRLA/Vektoren/Vektor.md",
@@ -106,7 +107,6 @@
     "NRLA/Numerisches Rechnen.md",
     "NRLA/NRLA.md",
     "Analysis/Funktionen/Stetigkeit.md",
-    "Analysis/Funktionen/Funktionen.md",
-    "Analysis/Untitled.md"
+    "Analysis/Funktionen/Funktionen.md"
   ]
 }
