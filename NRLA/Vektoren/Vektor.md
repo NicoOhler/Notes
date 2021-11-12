@@ -6,6 +6,7 @@
 + Länge des Vektors = Betrag des Vektors
 	+ $|\overrightarrow{a}| = \sqrt[2]{a_x^2 + a_y^2}$ - 2D
 	+ $|\overrightarrow{a}| = \sqrt[2]{a_x^2 + a_y^2 + a_z^2}$ - 3D
++ Koordinate
 
 ### Beispiele
 + Ortsvektor 0 = (0, 0, 0)
