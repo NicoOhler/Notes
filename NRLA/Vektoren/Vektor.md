@@ -6,7 +6,11 @@
 + Länge des Vektors = Betrag des Vektors
 	+ $|\overrightarrow{a}| = \sqrt[2]{a_x^2 + a_y^2}$ - 2D
 	+ $|\overrightarrow{a}| = \sqrt[2]{a_x^2 + a_y^2 + a_z^2}$ - 3D
-+ Koordinate
++ Darstellungsformen
+	+ Koordinatendarstellung
+		+ $a = (a_x, a_y, a_z)$
+	+ Komponentendarstellung
+		+ $a = a_x*e_x + a_y*e_y + a_z*e_z$
 
 ### Beispiele
 + Ortsvektor 0 = (0, 0, 0)
