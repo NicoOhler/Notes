@@ -99,14 +99,14 @@
   "active": "71bf06fb767950c0",
   "lastOpenFiles": [
     "NRLA/Teststoff.md",
+    "NRLA/Matrizen/Elementare Zeilenumformungen.md",
+    "NRLA/Matrizen/LR-Zerlegung einer Regulären Matrix.md",
+    "NRLA/Matrizen/Matrix.md",
+    "NRLA/Matrizen/Determinante.md",
     "NRLA/Vektoren/Basis.md",
     "NRLA/Vektoren/Lineare Unabhängigkeit.md",
     "NRLA/Vektoren/Vektor.md",
     "NRLA/Vektoren/Untervektorräume.md",
-    "NRLA/Vektoren/Allgemeine Vektorräume.md",
-    "NRLA/Numerisches Rechnen.md",
-    "NRLA/NRLA.md",
-    "Analysis/Funktionen/Stetigkeit.md",
-    "Analysis/Funktionen/Funktionen.md"
+    "NRLA/Vektoren/Allgemeine Vektorräume.md"
   ]
 }
