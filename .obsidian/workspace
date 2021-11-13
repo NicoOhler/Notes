@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NRLA/Vektoren/Vektor.md",
+            "file": "Allgemeine Mathematik/Zeichensammlung.md",
             "mode": "preview"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NRLA/Vektoren/Vektor.md",
+                "file": "Allgemeine Mathematik/Zeichensammlung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +98,15 @@
   },
   "active": "71bf06fb767950c0",
   "lastOpenFiles": [
-    "NRLA/Vektoren/Vektor.md",
-    "NRLA/NRLA.md",
-    "NRLA/Teststoff.md",
-    "NRLA/Numerisches Rechnen.md",
-    "NRLA/Matrizen/Elementare Zeilenumformungen.md",
-    "NRLA/Matrizen/LR-Zerlegung einer Regulären Matrix.md",
-    "NRLA/Matrizen/Matrix.md",
-    "NRLA/Matrizen/Determinante.md",
-    "NRLA/Vektoren/Basis.md",
-    "NRLA/Vektoren/Lineare Unabhängigkeit.md"
+    "Allgemeine Mathematik/Zeichensammlung.md",
+    "Allgemeine Mathematik/Quantoren.md",
+    "Allgemeine Mathematik/Mengenlehre(Set theory).md",
+    "Allgemeine Mathematik/Logische Verknüpfungen.md",
+    "Allgemeine Mathematik/Allgemeine Mathematik.md",
+    "Analysis/Vollständige Induktion.md",
+    "Analysis/Binomialkoeffizient.md",
+    "Analysis/Kombinatorik.md",
+    "Analysis/Binomische Lehrsatz.md",
+    "Analysis/Bernoulli Ungleichung.md"
   ]
 }
