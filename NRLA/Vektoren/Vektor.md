@@ -38,6 +38,8 @@
   
 ### Skalarprodukt <a, b>
 +  Produkt der Beträge multipliziert mit Cosinus des Winkels α dazwischen $|\overrightarrow{a}| * |\overrightarrow{b}| * cos(α)$
++  Im karthesischen Koordinatensystem gilt:
+	+  $<\overrightarrow{a}, \overrightarrow{b}> = a_1 * b_1 + a_2 * b_2 + a_3 * b_3$
 +  Vektoren senkrecht zueinander ==> cos(90°) = 0 ==> Skalarprodukt = 0
 ### Kreuzprodukt/Vektorprodukt
 +  nur in $ℝ^3$
@@ -48,6 +50,8 @@
 	+  ![[Pasted image 20211109131952.png]]
 +  Rechte-Hand-Regel
 + $|a×b| = |\overrightarrow{a}| * |\overrightarrow{b}| * sin(α)$
++  Im karthesischen Koordinatensystem gilt:
+	+  $\overrightarrow{a} × \overrightarrow{b} = (a_2 * b_3 - a_3 * b_2, a_3 * b_1 - a_1 * b_3, a_1 * b_2 - a_2 * b_1$
 + Rechenregeln
 	+ a×b = -b×a
 	+ a×(b×c) = a×b + a×c
