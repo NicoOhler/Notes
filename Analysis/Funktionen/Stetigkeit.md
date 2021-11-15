@@ -1,19 +1,19 @@
 # Stetigkeit
 + Graph kann ohne Definitionslücken nahtlos gezeichnet werden
 + Nullstellensatz	
-	+ Sei $f: [a;b]-->ℝ$ stetig auf [a;b] und $f(a)*f(b) < 0$
+	+ Sei $f: [a;b]->ℝ$ stetig auf [a;b] und $f(a)*f(b) < 0$
 		+ ∃ x∈[a;b]\: f(x) = 0
 		+ kann mittels [[Intervallschachtelung]] bestimmt werden
 + Zwischenwertsatz
-	+ Sei $f: [a;b]-->ℝ$ stetig auf [a;b]
+	+ Sei $f: [a;b]->ℝ$ stetig auf [a;b]
 		+ f nimmt jeden Wert zwischen f(a) und f(b) an
 	+ Beweis:
 		+ Sei y ein Wert zwischen f(a) und f(b) ==> $f(a)-y und f(b) - y$ haben verschiedene Vorzeichen
 		+ $h(x) = F(x)-y$ ==> Nullstellensatz
 		+ ∃ x∈[a;b]\: h(x) = 0 ==> f(x) = y
-+ Sei $f: [a;b]-->ℝ$ stetig und monoton wachsend/fallend
-	+ $f: [a;b]-->[f(a);f(b)]$ ist bijektiv
-	+ $f^{-1}: [f(a);f(b)]-->[a;b]$ ist stetig
++ Sei $f: [a;b]->ℝ$ stetig und monoton wachsend/fallend
+	+ $f: [a;b]->[f(a);f(b)]$ ist bijektiv
+	+ $f^{-1}: [f(a);f(b)]->[a;b]$ ist stetig
 
 ### Grenzwertkriterium
 + Sei f: I --> ℝ eine reelle Funktion:
@@ -43,7 +43,7 @@
 	+ ∃ M>0 ==> ∀x∈I: |f(x)| ≤ M ==> f ist beschränkt
 	+ ∃ x<sub>min</sub>,x<sub>max</sub>∈I ∀x∈I: |f(x<sub>min</sub>)| ≤ f(x)  |f(x<sub>max</sub>)|
 		+ es gibt kleinste, obere und größte, untere Schranke
-	+ nicht abgeschlossen: $f: ]0;1]-->ℝ, f(x)=\frac{1}{x}$
+	+ nicht abgeschlossen: $f: ]0;1]->ℝ, f(x)=\frac{1}{x}$
 		+ $x_max = 1$
 		+ $x_min$ existiert nicht!
 			+ $f(0)=\frac{1}{0}$ ==> Error
