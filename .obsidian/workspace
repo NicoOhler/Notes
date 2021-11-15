@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NRLA/Vektoren/Vektor.md",
-            "mode": "preview"
+            "file": "Analysis/Funktionen/Stetigkeit.md",
+            "mode": "source"
           }
         }
       }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NRLA/Vektoren/Vektor.md",
+                "file": "Analysis/Funktionen/Stetigkeit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +98,7 @@
   },
   "active": "71bf06fb767950c0",
   "lastOpenFiles": [
+    "Analysis/Funktionen/Stetigkeit.md",
     "NRLA/Vektoren/Vektor.md",
     "Analysis/Binomialkoeffizient.md",
     "Analysis/Analysis.md",
@@ -106,7 +107,6 @@
     "Analysis/Komplexe Zahlen/Komplexe Zahlen.md",
     "Allgemeine Mathematik/Zeichensammlung.md",
     "Allgemeine Mathematik/Mengenlehre(Set theory).md",
-    "Allgemeine Mathematik/Allgemeine Mathematik.md",
-    "Analysis/Vollständige Induktion.md"
+    "Allgemeine Mathematik/Allgemeine Mathematik.md"
   ]
 }

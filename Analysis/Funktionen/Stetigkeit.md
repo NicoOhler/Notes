@@ -23,3 +23,6 @@
 + p, q sind Polynome ==> $r(x) = \frac{p(x)}{q(x)}$ ist eine rationale Funktion
 	+ r ist stetig auf Definitionsbereich D = {x∈ℝ | q(x) ≠ 0}
 	+ rationale Funktionen sind stetig, wenn Nenner ≠ 0
+
+### Eigenschaften stetiger Funktionen
++ 
