@@ -15,6 +15,7 @@
 	+ Kurzform: f(x) = x² + 1
 
 ### Eigenschaften von Funktionen
++ x ist ein Fixpunkt, wenn f(x) = x
 + Monotonie
 	+ monoton wachsend, wenn jedes f(x<sub>n</sub>) ≤ f(x<sub>n+1</sub>)
 		+ streng, wenn f(x<sub>n</sub>) < f(x<sub>n+1</sub>)

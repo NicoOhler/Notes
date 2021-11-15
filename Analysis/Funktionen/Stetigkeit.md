@@ -8,8 +8,8 @@
 	+ Sei $f: [a;b]->ℝ$ stetig auf [a;b]
 		+ f nimmt jeden Wert zwischen f(a) und f(b) an
 	+ Beweis:
-		+ Sei y ein Wert zwischen f(a) und f(b) ==> $f(a)-y und f(b) - y$ haben verschiedene Vorzeichen
-		+ $h(x) = F(x)-y$ ==> Nullstellensatz
+		+ Sei y ein Wert zwischen f(a) und f(b) ==> $f(a)-y$ und $f(b) - y$ haben verschiedene Vorzeichen
+		+ $h(x) = f(x)-y$ ==> Nullstellensatz
 		+ ∃ x∈[a;b]\: h(x) = 0 ==> f(x) = y
 + Sei $f: [a;b]->ℝ$ stetig und monoton wachsend/fallend
 	+ $f: [a;b]->[f(a);f(b)]$ ist bijektiv

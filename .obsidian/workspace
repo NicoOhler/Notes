@@ -99,6 +99,7 @@
   "active": "71bf06fb767950c0",
   "lastOpenFiles": [
     "Analysis/Funktionen/Stetigkeit.md",
+    "Analysis/Funktionen/Funktionen.md",
     "Analysis/Funktionen/Potenzreihen.md",
     "Analysis/Folgen und Reihen/Supremum und Infimum.md",
     "Analysis/Folgen und Reihen/Intervallschachtelung.md",
@@ -106,7 +107,6 @@
     "Analysis/Folgen und Reihen/Monotonie.md",
     "Analysis/Folgen und Reihen/Reihen und Folgen.md",
     "Analysis/Folgen und Reihen/Sandwich Theorem.md",
-    "Analysis/Folgen und Reihen/Satz von Bolzano-Weierstraß.md",
-    "Analysis/Folgen und Reihen/Beschränktheit.md"
+    "Analysis/Folgen und Reihen/Satz von Bolzano-Weierstraß.md"
   ]
 }
