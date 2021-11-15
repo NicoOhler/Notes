@@ -3,6 +3,11 @@
 + Nullstellensatz	
 	+ Sei $f: [a;b]-->ℝ$ stetig auf [a;b] und $f(a)*f(b) < 0$
 		+ ∃ x∈[a;b]\: f(x) = 0
+		+ kann mittels [[Intervallschachtelung]] bestimmt werden
++ Zwischenwertsatz
+	+ Sei $f: [a;b]-->ℝ$ stetig auf [a;b]
+		+ f nimmt jeden Wert zwischen f(a) und f(b) an
+	+ Sei y ein Wert zwischen f(a) und f(b) ==> $f(a)-y und f(b) - y§ 
 
 ### Grenzwertkriterium
 + Sei f: I --> ℝ eine reelle Funktion:

@@ -100,13 +100,13 @@
   "lastOpenFiles": [
     "Analysis/Funktionen/Stetigkeit.md",
     "Analysis/Folgen und Reihen/Supremum und Infimum.md",
+    "Analysis/Folgen und Reihen/Intervallschachtelung.md",
+    "Analysis/Folgen und Reihen/Konvergenzkriterien für Reihen.md",
+    "Analysis/Folgen und Reihen/Monotonie.md",
+    "Analysis/Folgen und Reihen/Reihen und Folgen.md",
+    "Analysis/Folgen und Reihen/Sandwich Theorem.md",
+    "Analysis/Folgen und Reihen/Satz von Bolzano-Weierstraß.md",
     "Analysis/Folgen und Reihen/Beschränktheit.md",
-    "Analysis/Binomialkoeffizient.md",
-    "Analysis/Komplexe Zahlen/Komplexe Zahlen.md",
-    "Analysis/Bernoulli Ungleichung.md",
-    "NRLA/Vektoren/Vektor.md",
-    "Analysis/Analysis.md",
-    "Allgemeine Mathematik/Logische Verknüpfungen.md",
-    "Allgemeine Mathematik/Quantoren.md"
+    "Analysis/Binomialkoeffizient.md"
   ]
 }
