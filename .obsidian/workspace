@@ -99,14 +99,14 @@
   "active": "71bf06fb767950c0",
   "lastOpenFiles": [
     "NRLA/Matrizen/Matrix.md",
+    "NRLA/Matrizen/Determinante.md",
+    "NRLA/Matrizen/Gaußsche Eliminationsverfahren.md",
     "NRLA/Matrizen/Elementare Zeilenumformungen.md",
     "Analysis/Funktionen/Stetigkeit.md",
     "Analysis/Funktionen/Funktionen.md",
     "Analysis/Funktionen/Potenzreihen.md",
     "Analysis/Folgen und Reihen/Supremum und Infimum.md",
     "Analysis/Folgen und Reihen/Intervallschachtelung.md",
-    "Analysis/Folgen und Reihen/Konvergenzkriterien für Reihen.md",
-    "Analysis/Folgen und Reihen/Monotonie.md",
-    "Analysis/Folgen und Reihen/Reihen und Folgen.md"
+    "Analysis/Folgen und Reihen/Konvergenzkriterien für Reihen.md"
   ]
 }
