@@ -28,4 +28,7 @@
 + Sei I ein abgeschlossenes, beschränktes Intervall und f: I-->ℝ stetig auf I
 	+ ∃ M>0 ==> ∀x∈I: |f(x)| ≤ M ==> f ist beschränkt
 	+ ∃ x<sub>min</sub>,x<sub>max</sub>∈I ∀x∈I: |f(x<sub>min</sub>)| ≤ f(x)  |f(x<sub>max</sub>)|
-		+ es gibt kleinste, obere und größte untere Schranke
+		+ es gibt kleinste, obere und größte, untere Schranke
+	+ nicht abgeschlossen: f: 
+
+[[Funktionen]] [[Supremum und Infimum]]
