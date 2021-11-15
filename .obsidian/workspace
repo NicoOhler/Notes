@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Funktionen/Stetigkeit.md",
+            "file": "Analysis/Funktionen/Potenzreihen.md",
             "mode": "source"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Funktionen/Stetigkeit.md",
+                "file": "Analysis/Funktionen/Potenzreihen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +98,7 @@
   },
   "active": "71bf06fb767950c0",
   "lastOpenFiles": [
+    "Analysis/Funktionen/Potenzreihen.md",
     "Analysis/Funktionen/Stetigkeit.md",
     "Analysis/Folgen und Reihen/Supremum und Infimum.md",
     "Analysis/Folgen und Reihen/Intervallschachtelung.md",
@@ -106,7 +107,6 @@
     "Analysis/Folgen und Reihen/Reihen und Folgen.md",
     "Analysis/Folgen und Reihen/Sandwich Theorem.md",
     "Analysis/Folgen und Reihen/Satz von Bolzano-Weierstraß.md",
-    "Analysis/Folgen und Reihen/Beschränktheit.md",
-    "Analysis/Binomialkoeffizient.md"
+    "Analysis/Folgen und Reihen/Beschränktheit.md"
   ]
 }

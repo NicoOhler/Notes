@@ -7,7 +7,8 @@ https://learninglab.gitlabpages.inria.fr/mooc-rr/mooc-rr-ressources/module1/ress
 + λ μ
 + ε δ
 + $\binom{n}{k}$
-+ + $\overrightarrow{a}$
++ $\sum_{i=1}^n X_i$
++ $\overrightarrow{a}$
 + $\sqrt[n]{k}$
 + $\frac{1}{x+iy}$
 + Gaußklammern (Auf/Abrunden)
