@@ -1,5 +1,8 @@
 # Stetigkeit
 + Graph kann ohne Definitionslücken nahtlos gezeichnet werden
++ Nullstellensatz	
+	+ Sei $f: [a;b]-->ℝ$ stetig auf [a;b] und $f(a)*f(b) < 0$
+		+ ∃ x∈[a;b]\: f(x) = 0
 
 ### Grenzwertkriterium
 + Sei f: I --> ℝ eine reelle Funktion:
@@ -29,6 +32,9 @@
 	+ ∃ M>0 ==> ∀x∈I: |f(x)| ≤ M ==> f ist beschränkt
 	+ ∃ x<sub>min</sub>,x<sub>max</sub>∈I ∀x∈I: |f(x<sub>min</sub>)| ≤ f(x)  |f(x<sub>max</sub>)|
 		+ es gibt kleinste, obere und größte, untere Schranke
-	+ nicht abgeschlossen: f: 
+	+ nicht abgeschlossen: $f: ]0;1]-->ℝ, f(x)=\frac{1}{x}$
+		+ $x_max = 1$
+		+ $x_min$ existiert nicht!
+			+ $f(0)=\frac{1}{0}$ ==> Error
 
 [[Funktionen]] [[Supremum und Infimum]]
