@@ -25,3 +25,10 @@
 	+ $sin(x-y)=sin(x)*cos(y)-cos(x)*sin(y)$
 		+ $sin(x)cos(y)=\frac{1}{2}(sin(x+y)+sin(x-y))$
 		+ $cos(x)sin(y)=\frac{1}{2}(sin(x-y)-sin(x+y))$
++ Äquivalenzen mit α und β siehe VO#21
++ Spezialisierungen
+	+ $sin(2x)=2sin(x)cos(x)$
+	+ $cos(2x)=cos(x)cos(x)-sin(x)sin(x)=2cos(x)^2-1=1-2sin(x)^2$
+
+### Sonstiges
++ $π/2

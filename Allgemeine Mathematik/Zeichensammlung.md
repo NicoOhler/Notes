@@ -2,8 +2,9 @@
 https://learninglab.gitlabpages.inria.fr/mooc-rr/mooc-rr-ressources/module1/ressources/introduction_to_markdown.html#fractions-binomial-coefficients-square-roots
 + ∞
 + ×
-+ Σ
-+ Π
++ π
++ Σ Π
++ α β
 + λ μ
 + ε δ
 + $\binom{n}{k}$
@@ -53,7 +54,7 @@ https://learninglab.gitlabpages.inria.fr/mooc-rr/mooc-rr-ressources/module1/ress
 	True | True | True 
 	True | False | False
 + Griechische Alphabet
-	+ α - Α - alpha
+	+ Α - α - alpha
 	+ Β - β - beta
 	+ Γ - γ - gamma
 	+ Δ - δ - delta
