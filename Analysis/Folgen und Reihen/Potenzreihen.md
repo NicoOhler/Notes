@@ -12,3 +12,5 @@
 			+ $|x| > R$ ==> divergent
 + Ist f(x) eine Potenzreihe mit positivem Konvergenzradius R
 	+ f(x) ist an der Stelle 0 stetig
+
+[[Reihen und Folgen]]

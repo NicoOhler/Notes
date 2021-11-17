@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NRLA/Vektoren/Vektor.md",
-            "mode": "preview"
+            "file": "Analysis/Folgen und Reihen/Potenzreihen.md",
+            "mode": "source"
           }
         }
       }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NRLA/Vektoren/Vektor.md",
+                "file": "Analysis/Folgen und Reihen/Potenzreihen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +98,7 @@
   },
   "active": "71bf06fb767950c0",
   "lastOpenFiles": [
+    "Analysis/Folgen und Reihen/Potenzreihen.md",
     "NRLA/Vektoren/Vektor.md",
     "NRLA/Vektoren/Lineare Unabhängigkeit.md",
     "NRLA/Matrizen/Matrix.md",
@@ -106,7 +107,6 @@
     "NRLA/Matrizen/Elementare Zeilenumformungen.md",
     "Analysis/Funktionen/Stetigkeit.md",
     "Analysis/Funktionen/Funktionen.md",
-    "Analysis/Funktionen/Potenzreihen.md",
     "Analysis/Folgen und Reihen/Supremum und Infimum.md"
   ]
 }
