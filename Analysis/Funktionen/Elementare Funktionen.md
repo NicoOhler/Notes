@@ -17,4 +17,9 @@
 		+ $exp(x)>1+x$ für $x>0$
 	+ $exp(1)=e$ ==> $exp(n)=e^n$
 		+ $exp(-1)=\frac{1}{e}$ ==> $exp(-n)=\frac{1}{e^n}$	
-	+ 
++ Logarithmus
+	+ exp:  exp: ℝ->ℝ<sup>+</sup>
+	+ bijektiv ==> exp besitzt Umkehrfunktion ln: ℝ<sup>+</sup>->ℝ
+		+ natürliche Logarithmus
+		+ y->$exp^{-1}(y)$
++ $ln(e^x)=exp(ln(x))=x$
