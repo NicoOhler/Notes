@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Folgen und Reihen/Potenzreihen.md",
+            "file": "Analysis/Funktionen/Stetigkeit.md",
             "mode": "source"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Folgen und Reihen/Potenzreihen.md",
+                "file": "Analysis/Funktionen/Stetigkeit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +98,7 @@
   },
   "active": "71bf06fb767950c0",
   "lastOpenFiles": [
+    "Analysis/Funktionen/Stetigkeit.md",
     "Analysis/Folgen und Reihen/Potenzreihen.md",
     "NRLA/Vektoren/Vektor.md",
     "NRLA/Vektoren/Lineare Unabhängigkeit.md",
@@ -105,7 +106,6 @@
     "NRLA/Matrizen/Gaußsche Eliminationsverfahren.md",
     "NRLA/Matrizen/Determinante.md",
     "NRLA/Matrizen/Elementare Zeilenumformungen.md",
-    "Analysis/Funktionen/Stetigkeit.md",
     "Analysis/Funktionen/Funktionen.md",
     "Analysis/Folgen und Reihen/Supremum und Infimum.md"
   ]
