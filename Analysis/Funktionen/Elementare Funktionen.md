@@ -23,3 +23,9 @@
 		+ natürliche Logarithmus
 		+ y->$exp^{-1}(y)$
 + $ln(e^x)=exp(ln(x))=x$
++ $e^x>x^n$ für jedes $x>0, n∈ℕ$
+	+ exponentielles Wachstum
+	+ $e^x$ wächst stärker als jede Potenz von x
++ $ln(x)<x^{1/n}$
+	+ logarithmisches Wachstum
+	+ $ln(x)$ wächst langsamer als jede Wurzel von x
