@@ -1,7 +1,6 @@
-# Elementare Funktionen
-### Exponentialfunktion
+# Exponentialfunktion
 + exp: ℝ->ℝ
-+ x->$\sum_{n=0}^∞ \frac{x_n}{n!}$
++ x->$\sum_{n=0}^∞ \frac{x^n}{n!}$
 + konvergiert für alle x∈ℝ
 	+ sogar für x∈ℂ
 + stetig
@@ -29,3 +28,4 @@
 + $ln(x)<x^{1/n}$
 	+ logarithmisches Wachstum
 	+ $ln(x)$ wächst langsamer als jede Wurzel von x
++ $a^x=e(xln(a))$
