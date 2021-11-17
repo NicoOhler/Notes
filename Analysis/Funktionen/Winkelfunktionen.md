@@ -7,8 +7,9 @@
 		+ $\sum_{n=0}^∞ (-1)^n \frac{x^{2n+1}}{(2n+1)!}=sin(x)$
 	+ $e^{ix}=cos(x) + isin(x)$
 + $sin(x)^2+cos(x)^2=1$
++ $|sin(x)|≤1$ und $|cos(x)|≤1$
 + $sin(-x)=-sin(x)$
 	+ gerade Funktion
 + $cos(-x)=cos(x)$
 	+ ungerade Funktion
-+ $sin(x) und cos(x)$ sind alternierende Reihen
++ $sin(x)$ und $cos(x)$ sind alternierende Reihen
