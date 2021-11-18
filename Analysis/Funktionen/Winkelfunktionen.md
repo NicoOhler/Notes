@@ -52,6 +52,7 @@
 + arc(us)cosinus und arc(us)sinus
 	+ Umkehrfunktionen der eingeschränkten cos(x) und sin(x)
 	+ Zyklometrische Funktionen
+	+ messen Einheitskreisbogen ab
 + Zurückrechnen:
 	+ $cos(x)=y$
 		+ {$x∈ℝ|cos(x)=y$} = {$arccos(y)+2kπ,2kπ-arccos(y)|k∈ℤ$}		
