@@ -13,6 +13,7 @@
 + $cos(-x)=cos(x)$
 	+ ungerade Funktion
 + $sin(x)$ und $cos(x)$ sind alternierende Reihen
++ $sin(x)$ und $cos(x)$ sind bijektiv
 
 ### Additionstheoreme
 + $cos(x+/-y)=cos(x)*cos(y)-/+sin(x)*sin(y)$
@@ -30,10 +31,20 @@
 	+ $sin(2x)=2sin(x)cos(x)$
 	+ $cos(2x)=cos(x)cos(x)-sin(x)sin(x)=2cos(x)^2-1=1-2sin(x)^2$
 
-### Sonstiges
-+ $\frac{π}{2}$ - kleinste Nullstelle von cos(x)
+### Besondere Stellen
 + sin(x) und cos(x) wiederholen sich periodisch alle 2π
 	+ $cos(x+2kπ) = cos(x)$
 	+ $sin(x+2kπ) = sin(x)$
 + $e^{iπ}=cos(π) + isin(π)=-1$
-+ 
++ $\frac{π}{2}$ - kleinste Nullstelle von cos(x)
+	+ Nullstellen sind $\frac{π}{2} + kπ$ für k∈ℤ
++ $0$ - kleinste Nullstelle von sin(x)
+	+ Nullstellen sind $kπ$ für k∈ℤ
++ cos(x)=1 ==> $2kπ$ für k∈ℤ
++ cos(x)=-1 ==> $(2k+1)π$ für k∈ℤ
+
+
+### Umkehrfunktionen
++ arc(us)cosinus und arc(us)sinus
+	+ Umkehrfunktionen der eingeschränkten cos(x) und sin(x)
+	+ Zyklometrische Funktionen
