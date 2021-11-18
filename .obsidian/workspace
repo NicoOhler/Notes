@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Funktionen/Winkelfunktionen.md",
-            "mode": "source"
+            "file": "NRLA/Vektoren/Lineare Unabhängigkeit.md",
+            "mode": "preview"
           }
         }
       }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Funktionen/Winkelfunktionen.md",
+                "file": "NRLA/Vektoren/Lineare Unabhängigkeit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +98,15 @@
   },
   "active": "71bf06fb767950c0",
   "lastOpenFiles": [
+    "NRLA/Vektoren/Lineare Unabhängigkeit.md",
+    "NRLA/Matrizen/LR-Zerlegung einer Regulären Matrix.md",
+    "Analysis/Kombinatorik.md",
     "Analysis/Funktionen/Winkelfunktionen.md",
     "Analysis/Funktionen/Exponentialfunktion.md",
     "Analysis/Funktionen/Funktionen.md",
     "Analysis/Binomische Lehrsatz.md",
     "Analysis/Folgen und Reihen/Potenzreihen.md",
     "Analysis/Funktionen/Stetigkeit.md",
-    "NRLA/Vektoren/Vektor.md",
-    "NRLA/Vektoren/Lineare Unabhängigkeit.md",
-    "NRLA/Matrizen/Matrix.md",
-    "NRLA/Matrizen/Gaußsche Eliminationsverfahren.md"
+    "NRLA/Vektoren/Vektor.md"
   ]
 }
