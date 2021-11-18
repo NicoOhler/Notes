@@ -36,15 +36,24 @@
 	+ $cos(x+2kπ) = cos(x)$
 	+ $sin(x+2kπ) = sin(x)$
 + $e^{iπ}=cos(π) + isin(π)=-1$
-+ $\frac{π}{2}$ - kleinste Nullstelle von cos(x)
-	+ Nullstellen sind $\frac{π}{2} + kπ$ für k∈ℤ
-+ $0$ - kleinste Nullstelle von sin(x)
-	+ Nullstellen sind $kπ$ für k∈ℤ
-+ cos(x)=1 ==> $2kπ$ für k∈ℤ
-+ cos(x)=-1 ==> $(2k+1)π$ für k∈ℤ
++ Nullstellen
+	+  $cos(x) = 0$ ==> $\frac{π}{2} + kπ$
+	+ $sin(x)=0$ ==> $kπ$
+	+ für k∈ℤ
++ Extremwerte
+	+ $cos(x)=1$ ==> $2kπ$
+	+ $cos(x)=-1$ ==> $(2k+1)π$
+	+ $sin(x)=1$ ==> $\frac{π}{2}+2kπ$
+	+ $sin(x)=-1$ ==> $\frac{π}{2}+(2k+1)π$ 
+	+ für k∈ℤ
 
 
 ### Umkehrfunktionen
 + arc(us)cosinus und arc(us)sinus
 	+ Umkehrfunktionen der eingeschränkten cos(x) und sin(x)
 	+ Zyklometrische Funktionen
++ Zurückrechnen:
+	+ $cos(x)=y$ ==>$x=arccos(y)$ und $x=2π-arccos(y)$
+		+ wiederholt sich zyklisch ==> $x=arccos(y)+2kπ$ und $x=2kπ-arccos(y)$
+	+ $sin(x)=y$ ==>$x=arcsin(y)$ und $x=π-arcsin(y)$
+		+ {$x∈ℝ|sin(x)=y$} = {$arcsin(y)+2kπ,(2k+1)π-arcsin(y)|k∈ℤ$}
