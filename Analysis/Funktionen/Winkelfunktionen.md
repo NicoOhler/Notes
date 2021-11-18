@@ -31,4 +31,9 @@
 	+ $cos(2x)=cos(x)cos(x)-sin(x)sin(x)=2cos(x)^2-1=1-2sin(x)^2$
 
 ### Sonstiges
-+ $π/2
++ $\frac{π}{2}$ - kleinste Nullstelle von cos(x)
++ sin(x) und cos(x) wiederholen sich periodisch alle 2π
+	+ $cos(x+2kπ) = cos(x)$
+	+ $sin(x+2kπ) = sin(x)$
++ $e^{iπ}=cos(π) + isin(π)=-1$
++ 
