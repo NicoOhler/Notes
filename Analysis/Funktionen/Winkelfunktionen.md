@@ -53,7 +53,7 @@
 	+ Umkehrfunktionen der eingeschränkten cos(x) und sin(x)
 	+ Zyklometrische Funktionen
 + Zurückrechnen:
-	+ $cos(x)=y$ ==>$x=arccos(y)$ und $x=2π-arccos(y)$
-		+ wiederholt sich zyklisch ==> $x=arccos(y)+2kπ$ und $x=2kπ-arccos(y)$
-	+ $sin(x)=y$ ==>$x=arcsin(y)$ und $x=π-arcsin(y)$
+	+ $cos(x)=y$
+		+ {$x∈ℝ|cos(x)=y$} = {$arccos(y)+2kπ,2kπ-arccos(y)|k∈ℤ$}		
+	+ $sin(x)=y$
 		+ {$x∈ℝ|sin(x)=y$} = {$arcsin(y)+2kπ,(2k+1)π-arcsin(y)|k∈ℤ$}
