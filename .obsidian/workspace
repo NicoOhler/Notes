@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NRLA/Matrizen/Determinante.md",
+            "file": "NRLA/Matrizen/LR-Zerlegung einer Regulären Matrix.md",
             "mode": "preview"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NRLA/Matrizen/Determinante.md",
+                "file": "NRLA/Matrizen/LR-Zerlegung einer Regulären Matrix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,8 +98,8 @@
   },
   "active": "71bf06fb767950c0",
   "lastOpenFiles": [
-    "NRLA/Matrizen/Determinante.md",
     "NRLA/Matrizen/LR-Zerlegung einer Regulären Matrix.md",
+    "NRLA/Matrizen/Determinante.md",
     "NRLA/Matrizen/Gaußsche Eliminationsverfahren.md",
     "NRLA/Matrizen/Elementare Zeilenumformungen.md",
     "NRLA/Matrizen/Matrix.md",
