@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NRLA/Matrizen/Matrix.md",
+            "file": "NRLA/Matrizen/Gaußsche Eliminationsverfahren.md",
             "mode": "preview"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NRLA/Matrizen/Matrix.md",
+                "file": "NRLA/Matrizen/Gaußsche Eliminationsverfahren.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +98,7 @@
   },
   "active": "71bf06fb767950c0",
   "lastOpenFiles": [
+    "NRLA/Matrizen/Gaußsche Eliminationsverfahren.md",
     "NRLA/Matrizen/Matrix.md",
     "Analysis/Kombinatorik.md",
     "NRLA/Vektoren/Vektor.md",
@@ -106,7 +107,6 @@
     "NRLA/Vektoren/Basis.md",
     "NRLA/Vektoren/Allgemeine Vektorräume.md",
     "NRLA/Teststoff.md",
-    "NRLA/Numerisches Rechnen.md",
-    "NRLA/Matrizen/LR-Zerlegung einer Regulären Matrix.md"
+    "NRLA/Numerisches Rechnen.md"
   ]
 }
