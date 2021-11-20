@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NRLA/Vektoren/Lineare Unabhängigkeit.md",
+            "file": "NRLA/Vektoren/Basis.md",
             "mode": "preview"
           }
         }
@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -80,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NRLA/Vektoren/Lineare Unabhängigkeit.md",
+                "file": "NRLA/Vektoren/Basis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,8 +98,8 @@
   },
   "active": "71bf06fb767950c0",
   "lastOpenFiles": [
-    "NRLA/Vektoren/Lineare Unabhängigkeit.md",
     "NRLA/Vektoren/Basis.md",
+    "NRLA/Vektoren/Lineare Unabhängigkeit.md",
     "NRLA/Vektoren/Untervektorräume.md",
     "NRLA/Vektoren/Allgemeine Vektorräume.md",
     "NRLA/Vektoren/Vektor.md",
