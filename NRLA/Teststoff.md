@@ -59,4 +59,10 @@
 	+ Grundprobleme der anschaulichen Vektorrechnung (Gerade und Ebene in Parameterform und parameterfreien Form, Interpretation der Lsg eines lin. Glg.s-Sys.s, Abstand eines Punktes von Gerade bzw Ebene
 
 ### Vektorräume
-+ ...
++ Regeln
+	+ A4
+	+ M2
+	+ D2
+	+ nicht leere Menge
+	+ abgeschlossen
++ Span/Erzeugnis/lineare Hülle
