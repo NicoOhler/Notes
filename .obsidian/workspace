@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Folgen und Reihen/Konvergenzkriterien für Reihen.md",
+            "file": "Analysis/Funktionen/Funktionen.md",
             "mode": "preview"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "surj",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -79,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Folgen und Reihen/Konvergenzkriterien für Reihen.md",
+                "file": "Analysis/Funktionen/Funktionen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +99,8 @@
   },
   "active": "71bf06fb767950c0",
   "lastOpenFiles": [
+    "Analysis/Funktionen/Funktionen.md",
+    "Analysis/Funktionen/Stetigkeit.md",
     "Analysis/Folgen und Reihen/Konvergenzkriterien für Reihen.md",
     "Analysis/Folgen und Reihen/Intervallschachtelung.md",
     "NRLA/Vektoren/Lineare Unabhängigkeit.md",
@@ -105,8 +108,6 @@
     "NRLA/Vektoren/Allgemeine Vektorräume.md",
     "NRLA/Vektoren/Vektor.md",
     "NRLA/Vektoren/Untervektorräume.md",
-    "NRLA/Teststoff.md",
-    "NRLA/Matrizen/LR-Zerlegung einer Regulären Matrix.md",
-    "NRLA/Matrizen/Determinante.md"
+    "NRLA/Teststoff.md"
   ]
 }
