@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Funktionen/Funktionen.md",
-            "mode": "preview"
+            "file": "NRLA/Vektoren/Untervektorräume.md",
+            "mode": "source"
           }
         }
       }
@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -80,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Funktionen/Funktionen.md",
+                "file": "NRLA/Vektoren/Untervektorräume.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +98,15 @@
   },
   "active": "71bf06fb767950c0",
   "lastOpenFiles": [
+    "NRLA/Vektoren/Untervektorräume.md",
+    "NRLA/Vektoren/Allgemeine Vektorräume.md",
     "Analysis/Funktionen/Funktionen.md",
     "Analysis/Funktionen/Stetigkeit.md",
     "Analysis/Folgen und Reihen/Konvergenzkriterien für Reihen.md",
     "Analysis/Folgen und Reihen/Intervallschachtelung.md",
     "NRLA/Vektoren/Lineare Unabhängigkeit.md",
     "NRLA/Vektoren/Basis.md",
-    "NRLA/Vektoren/Allgemeine Vektorräume.md",
     "NRLA/Vektoren/Vektor.md",
-    "NRLA/Vektoren/Untervektorräume.md",
     "NRLA/Teststoff.md"
   ]
 }

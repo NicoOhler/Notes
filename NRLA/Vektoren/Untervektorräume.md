@@ -11,10 +11,6 @@
 	+ U:{$(a_1, a_2)∈ℝ^2: 3a_1 - 4a_2 = 0$}⊆$ℝ^2$
 + Ebene:
 	+ U:{$(a_1, a_2, a_3)∈ℝ^3: 2a_1 - 2a_2 + a_3= 0$}⊆$ℝ^3$
-+ Der Durchschnitt zweier Teilräume von V ist Teilraum von V
-+ Die Vereinigung zweier Teilräume von V kann Teilraum von V sein
-+ Die Summe zweier Teilräume von V ist Teilraum von V
-
 
 ### Kriterien
 1. Teilraumkriterium
@@ -22,5 +18,10 @@
 2. Abgeschlossenheit
 	+ kann zu λa + μb∈U zusammengefasst werden
 3.  U = { $\overrightarrow{0}$ } ist Unter-VR jedes VR
+
+### Durchschnitt/Vereinigung/Summe von Teilräumen
++ Der Durchschnitt zweier Teilräume von V ist Teilraum von V
++ Die Vereinigung zweier Teilräume von V kann Teilraum von V sein
++ Die Summe zweier Teilräume von V ist Teilraum von V
 
 [[Allgemeine Vektorräume]]
