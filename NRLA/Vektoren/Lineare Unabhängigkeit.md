@@ -1,4 +1,4 @@
-# Lineare Unabhängigkeit
+# Linearkombinationen
 + Sei $\overrightarrow{v_1}, ..., \overrightarrow{v_n}$∈V und $λ_1,...,λ_n$∈ℝ
 	+ $λ_1\overrightarrow{v_1}, ..., λ_n\overrightarrow{v_n}$ ist Linearkombination von $\overrightarrow{v_1}, ..., \overrightarrow{v_n}$
 + triviale Linearkombination ==> alle λ = 0
