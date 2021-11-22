@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NRLA/Teststoff.md",
+            "file": "Lineare Abbildungen.md",
             "mode": "source"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NRLA/Teststoff.md",
+                "file": "Lineare Abbildungen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,9 +98,9 @@
   },
   "active": "71bf06fb767950c0",
   "lastOpenFiles": [
+    "Lineare Abbildungen.md",
     "NRLA/Teststoff.md",
     "NRLA/Numerisches Rechnen.md",
-    "Untitled.md",
     "Analysis/Funktionen/Winkelfunktionen.md",
     "Analysis/Funktionen/Exponentialfunktion.md",
     "Analysis/Funktionen/Stetigkeit.md",
