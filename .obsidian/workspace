@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Funktionen/Stetigkeit.md",
+            "file": "Untitled.md",
             "mode": "source"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Funktionen/Stetigkeit.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +98,15 @@
   },
   "active": "71bf06fb767950c0",
   "lastOpenFiles": [
-    "Analysis/Funktionen/Stetigkeit.md",
+    "Untitled.md",
+    "Analysis/Funktionen/Winkelfunktionen.md",
     "Analysis/Funktionen/Exponentialfunktion.md",
+    "Analysis/Funktionen/Stetigkeit.md",
     "Analysis/Funktionen/Funktionen.md",
     "Analysis/Folgen und Reihen/Potenzreihen.md",
     "NRLA/Vektoren/Allgemeine Vektorräume.md",
     "NRLA/Vektoren/Lineare Unabhängigkeit.md",
     "NRLA/Vektoren/Basis.md",
-    "NRLA/Vektoren/Vektor.md",
-    "NRLA/Vektoren/Untervektorräume.md",
-    "Analysis/Folgen und Reihen/Konvergenzkriterien für Reihen.md"
+    "NRLA/Vektoren/Vektor.md"
   ]
 }
