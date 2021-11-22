@@ -21,7 +21,7 @@
 	+ Bild von F = Menge aller Elemente in V erreichbar durch Abbildung F
 
 ### Menge linearer Abbildungen von V und W
-+ $L(V,W):={F:V$-->$W:F linear}$
++ $L(V,W):=\{F:V$-->$W:F linear\}$
 
 ### Spezielle Abbildungen
 + Nullabbildung:
@@ -29,3 +29,22 @@
 + identische Abbildung
 	+ V-->V
 	+ jeder Vektor bildet sich selber ab
++ Gerade
+	+ F: ℝ-->ℝ³
+	+ $λ$-->$λ\overrightarrow{v}$
+	+ Fallunterscheidung:
+		+ $\overrightarrow{v}=\overrightarrow{0}$
+			+ Kern(F)= ℝ
+			+ Bild(F)= $\{\overrightarrow{0}\}$
+		+ $\overrightarrow{v}≠\overrightarrow{0}$
+			+ Kern(F)=$\{\overrightarrow{0}\}$
+			+ Bild(F)=Span($\{\overrightarrow{v}\})$
++  Ebene
+	+ F: ℝ²-->ℝ³
+	+ $λ$-->$λ\overrightarrow{v}$
+	+ Fallunterscheidungen
++ Matrix
+	+ A∈ℝ<sup>m×n</sup>
+	+ F: ℝ<sup>n</sup>-->ℝ<sup>m</sup>
+	+ $\overrightarrow{v}$-->$y=A\overrightarrow{v}$
+		+ Kern(F)=Kern()
