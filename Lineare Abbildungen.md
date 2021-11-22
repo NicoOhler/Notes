@@ -18,4 +18,14 @@
 + Kern(F):=$\{\overrightarrow{v}∈V:\overrightarrow{v}$-->$\overrightarrow{0}\}$
 	+ Kern von F = Menge aller Elemente, welche Null abbilden
 + Bild(F):=$\{F(\overrightarrow{v}):\overrightarrow{v}∈V\}$
-	+ Bild vo
+	+ Bild von F = Menge aller Elemente in V erreichbar durch Abbildung F
+
+### Menge linearer Abbildungen von V und W
++ $L(V,W):={F:V$-->$W:F linear}$
+
+### Spezielle Abbildungen
++ Nullabbildung:
+	+ jeder Vektor bildet den Nullvektor ab
++ identische Abbildung
+	+ V-->V
+	+ jeder Vektor bildet sich selber ab
