@@ -16,6 +16,9 @@ Folgen
 		Cauchy Kriterium
 			TODO
 		monoton wachsend/fallend und beschränkt
+		Monotonie bei rekursiv definierten Folgen
+			x<sub>n<sub> > x<sub>n+1<sub>
+			umformen auf x<sub>n+1<sub> > x<sub>n+2<sub>
 	Grenzwertrechnungen
 		a+-*b=lim an+-*bn
 		auch div wenn != 0
