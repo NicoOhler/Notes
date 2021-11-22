@@ -47,4 +47,4 @@
 	+ A∈ℝ<sup>m×n</sup>
 	+ F: ℝ<sup>n</sup>-->ℝ<sup>m</sup>
 	+ $\overrightarrow{v}$-->$y=A\overrightarrow{v}$
-		+ Kern(F)=Kern(A)=Lösungsmenge des homogenen linearen GLS
+		+ Kern(F)=Kern(A)=Lösungsmenge des homogenen linearen xGLS
