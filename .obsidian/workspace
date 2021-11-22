@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled.md",
+            "file": "NRLA/Teststoff.md",
             "mode": "source"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "NRLA/Teststoff.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +98,8 @@
   },
   "active": "71bf06fb767950c0",
   "lastOpenFiles": [
+    "NRLA/Teststoff.md",
+    "NRLA/Numerisches Rechnen.md",
     "Untitled.md",
     "Analysis/Funktionen/Winkelfunktionen.md",
     "Analysis/Funktionen/Exponentialfunktion.md",
@@ -105,8 +107,6 @@
     "Analysis/Funktionen/Funktionen.md",
     "Analysis/Folgen und Reihen/Potenzreihen.md",
     "NRLA/Vektoren/Allgemeine Vektorräume.md",
-    "NRLA/Vektoren/Lineare Unabhängigkeit.md",
-    "NRLA/Vektoren/Basis.md",
-    "NRLA/Vektoren/Vektor.md"
+    "NRLA/Vektoren/Lineare Unabhängigkeit.md"
   ]
 }

@@ -1,3 +1,0 @@
-# Numerisches Rechnen
-
-[[NRLA]]
