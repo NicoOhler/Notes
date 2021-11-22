@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Kombinatorik.md",
-            "mode": "preview"
+            "file": "Analysis/Teststoff.md",
+            "mode": "source"
           }
         }
       }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Kombinatorik.md",
+                "file": "Analysis/Teststoff.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +98,15 @@
   },
   "active": "71bf06fb767950c0",
   "lastOpenFiles": [
+    "Analysis/Teststoff.md",
+    "NRLA/Teststoff.md",
+    "Analysis/Folgen und Reihen/Satz von Bolzano-Weierstraß.md",
     "Analysis/Kombinatorik.md",
     "Analysis/Komplexe Zahlen.md",
     "Analysis/Binomische Lehrsatz.md",
     "Analysis/Bernoulli Ungleichung.md",
     "Analysis/Analysis.md",
     "Analysis/Folgen und Reihen/Supremum und Infimum.md",
-    "Analysis/Folgen und Reihen/Satz von Bolzano-Weierstraß.md",
-    "Analysis/Folgen und Reihen/Reihen und Folgen.md",
-    "Analysis/Folgen und Reihen/Potenzreihen.md",
-    "Analysis/Folgen und Reihen/Monotonie.md"
+    "Analysis/Folgen und Reihen/Reihen und Folgen.md"
   ]
 }
