@@ -33,7 +33,7 @@
 	+  Wenn |x - x<sub>0</sub>| < λε, dann gilt |f(x) - f(x<sub>0</sub>)| < ε
 
 ### Spezielle Funktionen
-+ Polynomfunktionen sind immer stetig
++ Potenzreihen, rationale Funktionen und Polynomfunktionen sind immer stetig
 + p, q sind Polynome ==> $r(x) = \frac{p(x)}{q(x)}$ ist eine rationale Funktion
 	+ r ist stetig auf Definitionsbereich D = {x∈ℝ | q(x) ≠ 0}
 	+ rationale Funktionen sind stetig, wenn Nenner ≠ 0
