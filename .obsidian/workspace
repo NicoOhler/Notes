@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Teststoff.md",
-            "mode": "source"
+            "file": "Analysis/Folgen und Reihen/Konvergenzkriterien für Reihen.md",
+            "mode": "preview"
           }
         }
       }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Teststoff.md",
+                "file": "Analysis/Folgen und Reihen/Konvergenzkriterien für Reihen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +98,15 @@
   },
   "active": "71bf06fb767950c0",
   "lastOpenFiles": [
+    "Analysis/Folgen und Reihen/Konvergenzkriterien für Reihen.md",
+    "Analysis/Folgen und Reihen/Reihen und Folgen.md",
+    "Analysis/Folgen und Reihen/Potenzreihen.md",
+    "Analysis/Funktionen/Exponentialfunktion.md",
     "Analysis/Teststoff.md",
     "NRLA/Teststoff.md",
     "Analysis/Folgen und Reihen/Satz von Bolzano-Weierstraß.md",
     "Analysis/Kombinatorik.md",
     "Analysis/Komplexe Zahlen.md",
-    "Analysis/Binomische Lehrsatz.md",
-    "Analysis/Bernoulli Ungleichung.md",
-    "Analysis/Analysis.md",
-    "Analysis/Folgen und Reihen/Supremum und Infimum.md",
-    "Analysis/Folgen und Reihen/Reihen und Folgen.md"
+    "Analysis/Binomische Lehrsatz.md"
   ]
 }
