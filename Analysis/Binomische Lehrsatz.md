@@ -2,7 +2,7 @@
  + (x+y)<sup>n</sup> = Σ von k = 0 bis n ($\binom{n}{k}$x<sup>n-k</sup>y<sup>k</sup>)
 
 ### Binomialkoeffizient $\binom{n}{k}$
-+ + $\binom{n}{k}$ = Π von i = 1 bis k ($\frac{{n+1-i}}{i}$)
++ $\binom{n}{k}$ = Π von i = 1 bis k ($\frac{{n+1-i}}{i}$)
 + Ist n > 0 gilt auch:
 	+ $\binom{n}{k}$ = $\frac{{n!}}{k!(n-k)!}$
 + Mathematische Funktion, welche in der [[Kombinatorik]] oft Anwendung findet.
