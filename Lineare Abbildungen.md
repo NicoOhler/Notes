@@ -11,6 +11,11 @@
 	+ ==> $F(\overrightarrow{v})=<\overrightarrow{b},\overrightarrow{v}>$ - eindeutig bestimmt
 
 ### Eigenschaften von linearen Abbildungen
-+  $\overrightarrow{0}$-->$\overrightarrow{0}$
-	+  
++ $\overrightarrow{0}$-->$\overrightarrow{0}$
++ $\overrightarrow{a}-\overrightarrow{b}$-->$F(a)-F(b)$
 
+### Kern und Bild
++ Kern(F):=$\{\overrightarrow{v}∈V:\overrightarrow{v}$-->$\overrightarrow{0}\}$
+	+ Kern von F = Menge aller Elemente, welche Null abbilden
++ Bild(F):=$\{F(\overrightarrow{v}):\overrightarrow{v}∈V\}$
+	+ Bild vo
