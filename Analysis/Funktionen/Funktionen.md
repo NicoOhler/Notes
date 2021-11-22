@@ -1,7 +1,7 @@
 # Funktionen
 + Eine Abbildung f: I --> ℝ (I⊆ℝ, zumeist ein Intervall) heißt reelle Funktion
 	+ injektiv
-		+ wenn für jedes x: f(x) eindeutig ist
+		+ Element der Zielmenge höchstens einmal von f(x) abgebildet
 	+ surjektiv
 		+ jedes Element in Zielmenge mindestens einmal von f(x) abgebildet
 	+ bijektiv
@@ -25,7 +25,7 @@
 + Gerade Funktion
 	+ symmetrisch zur y-Achse
 	+ f(x) = f(-x)
-+ Gerade Funktion
++ Ungerade Funktion
 	+ symmetrisch zum Ursprung
 	+ f(-x) = -f(x)
 
