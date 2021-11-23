@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Folgen und Reihen/Cauchy-Kriterium.md",
+            "file": "Analysis/Kombinatorik.md",
             "mode": "preview"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Folgen und Reihen/Cauchy-Kriterium.md",
+                "file": "Analysis/Kombinatorik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +98,7 @@
   },
   "active": "71bf06fb767950c0",
   "lastOpenFiles": [
+    "Analysis/Kombinatorik.md",
     "Analysis/Folgen und Reihen/Cauchy-Kriterium.md",
     "Analysis/Teststoff.md",
     "Analysis/Folgen und Reihen/Beschränktheit.md",
@@ -106,7 +107,6 @@
     "Analysis/Vollständige Induktion.md",
     "NRLA/Teststoff.md",
     "Images/Kombinatorik-Formeln-1024x576.jpg",
-    "Analysis/Kombinatorik.md",
     "Analysis/Folgen und Reihen/Konvergenzkriterien für Reihen.md"
   ]
 }
