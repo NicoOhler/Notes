@@ -6,10 +6,9 @@
 	3) Behauptung A(n+1)
 	4) Schritt A(n)==>A(n+1)
 + Kombinatorik?
-	+ 
-	Cheat-Sheet ausdrucken
+	+ Cheat-Sheet ausdrucken
 + Binomische Lehrsatz
-	+ (a+b)^n = sum k=0 bis inf (n über k) x^k y^(n-k)
+	+ (a+b)^n = sum k=0 bis n (n über k) x^k y^(n-k)
 	+ n über k = n!/(k!(n-k)!)
 
 + Folgen
@@ -55,7 +54,7 @@
 		∀ε>0 ∃δ>0 ∀x∈I: |x - x0| < δ ==> |f(x) - f(x0)| < ε
 		+ |f(x) - f(x0)| ersetzen mit Formel ==> umformen/abschätzen
 		+  ==> |x - x0| separater Term
-		+  	λ * |x - x0| < ε ==> |x - x0| < λε = δ ==> stetig in x0
+		+ λ * |x - x0| < ε ==> |x - x0| < λε = δ ==> stetig in x0
 		+ Trick TODO
 
 + Sonstige Sätze

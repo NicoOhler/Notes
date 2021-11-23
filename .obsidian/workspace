@@ -7,9 +7,10 @@
         "id": "71bf06fb767950c0",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "Images/Kombinatorik-Formeln-1024x576.jpg"
+            "file": "Analysis/Folgen und Reihen/Cauchy-Kriterium.md",
+            "mode": "preview"
           }
         }
       }
@@ -78,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Images/Kombinatorik-Formeln-1024x576.jpg",
+                "file": "Analysis/Folgen und Reihen/Cauchy-Kriterium.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +98,15 @@
   },
   "active": "71bf06fb767950c0",
   "lastOpenFiles": [
+    "Analysis/Folgen und Reihen/Cauchy-Kriterium.md",
+    "Analysis/Teststoff.md",
+    "Analysis/Folgen und Reihen/Beschränktheit.md",
+    "Analysis/Komplexe Zahlen.md",
+    "Analysis/Bernoulli Ungleichung.md",
+    "Analysis/Vollständige Induktion.md",
+    "NRLA/Teststoff.md",
     "Images/Kombinatorik-Formeln-1024x576.jpg",
     "Analysis/Kombinatorik.md",
-    "Analysis/Teststoff.md",
-    "Analysis/Folgen und Reihen/Konvergenzkriterien für Reihen.md",
-    "Analysis/Folgen und Reihen/Reihen und Folgen.md",
-    "Analysis/Folgen und Reihen/Intervallschachtelung.md",
-    "Analysis/Folgen und Reihen/Monotonie.md",
-    "Analysis/Folgen und Reihen/Potenzreihen.md",
-    "Analysis/Folgen und Reihen/Sandwich Theorem.md",
-    "Analysis/Binomische Lehrsatz.md"
+    "Analysis/Folgen und Reihen/Konvergenzkriterien für Reihen.md"
   ]
 }
