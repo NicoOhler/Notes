@@ -7,10 +7,9 @@
         "id": "71bf06fb767950c0",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "Analysis/Folgen und Reihen/Konvergenzkriterien für Reihen.md",
-            "mode": "preview"
+            "file": "Images/Kombinatorik-Formeln-1024x576.jpg"
           }
         }
       }
@@ -79,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Folgen und Reihen/Konvergenzkriterien für Reihen.md",
+                "file": "Images/Kombinatorik-Formeln-1024x576.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +97,15 @@
   },
   "active": "71bf06fb767950c0",
   "lastOpenFiles": [
+    "Images/Kombinatorik-Formeln-1024x576.jpg",
+    "Analysis/Kombinatorik.md",
+    "Analysis/Teststoff.md",
     "Analysis/Folgen und Reihen/Konvergenzkriterien für Reihen.md",
     "Analysis/Folgen und Reihen/Reihen und Folgen.md",
     "Analysis/Folgen und Reihen/Intervallschachtelung.md",
     "Analysis/Folgen und Reihen/Monotonie.md",
     "Analysis/Folgen und Reihen/Potenzreihen.md",
     "Analysis/Folgen und Reihen/Sandwich Theorem.md",
-    "Analysis/Binomische Lehrsatz.md",
-    "Analysis/Funktionen/Exponentialfunktion.md",
-    "Analysis/Teststoff.md",
-    "NRLA/Teststoff.md"
+    "Analysis/Binomische Lehrsatz.md"
   ]
 }
