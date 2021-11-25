@@ -73,3 +73,9 @@
  + Monotonie
 	 + streng monoton wachsend auf ($\frac{-π}{2},\frac{π}{2}$)
 	 + somit injektiv und stetig
+	 + tanx(x) näher sich +/-∞ and
+		 + rechte Intervallende ==> $\frac{π}{2}$ ∞
+		 + linken Intervallende ==> $\frac{-π}{2}$ -∞
+	 + Laut ZWS
+		 + für jedes y∈ℝ gibt es ein $x_1,x_2∈(\frac{-π}{2},\frac{π}{2})$
+		 + sodass $tan(x_1$
