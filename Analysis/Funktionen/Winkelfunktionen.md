@@ -13,7 +13,7 @@
 + $cos(-x)=cos(x)$
 	+ ungerade Funktion
 + $sin(x)$ und $cos(x)$ sind alternierende Reihen
-+ $sin(x)$ und $cos(x)$ sind bijektiv
++ $sin(x)$ und $cos(x)$ sind bijektiv in [0,2π)
 
 ### Additionstheoreme
 + $cos(x+/-y)=cos(x)*cos(y)-/+sin(x)*sin(y)$
