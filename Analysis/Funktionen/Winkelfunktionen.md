@@ -58,3 +58,18 @@
 		+ {$x∈ℝ|cos(x)=y$} = {$arccos(y)+2kπ,2kπ-arccos(y)|k∈ℤ$}		
 	+ $sin(x)=y$
 		+ {$x∈ℝ|sin(x)=y$} = {$arcsin(y)+2kπ,(2k+1)π-arcsin(y)|k∈ℤ$}
+
+### TODO Polarkoordinaten
++ #VO 23 bis min 18
+
+### Tangens und Cotangens
+ + $tan(x)=\frac{sin(x)}{cos(x)}$
+	 + nicht definiert für cos(x)=0
+ + $cot(x)=\frac{cos(x)}{sin(x)}$
+	 + $cot(x)=\frac{1}{tan(x)}$
+	 + nicht definiert für sin(x)=0
+ + $tan(-x)=-tan(x)$
+	 + ungerade Funktion
+ + Monotonie
+	 + streng monoton wachsend auf ($\frac{-π}{2},\frac{π}{2}$)
+	 + somit injektiv und stetig
