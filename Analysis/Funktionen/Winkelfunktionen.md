@@ -7,6 +7,7 @@
 		+ $\sum_{n=0}^∞ (-1)^n \frac{x^{2n+1}}{(2n+1)!}=sin(x)$
 	+ $e^{ix}=cos(x) + isin(x)$
 + $sin(x)^2+cos(x)^2=1$
++ 2π-periodisch
 + $|sin(x)|≤1$ und $|cos(x)|≤1$
 + $sin(-x)=-sin(x)$
 	+ gerade Funktion
@@ -48,7 +49,7 @@
 	+ für k∈ℤ
 
 
-### Umkehrfunktionen
+### Umkehrfunktionen von cos(x) und sin(x)
 + arc(us)cosinus und arc(us)sinus
 	+ Umkehrfunktionen der eingeschränkten cos(x) und sin(x)
 	+ Zyklometrische Funktionen
@@ -70,6 +71,7 @@
 	 + nicht definiert für sin(x)=0
  + $tan(-x)=-tan(x)$
 	 + ungerade Funktion
+ + π-periodisch
  + Monotonie
 	 + streng monoton wachsend auf ($\frac{-π}{2},\frac{π}{2}$)
 	 + somit injektiv und stetig
@@ -78,4 +80,8 @@
 		 + linken Intervallende ==> $\frac{-π}{2}$ -∞
 	 + Laut ZWS
 		 + für jedes y∈ℝ gibt es ein $x_1,x_2∈(\frac{-π}{2},\frac{π}{2})$
-		 + sodass $tan(x_1$
+		 + sodass $tan(x_1)<y<tan(x_2)$ ==> über Intervallschachtelung herausfindbar
+		 + $tan(\frac{-π}{2},\frac{π}{2})$ ist surjektiv ==> bijektiv
+
+### Umkehrfunktionen von tan(x) und cot(x)
++ 
