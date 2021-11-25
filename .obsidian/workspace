@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Folgen und Reihen/Konvergenzkriterien für Reihen.md",
+            "file": "Analysis/Funktionen/Winkelfunktionen.md",
             "mode": "preview"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Folgen und Reihen/Konvergenzkriterien für Reihen.md",
+                "file": "Analysis/Funktionen/Winkelfunktionen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +98,8 @@
   },
   "active": "71bf06fb767950c0",
   "lastOpenFiles": [
+    "Analysis/Funktionen/Winkelfunktionen.md",
+    "Analysis/Funktionen/Exponentialfunktion.md",
     "Analysis/Folgen und Reihen/Konvergenzkriterien für Reihen.md",
     "Analysis/Folgen und Reihen/Intervallschachtelung.md",
     "Analysis/Bernoulli Ungleichung.md",
@@ -105,8 +107,6 @@
     "Analysis/Folgen und Reihen/Cauchy-Kriterium.md",
     "Analysis/Teststoff.md",
     "Analysis/Folgen und Reihen/Beschränktheit.md",
-    "Analysis/Komplexe Zahlen.md",
-    "Analysis/Vollständige Induktion.md",
-    "NRLA/Teststoff.md"
+    "Analysis/Komplexe Zahlen.md"
   ]
 }
