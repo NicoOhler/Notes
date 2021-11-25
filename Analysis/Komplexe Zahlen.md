@@ -47,6 +47,8 @@
 	+ Multiplikation ==> Längen multipliziert und Winkel addiert
 		 ![[Pasted image 20211108172247.png]]
 
+### Wurzel ziehen in ℂ
++ TODO VO#23
 
 
 

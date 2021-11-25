@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Funktionen/Winkelfunktionen.md",
-            "mode": "preview"
+            "file": "Analysis/Komplexe Zahlen.md",
+            "mode": "source"
           }
         }
       }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Funktionen/Winkelfunktionen.md",
+                "file": "Analysis/Komplexe Zahlen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +98,15 @@
   },
   "active": "71bf06fb767950c0",
   "lastOpenFiles": [
+    "Analysis/Komplexe Zahlen.md",
+    "Analysis/Teststoff.md",
+    "Analysis/Kombinatorik.md",
     "Analysis/Funktionen/Winkelfunktionen.md",
+    "Analysis/Funktionen/Funktionen.md",
     "Analysis/Analysis.md",
     "Analysis/Funktionen/Stetigkeit.md",
-    "Analysis/Komplexe Zahlen.md",
     "Analysis/Funktionen/Exponentialfunktion.md",
     "Analysis/Folgen und Reihen/Konvergenzkriterien für Reihen.md",
-    "Analysis/Folgen und Reihen/Intervallschachtelung.md",
-    "Analysis/Bernoulli Ungleichung.md",
-    "Analysis/Kombinatorik.md",
-    "Analysis/Folgen und Reihen/Cauchy-Kriterium.md"
+    "Analysis/Folgen und Reihen/Intervallschachtelung.md"
   ]
 }

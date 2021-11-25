@@ -84,4 +84,9 @@
 		 + $tan(\frac{-π}{2},\frac{π}{2})$ ist surjektiv ==> bijektiv
 
 ### Umkehrfunktionen von tan(x) und cot(x)
-+ 
++ ...
+
+
+
+
+[[Funktionen]] [[Komplexe Zahlen]] [[Exponentialfunktion]]
