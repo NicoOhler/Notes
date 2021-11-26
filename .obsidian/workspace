@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NRLA/Lineare Abbildungen.md",
+            "file": "NRLA/Vektoren/Vektor.md",
             "mode": "preview"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NRLA/Lineare Abbildungen.md",
+                "file": "NRLA/Vektoren/Vektor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,8 +98,8 @@
   },
   "active": "71bf06fb767950c0",
   "lastOpenFiles": [
-    "NRLA/Lineare Abbildungen.md",
     "NRLA/Vektoren/Vektor.md",
+    "NRLA/Lineare Abbildungen.md",
     "Analysis/Funktionen/Winkelfunktionen.md",
     "Analysis/Funktionen/Funktionen.md",
     "Analysis/Komplexe Zahlen.md",
