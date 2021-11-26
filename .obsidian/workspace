@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Funktionen/Winkelfunktionen.md",
+            "file": "NRLA/Lineare Abbildungen.md",
             "mode": "preview"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Funktionen/Winkelfunktionen.md",
+                "file": "NRLA/Lineare Abbildungen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +98,8 @@
   },
   "active": "71bf06fb767950c0",
   "lastOpenFiles": [
+    "NRLA/Lineare Abbildungen.md",
+    "NRLA/Vektoren/Vektor.md",
     "Analysis/Funktionen/Winkelfunktionen.md",
     "Analysis/Funktionen/Funktionen.md",
     "Analysis/Komplexe Zahlen.md",
@@ -105,8 +107,6 @@
     "Analysis/Kombinatorik.md",
     "Analysis/Analysis.md",
     "Analysis/Funktionen/Stetigkeit.md",
-    "Analysis/Funktionen/Exponentialfunktion.md",
-    "Analysis/Folgen und Reihen/Konvergenzkriterien für Reihen.md",
-    "Analysis/Folgen und Reihen/Intervallschachtelung.md"
+    "Analysis/Funktionen/Exponentialfunktion.md"
   ]
 }
