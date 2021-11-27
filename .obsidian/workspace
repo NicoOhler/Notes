@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Allgemeine Mathematik/Quantoren.md",
+            "file": "Allgemeine Mathematik/Logische Verknüpfungen.md",
             "mode": "preview"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Allgemeine Mathematik/Quantoren.md",
+                "file": "Allgemeine Mathematik/Logische Verknüpfungen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +98,15 @@
   },
   "active": "71bf06fb767950c0",
   "lastOpenFiles": [
+    "Allgemeine Mathematik/Logische Verknüpfungen.md",
+    "Allgemeine Mathematik/Mengenlehre(Set theory).md",
     "Allgemeine Mathematik/Quantoren.md",
+    "Allgemeine Mathematik/Zeichensammlung.md",
+    "Allgemeine Mathematik/Allgemeine Mathematik.md",
     "Analysis/Folgen und Reihen/Konvergenzkriterien für Reihen.md",
     "Analysis/Folgen und Reihen/Sandwich Theorem.md",
     "Analysis/Folgen und Reihen/Cauchy-Kriterium.md",
     "Analysis/Funktionen/Exponentialfunktion.md",
-    "NRLA/Vektoren/Allgemeine Vektorräume.md",
-    "NRLA/Vektoren/Untervektorräume.md",
-    "NRLA/Vektoren/Vektor.md",
-    "NRLA/Vektoren/Basis.md",
-    "NRLA/Lineare Abbildungen.md"
+    "NRLA/Vektoren/Allgemeine Vektorräume.md"
   ]
 }
