@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Folgen und Reihen/Konvergenzkriterien für Reihen.md",
+            "file": "Allgemeine Mathematik/Quantoren.md",
             "mode": "preview"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Folgen und Reihen/Konvergenzkriterien für Reihen.md",
+                "file": "Allgemeine Mathematik/Quantoren.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +98,7 @@
   },
   "active": "71bf06fb767950c0",
   "lastOpenFiles": [
+    "Allgemeine Mathematik/Quantoren.md",
     "Analysis/Folgen und Reihen/Konvergenzkriterien für Reihen.md",
     "Analysis/Folgen und Reihen/Sandwich Theorem.md",
     "Analysis/Folgen und Reihen/Cauchy-Kriterium.md",
@@ -106,7 +107,6 @@
     "NRLA/Vektoren/Untervektorräume.md",
     "NRLA/Vektoren/Vektor.md",
     "NRLA/Vektoren/Basis.md",
-    "NRLA/Lineare Abbildungen.md",
-    "Analysis/Funktionen/Winkelfunktionen.md"
+    "NRLA/Lineare Abbildungen.md"
   ]
 }
