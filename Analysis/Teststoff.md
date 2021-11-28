@@ -10,11 +10,8 @@
 + Binomische Lehrsatz
 	+ (a+b)^n = sum k=0 bis n (n über k) x^k y^(n-k)
 	+ n über k = n!/(k!(n-k)!)
-
 + Folgen
 	+ Konvergenz
-		+ Cauchy Kriterium
-			+ TODO
 		+ monoton wachsend/fallend und beschränkt
 		+ Monotonie bei rekursiv definierten Folgen
 			+ x<sub>n</sub> > x<sub>n+1</sub>
@@ -28,24 +25,22 @@
 		+ Teleskopreihen und TODO
 	+ konvergiert genau dann, wenn Folge ihrer Partialsummen konvergiert - todo
 	+ Konvergenzkriterien
-		+ Cauchy-Kriterium notwendig?
 		+ Majorantenkriterium
 		+ Minorantenkriterium
 		+ Leibniz-Kriterium
 		+ Quotienten-Kriterium
 		+ Wurzel-Kriterium
 + Funktionen
-	+ injektiv ==> Element der Zielmenge höchstens einmal von f(x) abgebildet
+	+ injektiv ==> jedes Element der Zielmenge höchstens einmal von f(x) abgebildet
+		+ strenge Monotonie ==> injektiv
 	+ surjektiv ==> jedes Element in Zielmenge mindestens einmal von f(x) abgebildet
-	+ bijektiv ==> injektiv und surjektiv ==> jedes Element in Zielmenge genau einmal von f(x) + abgebildet
+	+ bijektiv ==> injektiv und surjektiv ==> jedes Element in Zielmenge genau einmal von f(x) abgebildet
 	+ Fixpunkt ==> f(x)=x
-	+ strenge Monotonie ==> injektiv
 	+ gerade Funktion symmetrisch zur y-Achse ==> f(x) = f(-x)
 	+ ungerade Funktion symmetrisch zum Ursprung ==> f(-x) = -f(x)
-
 + Stetigkeit
 	+ Nullstellensatz
-		i+ st f: [a,b]-->R stetig und f(a)*f(b) < 0 ==> f(x)=0 existiert und kann mittels Intervallschachtelung bestimmt werden
+		+ ist f: [a,b]-->R stetig und f(a)*f(b) < 0 ==> f(x)=0 existiert und kann mittels Intervallschachtelung bestimmt werden
 	+ Zwischenwertsatz
 		+ ist f: [a,b]-->R stetig ==> f nimmt jeden Wert zwischen f(a) und f(b) an
 	+ Grenzwertkriterium
