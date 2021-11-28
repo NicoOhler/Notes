@@ -49,7 +49,7 @@
 		∀ε>0 ∃δ>0 ∀x∈I: |x - x0| < δ ==> |f(x) - f(x0)| < ε
 		+ |f(x) - f(x0)| ersetzen mit Formel ==> umformen/abschätzen
 		+  ==> |x - x0| separater Term
-		+ λ * |x - x0| < ε ==> |x - x0| < λε = δ ==> stetig in x0
+		+ λ * |x - x0| < ε ==> |x - x0| < ε/λ = δ ==> stetig in x0
 		+ Trick TODO
 
 + Sonstige Sätze
