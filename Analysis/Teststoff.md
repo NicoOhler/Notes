@@ -16,7 +16,7 @@
 		+ Monotonie bei rekursiv definierten Folgen
 			+ x<sub>n</sub> > x<sub>n+1</sub>
 			+ umformen auf x<sub>n+1</sub> > x<sub>n+2</sub>
-	+ Grenzwertrechnungen
++ Grenzwertrechnungen
 	+ a+-*b=lim an+-*bn
 	+ auch div wenn != 0
 	+ Bruch durch n^x
