@@ -22,7 +22,7 @@
 	+ Bruch durch n^x
 + Reihen
 	+ Wert
-		+ Teleskopreihen und TODO
+		+ Teleskopreihen
 	+ konvergiert genau dann, wenn Folge ihrer Partialsummen konvergiert - todo
 	+ Konvergenzkriterien
 		+ Majorantenkriterium
