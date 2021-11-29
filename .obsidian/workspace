@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Folgen und Reihen/Konvergenzkriterien für Reihen.md",
+            "file": "Allgemeine Mathematik/Quantoren.md",
             "mode": "source"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Folgen und Reihen/Konvergenzkriterien für Reihen.md",
+                "file": "Allgemeine Mathematik/Quantoren.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +98,15 @@
   },
   "active": "71bf06fb767950c0",
   "lastOpenFiles": [
+    "Allgemeine Mathematik/Quantoren.md",
+    "Allgemeine Mathematik/Mengenlehre(Set theory).md",
+    "Allgemeine Mathematik/Allgemeine Mathematik.md",
+    "Allgemeine Mathematik/Logische Verknüpfungen.md",
     "Analysis/Folgen und Reihen/Konvergenzkriterien für Reihen.md",
     "Analysis/Teststoff.md",
     "NRLA/Teststoff.md",
     "NRLA/NRLA.md",
     "Analysis/Folgen und Reihen/Reihen und Folgen.md",
-    "Analysis/Folgen und Reihen/Supremum und Infimum.md",
-    "Analysis/Folgen und Reihen/Satz von Bolzano-Weierstraß.md",
-    "Analysis/Folgen und Reihen/Sandwich Theorem.md",
-    "Analysis/Folgen und Reihen/Potenzreihen.md",
-    "Analysis/Folgen und Reihen/Monotonie.md"
+    "Analysis/Folgen und Reihen/Supremum und Infimum.md"
   ]
 }
