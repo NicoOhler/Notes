@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "absolut",
+                "query": "surjek",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,14 +99,14 @@
   "active": "71bf06fb767950c0",
   "lastOpenFiles": [
     "NRLA/Lineare Abbildungen.md",
+    "Analysis/Funktionen/Funktionen.md",
+    "Analysis/Funktionen/Winkelfunktionen.md",
+    "Analysis/Teststoff.md",
     "NRLA/Vektoren/Allgemeine Vektorräume.md",
     "NRLA/Vektoren/Lineare Unabhängigkeit.md",
     "NRLA/Vektoren/Basis.md",
     "NRLA/Vektoren/Vektor.md",
     "NRLA/Vektoren/Untervektorräume.md",
-    "Analysis/Funktionen/Funktionen.md",
-    "Analysis/Funktionen/Stetigkeit.md",
-    "Analysis/Teststoff.md",
-    "Analysis/Vollständige Induktion.md"
+    "Analysis/Funktionen/Stetigkeit.md"
   ]
 }
