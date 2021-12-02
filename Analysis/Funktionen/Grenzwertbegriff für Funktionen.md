@@ -21,3 +21,5 @@
 ### Uneigentlicher Grenzwert
 + $\lim{x \to x_0+} f(x)=+\infty$ <==> ∀M>0 ∃δ>0 ∀x∈\[a,b]: 0<|x-$x_0$|<δ ==> |f(x)-A|>M
 + $\lim{x \to x_0-} f(x)=-\infty$ <==> ∀M>0 ∃δ>0 ∀x∈\[a,b]: 0<|x-$x_0$|<δ ==> |f(x)-A|< -M
++ $\lim{x \to +\infty} f(x)=A$ <==> ∀ε>0 ∃M ∀x>M: |f(x)-A|< ε
++ $\lim{x \to -\infty} f(x)=A$ <==> ∀ε>0 ∃M ∀x< -M: |f(x)-A|< ε
