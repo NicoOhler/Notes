@@ -48,18 +48,21 @@
 		 ![[Pasted image 20211108172247.png]]
 
 ### Wurzel ziehen in ℂ
-+ w∈ℂ, n∈ℕ
-+ $z^n=w$
-	+ $z=|z|e^{iφ}$ - unbekannt
-	+ $w=|w|e^{iψ}$ - bekannt
-		+ $|w|=\sqrt[2]{a+bi}$
-		+ ψ 
-			+ $|w|e^{iψ}=|w|(cos(ψ)+isin(ψ)$==>
-			+ $cos=a/|w|$
-				+ 2 Lösungen
-				+ $arcos=a/|w|$
-				+ $-arcos=a/|w|$
-			+ $sin=b/|w|$	
++ $z^n=w$ w∈ℂ, n∈ℕ
++ $z=|z|e^{iφ}$ - unbekannt
++ $w=|w|e^{iψ}$ - bekannt
+	+ $|w|=\sqrt[2]{a+bi}$
+	+ ψ 
+		+ $|w|e^{iψ}=|w|(cos(ψ)+isin(ψ))$
+		+ $cos(ψ)=a/|w|$
+			+ 2 Lösungen
+			+ $arcos(a/|w|)=ψ$
+			+ $-arcos(a/|w|)=ψ$
+		+ $sin(b/|w|)=ψ$
+			+ positiv ==> $arcos(a/|w|)=ψ$
+			+ negativ ==> $-arcos(a/|w|)=ψ$
++ Formel: $z=\sqrt[n]{|w|}exp(\frac{1}{n}(ψ+2kπ))$ k=0,...,n-1
+	+ hergeleited durch $z^n=|z|^n e^{inφ}=|w|e^{iψ}=w$
 
 
 
