@@ -32,7 +32,7 @@
 + Kettenregel
 	+ $(f.g)'(x)=f'(g(x))*g'(x)$
 + Quotientenregel
-	+ $\frac{f}{g}=\frac{f'g-fg'}{g^2}$
+	+ $(\frac{f}{g})'=\frac{f'g-fg'}{g^2}$
 + Umkehrregel
 	+ $(f^{-1})'=\frac{1}{f'}$
 
@@ -42,3 +42,4 @@
 + $f(x)=1/x^n$ ==> $f'(x)=-nx^{-n-1}$
 + $f(x)=e^x$ ==> $f'(x)=e^x$
 + $ln'(x)=\frac{1}{x}$
++ $(a^x)'$ ==> $a^x*ln(a)$
