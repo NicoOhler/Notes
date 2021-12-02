@@ -30,5 +30,13 @@
 + Produktregel
 	+ $(f*g)(x)$ ==> $(f*g)'=f'*g+f*g'$
 + Kettenregel
-	+ $(f.g)'(x)=f'(g(x)$
+	+ $(f.g)'(x)=f'(g(x))*g'(x)$
 + Quotientenregel
+	+ $\frac{f}{g}=\frac{f'(x_0)g(x_0)-f(x_0)g'(x_0)}{g(x_0)^2}$
+
+### Ableitungen elementarer Funktionen
++ $f(x)=x^n$ ==> $f'(x)=nx^{n-1}$
++ $f(x)=1/x$ ==> $f'(x)=-\frac{1}{x^2}$
++ $f(x)=1/x^n$ ==> $f'(x)=-nx^{-n-1}$
++ $f(x)=e^x$ ==> $f'(x)=e^x$
++ 
