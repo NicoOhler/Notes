@@ -16,7 +16,7 @@
 		+ $x_1=ln(y+\sqrt[2]{y^2-1})$
 		+ $x_2=-ln(y+\sqrt[2]{y^2-1})=-x_1$
 	+ $arcosh(y)=ln(y+\sqrt[2]{y^2-1})$
-+ arsinh: ℝ->ℝ ist die Umkehrfunktion
++ arsinh: ℝ-->ℝ ist die Umkehrfunktion
 	+ Area sinus hyperbolicus
 	+ $sinh(x)=y$ hat für y≥1 genau zwei Lösungen
 		+ $x_1=ln(y+\sqrt[2]{y^2+1})$
@@ -28,6 +28,15 @@
 ### Additionstheoreme
 + $cosh(x+y)=cosh(x)cosh(y)+sinh(x)sinh(y)$+ $sinh(x+y)=sinh(x)cosh(y)+cosh(x)sinh(y)$
 
-### Area tangens hyperbolicus und cot(x)
+### Area tangens hyperbolicus
 + $tanh(x)=\frac{sinh(x)}{cosh(x)}=1-\frac{2}{e^{2x}+1}$
 	+ $-1<tanh(x)<1$
+	+ $tanh: ℝ-->(-1,1)$
+	+ $artanh: (-1,1)--> ℝ$
+
+###  Cotangens hyperbolicus
++ $coth(x)=\frac{cosh(x)}{sinh(x)}$
+	+ x≠0
+	+ nimmt Werte von $(-∞,-1)$ und $(1,∞)$an
++ arcoth: $(-∞,-1)∪(1,∞)$-->ℝ\\{0}
++ $arcoth(y)=artanh(\frac{1}{y})=\frac{1}{2}ln(\frac{1-\frac{1}{y}}{1+\frac{1}{y}})$
