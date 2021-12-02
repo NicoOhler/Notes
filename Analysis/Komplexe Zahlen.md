@@ -48,7 +48,7 @@
 		 ![[Pasted image 20211108172247.png]]
 
 ### Wurzel ziehen in ℂ
-+ $z^n=w$ w∈ℂ, n∈ℕ
++ $z^n=w$ w∈ℂ\\{0}, n∈ℕ
 + $z=|z|e^{iφ}$ - unbekannt
 + $w=|w|e^{iψ}$ - bekannt
 	+ $|w|=\sqrt[2]{a+bi}$
@@ -63,6 +63,7 @@
 			+ negativ ==> $-arcos(a/|w|)=ψ$
 + Formel: $z=\sqrt[n]{|w|}exp(\frac{1}{n}(ψ+2kπ))$ k=0,...,n-1
 	+ hergeleited durch $z^n=|z|^n e^{inφ}=|w|e^{iψ}=w$
+	+ keine Lösung für w=0
 
 ### Multiplikation
 + z,w∈ℂ
@@ -70,4 +71,8 @@
 	+ $w=|w|e^{iψ}$
 + $zw=|z||w|e^{i(ψ+φ+2kπ)}$
 
+### Logarithmus
++ $log(w)=ln|w|+i arg(w)$
+	+ $arg(w)∈(-∈,∈]$
++ $i^i=e^{ilog(i)}=e^{i^2\frac{π}{2}}=e^{-\frac{π}{2}}$
 
