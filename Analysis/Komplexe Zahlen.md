@@ -48,7 +48,18 @@
 		 ![[Pasted image 20211108172247.png]]
 
 ### Wurzel ziehen in ℂ
-+ 
++ w∈ℂ, n∈ℕ
++ $z^n=w$
+	+ $z=|z|e^{iφ}$ - unbekannt
+	+ $w=|w|e^{iψ}$ - bekannt
+		+ $|w|=\sqrt[2]{a+bi}$
+		+ ψ 
+			+ $|w|e^{iψ}=|w|(cos(ψ)+isin(ψ)$==>
+			+ $cos=a/|w|$
+				+ 2 Lösungen
+				+ $arcos=a/|w|$
+				+ $-arcos=a/|w|$
+			+ $sin=b/|w|$	
 
 
 
