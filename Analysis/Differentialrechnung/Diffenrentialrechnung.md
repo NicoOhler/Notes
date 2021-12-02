@@ -15,10 +15,20 @@
 		+ $\frac{s(t)-s(t_0)}{t-t_0}$ - mittlere Geschwindigkeit
 		+ $\lim{t \to t_0} \frac{s(t)-s(t_0)}{t-t_0}$ - Momentangeschwindigkeit zum Zeitpunkt $t_0$
 
-### Differenzieren
+### Differenzierbarkeit
 + differenzierbar, wenn
 	+ f: \[a,b]-->ℝ stetig
 	+ in jedem Punkt $x_0$∈\[a,b] existiert der Grenzwert $\lim{x \to x_0} \frac{f(x)-f(x_0)}{x-x_0}$
 + f': \[a,b]-->ℝ, x-->$\lim{x \to x_0} \frac{f(x)-f(x_0)}{x-x_0}$ ist die erste Ableitung
++ f in $x_0$ differenzierbar ==> f in $x_0$ stetig
+	+ Umkehrung gilt nicht
 
-##
+### Rechenregeln
++ f, g sind differenzierbar
++ Summenregel
+	+ $(f+g)(x)=f(x)+g(x)$ ==> $(f+g)'=f'+g'$
++ Produktregel
+	+ $(f*g)(x)$ ==> $(f*g)'=f'*g+f*g'$
++ Kettenregel
+	+ $(f.g)'(x)=f'(g(x)$
++ Quotientenregel
