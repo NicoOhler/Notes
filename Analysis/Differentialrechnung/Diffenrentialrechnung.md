@@ -32,11 +32,13 @@
 + Kettenregel
 	+ $(f.g)'(x)=f'(g(x))*g'(x)$
 + Quotientenregel
-	+ $\frac{f}{g}=\frac{f'(x_0)g(x_0)-f(x_0)g'(x_0)}{g(x_0)^2}$
+	+ $\frac{f}{g}=\frac{f'g-fg'}{g^2}$
++ Umkehrregel
+	+ $(f^{-1})'=\frac{1}{f'}$
 
 ### Ableitungen elementarer Funktionen
 + $f(x)=x^n$ ==> $f'(x)=nx^{n-1}$
 + $f(x)=1/x$ ==> $f'(x)=-\frac{1}{x^2}$
 + $f(x)=1/x^n$ ==> $f'(x)=-nx^{-n-1}$
 + $f(x)=e^x$ ==> $f'(x)=e^x$
-+ 
++ $ln'(x)=\frac{1}{x}$
