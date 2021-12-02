@@ -28,7 +28,7 @@
 ### Additionstheoreme
 + $cosh(x+y)=cosh(x)cosh(y)+sinh(x)sinh(y)$+ $sinh(x+y)=sinh(x)cosh(y)+cosh(x)sinh(y)$
 
-### Area tangens hyperbolicus
+### Tangens hyperbolicus
 + $tanh(x)=\frac{sinh(x)}{cosh(x)}=1-\frac{2}{e^{2x}+1}$
 	+ $-1<tanh(x)<1$
 	+ $tanh: ℝ-->(-1,1)$

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Funktionen/Hyperbelfunktionen.md",
+            "file": "Analysis/Funktionen/Grenzwertbegriff für Funktionen.md",
             "mode": "preview"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Funktionen/Hyperbelfunktionen.md",
+                "file": "Analysis/Funktionen/Grenzwertbegriff für Funktionen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,10 +98,10 @@
   },
   "active": "71bf06fb767950c0",
   "lastOpenFiles": [
+    "Analysis/Funktionen/Grenzwertbegriff für Funktionen.md",
     "Analysis/Funktionen/Hyperbelfunktionen.md",
     "Analysis/Differentialrechnung/Diffenrentialrechnung.md",
     "Analysis/Funktionen/Winkelfunktionen.md",
-    "Analysis/Funktionen/Grenzwertbegriff für Funktionen.md",
     "Analysis/Funktionen/Exponentialfunktion.md",
     "Analysis/Funktionen/Funktionen.md",
     "Analysis/Funktionen/Stetigkeit.md",
