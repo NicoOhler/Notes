@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Funktionen/Winkelfunktionen.md",
-            "mode": "preview"
+            "file": "Analysis/Funktionen/Grenzwertbegriff für Funktionen.md",
+            "mode": "source"
           }
         }
       }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Funktionen/Winkelfunktionen.md",
+                "file": "Analysis/Funktionen/Grenzwertbegriff für Funktionen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,8 +98,8 @@
   },
   "active": "71bf06fb767950c0",
   "lastOpenFiles": [
-    "Analysis/Funktionen/Winkelfunktionen.md",
     "Analysis/Funktionen/Grenzwertbegriff für Funktionen.md",
+    "Analysis/Funktionen/Winkelfunktionen.md",
     "Analysis/Funktionen/Exponentialfunktion.md",
     "Analysis/Funktionen/Funktionen.md",
     "Analysis/Funktionen/Stetigkeit.md",
