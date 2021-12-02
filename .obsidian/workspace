@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NRLA/Lineare Abbildungen.md",
-            "mode": "preview"
+            "file": "Analysis/Komplexe Zahlen.md",
+            "mode": "source"
           }
         }
       }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NRLA/Lineare Abbildungen.md",
+                "file": "Analysis/Komplexe Zahlen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +98,15 @@
   },
   "active": "71bf06fb767950c0",
   "lastOpenFiles": [
+    "Analysis/Komplexe Zahlen.md",
+    "Analysis/Funktionen/Winkelfunktionen.md",
     "NRLA/Lineare Abbildungen.md",
     "Analysis/Funktionen/Funktionen.md",
-    "Analysis/Funktionen/Winkelfunktionen.md",
     "Analysis/Teststoff.md",
     "NRLA/Vektoren/Allgemeine Vektorräume.md",
     "NRLA/Vektoren/Lineare Unabhängigkeit.md",
     "NRLA/Vektoren/Basis.md",
     "NRLA/Vektoren/Vektor.md",
-    "NRLA/Vektoren/Untervektorräume.md",
-    "Analysis/Funktionen/Stetigkeit.md"
+    "NRLA/Vektoren/Untervektorräume.md"
   ]
 }
