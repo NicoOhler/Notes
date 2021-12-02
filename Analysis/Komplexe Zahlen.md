@@ -64,5 +64,10 @@
 + Formel: $z=\sqrt[n]{|w|}exp(\frac{1}{n}(ψ+2kπ))$ k=0,...,n-1
 	+ hergeleited durch $z^n=|z|^n e^{inφ}=|w|e^{iψ}=w$
 
+### Multiplikation
++ z,w∈ℂ
+	+ $z=|z|e^{iφ}$
+	+ $w=|w|e^{iψ}$
++ $zw=|z||w|e^{i(ψ+φ+2kπ)}$
 
 
