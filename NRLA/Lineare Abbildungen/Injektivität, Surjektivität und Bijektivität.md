@@ -6,4 +6,9 @@
 + bijektiv ==> jedes Element in Zielmenge wird genau 1x abgebildet
 	+ invers möglich
 	+ F' auch linear
+
+### Isomorphismus
++ isomorph, wenn F bijektiv und linear
+
+### Konstruktion
 + 
