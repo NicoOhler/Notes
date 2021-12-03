@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NRLA/Lineare Abbildungen/Injektivität, Surjektivität und Bijektivität.md",
+            "file": "NRLA/Lineare Abbildungen/Lineare Abbildungen.md",
             "mode": "source"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NRLA/Lineare Abbildungen/Injektivität, Surjektivität und Bijektivität.md",
+                "file": "NRLA/Lineare Abbildungen/Lineare Abbildungen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,8 +98,8 @@
   },
   "active": "71bf06fb767950c0",
   "lastOpenFiles": [
-    "NRLA/Lineare Abbildungen/Injektivität, Surjektivität und Bijektivität.md",
     "NRLA/Lineare Abbildungen/Lineare Abbildungen.md",
+    "NRLA/Lineare Abbildungen/Injektivität, Surjektivität und Bijektivität.md",
     "Analysis/Funktionen/Grenzwertbegriff für Funktionen.md",
     "Analysis/Funktionen/Hyperbelfunktionen.md",
     "Analysis/Differentialrechnung/Diffenrentialrechnung.md",
