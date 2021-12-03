@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NRLA/Lineare Abbildungen.md",
-            "mode": "preview"
+            "file": "NRLA/Lineare Abbildungen/Injektivität, Surjektivität und Bijektivität.md",
+            "mode": "source"
           }
         }
       }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NRLA/Lineare Abbildungen.md",
+                "file": "NRLA/Lineare Abbildungen/Injektivität, Surjektivität und Bijektivität.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +98,8 @@
   },
   "active": "71bf06fb767950c0",
   "lastOpenFiles": [
-    "NRLA/Lineare Abbildungen.md",
+    "NRLA/Lineare Abbildungen/Injektivität, Surjektivität und Bijektivität.md",
+    "NRLA/Lineare Abbildungen/Lineare Abbildungen.md",
     "Analysis/Funktionen/Grenzwertbegriff für Funktionen.md",
     "Analysis/Funktionen/Hyperbelfunktionen.md",
     "Analysis/Differentialrechnung/Diffenrentialrechnung.md",
@@ -106,7 +107,6 @@
     "Analysis/Funktionen/Exponentialfunktion.md",
     "Analysis/Funktionen/Funktionen.md",
     "Analysis/Funktionen/Stetigkeit.md",
-    "Analysis/Folgen und Reihen/Cauchy-Kriterium.md",
-    "Analysis/Folgen und Reihen/Konvergenzkriterien für Reihen.md"
+    "Analysis/Folgen und Reihen/Cauchy-Kriterium.md"
   ]
 }
