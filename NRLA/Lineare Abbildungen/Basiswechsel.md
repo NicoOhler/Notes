@@ -14,6 +14,8 @@
 	+ n Gleichungen ==> viel Rechenaufwand
 + Rechenaufwand mindern
 	+ B ist kanonische Basis in V
-	+ Orthonormalbase für B
-		+ $b_i, b_k$
+	+ Orthonormalbasis für B
+		+ $<b_j, b_k>=δ_{jk}$ - Kronecker-Delta
 		+ Vektoren paarweise orthogonal + Einheitsvektoren
+	+ $V=ℝ^n$
+		+ 
