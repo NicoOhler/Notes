@@ -5,4 +5,7 @@
 	+ Transformationsmatrix
 		+ Spaltenvektoren der die lineare Abbildung F darstellenden Matrix M sind die Koordinatenvektoren der Bilder des Basisvektoren
 			+ $C_B(F(v_1)),...,C_B(F(v_n))$
+		+ Beispiel
+			+ ![[Pasted image 20211204184201.png]]
+			+ 
 
