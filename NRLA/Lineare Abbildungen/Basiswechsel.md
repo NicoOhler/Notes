@@ -10,4 +10,10 @@
 	+ n Dimensionen ==> n Gleichungssysteme zu lösen
 
 ### Praktische Umsetzung
-+ 
++ Gleichungssystem aufstellen mit Transformationsmatrix
+	+ n Gleichungen ==> viel Rechenaufwand
++ Rechenaufwand mindern
+	+ B ist kanonische Basis in V
+	+ Orthonormalbase für B
+		+ $b_i, b_k$
+		+ Vektoren paarweise orthogonal + Einheitsvektoren
