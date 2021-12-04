@@ -2,6 +2,7 @@
 ### Koordinatentransformation
 + alte und neue Abbildung mit gewünschter Basis werden über identische Abbildung verknüpft
 	+ ![[Pasted image 20211204154219.png]]
+	+ kommutatives Diagramm
 + lineare Transforrmation
 	+ ![[Pasted image 20211204155133.png]]
 + Transformationsmatrix
