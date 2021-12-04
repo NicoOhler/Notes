@@ -10,12 +10,18 @@
 	+ n Dimensionen ==> n Gleichungssysteme zu lösen
 
 ### Praktische Umsetzung
-+ Gleichungssystem aufstellen mit Transformationsmatrix
++ Gleichungssystem aufstellen mit Transformationsmatrix T
 	+ n Gleichungen ==> viel Rechenaufwand
-+ Rechenaufwand mindern
++ Möglichkeiten Rechenaufwand zu mindern
 	+ B ist kanonische Basis in V
 	+ Orthonormalbasis für B
 		+ $<b_j, b_k>=δ_{jk}$ - Kronecker-Delta
 		+ Vektoren paarweise orthogonal + Einheitsvektoren
 	+ $V=ℝ^n$
-		+ 
+		+ Abbildung dazwischen mit kanonischer Basis
+		+ ![[Pasted image 20211204161531.png]]
+		+ beide Transformationsmatrizen auf diese Abbildung bestimmen
+			+ Matrix besteht aus Basisvektoren
+				+ $M=(b_1,...,b_n)$
+		+ Transformationsmatrix mal Inverse der anderen Transformationsmatrix
+			+ $T_{alt} * T_{neu}^{-1}$
