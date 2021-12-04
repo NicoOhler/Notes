@@ -25,3 +25,5 @@
 				+ $M=(b_1,...,b_n)$
 		+ Transformationsmatrix mal Inverse der anderen Transformationsmatrix
 			+ $T_{alt} * T_{neu}^{-1}$
+		+ Beispiel
+			+ ![[Pasted image 20211204163106.png]]
