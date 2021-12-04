@@ -7,5 +7,6 @@
 			+ $C_B(F(v_1)),...,C_B(F(v_n))$
 		+ Beispiel
 			+ ![[Pasted image 20211204184201.png]]
-			+ 
 
+### Komposition von linearen Abbildungen
++ 
