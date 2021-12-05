@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NRLA/Lineare Abbildungen/Basiswechsel.md",
+            "file": "NRLA/Lineare Abbildungen/Matrix einer linearen Abbildung.md",
             "mode": "preview"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NRLA/Lineare Abbildungen/Basiswechsel.md",
+                "file": "NRLA/Lineare Abbildungen/Matrix einer linearen Abbildung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,10 +98,10 @@
   },
   "active": "94a950991f250ff6",
   "lastOpenFiles": [
+    "NRLA/Lineare Abbildungen/Matrix einer linearen Abbildung.md",
     "NRLA/Lineare Abbildungen/Basiswechsel.md",
     "NRLA/Lineare Abbildungen/Injektivität, Surjektivität und Bijektivität.md",
     "NRLA/Lineare Abbildungen/Lineare Abbildungen.md",
-    "NRLA/Lineare Abbildungen/Matrix einer linearen Abbildung.md",
     "Images/Pasted image 20211204163106.png",
     "NRLA/Matrizen/Kronecker-Delta.md",
     "NRLA/Matrizen/Matrix.md",
