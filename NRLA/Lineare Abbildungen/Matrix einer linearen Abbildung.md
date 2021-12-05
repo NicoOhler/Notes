@@ -24,5 +24,13 @@
 
 ### Bestimmen von Kern und Bild
 + Kern VO#16
-+ Bild VO#16/16
-+ 
++ Bild VO#16/17
++ Dimensionsformel:
+	+ dim V<sup>n</sup> = dim Kern(F) + dim Bild(F)
+		+ dim Kern(F) = # freie Variablen
+		+ dim Bild(F) = # nicht freie Variablen = Rang $M^A_B(F)$
+
+### Elementare Zeilenumformungen
++ Spaltenräume bleiben nicht gleich
++ Zeilenräume bleiben gleich
+	+ Span({Zeilen von A}) = Span({Zeilen von A'})
