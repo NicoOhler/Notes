@@ -9,4 +9,11 @@
 			+ ![[Pasted image 20211204184201.png]]
 
 ### Komposition von linearen Abbildungen
++ Komposition wird wird durch das Produkt der darstellenden Transformationsmatrizen beschrieben
+
+### Inverse eines Isomorphismus
++ Transformationsmatrix muss regulär sein bei isomorpher Abbildung
+	+ Inverse ist Transformationsmatrix für Umkehrabbildung 
+
+### Rang der Transformationsmatrix
 + 
