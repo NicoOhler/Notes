@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "NRLA/Lineare Abbildungen/Matrix einer linearen Abbildung.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -39,8 +39,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lineare Fortse",
-                "matchingCase": false,
+                "query": "Bild(",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
