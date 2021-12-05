@@ -16,4 +16,8 @@
 	+ Inverse ist Transformationsmatrix für Umkehrabbildung 
 
 ### Rang der Transformationsmatrix
-+ 
++ $V^n$-->$W^m$
++ $M_B^A(F)∈ℝ^{m×n}$
++ F injektiv <==> Kern(F)={0} <==> Rang(M(F))=n
++ F surjektiv <==>Bild(F)=W <==> Rang(M(F))=m
++ F bijektiv <==> dim(V)=dim(W) <==> Rang(M(F))=n <==> $M_B^A(F)$ regulär
