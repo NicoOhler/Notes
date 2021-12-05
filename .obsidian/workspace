@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NRLA/Lineare Abbildungen/Spezielle Abbildungen.md",
+            "file": "NRLA/Unitäre Räume.md",
             "mode": "source"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NRLA/Lineare Abbildungen/Spezielle Abbildungen.md",
+                "file": "NRLA/Unitäre Räume.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +98,7 @@
   },
   "active": "94a950991f250ff6",
   "lastOpenFiles": [
+    "NRLA/Unitäre Räume.md",
     "NRLA/Lineare Abbildungen/Spezielle Abbildungen.md",
     "NRLA/Lineare Abbildungen/Matrix einer linearen Abbildung.md",
     "NRLA/Lineare Abbildungen/Basiswechsel.md",
@@ -106,7 +107,6 @@
     "Images/Pasted image 20211204163106.png",
     "NRLA/Matrizen/Kronecker-Delta.md",
     "NRLA/Matrizen/Matrix.md",
-    "Analysis/Funktionen/Grenzwertbegriff für Funktionen.md",
-    "Analysis/Funktionen/Hyperbelfunktionen.md"
+    "Analysis/Funktionen/Grenzwertbegriff für Funktionen.md"
   ]
 }
