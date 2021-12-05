@@ -21,3 +21,8 @@
 + F injektiv <==> Kern(F)={0} <==> Rang(M(F))=n
 + F surjektiv <==>Bild(F)=W <==> Rang(M(F))=m
 + F bijektiv <==> dim(V)=dim(W) <==> Rang(M(F))=n <==> $M_B^A(F)$ regulär
+
+### Bestimmen von Kern und Bild
++ Kern VO#16
++ Bild VO#16/16
++ 
