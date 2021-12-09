@@ -1,6 +1,6 @@
 # Zeichensammlung
 https://learninglab.gitlabpages.inria.fr/mooc-rr/mooc-rr-ressources/module1/ressources/introduction_to_markdown.html#fractions-binomial-coefficients-square-roots
-+ ∞
++ $\infty$ - ∞
 + ×
 + π
 + Σ Π
