@@ -43,3 +43,5 @@
 + $f(x)=e^x$ ==> $f'(x)=e^x$
 + $ln'(x)=\frac{1}{x}$
 + $(a^x)'$ ==> $a^x*ln(a)$
+
+[[Analysis]]
