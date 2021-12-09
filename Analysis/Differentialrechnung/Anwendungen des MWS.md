@@ -26,12 +26,16 @@
 		+ mit x multipliziert
 		+ $h(x)=\frac{εx^2}{1+εx}≥0$
 
-### Berechnung von Grenzwerten
+### Berechnung von Grenzwerten - Bernoulli de l'Hospital
 + $f'(x_0)=\lim x \to x_0 (\frac{f(x)-f(x_0)}{x-x_0})$ = "$\frac{0}{0}$"
 + $\lim x \to x_0 f(x)=\lim x \to x_0 g(x)=0$
 	+ laut verallg. MWS: $\frac{f(x)}{g(x)}=\frac{f(x)-f(x_0)}{g(x)-g(x_0)}=\frac{f'(ξ)}{g'(ξ)}$ für ξ zwischen x und x<sub>0</sub>
-		+ wenn x--><sub>0</sub> geht, dann geth auch --><sub>0</sub>
-	+ $\lim x \to x_0 \frac{f(x)}{g(x)}$
+		+ wenn x-->x<sub>0</sub> geht, dann geth auch ξ-->x<sub>0</sub>
+	+  Bernoulli de l'Hospital:
+		+ Seien f,g auf x<sub>0</sub>∈I  diffbar und $f(x_0)=g(x_0)=0$
+		+ Dann gilt:
+			+ Wenn $\lim x \to x_0 \frac{f'(x)}{g'(x)}$ existiert
+			+ dann existiert  $\lim x \to x_0 \frac{f(x)}{g(x)}$ und ist gleich
 
 
 [[Anwendungen der  Differentialrechnung]] [[Konvergenzkriterien für Reihen]]
