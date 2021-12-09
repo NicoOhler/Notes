@@ -5,8 +5,10 @@
 	+ wenn f': (a,b)-->ℝ auch diffbar
 	+ dann heißt $f''=(f')'$ die zweite Aleitung
 	+ f heißt n mal diffbar, wenn $f^n=(f^{n-1})'$ existiert
-+ weitere Definition
++ n-te Taylor-Polynom
 	+ Sei f: (a,b)-->ℝ  n mal diffbar x<sub>0</sub>∈(a,b)
 	+ dann heißt $T_n(f,x_0,x)=\sum^n_{k=0} \frac{f^k(x_0)}{k!}(x-x_0)^k$ das n-te Taylor-Polynom von f an der Stelle x<sub>0</sub>
-	+ 
-+ 
++ $T_n(f,x_0,x_0)=f(x_0)$
++ $T_n'(f,x_0,x_0)=f'(x_0)$
++  $T_n(f,x_0,x_0)$ ist Polynom von Grad ≤n, das bei  x<sub>0</sub> mit f in den ersten n Ableitungen übereinstimmt
+	+ $T_n^l(f,x_0,x_0)=f^l(x_0)$
