@@ -14,7 +14,16 @@
 		+ f'(x<sub>0</sub>) = 0 = Steigung ==> Hochpunkt/Tiefpunkt
 		+ Umkehrschluss gilt nicht
 		+ Gegenbeispiel: f(x)=x³
-	+ Satz von Rolle
-		+ f: [a,b]-->ℝ differenzierbar
-		+ f(a)=f(b) ==> ∃x<sub>0</sub>∈(a, b): f'(x<sub>0</sub>) = 0
-		+ Im Intervall muss 
+		+ 
+### Satz von Rolle
++ f: [a,b]-->ℝ differenzierbar
++ f(a)=f(b) ==> ∃x<sub>0</sub>∈(a, b): f'(x<sub>0</sub>) = 0
++ Im Intervall muss mindestens ein lokales Maximum/Minimum existieren
++ Wenn f'(x) = 0 ∀x[a, ]
+
+### Mittelwertsatz der Differentialrechnung
++ Verallgemeinerung von Satz von Rolle
++ f: [a,b]-->ℝ differenzierbar
++ ∃x<sub>0</sub>∈(a, b): f'(x<sub>0</sub>) = $\frac{f(b)-f(a)}{b-a}$
++  $\frac{f(b)-f(a)}{b-a}$ entspricht der Steigung einer Gerade zwischen a und b
+	+  es existiert mindestens eine Tangente, welche parallel zu dieser Gerade ist.
