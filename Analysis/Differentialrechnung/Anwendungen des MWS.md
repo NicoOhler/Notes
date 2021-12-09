@@ -36,6 +36,10 @@
 		+ Dann gilt:
 			+ Wenn $\lim x \to x_0 \frac{f'(x)}{g'(x)}$ existiert
 			+ dann existiert  $\lim x \to x_0 \frac{f(x)}{g(x)}$ und ist gleich
+		+ darf mehrmals angewendet werden
+			+ Grenzwert der n-ten Ableitung existiert ==> gleich für n-1 ==> ...
+	+  de l'Hospital gilt auch für
+		+ $\lim x \to x_0 f(x)=\lim x \to x_0 g(x)=\infty$ = "$\frac{\infty}{\infty}$"
 
 
 [[Anwendungen der  Differentialrechnung]] [[Konvergenzkriterien für Reihen]]
