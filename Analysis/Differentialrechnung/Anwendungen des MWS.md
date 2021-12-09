@@ -26,4 +26,6 @@
 		+ mit x multipliziert
 		+ $h(x)=\frac{εx^2}{1+εx}≥0$
 
+### Berechnung von Grenzwerten
+
 [[Anwendungen der  Differentialrechnung]] [[Konvergenzkriterien für Reihen]]
