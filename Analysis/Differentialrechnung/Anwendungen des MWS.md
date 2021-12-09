@@ -22,7 +22,7 @@
 + Beispiel: für $x > -1$ gilt $ln(1+x) ≤ x$
 	+ $h(x) = x - ln(1+x)$
 	+ $h'(x) = 1 - \frac{1}{1+x}= \frac{x}{1+x}$
-	+ $\frac{h(x)-h(0)}{x-0}=h'(ε)=\frac{εx}{1+εx}$ 0 < ε < 1
+	+ $\frac{h(x)-h(0)}{x-0}=h'(εx)=\frac{εx}{1+εx}$ 0 < ε < 1
 		+ mit x multipliziert
 		+ $h(x)=\frac{εx^2}{1+εx}≥0$
 
