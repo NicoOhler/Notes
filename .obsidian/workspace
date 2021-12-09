@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Differentialrechnung/Anwendungen der  Differentialrechnung.md",
+            "file": "Analysis/Differentialrechnung/Taylorsche Formel.md",
             "mode": "preview"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Differentialrechnung/Anwendungen der  Differentialrechnung.md",
+                "file": "Analysis/Differentialrechnung/Taylorsche Formel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,10 +98,10 @@
   },
   "active": "94a950991f250ff6",
   "lastOpenFiles": [
+    "Analysis/Differentialrechnung/Taylorsche Formel.md",
     "Analysis/Differentialrechnung/Anwendungen der  Differentialrechnung.md",
     "Analysis/Differentialrechnung/Anwendungen des MWS.md",
     "Analysis/Bernoulli Ungleichung.md",
-    "Analysis/Differentialrechnung/Taylorsche Formel.md",
     "Analysis/Differentialrechnung/Diffenrentialrechnung.md",
     "NRLA/Unitäre Räume.md",
     "NRLA/Lineare Abbildungen/Spezielle Abbildungen.md",
