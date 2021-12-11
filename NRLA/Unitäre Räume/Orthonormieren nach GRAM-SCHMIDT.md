@@ -32,8 +32,12 @@
 	+ linear unabhängige Menge des Raumes ${v_1,...,v_n}$
 	+ Unterraum $W = {w_1,...,w_n}$ mit 
 		+ $w_1=\frac{1}{||v_1||}$
-		+ $w_i=\frac{1}{||u_i||}||u_i||$
+		+ $w_i=\frac{1}{||u_i||}u_i$
+			+ i = 2,..,n
 			+ $||u_i||=v_i-v_i^*$
 				+ $v_i=\sum_{k=1}^{i-1} <v_i,w_k>w_k$
++ Beispiel
+	+ ![[Pasted image 20211211164915.png]]
+	+ 
 
 [[Unitäre Räume]] [[Schwarzsche Ungleichung]]
