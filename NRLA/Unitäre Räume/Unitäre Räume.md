@@ -1,7 +1,6 @@
 # Unitäre Räume
 + unitärer Raum, wenn Skalarprodukt und Norm gilt
 	+ siehe unten
-+ 
 
 ### Skalarprodukt <v,w>
 + Inneres Produkt $<x,y>=x_1 y_1+...+x_n y_n$
