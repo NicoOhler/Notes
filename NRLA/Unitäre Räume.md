@@ -15,3 +15,8 @@
 + $||v||=1$ ==> v ist normiert bzw. Einheitsvektor
 	+ Normieren von $v$ ==> $v'=\frac{1}{||v||} * v$
 + Abstand $d(v,w);=||v-w||$
++ Alternative Normen
+	+ 1-Norm $||x||_1=|x_1|+...+|x_n|$	
+		+ Betragsnorm = Manhattan Norm/Taximetrik
+	+ m-Norm $||x||_m=\sqrt[m]{x_1^m+...+x_n^m}$	
+	+ Max-norm $||x||_\infty=max\{|x_1|+...+|x_n|\}$
