@@ -17,8 +17,11 @@
 	+ $<v,w>=0$ bzgl. gewähltem Skalarprodukt
 + {} ≠ A ⊆ V ist orthonormiert, wenn
 	+ alle v∈A normiert
-	+ alle v∈A die Länge 1 haben
-		+ 
-	+ 
+	+ alle v∈A die Länge 1 haben <==> ||v||=1
+	+ paarweise orthogonal sind
++ Jede endlich orthonormierte Teilmenge eines unitären VR mit <,> ist linear
+	+ Beweis VO#18 1:43
+
+### Orthogonale 
 
 [[Unitäre Räume]] [[Schwarzsche Ungleichung]]
