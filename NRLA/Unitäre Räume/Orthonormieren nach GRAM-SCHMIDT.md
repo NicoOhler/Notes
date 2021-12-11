@@ -22,11 +22,17 @@
 + Jede endlich orthonormierte Teilmenge eines unitären VR mit <,> ist linear
 	+ Beweis VO#18 1:43
 
-### Orthogonale Projektion auf Unterraum
+### Orthonormierungsverfahren von GRAM-SCHMIDT
 + ![[Pasted image 20211211140604.png]]
-	+ Projektion des $v_2$ auf den von $v_1$  aufgespannten Unterraum
+	+ Orthogonale Projektion des $v_2$ auf den von $v_1$  aufgespannten Unterraum
 	+ $v_2^*=<v_2,v_1'>$$v_1'$
 		+ v' normierter Vektor von v
-	+ 
++ Verfahren
+	+ unitärer VR V mit <,> und induzierter Norm $||.||=\sqrt{<,>}$
+	+ linear unabhängige Menge des Raumes ${v_1,...,v_n}$
+	+ Unterraum $W = {w_1,...,w_n}$ mit 
+		+ $w_1=\frac{1}{||v_1||}$
+		+ $w_j=\frac{1}{||u_j||}||u_j||$
+			+ $||u_j||=v_j-v_j^*$
 
 [[Unitäre Räume]] [[Schwarzsche Ungleichung]]
