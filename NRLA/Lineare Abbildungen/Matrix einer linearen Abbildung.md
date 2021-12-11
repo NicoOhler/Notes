@@ -29,6 +29,10 @@
 	+ dim V<sup>n</sup> = dim Kern(F) + dim Bild(F)
 		+ dim Kern(F) = # freie Variablen
 		+ dim Bild(F) = # nicht freie Variablen = Rang $M^A_B(F)$
+		+ VO#18 - Fallunterscheidungen
+			+ m=n <==> F bijektiv
+			+ m < n <==> jedes F ist nicht injektiv
+			+ m > n <==> jedes F ist nicht surjektiv
 
 ### Elementare Zeilenumformungen
 + Spaltenräume bleiben nicht gleich
