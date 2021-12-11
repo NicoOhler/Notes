@@ -9,14 +9,19 @@
 	+ Orthogonalität
 +  Definitheit: 
 	+  $<v,v> > 0$, wenn v ≠ 0
-+  $<v,w>=<w,v>$
-	+  konjugiert komplexe Zahl
+	+  $v=0$ oder $w=0$ ==>$<v,w>=0$
+		+   $v=0$ <==> $<v,v>=0$
++  $<v,w>=\overrightarrow{<w,v>}$
+	+  konjugiert komplexe Zahl in ℂ
 +  Linearität im ersten Argument
 	+  $<λv,w>=λ<v,w>$
-		+  $<v,λw>=\overrightarrow{<λv,w>}=\overrightarrow{λ<v,w>}=\overrightarrow{λ}\overrightarrow{λ}$
+	+ in ℂ gilt: 
+		+ $<v,λw>=\overrightarrow{<λw,v>}=\overrightarrow{λ<w,v>}=\overrightarrow{λ}\overrightarrow{<w,v>}=\overrightarrow{λ}<v,w>$
 	+  $<v+v',w>=<v,w> + <v',w>$
 	+  jedoch nicht im zweiten Argument
 	+  je nach Definition auch nur im zweiten Argument möglich
++  Alternative Skalarprodukte
+	+  VO#18 41 Minuten
  
 ### Norm ||x||
 + synonym mit Betrag oder Länge
