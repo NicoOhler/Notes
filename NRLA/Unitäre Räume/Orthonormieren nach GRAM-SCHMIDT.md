@@ -23,16 +23,17 @@
 	+ Beweis VO#18 1:43
 
 ### Orthonormierungsverfahren von GRAM-SCHMIDT
-+ ![[Pasted image 20211211140604.png]]
-	+ Orthogonale Projektion des $v_2$ auf den von $v_1$  aufgespannten Unterraum
++ Orthogonale Projektion des $v_2$ auf den von $v_1$  aufgespannten Unterraum
+	+ ![[Pasted image 20211211140604.png]]
 	+ $v_2^*=<v_2,v_1'>$$v_1'$
 		+ v' normierter Vektor von v
-+ Verfahren
++ Verfahren um Orthonormalbasis zu bilden
 	+ unitärer VR V mit <,> und induzierter Norm $||.||=\sqrt{<,>}$
 	+ linear unabhängige Menge des Raumes ${v_1,...,v_n}$
 	+ Unterraum $W = {w_1,...,w_n}$ mit 
 		+ $w_1=\frac{1}{||v_1||}$
-		+ $w_j=\frac{1}{||u_j||}||u_j||$
-			+ $||u_j||=v_j-v_j^*$
+		+ $w_i=\frac{1}{||u_i||}||u_i||$
+			+ $||u_i||=v_i-v_i^*$
+				+ $v_i=\sum_{k=1}^{i-1} <v_i,w_k>w_k$
 
 [[Unitäre Räume]] [[Schwarzsche Ungleichung]]
