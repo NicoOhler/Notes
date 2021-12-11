@@ -9,6 +9,16 @@
 	+ $v,w≠0$ und $<v,w>=0$ ==> $<(v,w)=\frac{π}{2}$ ==> v orthogonal zu w
 	+  $<(v,-v)=π$
 +  WInkelmessung hängt von der Definition des Skalarprodukt ab
++  im $V=ℝ^n$
+	+  Winkel bzgl. kanonischem Skalarprodukt ist der "geometrische" Winkel
 
+### Orthogonalität und orthonormiert
++ im unitären VR sind v und w orthogonal, wenn
+	+ $<v,w>=0$ bzgl. gewähltem Skalarprodukt
++ {} ≠ A ⊆ V ist orthonormiert, wenn
+	+ alle v∈A normiert
+	+ alle v∈A die Länge 1 haben
+		+ 
+	+ 
 
 [[Unitäre Räume]] [[Schwarzsche Ungleichung]]
