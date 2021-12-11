@@ -2,6 +2,8 @@
 + Inneres Produkt $<x,y>=x_1 y_1+...+x_n y_n$
 	+ Winkel
 	+ Orthogonalität
+
+### Skalar
  
 ### Norm
 + synonym mit Betrag oder Länge
