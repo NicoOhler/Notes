@@ -1,11 +1,24 @@
 # Unitäre Räume
++ unitärer Raum, wenn Skalarprodukt und Norm gilt
+	+ siehe unten
++ 
+
+### Skalarprodukt <v,w>
 + Inneres Produkt $<x,y>=x_1 y_1+...+x_n y_n$
 	+ Winkel
 	+ Orthogonalität
-
-### Skalar
++  Definitheit: 
+	+  $<v,v> > 0$, wenn v ≠ 0
++  $<v,w>=<w,v>$
+	+  konjugiert komplexe Zahl
++  Linearität im ersten Argument
+	+  $<λv,w>=λ<v,w>$
+		+  $<v,λw>=\overrightarrow{<λv,w>}=\overrightarrow{λ<v,w>}=\overrightarrow{λ}\overrightarrow{λ}$
+	+  $<v+v',w>=<v,w> + <v',w>$
+	+  jedoch nicht im zweiten Argument
+	+  je nach Definition auch nur im zweiten Argument möglich
  
-### Norm
+### Norm ||x||
 + synonym mit Betrag oder Länge
 + $||x||=\sqrt{x_1^2+...+x_n^2}=\sqrt{<x ,x>}$
 + Definitheit
