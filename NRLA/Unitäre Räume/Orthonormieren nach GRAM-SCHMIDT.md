@@ -8,7 +8,7 @@
 	+ $<(v,w)=<(w,v)$
 	+ $v,w≠0$ und $<v,w>=0$ ==> $<(v,w)=\frac{π}{2}$ ==> v orthogonal zu w
 	+  $<(v,-v)=π$
-+  WInkelmessung hängt von der DefinitoSkalarprodukt ab
++  WInkelmessung hängt von der Definition des Skalarprodukt ab
 
 
 [[Unitäre Räume]] [[Schwarzsche Ungleichung]]
