@@ -24,7 +24,8 @@
  
 ### Norm ||x||
 + synonym mit Betrag oder Länge
-+ $||x||=\sqrt{x_1^2+...+x_n^2}=\sqrt{<x ,x>}$
++ $||x||=\sqrt{x_1^2+...+x_n^2}$
+	+ induzierte Norm  $||x||=\sqrt{<x ,x>}$
 + Definitheit
 	+ $||v||=0$<==>$v=0$
 + Homogenität
