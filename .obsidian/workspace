@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NRLA/Unitäre Räume/QR-Zerlegung.md",
-            "mode": "source"
+            "file": "NRLA/Unitäre Räume/Unitäre Räume.md",
+            "mode": "preview"
           }
         }
       }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NRLA/Unitäre Räume/QR-Zerlegung.md",
+                "file": "NRLA/Unitäre Räume/Unitäre Räume.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +98,15 @@
   },
   "active": "94a950991f250ff6",
   "lastOpenFiles": [
+    "NRLA/Unitäre Räume/Unitäre Räume.md",
+    "NRLA/Unitäre Räume/Orthonormieren nach GRAM-SCHMIDT.md",
+    "NRLA/Unitäre Räume/Schwarzsche Ungleichung.md",
+    "NRLA/Matrizen/Kronecker-Delta.md",
     "NRLA/Unitäre Räume/QR-Zerlegung.md",
     "NRLA/Matrizen/LR-Zerlegung.md",
-    "NRLA/Unitäre Räume/Orthonormieren nach GRAM-SCHMIDT.md",
-    "NRLA/Unitäre Räume/Unitäre Räume.md",
-    "NRLA/Unitäre Räume/Schwarzsche Ungleichung.md",
     "NRLA/Lineare Abbildungen/Matrix einer linearen Abbildung.md",
     "NRLA/Lineare Abbildungen/Spezielle Abbildungen.md",
     "Analysis/Differentialrechnung/Anwendungen des MWS.md",
-    "Analysis/Differentialrechnung/Taylorsche Formel.md",
-    "Analysis/Differentialrechnung/Anwendungen der  Differentialrechnung.md"
+    "Analysis/Differentialrechnung/Taylorsche Formel.md"
   ]
 }
