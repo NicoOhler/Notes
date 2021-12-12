@@ -21,3 +21,11 @@
 	+   $λ_n$ hat algebraische Vielfachheit $k_n$
 + $Av=λv$  ==> Eigenvektoren spannen zum Eigenwert einen Unterraum von $ℂ^n$
 	+ $Eigen(λ,A):={v∈ℂ^n: Av=λv}=Kern(A-λI)$
++ Vorgehensweise
+	+ Eigenwerte bestimmen
+		+ Lösen der charakteristischen Gleichung $det(A-λI)=0$
+		+ Polynom als Lösung
+		+ dessen Nullstellen/Eigenwerte und Vielfachheiten bestimmen
+	+ Eigenvektoren bestimmen
+		+ Gleichung $(A-λI)v=0$ für alle Eigenwerte lösen
+		+ Eigenraum/span/Dimensionen bestimmen
