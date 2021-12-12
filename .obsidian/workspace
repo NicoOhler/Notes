@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NRLA/Unitäre Räume/Unitäre Räume.md",
+            "file": "NRLA/Unitäre Räume/Orthonormieren nach GRAM-SCHMIDT.md",
             "mode": "preview"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NRLA/Unitäre Räume/Unitäre Räume.md",
+                "file": "NRLA/Unitäre Räume/Orthonormieren nach GRAM-SCHMIDT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,8 +98,8 @@
   },
   "active": "94a950991f250ff6",
   "lastOpenFiles": [
-    "NRLA/Unitäre Räume/Unitäre Räume.md",
     "NRLA/Unitäre Räume/Orthonormieren nach GRAM-SCHMIDT.md",
+    "NRLA/Unitäre Räume/Unitäre Räume.md",
     "NRLA/Unitäre Räume/Schwarzsche Ungleichung.md",
     "NRLA/Matrizen/Kronecker-Delta.md",
     "NRLA/Unitäre Räume/QR-Zerlegung.md",
