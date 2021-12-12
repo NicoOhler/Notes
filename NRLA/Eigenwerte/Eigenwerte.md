@@ -19,4 +19,5 @@
 +   $P(λ)=(λ-λ_1)^{k1}...(λ-λ_r)^{kr}$
 	+   $λ_1≠λ_2≠...≠λ_r$
 	+   $λ_n$ hat algebraische Vielfachheit $k_n$
-+ $Av=λv$
++ $Av=λv$  ==> Eigenvektoren spannen zum Eigenwert einen Unterraum von $ℂ^n$
+	+ $Eigen(λ,A):={v∈ℂ^n: Av=λv}=Kern(A-λI)$
