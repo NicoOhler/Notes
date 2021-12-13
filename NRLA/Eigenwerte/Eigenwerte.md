@@ -12,7 +12,7 @@
 	 +  homogenes lineares Gleichungssystem
 	 +  nichttriviale Lösung $v≠0$, wenn $det(A-λI)=0$
 		 + $det(A-λI)=0$ charakteristische Gleichung
-		 +  $P(λ)=det(A-λI)$charakteristisches Polynom
+		 +  $P(λ)=det(A-λI)$ charakteristisches Polynom
 		 +  $P(λ)=(-1)^nλ^n+b_{n-1}λ^{n-1}+...+b_1λ+b_0$
 		 +  Polynomgleichung mit reellen Koeffizienten ==> genau $A^{n×n}$ hat n Eigenwerte
 			 +  mit Vielfachheit gezählt
