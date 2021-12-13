@@ -21,11 +21,10 @@
 	+   $λ_n$ hat algebraische Vielfachheit $k_n$
 		+   algebraische Vielfachheit
 			+ wie oft $λ_1$ Lösung $P(λ)=0$ ist
-			+ wie oft ein $λ_1$ vorkommt bzw. dessen Exponent
-		+   geometrische Vielfachheit
-			+ 
+			+ wie oft ein $λ_1$ vorkommt bzw. Exponent von $(λ-λ_1)^{k}$
 + $Av=λv$  ==> Eigenvektoren spannen zum Eigenwert einen Unterraum von $ℂ^n$
 	+ $Eigen(λ,A):={v∈ℂ^n: Av=λv}=Kern(A-λI)$
+	+  geometrische Vielfachheit - Dimension des Eigenraum
 + Vorgehensweise
 	+ Eigenwerte bestimmen
 		+ Lösen der charakteristischen Gleichung $det(A-λI)=0$
