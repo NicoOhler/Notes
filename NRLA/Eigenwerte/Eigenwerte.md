@@ -19,6 +19,11 @@
 +   $P(λ)=(λ-λ_1)^{k1}...(λ-λ_r)^{kr}$
 	+   $λ_1≠λ_2≠...≠λ_r$
 	+   $λ_n$ hat algebraische Vielfachheit $k_n$
+		+   algebraische Vielfachheit
+			+ wie oft $λ_1$ Lösung $P(λ)=0$ ist
+			+ wie oft ein $λ_1$ vorkommt bzw. dessen Exponent
+		+   geometrische Vielfachheit
+			+ 
 + $Av=λv$  ==> Eigenvektoren spannen zum Eigenwert einen Unterraum von $ℂ^n$
 	+ $Eigen(λ,A):={v∈ℂ^n: Av=λv}=Kern(A-λI)$
 + Vorgehensweise
