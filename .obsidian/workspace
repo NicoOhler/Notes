@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Differentialrechnung/Taylorsche Formel.md",
+            "file": "Analysis/Differentialrechnung/Kurvendiskussion.md",
             "mode": "source"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Differentialrechnung/Taylorsche Formel.md",
+                "file": "Analysis/Differentialrechnung/Kurvendiskussion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +98,7 @@
   },
   "active": "94a950991f250ff6",
   "lastOpenFiles": [
+    "Analysis/Differentialrechnung/Kurvendiskussion.md",
     "Analysis/Differentialrechnung/Taylorsche Formel.md",
     "NRLA/Eigenwerte/Eigenwerte.md",
     "NRLA/Unitäre Räume/Orthonormieren nach GRAM-SCHMIDT.md",
@@ -106,7 +107,6 @@
     "NRLA/Lineare Abbildungen/Spezielle Abbildungen.md",
     "NRLA/Matrizen/Kronecker-Delta.md",
     "NRLA/Unitäre Räume/QR-Zerlegung.md",
-    "NRLA/Matrizen/LR-Zerlegung.md",
-    "NRLA/Lineare Abbildungen/Matrix einer linearen Abbildung.md"
+    "NRLA/Matrizen/LR-Zerlegung.md"
   ]
 }

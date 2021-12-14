@@ -20,7 +20,3 @@
 		+ Restglied von Lagrauge
 		+ wiederholbar für n Ableitungen - alle Glieder des Taylor-Polynom
 
-### Extremstelle bestimmen
-+ lokale Extremstelle ==> $f'(x_0)=0$
-	+ Umkehrung ist falsch
-+ Ableitungen bestimmen bis 
