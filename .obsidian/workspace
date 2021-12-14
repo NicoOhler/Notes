@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NRLA/Eigenwerte/Eigenwerte.md",
+            "file": "Analysis/Differentialrechnung/Taylorsche Formel.md",
             "mode": "source"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NRLA/Eigenwerte/Eigenwerte.md",
+                "file": "Analysis/Differentialrechnung/Taylorsche Formel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +98,7 @@
   },
   "active": "94a950991f250ff6",
   "lastOpenFiles": [
+    "Analysis/Differentialrechnung/Taylorsche Formel.md",
     "NRLA/Eigenwerte/Eigenwerte.md",
     "NRLA/Unitäre Räume/Orthonormieren nach GRAM-SCHMIDT.md",
     "NRLA/Unitäre Räume/Unitäre Räume.md",
@@ -106,7 +107,6 @@
     "NRLA/Matrizen/Kronecker-Delta.md",
     "NRLA/Unitäre Räume/QR-Zerlegung.md",
     "NRLA/Matrizen/LR-Zerlegung.md",
-    "NRLA/Lineare Abbildungen/Matrix einer linearen Abbildung.md",
-    "Analysis/Differentialrechnung/Anwendungen des MWS.md"
+    "NRLA/Lineare Abbildungen/Matrix einer linearen Abbildung.md"
   ]
 }

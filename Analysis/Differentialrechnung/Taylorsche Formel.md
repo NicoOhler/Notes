@@ -12,3 +12,7 @@
 + $T_n'(f,x_0,x_0)=f'(x_0)$
 +  $T_n(f,x_0,x_0)$ ist Polynom von Grad ≤n, das bei  x<sub>0</sub> mit f in den ersten n Ableitungen übereinstimmt
 	+ $T_n^l(f,x_0,x_0)=f^l(x_0)$
+
+### Taylor-Lagrauge
++ Sei f: (a,b) --> ℝ (n+1)-mal diffbar, $x,x_0∈(a,b)$
+	+ Dann gibt es ein t zwischen x und $x_0$, sodas
