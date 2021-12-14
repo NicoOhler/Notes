@@ -15,4 +15,7 @@
 
 ### Taylor-Lagrauge
 + Sei f: (a,b) --> ℝ (n+1)-mal diffbar, $x,x_0∈(a,b)$
-	+ Dann gibt es ein t zwischen x und $x_0$, sodas
+	+ Dann gibt es ein t zwischen x und $x_0$, sodass
+		+ $f(x)=T_n(f,x,x_0) + \frac{f^{n+1}(t)}{(n+1)!}(x-x_0)^{n+1}$
+		+ Restglied von Lagrauge
+		+ wiederholbar für n Ableitungen - alle Glieder des Taylor-Polynom
