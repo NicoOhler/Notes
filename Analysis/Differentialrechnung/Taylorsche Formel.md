@@ -19,4 +19,8 @@
 		+ $f(x)=T_n(f,x,x_0) + \frac{f^{n+1}(t)}{(n+1)!}(x-x_0)^{n+1}$
 		+ Restglied von Lagrauge
 		+ wiederholbar für n Ableitungen - alle Glieder des Taylor-Polynom
-		+ VO#30
+
+### Extremstelle bestimmen
++ lokale Extremstelle ==> $f'(x_0)=0$
+	+ Umkehrung ist falsch
++ Ableitungen bestimmen bis 
