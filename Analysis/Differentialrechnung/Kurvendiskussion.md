@@ -11,9 +11,18 @@
 ### Nullstelle
 + Wenn in $x_0$ $f(x_0)=f'(x_0)=...=f^{(n)}(x_0)=0$ und $f^{(n)}(x_0)≠0$, dann ist $x_0$ eine n-fache Nullstelle
 
+### Monotonie
++ f: (a,b) --> ℝ
+	+ monoton wachsend, wenn $f'(x)≥0$ für alle x∈(a,b)
+	+ monoton fallend, wenn $f'(x)≤0$ für alle x∈(a,b)
+
 ### Krümmung von Funktionsgraphen
 + f: (a,b) --> ℝ, x,y∈(a,b), t∈(0,1)
 	+ konvex/Linkskrümmung, wenn $f(tx+(1-t)y)≤tf(x)+(1-t)f(y)$
 	+ konkav/Rechtskrümmung, wenn $f(tx+(1-t))≥tf(x)+(1-t)f(y)$
-+ Monotonie
-	+ f ist konvex, wenn f' monoton wächst
++ Bestimmen der Krümmung mittels Monotonie
+	+ konvex, wenn f' monoton wachsend <==> $f''(x)≥0$ für alle x∈(a,b)
+	+ konkav, wenn f' monoton fallend <==> $f''(x)≤0$ für alle x∈(a,b)
+
+### Wendepunkte
++ Punkte, in denn
