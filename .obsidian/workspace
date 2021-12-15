@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Differentialrechnung/Diffenrentialrechnung.md",
+            "file": "Analysis/Differentialrechnung/Kurvendiskussion.md",
             "mode": "preview"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Differentialrechnung/Diffenrentialrechnung.md",
+                "file": "Analysis/Differentialrechnung/Kurvendiskussion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,8 +98,8 @@
   },
   "active": "94a950991f250ff6",
   "lastOpenFiles": [
-    "Analysis/Differentialrechnung/Diffenrentialrechnung.md",
     "Analysis/Differentialrechnung/Kurvendiskussion.md",
+    "Analysis/Differentialrechnung/Diffenrentialrechnung.md",
     "Analysis/Differentialrechnung/Anwendungen des MWS.md",
     "Analysis/Differentialrechnung/Anwendungen der  Differentialrechnung.md",
     "Analysis/Differentialrechnung/Taylorsche Formel.md",
