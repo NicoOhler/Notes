@@ -31,4 +31,3 @@
 + Ableitungen bestimmen bis $f^{(n)}(x_0)≠0$
 	+ n ungerade ==> Wendepunkt
 	+ n gerade ==> Extremstelle
-+ 
