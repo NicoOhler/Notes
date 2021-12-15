@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Differentialrechnung/Kurvendiskussion.md",
-            "mode": "source"
+            "file": "Analysis/Differentialrechnung/Diffenrentialrechnung.md",
+            "mode": "preview"
           }
         }
       }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Differentialrechnung/Kurvendiskussion.md",
+                "file": "Analysis/Differentialrechnung/Diffenrentialrechnung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +98,15 @@
   },
   "active": "94a950991f250ff6",
   "lastOpenFiles": [
+    "Analysis/Differentialrechnung/Diffenrentialrechnung.md",
+    "Analysis/Differentialrechnung/Anwendungen des MWS.md",
+    "Analysis/Differentialrechnung/Anwendungen der  Differentialrechnung.md",
     "Analysis/Differentialrechnung/Kurvendiskussion.md",
     "Analysis/Differentialrechnung/Taylorsche Formel.md",
     "NRLA/Eigenwerte/Eigenwerte.md",
     "NRLA/Unitäre Räume/Orthonormieren nach GRAM-SCHMIDT.md",
     "NRLA/Unitäre Räume/Unitäre Räume.md",
     "NRLA/Unitäre Räume/Schwarzsche Ungleichung.md",
-    "NRLA/Lineare Abbildungen/Spezielle Abbildungen.md",
-    "NRLA/Matrizen/Kronecker-Delta.md",
-    "NRLA/Unitäre Räume/QR-Zerlegung.md",
-    "NRLA/Matrizen/LR-Zerlegung.md"
+    "NRLA/Lineare Abbildungen/Spezielle Abbildungen.md"
   ]
 }
