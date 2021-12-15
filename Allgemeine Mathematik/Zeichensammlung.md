@@ -8,6 +8,7 @@ https://learninglab.gitlabpages.inria.fr/mooc-rr/mooc-rr-ressources/module1/ress
 + λ μ
 + ε δ
 + φ ψ
++ $\int$
 + $\binom{n}{k}$
 + $\sum_{i=1}^n X_i$
 + $\overrightarrow{a}$
