@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Differentialrechnung/Diffenrentialrechnung.md",
+            "file": "Analysis/Differentialrechnung/Kurvendiskussion.md",
             "mode": "preview"
           }
         }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322
+    "width": 252
   },
   "right": {
     "id": "d1219e90b492538d",
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Differentialrechnung/Diffenrentialrechnung.md",
+                "file": "Analysis/Differentialrechnung/Kurvendiskussion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,10 +98,10 @@
   },
   "active": "94a950991f250ff6",
   "lastOpenFiles": [
+    "Analysis/Differentialrechnung/Kurvendiskussion.md",
     "Analysis/Differentialrechnung/Diffenrentialrechnung.md",
     "Analysis/Differentialrechnung/Anwendungen des MWS.md",
     "Analysis/Differentialrechnung/Anwendungen der  Differentialrechnung.md",
-    "Analysis/Differentialrechnung/Kurvendiskussion.md",
     "Analysis/Differentialrechnung/Taylorsche Formel.md",
     "NRLA/Eigenwerte/Eigenwerte.md",
     "NRLA/Unitäre Räume/Orthonormieren nach GRAM-SCHMIDT.md",
