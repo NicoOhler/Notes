@@ -20,4 +20,5 @@
 	+ $\int v'u =vu-\int v u' + C$
 + Substitutionsregel
 	+ ![[Pasted image 20211215170747.png]]
-	+ 
++ $\frac{1}{a}F(ax+b)$ ist Stammfunktion von f(ax+b)
++ 
