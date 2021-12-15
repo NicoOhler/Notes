@@ -16,4 +16,7 @@
 	+ $\int λf(x)dx=λ\int f(x)dx+C$
 + $\int (f(x)+g(x))dx=\int f(x)dx + \int g(x)dx + C$
 + partielle Integration
-	+ $\int f(x)g(x))dx=$
+	+ $\int f(x)G(x)dx=F(x)G(x)dx-\int F(x)g(x)dx$
+	+ $\int v'u =xu-\int v u' + C$
++ Substitutionsregel
+	+ 
