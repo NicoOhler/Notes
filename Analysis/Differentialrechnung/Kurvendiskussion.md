@@ -1,4 +1,13 @@
 # Kurvendiskussion
++ umfasst folgende Punkte
+	+ Definitionsbereich, Stetigkeit, Differenzierbarkeit
+	+ Nullstellen f(x)=0
+	+ Extremstellen
+	+ Wendepunkte
+	+ Monotonieintervalle
+	+ Krümmung
+	+ Skizze
+
 ### Extremstelle
 + lokale Extremstelle ==> $f'(x_0)=0$
 	+ Umkehrung ist falsch
