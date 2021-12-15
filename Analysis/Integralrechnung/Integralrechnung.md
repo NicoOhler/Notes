@@ -17,6 +17,7 @@
 + $\int (f(x)+g(x))dx=\int f(x)dx + \int g(x)dx + C$
 + partielle Integration
 	+ $\int f(x)G(x)dx=F(x)G(x)dx-\int F(x)g(x)dx$
-	+ $\int v'u =xu-\int v u' + C$
+	+ $\int v'u =vu-\int v u' + C$
 + Substitutionsregel
+	+ ![[Pasted image 20211215170747.png]]
 	+ 
