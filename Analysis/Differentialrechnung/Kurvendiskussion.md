@@ -15,3 +15,5 @@
 + f: (a,b) --> ℝ, x,y∈(a,b), t∈(0,1)
 	+ konvex/Linkskrümmung, wenn $f(tx+(1-t)y)≤tf(x)+(1-t)f(y)$
 	+ konkav/Rechtskrümmung, wenn $f(tx+(1-t))≥tf(x)+(1-t)f(y)$
++ Monotonie
+	+ f ist konvex, wenn f' monoton wächst
