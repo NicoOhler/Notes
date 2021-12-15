@@ -6,7 +6,7 @@
 	+ n gerade ==> Extremstelle
 		+ $f^{(n)}(x_0)>0$ ==> Minimum
 		+ $f^{(n)}(x_0)<0$ ==> Maximum
-	+ n ungerade ==> keine Extremstelle (Wendepunkt?)
+	+ n ungerade ==> keine Extremstelle, sondern Wendepunkt
 
 ### Nullstelle
 + Wenn in $x_0$ $f(x_0)=f'(x_0)=...=f^{(n)}(x_0)=0$ und $f^{(n)}(x_0)≠0$, dann ist $x_0$ eine n-fache Nullstelle
@@ -25,4 +25,10 @@
 	+ konkav, wenn f' monoton fallend <==> $f''(x)≤0$ für alle x∈(a,b)
 
 ### Wendepunkte
-+ Punkte, in denn
++ Punkte, in denen die Krümmung sich ändert
+	+ f'' wechselt in $x_0$ das Vorzeichen
++ In Wendepunkten wechselt der Funktionsgraph die Seite der Tangente
++ Ableitungen bestimmen bis $f^{(n)}(x_0)≠0$
+	+ n ungerade ==> Wendepunkt
+	+ n gerade ==> Extremstelle
++ 
