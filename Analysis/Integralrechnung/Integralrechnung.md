@@ -21,4 +21,8 @@
 + Substitutionsregel
 	+ ![[Pasted image 20211215170747.png]]
 + $\frac{1}{a}F(ax+b)$ ist Stammfunktion von f(ax+b)
-+ 
++ logarithmische Regel
+	+ $\int \frac{f'(x)}{f(x)}=ln|f(x)|+C$
+
+### Integration rationer Funktionen
++ VO#32 1:13 Continue
