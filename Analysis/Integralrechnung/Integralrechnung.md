@@ -25,4 +25,11 @@
 	+ $\int \frac{f'(x)}{f(x)}=ln|f(x)|+C$
 
 ### Integration rationer Funktionen
-+ VO#32 1:13 Continue
++ $\int \frac{p(x)}{q(x)}=?$
+	+ p, q sind Polynome in x
+	+ beides rationale Funktionen
++ Polynomdivision
+	+ $p(x)=a(x)q(x)+b(x)$
+	+ Grad(b) < Grad(q)
+	+ analog zur Division mit Rest
+		+ b(x) = Rest < Divisor
