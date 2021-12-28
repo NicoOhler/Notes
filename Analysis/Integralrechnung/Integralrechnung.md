@@ -30,11 +30,11 @@
 	+ beides rationale Funktionen
 + Polynomdivision
 	+ $p(x)=a(x)q(x)+b(x)$
-	+ $\frac {p(x)}{q(x)}=a(x)+\frac{r(x)}{q(x)}$
+	+ $\frac {p(x)}{q(x)}=a(x)+\frac{b(x)}{q(x)}$
 		+ Grad(r) < Grad(q)
 		+ Grad(p) ≥ Grad(q)
 	+ analog zur Division mit Rest
-		+ r(x) = Rest < Divisor
+		+ b(x) = Rest < Divisor
 	+ ![[Pasted image 20211228115747.png]]
 + Sei q(x) ein  Polynom, gibt es ein α∈ℂ,  sodass q(α)=0
 	+ unter Berücksichtigung von mehrfach auftretender Nullstellen gilt:
@@ -42,7 +42,7 @@
 		+ $\sum k = n$ - Vielfachheiten
 + Algorithmus:
 	+ Polynomdivision
-		+ $\frac {p(x)}{q(x)}=a(x)+\frac{r(x)}{q(x)}$
+		+ $\frac {p(x)}{q(x)}=a(x)+\frac{b(x)}{q(x)}$
 	+ Zerlegung des Nenners in Linearfaktoren
 		+ $q(x)=(x-α_1)^{k_1}(x-α_2)^{k_2}...(x-α_n)^{k_n}$
 		+ q(x) ist Polynom mt ganzzahligen Koeffizienten ==> jede ganzzahlige Nullstelle ein Teiler von $a_0$
