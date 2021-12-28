@@ -49,3 +49,6 @@
 		+ $\frac {r(x)}{q(x)}=\sum_{i=1}^k \sum_{j=1}^{n_i} \frac{A_{ij}}{(x-α_i)^j}$
 		+ Bestimmung von $A_{ij}$
 	+ Integration der einzelnen Terme
+		+ j=i
+			+ α∈ℝ ==> $\int \frac {A}{x-α}dx = A*ln|x-α| + C$
+			+ α∈ℂ\\ℝ ==> $\frac {A}{x-α} + \frac {A^{*}}{x-α^{*}}$	==> $$
