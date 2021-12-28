@@ -45,6 +45,7 @@
 		+ $\frac {p(x)}{q(x)}=a(x)+\frac{r(x)}{q(x)}$
 	+ Zerlegung des Nenners in Linearfaktoren
 		+ $q(x)=(x-α_1)^{k_1}(x-α_2)^{k_2}...(x-α_n)^{k_n}$
+		+ q(x) ist Polynom mt ganzzahligen Koeffizienten ==> jede ganzzahlige Nullstelle ein Teiler von $a_0$
 	+ Partialbruchzerlegung
 		+ $\frac {r(x)}{q(x)}=\sum_{i=1}^k \sum_{j=1}^{n_i} \frac{A_{ij}}{(x-α_i)^j}$
 		+ Bestimmung von $A_{ij}$
