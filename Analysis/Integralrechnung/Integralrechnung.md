@@ -49,6 +49,8 @@
 		+ $\frac {r(x)}{q(x)}=\sum_{i=1}^k \sum_{j=1}^{n_i} \frac{A_{ij}}{(x-α_i)^j}$
 		+ Bestimmung von $A_{ij}$
 	+ Integration der einzelnen Terme
-		+ j=i
+		+ j = 1
 			+ α∈ℝ ==> $\int \frac {A}{x-α}dx = A*ln|x-α| + C$
-			+ α∈ℂ\\ℝ ==> $\frac {A}{x-α} + \frac {A^{*}}{x-α^{*}}$	==> $$
+			+ α∈ℂ\\ℝ ==> $\frac {A}{x-α} + \frac {A^{*}}{x-α^{*}}$	==> $\int \frac {ax+b}{x^2+px+q}dx =\frac{a}{2}ln(x^2+px+q)+\frac{2b-ap}{\sqrt{bq-p^2}}arctan(\frac{2x+p}{\sqrt{bq-p^2}})+C$
+		+ j > 1
+			+ $\int \frac {A}{(x-α)^j}dx =-\frac {A}{(j-1)(x-α)^{j-1}} + C$
