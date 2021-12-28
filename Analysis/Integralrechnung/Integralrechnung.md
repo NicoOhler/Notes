@@ -33,3 +33,5 @@
 	+ Grad(b) < Grad(q)
 	+ analog zur Division mit Rest
 		+ b(x) = Rest < Divisor
+	+ ![[Pasted image 20211228115747.png]]
++ Sei q(x) ein  Polynom, gibt es ein 
