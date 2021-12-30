@@ -15,6 +15,7 @@ https://learninglab.gitlabpages.inria.fr/mooc-rr/mooc-rr-ressources/module1/ress
 + $\sqrt[n]{k}$
 + $\frac{1}{x+iy}$
 + $\lim_{x \to x_0} f(x)$
++ $\bar{S}-\underline{S}$
 + Vergleich
 	+ ≠
 	+ ≤
