@@ -19,4 +19,7 @@
 + f ist Riemann-integrierbar auf \[a,b], wenn
 	+ $∀ε>0 ∃Z: \bar{S}(f,Z)-\underline{S}(f,Z)<ε$
 + Sei f stetig <==> f ist Riemann-integrierbar
-
+	+  Beweis VO#35
++ Sei f monoton (wachsend/fallend) <==> f ist Riemann-integrierbar
+	+  Beweis VO#35
++ 
