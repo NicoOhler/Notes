@@ -22,4 +22,11 @@
 	+  Beweis VO#35
 + Sei f monoton (wachsend/fallend) <==> f ist Riemann-integrierbar
 	+  Beweis VO#35
-+ 
++  Vorzeichenwechsel in \[a,b]  ==> Fläche mit positiven y - Fläche mit negativen y
++ MWS der Integralrechnung
+	+ Sei f:\[a,b] --> ℝ stetig
+		+ $∃α∈[a,b]: \int_a^bf(x)dx=f(α)(b-a)$
+	+ MWS
+		+ Integralwert liegt zwischenMinimum und Maximum
+		+ Laut MWS: jeder Wert zwischen Minimum und Maximum wird angenommen
+	
