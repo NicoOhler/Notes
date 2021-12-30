@@ -1,10 +1,23 @@
 # Bestimmte Integral
 + Fläche A unter Funktion f im Bereich \[a,b] bestimmen
-+ Idee
-	+ viele untere und obere Schranken für Fläche finden
-		+ Unterschied zwischen Schranken muss beliebig klein werden
-	+ Fläche wird in x Bereiche unterteilt
-+ Fläche = Infimum der oberen Schranken = Supremum der unteren Schranken
+
+### Herleitung
++ viele untere und obere Schranken für Fläche finden
+	+ Unterschied zwischen Schranken muss beliebig klein werden
++ Fläche wird in x Bereiche unterteilt
+	+ Untersummen und Obersummen entstehen
+	+ desto mehr Zerteilungen, 
+		+ desto größer die Untersummen
+		+ desto kleiner die Obersummen
+		+ größte Untersumme ≤ kleinste Obersumme
++ Fläche = Infimum der Obersummen = Supremum der Untersummen
 	+ gleich, wenn genug Zerteilungen stattfanden
 	+ Riemann-Darboux-Integral
-	+ beide gleich <==> Riemann-integrierbar auf \[a,b]
+	+ beide gleich <==> f ist Riemann-integrierbar auf \[a,b]
+
+### Riemannsches Integralibilitätskriterium
++ f ist Riemann-integrierbar auf \[a,b], wenn
+	+ ∀ε>0 ∃Z: 
+	+ $\bar{a}$
+
+$\overline{abc}$
