@@ -1,5 +1,8 @@
 # Bestimmte Integral
 + Fläche A unter Funktion f im Bereich \[a,b] bestimmen
++ $A=\int^b_a f(x)dx=F(b)-F(a)$, wenn
+	+ $f:[a,b]-->ℝ$ stetig
+	+ $F:[a,b]-->ℝ$ eine Stammfunktion von f
 
 ### Herleitung
 + viele untere und obere Schranken für Fläche finden
