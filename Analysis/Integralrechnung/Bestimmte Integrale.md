@@ -3,6 +3,13 @@
 + $A=\int^b_a f(x)dx=F(b)-F(a)$, wenn
 	+ $f:[a,b]-->ℝ$ stetig
 	+ $F:[a,b]-->ℝ$ eine Stammfunktion von f
++ Substitutionsregel beim bestimmten Regal
+	+ Grenzen werden bei Substitution verändert
+	+ $x = ... =g(t)$
+	+ $dx=g'(t)dt$
+	+ $a=g^{-1}(a)$
+	+ $b=g^{-1}(b)$
+	+ keine Rücksubstitution notwendig
 
 ### Herleitung
 + viele untere und obere Schranken für Fläche finden
