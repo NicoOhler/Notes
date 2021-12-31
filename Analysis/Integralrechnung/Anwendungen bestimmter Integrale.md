@@ -13,3 +13,10 @@
 	+ $sup L(f,Z)<\infty$
 	+ $L(f,Z)=f'(ξ_i)=R(\sqrt{1+(f')^2},Z,E)$
 + $L=\int^b_a \sqrt{1+(f'(x))^2}dx$
++ ![[Pasted image 20211231171822.png]]
+
+### Fläche eines von Kurve begrenzten Sektor
++ ![[Pasted image 20211231172742.png]]
++ VO#36 1:25
++ Leibnizsche Sektorformel
+	+ $A_{Sektor}=\frac{1}{2}\int_a^b ($
