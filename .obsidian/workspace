@@ -99,6 +99,7 @@
   "active": "94a950991f250ff6",
   "lastOpenFiles": [
     "Analysis/Integralrechnung/Bestimmte Integrale.md",
+    "Analysis/Funktionen/Hyperbelfunktionen.md",
     "Analysis/Integralrechnung/Integralrechnung.md",
     "Analysis/Integralrechnung/Substitution rationaler Funktionen.md",
     "Analysis/Komplexe Zahlen/Komplexe Zahlen.md",
@@ -106,7 +107,6 @@
     "Analysis/Analysis.md",
     "Analysis/Integralrechnung/Integration rationaler Funktionen.md",
     "Analysis/Differentialrechnung/Diffenrentialrechnung.md",
-    "Analysis/Differentialrechnung/Kurvendiskussion.md",
-    "Analysis/Differentialrechnung/Anwendungen des MWS.md"
+    "Analysis/Differentialrechnung/Kurvendiskussion.md"
   ]
 }
