@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Integralrechnung/Bestimmte Integrale.md",
+            "file": "Analysis/Integralrechnung/Anwendungen bestimmter Integrale.md",
             "mode": "source"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Integralrechnung/Bestimmte Integrale.md",
+                "file": "Analysis/Integralrechnung/Anwendungen bestimmter Integrale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +98,7 @@
   },
   "active": "94a950991f250ff6",
   "lastOpenFiles": [
+    "Analysis/Integralrechnung/Anwendungen bestimmter Integrale.md",
     "Analysis/Integralrechnung/Bestimmte Integrale.md",
     "Analysis/Funktionen/Hyperbelfunktionen.md",
     "Analysis/Integralrechnung/Integralrechnung.md",
@@ -106,7 +107,6 @@
     "Analysis/Kombinatorik.md",
     "Analysis/Analysis.md",
     "Analysis/Integralrechnung/Integration rationaler Funktionen.md",
-    "Analysis/Differentialrechnung/Diffenrentialrechnung.md",
-    "Analysis/Differentialrechnung/Kurvendiskussion.md"
+    "Analysis/Differentialrechnung/Diffenrentialrechnung.md"
   ]
 }

@@ -47,16 +47,5 @@
 	+ Summe von Integrale = Integral von Summen
 	+ Konstanten darf man herausziehen
 
-### Anwendungen
-+ Riemannsumme zu f, der Zerlegung Z und der Stützstellen E
-	+ $f:[a,b]-->ℝ$ Riemann-integrierbar
-	+  $\sum_{i=0}^{n-1}f(ξ_i)(x_{i+1}-x_i)=R(f,Z,E)$
-		+  $ξ_i∈[x_i.x_{i+1}]$ 
-		+  Z - Zerlegungen
-		+  E = Menge aller Stützstellen(ξ)
-+  Bogenlänge
-	+ $f:[a,b]-->ℝ$
-	+ Kurve gegeben durch y=f(x) ist rektifizierbar, wenn 
-		+ die größte Bogenlänge L der Zerlegungen Z endlich
-		+ $sup L(f,Z)<\infty$
+
 	
