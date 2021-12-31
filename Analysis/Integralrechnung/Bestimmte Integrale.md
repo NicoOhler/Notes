@@ -29,4 +29,12 @@
 	+ MWS
 		+ Integralwert liegt zwischenMinimum und Maximum
 		+ Laut MWS: jeder Wert zwischen Minimum und Maximum wird angenommen
+
+### Eigenschaften
++ a < b < c ==> $\int^b_a f(x)+\int^c_b f(x)=\int^c_a f(x)$
++ $\int^b_a f(x)=-\int^a_b f(x)$
++ Linearität
+	+ Summe von Integrale = Integral von Summen
+	+ Konstanten darf man herausziehen
++ 
 	
