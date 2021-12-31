@@ -46,5 +46,6 @@
 + Linearität
 	+ Summe von Integrale = Integral von Summen
 	+ Konstanten darf man herausziehen
-+ 
+
+
 	
