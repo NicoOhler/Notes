@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Integralrechnung/Anwendungen bestimmter Integrale.md",
-            "mode": "source"
+            "file": "Analysis/Integralrechnung/Integration rationaler Funktionen.md",
+            "mode": "preview"
           }
         }
       }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252
+    "width": 284
   },
   "right": {
     "id": "d1219e90b492538d",
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Integralrechnung/Anwendungen bestimmter Integrale.md",
+                "file": "Analysis/Integralrechnung/Integration rationaler Funktionen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +98,15 @@
   },
   "active": "94a950991f250ff6",
   "lastOpenFiles": [
+    "Analysis/Integralrechnung/Integration rationaler Funktionen.md",
+    "Analysis/Integralrechnung/Substitution rationaler Funktionen.md",
+    "Analysis/Integralrechnung/Integralrechnung.md",
     "Analysis/Integralrechnung/Anwendungen bestimmter Integrale.md",
     "Images/Pasted image 20211231171822.png",
     "Analysis/Integralrechnung/Bestimmte Integrale.md",
     "Analysis/Funktionen/Hyperbelfunktionen.md",
-    "Analysis/Integralrechnung/Integralrechnung.md",
-    "Analysis/Integralrechnung/Substitution rationaler Funktionen.md",
     "Analysis/Komplexe Zahlen/Komplexe Zahlen.md",
     "Analysis/Kombinatorik.md",
-    "Analysis/Analysis.md",
-    "Analysis/Integralrechnung/Integration rationaler Funktionen.md"
+    "Analysis/Analysis.md"
   ]
 }
