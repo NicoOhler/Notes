@@ -16,7 +16,7 @@
 + ![[Pasted image 20211231171822.png]]
 
 ### Fläche eines von Kurve begrenzten Sektor
-+ ![[Pasted image 20211231172742.png]]
 + VO#36 1:25
 + Leibnizsche Sektorformel
-	+ $A_{Sektor}=\frac{1}{2}\int_a^b ($
+	+ $A_{Sektor}=\frac{1}{2}\int_a^b (x(t)y'(t)-x'(t)y(t))dt$
+	+ ![[Pasted image 20211231172742.png]]
