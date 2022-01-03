@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "94a950991f250ff6",
+        "id": "31b6233489d89080",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Analysis/Integralrechnung/Bestimmte Integrale.md",
-            "mode": "preview"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -79,7 +76,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Integralrechnung/Bestimmte Integrale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +92,7 @@
     "direction": "horizontal",
     "width": 450
   },
-  "active": "94a950991f250ff6",
+  "active": "31b6233489d89080",
   "lastOpenFiles": [
     "Analysis/Integralrechnung/Bestimmte Integrale.md",
     "Analysis/Integralrechnung/Integration rationaler Funktionen.md",
