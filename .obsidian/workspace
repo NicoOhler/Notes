@@ -7,8 +7,11 @@
         "id": "31b6233489d89080",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Analysis/Komplexe Zahlen/Komplexe Zahlen.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -76,6 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Analysis/Komplexe Zahlen/Komplexe Zahlen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,6 +98,7 @@
   },
   "active": "31b6233489d89080",
   "lastOpenFiles": [
+    "Analysis/Komplexe Zahlen/Komplexe Zahlen.md",
     "Analysis/Integralrechnung/Bestimmte Integrale.md",
     "Analysis/Integralrechnung/Integration rationaler Funktionen.md",
     "Analysis/Integralrechnung/Substitution rationaler Funktionen.md",
@@ -101,7 +106,6 @@
     "Analysis/Integralrechnung/Anwendungen bestimmter Integrale.md",
     "Images/Pasted image 20211231171822.png",
     "Analysis/Funktionen/Hyperbelfunktionen.md",
-    "Analysis/Komplexe Zahlen/Komplexe Zahlen.md",
     "Analysis/Kombinatorik.md",
     "Analysis/Analysis.md"
   ]
