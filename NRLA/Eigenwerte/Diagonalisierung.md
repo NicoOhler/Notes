@@ -21,3 +21,14 @@
 	 + EV zu verschiedenen EW sind orthogonal
 	 + A besitzt n orthonormierte EV
 	 + A ist diagonalisierbar mittels ONB von EV (Orthonogale Diagonalisierung)
+ + das übliche innere Produkt wird verwendet
+	 + $<v,ww>:=\sum_{j=i}^n v_j\bar w_j$
+ + Q heißt Orthogonalmatrix, wenn $Q^{-1}=Q^T$
+ + $A∈ℝ^{n×n}$  ist orthogonal, wenn Spalten eine ONB bilden
+
+### Bestimmung der diagonalisierenden Matrix Q
+1. EW bestimmen
+2. Basis der Eigenräume von A bestimmen
+3. [[Orthonormieren nach GRAM-SCHMIDT]] wenn nötig
+4. Spalten von Q sind ONB Eigenvektoren von 3.
+
