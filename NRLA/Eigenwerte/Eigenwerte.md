@@ -25,11 +25,21 @@
 + $Av=λv$  ==> Eigenvektoren spannen zum Eigenwert einen Unterraum von $ℂ^n$
 	+ $Eigen(λ,A):={v∈ℂ^n: Av=λv}=Kern(A-λI)$
 	+  geometrische Vielfachheit - Dimension des Eigenraum
-+ Vorgehensweise
-	+ Eigenwerte bestimmen
-		+ Lösen der charakteristischen Gleichung $det(A-λI)=0$
-		+ Polynom als Lösung
-		+ dessen Nullstellen/Eigenwerte und Vielfachheiten bestimmen
-	+ Eigenvektoren bestimmen
-		+ Gleichung $(A-λI)v=0$ für alle Eigenwerte lösen
-		+ Eigenraum/span/Dimensionen bestimmen
+	
+### Vorgehensweise
++ Eigenwerte bestimmen
+	+ Lösen der charakteristischen Gleichung $det(A-λI)=0$
+	+ Polynom als Lösung
+	+ dessen Nullstellen/Eigenwerte und Vielfachheiten bestimmen
++ Eigenvektoren bestimmen
+	+ Gleichung $(A-λI)v=0$ für alle Eigenwerte lösen
+		+ ∞ Lösungen
+	+ Eigenraum/span/Dimensionen bestimmen
+		+ $Eigen(λ_*,A)=Span({v_1,...,v_n})$
+		+ geometrische Vielfachheit = $dim Eigen(λ_*,A)$
+
+### Sonstiges
++ 1 ≤ geom V(λ) ≤ alg V(λ)
+	+  alg V(λ) = 1 <==> geom V = 1
+	+  geom V(λ) = alg V(λ) für alle EW von A ==> $A^{n×n}$ besitzt n l. u. EV
++ 
