@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NRLA/Eigenwerte/Eigenwerte.md",
+            "file": "NRLA/Eigenwerte/Diagonalisierung.md",
             "mode": "source"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NRLA/Eigenwerte/Eigenwerte.md",
+                "file": "NRLA/Eigenwerte/Diagonalisierung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +98,8 @@
   },
   "active": "31b6233489d89080",
   "lastOpenFiles": [
+    "NRLA/Eigenwerte/Diagonalisierung.md",
+    "NRLA/Eigenwerte/Ähnliche Matrizen.md",
     "NRLA/Eigenwerte/Eigenwerte.md",
     "Analysis/Komplexe Zahlen/Komplexe Zahlen.md",
     "Analysis/Integralrechnung/Bestimmte Integrale.md",
@@ -105,8 +107,6 @@
     "Analysis/Integralrechnung/Substitution rationaler Funktionen.md",
     "Analysis/Integralrechnung/Integralrechnung.md",
     "Analysis/Integralrechnung/Anwendungen bestimmter Integrale.md",
-    "Images/Pasted image 20211231171822.png",
-    "Analysis/Funktionen/Hyperbelfunktionen.md",
-    "Analysis/Kombinatorik.md"
+    "Images/Pasted image 20211231171822.png"
   ]
 }

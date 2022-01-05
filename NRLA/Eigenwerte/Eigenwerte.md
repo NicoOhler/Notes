@@ -46,17 +46,4 @@
 + Det(A) = $\prod_{j=1}^n λ_j$
 + Spur(A) = $\sum_{j=1}^n λ_j$ = Summe der Hauptdiagonalelemente 
 
-### Ähnliche Matrizen
-+  B ähnlich zu A, wenn $B = S^{-1}AS$
-	+  S regulär
-	+  Äquivalenz-Relation
-+  Reflektion
-	+  A immer ähnlich zu A
-	+   $A = I^{-1}AI$
-+ Symmetrie
-	+ A ähnlich zu B <==> B ähnlich zu A
-	+ $A = S^{-1}BS$
-+ Transitivität
-	+ A ähnlich zu B und B ähnlich zu C <==> A ähnlich zu C
-+ ähnliche Matrizen besitzen selben EW
-	+ dasselbe charakteristische Polynom
+
