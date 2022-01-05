@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Komplexe Zahlen/Komplexe Zahlen.md",
+            "file": "NRLA/Eigenwerte/Eigenwerte.md",
             "mode": "preview"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Komplexe Zahlen/Komplexe Zahlen.md",
+                "file": "NRLA/Eigenwerte/Eigenwerte.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +98,7 @@
   },
   "active": "31b6233489d89080",
   "lastOpenFiles": [
+    "NRLA/Eigenwerte/Eigenwerte.md",
     "Analysis/Komplexe Zahlen/Komplexe Zahlen.md",
     "Analysis/Integralrechnung/Bestimmte Integrale.md",
     "Analysis/Integralrechnung/Integration rationaler Funktionen.md",
@@ -106,7 +107,6 @@
     "Analysis/Integralrechnung/Anwendungen bestimmter Integrale.md",
     "Images/Pasted image 20211231171822.png",
     "Analysis/Funktionen/Hyperbelfunktionen.md",
-    "Analysis/Kombinatorik.md",
-    "Analysis/Analysis.md"
+    "Analysis/Kombinatorik.md"
   ]
 }
