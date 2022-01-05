@@ -9,8 +9,15 @@
 		+ $S^{-1}AS=$ Matrix mit EV in Hauptdiagonale sonst nur 0
 		+ ![[Pasted image 20220105150102.png]]
 		+ diese Matrix ist ähnlich zu A
-+ $A^(n×n)$ ist diagonalisierbar, wenn $D=S^{-1}AS$
++ $A^{n×n}$ ist diagonalisierbar, wenn $D=S^{-1}AS$
 	+ D Diagonalmatrix
 	+ EW von D sind Hauptdiagonalelemente
 + wird S aus EV von gebildet, dann gilt auch $D=S^{-1}AS$
 	+ jedoch ist Inverse berechnen mühsamer
+
+### Spektralsatz  der lin. Alg.
+ + $A∈ℝ^{n×n}$ symmetrisch $(A=A^T)$==>
+	 + alle EW sind reell
+	 + EV zu verschiedenen EW sind orthogonal
+	 + A besitzt n orthonormierte EV
+	 + A ist diagonalisierbar mittels ONB von EV (Orthonogale Diagonalisierung)
