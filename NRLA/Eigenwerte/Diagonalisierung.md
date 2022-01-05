@@ -1,5 +1,5 @@
 # Diagonalisierung
-+ hat A n l. u. EV
++ A ist diagonalisierbar, wenn A n l. u. EV besitzt
 	+ ONB aus EV bilden
 	+ $S=(v_1,...,v_n)$
 		+ EV als Spalten eintragen
@@ -9,4 +9,8 @@
 		+ $S^{-1}AS=$ Matrix mit EV in Hauptdiagonale sonst nur 0
 		+ ![[Pasted image 20220105150102.png]]
 		+ diese Matrix ist ähnlich zu A
-+ diagonalisierbar, wenn $D?
++ $A^(n×n)$ ist diagonalisierbar, wenn $D=S^{-1}AS$
+	+ D Diagonalmatrix
+	+ EW von D sind Hauptdiagonalelemente
++ wird S aus EV von gebildet, dann gilt auch $D=S^{-1}AS$
+	+ jedoch ist Inverse berechnen mühsamer
