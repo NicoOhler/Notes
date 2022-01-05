@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NRLA/Unitäre Räume/Unitäre Räume.md",
+            "file": "NRLA/Unitäre Räume/QR-Zerlegung.md",
             "mode": "preview"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NRLA/Unitäre Räume/Unitäre Räume.md",
+                "file": "NRLA/Unitäre Räume/QR-Zerlegung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +98,7 @@
   },
   "active": "31b6233489d89080",
   "lastOpenFiles": [
+    "NRLA/Unitäre Räume/QR-Zerlegung.md",
     "NRLA/Unitäre Räume/Unitäre Räume.md",
     "NRLA/Unitäre Räume/Schwarzsche Ungleichung.md",
     "NRLA/Unitäre Räume/Orthonormieren nach GRAM-SCHMIDT.md",
@@ -106,7 +107,6 @@
     "NRLA/Eigenwerte/Ähnliche Matrizen.md",
     "NRLA/NRLA.md",
     "Analysis/Komplexe Zahlen/Komplexe Zahlen.md",
-    "Analysis/Integralrechnung/Bestimmte Integrale.md",
-    "Analysis/Integralrechnung/Integration rationaler Funktionen.md"
+    "Analysis/Integralrechnung/Bestimmte Integrale.md"
   ]
 }
