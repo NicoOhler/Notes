@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NRLA/Eigenwerte/Diagonalisierung.md",
-            "mode": "source"
+            "file": "NRLA/Unitäre Räume/Unitäre Räume.md",
+            "mode": "preview"
           }
         }
       }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NRLA/Eigenwerte/Diagonalisierung.md",
+                "file": "NRLA/Unitäre Räume/Unitäre Räume.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +98,15 @@
   },
   "active": "31b6233489d89080",
   "lastOpenFiles": [
+    "NRLA/Unitäre Räume/Unitäre Räume.md",
+    "NRLA/Unitäre Räume/Schwarzsche Ungleichung.md",
+    "NRLA/Unitäre Räume/Orthonormieren nach GRAM-SCHMIDT.md",
     "NRLA/Eigenwerte/Diagonalisierung.md",
     "NRLA/Eigenwerte/Eigenwerte.md",
     "NRLA/Eigenwerte/Ähnliche Matrizen.md",
     "NRLA/NRLA.md",
     "Analysis/Komplexe Zahlen/Komplexe Zahlen.md",
     "Analysis/Integralrechnung/Bestimmte Integrale.md",
-    "Analysis/Integralrechnung/Integration rationaler Funktionen.md",
-    "Analysis/Integralrechnung/Substitution rationaler Funktionen.md",
-    "Analysis/Integralrechnung/Integralrechnung.md",
-    "Analysis/Integralrechnung/Anwendungen bestimmter Integrale.md"
+    "Analysis/Integralrechnung/Integration rationaler Funktionen.md"
   ]
 }
