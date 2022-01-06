@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NRLA/Eigenwerte/Diagonalisierung.md",
+            "file": "NRLA/Unitäre Räume/QR-Zerlegung.md",
             "mode": "preview"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "orthogona",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -80,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NRLA/Eigenwerte/Diagonalisierung.md",
+                "file": "NRLA/Unitäre Räume/QR-Zerlegung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,12 +98,12 @@
   },
   "active": "31b6233489d89080",
   "lastOpenFiles": [
+    "NRLA/Unitäre Räume/QR-Zerlegung.md",
     "NRLA/Eigenwerte/Diagonalisierung.md",
     "NRLA/Lineare Abbildungen/Basiswechsel.md",
     "NRLA/Eigenwerte/Eigenwerte.md",
     "NRLA/Eigenwerte/Ähnliche Matrizen.md",
     "NRLA/Unitäre Räume/Orthonormieren nach GRAM-SCHMIDT.md",
-    "NRLA/Unitäre Räume/QR-Zerlegung.md",
     "NRLA/Unitäre Räume/Unitäre Räume.md",
     "NRLA/Unitäre Räume/Schwarzsche Ungleichung.md",
     "NRLA/NRLA.md",
