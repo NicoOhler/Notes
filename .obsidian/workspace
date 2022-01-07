@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Differentialrechnung/Anwendungen des MWS.md",
+            "file": "Analysis/Differentialrechnung/Diffenrentialrechnung.md",
             "mode": "preview"
           }
         }
@@ -39,8 +39,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": true,
+                "query": "quotie",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -48,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -79,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Differentialrechnung/Anwendungen des MWS.md",
+                "file": "Analysis/Differentialrechnung/Diffenrentialrechnung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,8 +99,8 @@
   },
   "active": "31b6233489d89080",
   "lastOpenFiles": [
-    "Analysis/Differentialrechnung/Anwendungen des MWS.md",
     "Analysis/Differentialrechnung/Diffenrentialrechnung.md",
+    "Analysis/Differentialrechnung/Anwendungen des MWS.md",
     "Analysis/Differentialrechnung/Kurvendiskussion.md",
     "Analysis/Differentialrechnung/Taylorsche Formel.md",
     "Analysis/Komplexe Zahlen/Komplexe Zahlen.md",
