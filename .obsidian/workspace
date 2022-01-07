@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Differentialrechnung/Diffenrentialrechnung.md",
+            "file": "Analysis/Differentialrechnung/Kurvendiskussion.md",
             "mode": "preview"
           }
         }
@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -80,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Differentialrechnung/Diffenrentialrechnung.md",
+                "file": "Analysis/Differentialrechnung/Kurvendiskussion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,9 +98,9 @@
   },
   "active": "31b6233489d89080",
   "lastOpenFiles": [
+    "Analysis/Differentialrechnung/Kurvendiskussion.md",
     "Analysis/Differentialrechnung/Diffenrentialrechnung.md",
     "Analysis/Differentialrechnung/Anwendungen des MWS.md",
-    "Analysis/Differentialrechnung/Kurvendiskussion.md",
     "Analysis/Differentialrechnung/Taylorsche Formel.md",
     "Analysis/Komplexe Zahlen/Komplexe Zahlen.md",
     "NRLA/Unitäre Räume/QR-Zerlegung.md",
