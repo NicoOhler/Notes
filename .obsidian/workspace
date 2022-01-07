@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Komplexe Zahlen/Komplexe Zahlen.md",
+            "file": "Analysis/Differentialrechnung/Anwendungen des MWS.md",
             "mode": "preview"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Komplexe Zahlen/Komplexe Zahlen.md",
+                "file": "Analysis/Differentialrechnung/Anwendungen des MWS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +98,15 @@
   },
   "active": "31b6233489d89080",
   "lastOpenFiles": [
-    "Analysis/Komplexe Zahlen/Komplexe Zahlen.md",
+    "Analysis/Differentialrechnung/Anwendungen des MWS.md",
+    "Analysis/Differentialrechnung/Diffenrentialrechnung.md",
     "Analysis/Differentialrechnung/Kurvendiskussion.md",
+    "Analysis/Differentialrechnung/Taylorsche Formel.md",
+    "Analysis/Komplexe Zahlen/Komplexe Zahlen.md",
     "NRLA/Unitäre Räume/QR-Zerlegung.md",
     "NRLA/Eigenwerte/Diagonalisierung.md",
     "NRLA/Lineare Abbildungen/Basiswechsel.md",
     "NRLA/Eigenwerte/Eigenwerte.md",
-    "NRLA/Eigenwerte/Ähnliche Matrizen.md",
-    "NRLA/Unitäre Räume/Orthonormieren nach GRAM-SCHMIDT.md",
-    "NRLA/Unitäre Räume/Unitäre Räume.md",
-    "NRLA/Unitäre Räume/Schwarzsche Ungleichung.md"
+    "NRLA/Eigenwerte/Ähnliche Matrizen.md"
   ]
 }
