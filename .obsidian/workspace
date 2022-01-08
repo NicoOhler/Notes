@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Differentialrechnung/Anwendungen des MWS.md",
+            "file": "Analysis/Funktionen/Stetigkeit.md",
             "mode": "preview"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hos",
+                "query": "polynom",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Differentialrechnung/Anwendungen des MWS.md",
+                "file": "Analysis/Funktionen/Stetigkeit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
   },
   "active": "31b6233489d89080",
   "lastOpenFiles": [
+    "Analysis/Funktionen/Stetigkeit.md",
+    "Analysis/Integralrechnung/Integration rationaler Funktionen.md",
+    "NRLA/Eigenwerte/Eigenwerte.md",
     "Analysis/Differentialrechnung/Anwendungen des MWS.md",
     "Analysis/Differentialrechnung/Kurvendiskussion.md",
     "Analysis/Differentialrechnung/Diffenrentialrechnung.md",
     "Analysis/Differentialrechnung/Taylorsche Formel.md",
     "Analysis/Komplexe Zahlen/Komplexe Zahlen.md",
     "NRLA/Unitäre Räume/QR-Zerlegung.md",
-    "NRLA/Eigenwerte/Diagonalisierung.md",
-    "NRLA/Lineare Abbildungen/Basiswechsel.md",
-    "NRLA/Eigenwerte/Eigenwerte.md",
-    "NRLA/Eigenwerte/Ähnliche Matrizen.md"
+    "NRLA/Eigenwerte/Diagonalisierung.md"
   ]
 }
