@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Differentialrechnung/Kurvendiskussion.md",
+            "file": "Analysis/Komplexe Zahlen/Komplexe Zahlen.md",
             "mode": "preview"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Differentialrechnung/Kurvendiskussion.md",
+                "file": "Analysis/Komplexe Zahlen/Komplexe Zahlen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +98,7 @@
   },
   "active": "31b6233489d89080",
   "lastOpenFiles": [
+    "Analysis/Komplexe Zahlen/Komplexe Zahlen.md",
     "Analysis/Differentialrechnung/Kurvendiskussion.md",
     "Analysis/Funktionen/Stetigkeit.md",
     "Analysis/Integralrechnung/Integration rationaler Funktionen.md",
@@ -105,7 +106,6 @@
     "Analysis/Differentialrechnung/Anwendungen des MWS.md",
     "Analysis/Differentialrechnung/Diffenrentialrechnung.md",
     "Analysis/Differentialrechnung/Taylorsche Formel.md",
-    "Analysis/Komplexe Zahlen/Komplexe Zahlen.md",
     "NRLA/Unitäre Räume/QR-Zerlegung.md",
     "NRLA/Eigenwerte/Diagonalisierung.md"
   ]
