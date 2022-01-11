@@ -17,15 +17,20 @@
 	+ Verknüpfungen linearer Abbildungen?
 	+ lineare Abbildungen konstruieren?
 	+ Koordinaten-Abbildung?
-	+ Basiswechsel - Koordinatentransformation
-	+ lineare Abbildung = Matrixmultiplikation
+	+ Basiswechsel - Koordinatentransformation TODO
+	+ lineare Abbildung = Matrixmultiplikation TODO
 + Unitäre Räume
 	+ Norm/Länge
-	+ Schwarzsche Ungleichung?
-		+ induzierte Norm
-	+ Winkel im unitären Raum
+		+ Norm/Betrag/Länge
+			+ $||x||=\sqrt{x_1^2+...+x_n^2}$
+			+ induzierte Norm  $||x||=\sqrt{<x ,x>}$
+			+ Abstand $d(v,w);=||v-w||$ 
+		+ inneres Produkt  $<x,y>=x_1 y_1+...+x_n y_n$ bestimmt Winkel
+			+ orthogonal, wenn $<x,y>=0$ 
 	+ Orthonormierungsverfahren nach Gram-Schmidt
 	+ QR Zerlegung
+		+ A=QR
+		+ 
 + Eigenwerte und Eigenvektoren
 + Diagonalisierung
 + Methode der kleinsten Quadrate
