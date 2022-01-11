@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NRLA/Eigenwerte/Diagonalisierung.md",
+            "file": "NRLA/Lineare Abbildungen/Lineare Abbildungen.md",
             "mode": "preview"
           }
         }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NRLA/NRLA-Stoff.md",
+                "file": "NRLA/Lineare Abbildungen/Lineare Abbildungen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,13 +108,13 @@
     "width": 702,
     "collapsed": true
   },
-  "active": "a6cc40a2e8fbe573",
+  "active": "7d33a38ce200bb86",
   "lastOpenFiles": [
+    "NRLA/Lineare Abbildungen/Lineare Abbildungen.md",
+    "NRLA/Eigenwerte/Diagonalisierung.md",
     "NRLA/NRLA-Stoff.md",
     "NRLA/NRLA.md",
-    "NRLA/Lineare Abbildungen/Lineare Abbildungen.md",
     "NRLA/Lineare Abbildungen/Matrix einer linearen Abbildung.md",
-    "NRLA/Eigenwerte/Diagonalisierung.md",
     "NRLA/Eigenwerte/Eigenwerte.md",
     "NRLA/Unitäre Räume/QR-Zerlegung.md",
     "NRLA/Eigenwerte/Ähnliche Matrizen.md",
