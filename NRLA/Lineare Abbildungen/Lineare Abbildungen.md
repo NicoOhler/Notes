@@ -1,5 +1,5 @@
 # Lineare Abbildungen
-+ Lineare Abbildungen repektieren Linearkombinationen
++ Lineare Abbildungen respektieren Linearkombinationen
 +  F: $ℝ^n$-->$ℝ^m$, $\overrightarrow{x}$-->$\overrightarrow{y}=A-\overrightarrow{x}$
 	+ F ist linear, wenn 
 		+ $\overrightarrow{x}+\overrightarrow{x'}$-->$F(x)+F(x')$
@@ -21,7 +21,7 @@
 	+ Bild von F = Menge aller Elemente in V erreichbar durch Abbildung F
 
 ### Menge linearer Abbildungen von V und W
-+ $L(V,W):=\{F:V$-->$W:F linear\}$
++ $L(V,W):=\{F:V$-->$W:F$ $linear\}$
 
 ### Spezielle Abbildungen
 + Nullabbildung:
