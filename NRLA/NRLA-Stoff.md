@@ -30,7 +30,24 @@
 	+ Orthonormierungsverfahren nach Gram-Schmidt
 	+ QR Zerlegung
 		+ A=QR
-		+ 
+		+ Q durch Gram-Schmidt
+		+ $R = Q^TA$
 + Eigenwerte und Eigenvektoren
+	+ Eigenwerte bestimmen
+		+ Lösen der charakteristischen Gleichung $det(A-λI)=0$
+			+ lambda² + spur + det?
+		+ Polynom als Lösung
+		+ dessen Nullstellen/Eigenwerte und Vielfachheiten bestimmen
++ Eigenvektoren bestimmen
+	+ Gleichung $(A-λI)v=0$ für alle Eigenwerte lösen
+		+ ∞ Lösungen
+	+ Eigenraum/span/Dimensionen bestimmen
+		+ $Eigen(λ_*,A)=Span({v_1,...,v_n})$
+		+ geometrische Vielfachheit = $dim Eigen(λ_*,A)$
+	+ 1 ≤ geom V(λ) ≤ alg V(λ)
 + Diagonalisierung
+	+ diagonalisierbar, wenn A n l. u. EV besitzt
+	+ diagonalisierbar, wenn $D=S^{-1}AS$
+	+ ONB aus EV bilden
 + Methode der kleinsten Quadrate
+	+ yes

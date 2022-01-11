@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "31b6233489d89080",
+        "id": "a6cc40a2e8fbe573",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -15,12 +15,12 @@
         }
       },
       {
-        "id": "bc9a6b489bcefde2",
+        "id": "7d33a38ce200bb86",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NRLA/Unitäre Räume/QR-Zerlegung.md",
+            "file": "NRLA/Eigenwerte/Diagonalisierung.md",
             "mode": "preview"
           }
         }
@@ -108,17 +108,17 @@
     "width": 702,
     "collapsed": true
   },
-  "active": "31b6233489d89080",
+  "active": "a6cc40a2e8fbe573",
   "lastOpenFiles": [
     "NRLA/NRLA-Stoff.md",
+    "NRLA/Eigenwerte/Diagonalisierung.md",
+    "NRLA/Eigenwerte/Eigenwerte.md",
     "NRLA/Unitäre Räume/QR-Zerlegung.md",
+    "NRLA/Eigenwerte/Ähnliche Matrizen.md",
     "NRLA/Unitäre Räume/Orthonormieren nach GRAM-SCHMIDT.md",
     "NRLA/Unitäre Räume/Schwarzsche Ungleichung.md",
     "NRLA/Unitäre Räume/Unitäre Räume.md",
     "NRLA/Lineare Abbildungen/Matrix einer linearen Abbildung.md",
-    "NRLA/Lineare Abbildungen/Spezielle Abbildungen.md",
-    "NRLA/Lineare Abbildungen/Basiswechsel.md",
-    "NRLA/Lineare Abbildungen/Lineare Abbildungen.md",
-    "NRLA/Lineare Abbildungen/Injektivität, Surjektivität und Bijektivität.md"
+    "NRLA/Lineare Abbildungen/Spezielle Abbildungen.md"
   ]
 }
