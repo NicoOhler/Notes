@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "NRLA/NRLA-Stoff.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       },
@@ -111,14 +111,14 @@
   "active": "a6cc40a2e8fbe573",
   "lastOpenFiles": [
     "NRLA/NRLA-Stoff.md",
+    "NRLA/NRLA.md",
+    "NRLA/Lineare Abbildungen/Lineare Abbildungen.md",
+    "NRLA/Lineare Abbildungen/Matrix einer linearen Abbildung.md",
     "NRLA/Eigenwerte/Diagonalisierung.md",
     "NRLA/Eigenwerte/Eigenwerte.md",
     "NRLA/Unitäre Räume/QR-Zerlegung.md",
     "NRLA/Eigenwerte/Ähnliche Matrizen.md",
     "NRLA/Unitäre Räume/Orthonormieren nach GRAM-SCHMIDT.md",
-    "NRLA/Unitäre Räume/Schwarzsche Ungleichung.md",
-    "NRLA/Unitäre Räume/Unitäre Räume.md",
-    "NRLA/Lineare Abbildungen/Matrix einer linearen Abbildung.md",
-    "NRLA/Lineare Abbildungen/Spezielle Abbildungen.md"
+    "NRLA/Unitäre Räume/Schwarzsche Ungleichung.md"
   ]
 }
