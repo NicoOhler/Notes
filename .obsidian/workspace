@@ -99,6 +99,7 @@
   "active": "31b6233489d89080",
   "lastOpenFiles": [
     "NRLA/NRLA-Stoff.md",
+    "Analysis/Komplexe Zahlen/Komplexe Zahlen.md",
     "NRLA/NRLA.md",
     "Analysis/Integralrechnung/Substitution rationaler Funktionen.md",
     "Analysis/Integralrechnung/Integration rationaler Funktionen.md",
@@ -106,7 +107,6 @@
     "Analysis/Integralrechnung/Anwendungen bestimmter Integrale.md",
     "Analysis/Integralrechnung/Bestimmte Integrale.md",
     "Analysis/Differentialrechnung/Taylorsche Formel.md",
-    "Analysis/Differentialrechnung/Kurvendiskussion.md",
-    "Analysis/Differentialrechnung/Diffenrentialrechnung.md"
+    "Analysis/Differentialrechnung/Kurvendiskussion.md"
   ]
 }
