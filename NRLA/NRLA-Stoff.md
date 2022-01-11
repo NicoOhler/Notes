@@ -1,6 +1,12 @@
 # NRLA Stoff
 ### 
-+ 4 bis 6
++ LIneare Abbildungen
+	+ Kern Bild
+	+ Verknüpfungen linearer Abbildungen
+	+ lineare Abbildungen konstruieren
+	+ Koordinaten-Abbildung
+	+ Basiswechsel - Koordinatentransformation
+	+ lineare Abbildung = Matrixmultiplikation
 + Unitäre Räume
 	+ Norm/Länge
 	+ Schwarzsche Ungleichung?
