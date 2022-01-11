@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Integralrechnung/Integration rationaler Funktionen.md",
+            "file": "Analysis/Integralrechnung/Substitution rationaler Funktionen.md",
             "mode": "preview"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Integralrechnung/Integration rationaler Funktionen.md",
+                "file": "Analysis/Integralrechnung/Substitution rationaler Funktionen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +98,7 @@
   },
   "active": "31b6233489d89080",
   "lastOpenFiles": [
+    "Analysis/Integralrechnung/Substitution rationaler Funktionen.md",
     "Analysis/Integralrechnung/Integration rationaler Funktionen.md",
     "Analysis/Integralrechnung/Integralrechnung.md",
     "Analysis/Integralrechnung/Anwendungen bestimmter Integrale.md",
@@ -106,7 +107,6 @@
     "Analysis/Differentialrechnung/Kurvendiskussion.md",
     "Analysis/Differentialrechnung/Diffenrentialrechnung.md",
     "Analysis/Differentialrechnung/Anwendungen des MWS.md",
-    "Analysis/Differentialrechnung/Anwendungen der  Differentialrechnung.md",
-    "Analysis/Komplexe Zahlen/Komplexe Zahlen.md"
+    "Analysis/Differentialrechnung/Anwendungen der  Differentialrechnung.md"
   ]
 }
