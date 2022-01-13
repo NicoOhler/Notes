@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NRLA/Eigenwerte/Diagonalisierung.md",
+            "file": "NRLA/Eigenwerte/Ähnliche Matrizen.md",
             "mode": "preview"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NRLA/Eigenwerte/Diagonalisierung.md",
+                "file": "NRLA/Eigenwerte/Ähnliche Matrizen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,8 +99,8 @@
   },
   "active": "a6cc40a2e8fbe573",
   "lastOpenFiles": [
-    "NRLA/Eigenwerte/Diagonalisierung.md",
     "NRLA/Eigenwerte/Ähnliche Matrizen.md",
+    "NRLA/Eigenwerte/Diagonalisierung.md",
     "NRLA/Eigenwerte/Eigenwerte.md",
     "NRLA/NRLA-Stoff.md",
     "NRLA/Vektoren/Lineare Unabhängigkeit.md",
