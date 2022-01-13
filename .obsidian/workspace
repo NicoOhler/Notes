@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NRLA/Lineare Abbildungen/Injektivität, Surjektivität und Bijektivität.md",
+            "file": "NRLA/Unitäre Räume/Orthonormieren nach GRAM-SCHMIDT.md",
             "mode": "preview"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NRLA/Lineare Abbildungen/Injektivität, Surjektivität und Bijektivität.md",
+                "file": "NRLA/Unitäre Räume/Orthonormieren nach GRAM-SCHMIDT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
   },
   "active": "a6cc40a2e8fbe573",
   "lastOpenFiles": [
+    "NRLA/Unitäre Räume/Orthonormieren nach GRAM-SCHMIDT.md",
+    "NRLA/Lineare Abbildungen/Matrix einer linearen Abbildung.md",
+    "NRLA/Lineare Abbildungen/Spezielle Abbildungen.md",
     "NRLA/Lineare Abbildungen/Injektivität, Surjektivität und Bijektivität.md",
     "NRLA/Lineare Abbildungen/Lineare Abbildungen.md",
     "NRLA/NRLA-Stoff.md",
     "NRLA/Lineare Abbildungen/Basiswechsel.md",
-    "NRLA/Lineare Abbildungen/Matrix einer linearen Abbildung.md",
     "NRLA/NRLA.md",
     "Images/Pasted image 20211204163106.png",
-    "NRLA/Eigenwerte/Eigenwerte.md",
-    "NRLA/Eigenwerte/Diagonalisierung.md",
-    "NRLA/Lineare Abbildungen/Spezielle Abbildungen.md"
+    "NRLA/Eigenwerte/Eigenwerte.md"
   ]
 }
