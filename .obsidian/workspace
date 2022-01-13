@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NRLA/Lineare Abbildungen/Lineare Abbildungen.md",
+            "file": "NRLA/Lineare Abbildungen/Matrix einer linearen Abbildung.md",
             "mode": "preview"
           }
         }
@@ -39,8 +39,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Bild(",
-                "matchingCase": true,
+                "query": "rang",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -80,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NRLA/Lineare Abbildungen/Lineare Abbildungen.md",
+                "file": "NRLA/Lineare Abbildungen/Matrix einer linearen Abbildung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,10 +100,10 @@
   },
   "active": "a6cc40a2e8fbe573",
   "lastOpenFiles": [
+    "NRLA/Lineare Abbildungen/Matrix einer linearen Abbildung.md",
     "NRLA/Lineare Abbildungen/Lineare Abbildungen.md",
     "Analysis/Folgen und Reihen/Intervallschachtelung.md",
     "NRLA/Lineare Abbildungen/Injektivität, Surjektivität und Bijektivität.md",
-    "NRLA/Lineare Abbildungen/Matrix einer linearen Abbildung.md",
     "NRLA/Eigenwerte/Ähnliche Matrizen.md",
     "NRLA/Eigenwerte/Diagonalisierung.md",
     "NRLA/Eigenwerte/Eigenwerte.md",
