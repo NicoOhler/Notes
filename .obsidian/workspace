@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "orthogonalmatri",
+                "query": "diagonalis",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
