@@ -1,5 +1,5 @@
 # Orthonormieren nach GRAM-SCHMIDT
-+ im reellen unitären VR $φ:=<(v,w)=arcos(\frac{<v,w>}{||v||||w||})$
++ im reellen unitären VR $φ:=<(v,w)>=arcos(\frac{<v,w>}{||v||||w||})$
 	+ $-1≤\frac{<v,w>}{||v||||w||}≤1$
 		+ wegen Schwarzsche Ungleichung
 		+ $0≤φ≤π$

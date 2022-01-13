@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NRLA/Unitäre Räume/Orthonormieren nach GRAM-SCHMIDT.md",
+            "file": "NRLA/Unitäre Räume/Unitäre Räume.md",
             "mode": "preview"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NRLA/Unitäre Räume/Orthonormieren nach GRAM-SCHMIDT.md",
+                "file": "NRLA/Unitäre Räume/Unitäre Räume.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +99,8 @@
   },
   "active": "a6cc40a2e8fbe573",
   "lastOpenFiles": [
+    "NRLA/Unitäre Räume/Unitäre Räume.md",
+    "NRLA/Unitäre Räume/QR-Zerlegung.md",
     "NRLA/Unitäre Räume/Orthonormieren nach GRAM-SCHMIDT.md",
     "NRLA/Lineare Abbildungen/Matrix einer linearen Abbildung.md",
     "NRLA/Lineare Abbildungen/Spezielle Abbildungen.md",
@@ -106,8 +108,6 @@
     "NRLA/Lineare Abbildungen/Lineare Abbildungen.md",
     "NRLA/NRLA-Stoff.md",
     "NRLA/Lineare Abbildungen/Basiswechsel.md",
-    "NRLA/NRLA.md",
-    "Images/Pasted image 20211204163106.png",
-    "NRLA/Eigenwerte/Eigenwerte.md"
+    "NRLA/NRLA.md"
   ]
 }
