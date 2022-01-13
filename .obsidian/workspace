@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NRLA/Eigenwerte/Ähnliche Matrizen.md",
+            "file": "NRLA/Lineare Abbildungen/Matrix einer linearen Abbildung.md",
             "mode": "preview"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "deter",
+                "query": "darstellende",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -79,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NRLA/Eigenwerte/Ähnliche Matrizen.md",
+                "file": "NRLA/Lineare Abbildungen/Matrix einer linearen Abbildung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +100,7 @@
   },
   "active": "a6cc40a2e8fbe573",
   "lastOpenFiles": [
+    "NRLA/Lineare Abbildungen/Matrix einer linearen Abbildung.md",
     "NRLA/Eigenwerte/Ähnliche Matrizen.md",
     "NRLA/Eigenwerte/Diagonalisierung.md",
     "NRLA/Eigenwerte/Eigenwerte.md",
@@ -107,7 +109,6 @@
     "NRLA/Vektoren/Vektor.md",
     "NRLA/Vektoren/Untervektorräume.md",
     "NRLA/Unitäre Räume/QR-Zerlegung.md",
-    "NRLA/Unitäre Räume/Schwarzsche Ungleichung.md",
-    "NRLA/Unitäre Räume/Unitäre Räume.md"
+    "NRLA/Unitäre Räume/Schwarzsche Ungleichung.md"
   ]
 }
