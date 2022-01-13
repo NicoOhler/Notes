@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NRLA/Lineare Abbildungen/Matrix einer linearen Abbildung.md",
+            "file": "NRLA/Eigenwerte/Diagonalisierung.md",
             "mode": "preview"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rang",
+                "query": "orthogonalmatri",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NRLA/Lineare Abbildungen/Matrix einer linearen Abbildung.md",
+                "file": "NRLA/Eigenwerte/Diagonalisierung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,12 +100,12 @@
   },
   "active": "a6cc40a2e8fbe573",
   "lastOpenFiles": [
+    "NRLA/Eigenwerte/Diagonalisierung.md",
     "NRLA/Lineare Abbildungen/Matrix einer linearen Abbildung.md",
     "NRLA/Lineare Abbildungen/Lineare Abbildungen.md",
     "Analysis/Folgen und Reihen/Intervallschachtelung.md",
     "NRLA/Lineare Abbildungen/Injektivität, Surjektivität und Bijektivität.md",
     "NRLA/Eigenwerte/Ähnliche Matrizen.md",
-    "NRLA/Eigenwerte/Diagonalisierung.md",
     "NRLA/Eigenwerte/Eigenwerte.md",
     "NRLA/NRLA-Stoff.md",
     "NRLA/Vektoren/Lineare Unabhängigkeit.md",
