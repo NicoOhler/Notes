@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NRLA/Eigenwerte/Diagonalisierung.md",
+            "file": "NRLA/Lineare Abbildungen/Basiswechsel.md",
             "mode": "preview"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NRLA/Eigenwerte/Diagonalisierung.md",
+                "file": "NRLA/Lineare Abbildungen/Basiswechsel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +99,7 @@
   },
   "active": "a6cc40a2e8fbe573",
   "lastOpenFiles": [
+    "NRLA/Lineare Abbildungen/Basiswechsel.md",
     "NRLA/Eigenwerte/Diagonalisierung.md",
     "NRLA/Eigenwerte/Eigenwerte.md",
     "NRLA/Matrizen/Gaußsche Eliminationsverfahren.md",
@@ -107,7 +108,6 @@
     "Analysis/Folgen und Reihen/Intervallschachtelung.md",
     "NRLA/Lineare Abbildungen/Injektivität, Surjektivität und Bijektivität.md",
     "NRLA/Eigenwerte/Ähnliche Matrizen.md",
-    "NRLA/NRLA-Stoff.md",
-    "NRLA/Vektoren/Lineare Unabhängigkeit.md"
+    "NRLA/NRLA-Stoff.md"
   ]
 }
