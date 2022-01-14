@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NRLA/Eigenwerte/Diagonalisierung.md",
+            "file": "NRLA/Eigenwerte/Eigenwerte.md",
             "mode": "preview"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NRLA/Eigenwerte/Diagonalisierung.md",
+                "file": "NRLA/Eigenwerte/Eigenwerte.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +99,7 @@
   },
   "active": "a6cc40a2e8fbe573",
   "lastOpenFiles": [
+    "NRLA/Eigenwerte/Eigenwerte.md",
     "NRLA/Eigenwerte/Diagonalisierung.md",
     "NRLA/Matrizen/Gaußsche Eliminationsverfahren.md",
     "NRLA/Lineare Abbildungen/Matrix einer linearen Abbildung.md",
@@ -106,7 +107,6 @@
     "Analysis/Folgen und Reihen/Intervallschachtelung.md",
     "NRLA/Lineare Abbildungen/Injektivität, Surjektivität und Bijektivität.md",
     "NRLA/Eigenwerte/Ähnliche Matrizen.md",
-    "NRLA/Eigenwerte/Eigenwerte.md",
     "NRLA/NRLA-Stoff.md",
     "NRLA/Vektoren/Lineare Unabhängigkeit.md"
   ]
