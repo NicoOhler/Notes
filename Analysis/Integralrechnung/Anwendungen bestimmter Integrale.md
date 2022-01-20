@@ -25,4 +25,7 @@
 + $C: \overrightarrow{x}=(x(t),y(t))$
 	+ $t∈[a,b]$
 	+ Länge von C gesucht
-	+ $L=\int^b_a\sqrt{x'(t)^2+y'(t)^2}$	+ $L=\int^b_a\sqrt{||\overrightarrow{x'}||}$
+	+ $L=\int^b_a\sqrt{x'(t)^2+y'(t)^2}$	+ $L=\int^b_a||\overrightarrow{x'}||$
+
+### Volumen von Drehkörpern
++ $V=π\int^b_a f(x)^2dx$
