@@ -7,8 +7,11 @@
         "id": "4ab5be8f8f3b1248",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Analysis/Integralrechnung/Anwendungen bestimmter Integrale.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -36,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "symme",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -45,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -77,6 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Analysis/Integralrechnung/Anwendungen bestimmter Integrale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,15 +99,15 @@
   },
   "active": "4ab5be8f8f3b1248",
   "lastOpenFiles": [
+    "Analysis/Integralrechnung/Anwendungen bestimmter Integrale.md",
+    "Analysis/Integralrechnung/Integration rationaler Funktionen.md",
+    "Analysis/Integralrechnung/Substitution rationaler Funktionen.md",
     "NRLA/Eigenwerte/Ähnliche Matrizen.md",
     "NRLA/Lineare Abbildungen/Basiswechsel.md",
     "NRLA/Eigenwerte/Diagonalisierung.md",
     "NRLA/Eigenwerte/Eigenwerte.md",
     "NRLA/Matrizen/Gaußsche Eliminationsverfahren.md",
     "NRLA/Lineare Abbildungen/Matrix einer linearen Abbildung.md",
-    "NRLA/Lineare Abbildungen/Lineare Abbildungen.md",
-    "Analysis/Folgen und Reihen/Intervallschachtelung.md",
-    "NRLA/Lineare Abbildungen/Injektivität, Surjektivität und Bijektivität.md",
-    "NRLA/NRLA-Stoff.md"
+    "NRLA/Lineare Abbildungen/Lineare Abbildungen.md"
   ]
 }
