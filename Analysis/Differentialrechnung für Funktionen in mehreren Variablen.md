@@ -3,6 +3,7 @@
 	+ $B(\overrightarrow{x},r)={\overrightarrow{x}∈ℝ^n : ||\overrightarrow{x}-\overrightarrow{y}||<r}$
 + Ist $U⊆ℝ^n$ offen, $f:U--> ℝ$
 	+ f stetig in U, wenn
-		+ $∀ε>0 ∃δ>0 ∀\overrightarrow{x}∈U: |\overrightarrow{x} - \overrightarrow{x_0}| < δ ==> |f(\overrightarrow{x}) - f(\overrightarrow{x_0})| < ε$
-		+ siehe [[Stetigkeit]]
-	+ f stetig auf U, wenn f in jedem Punkt von U stetig i
+		+ Kriterien der [[Stetigkeit]] gelten
+			+  auch im mehrdimensionalen
+			+ z.B.	$∀ε>0 ∃δ>0 ∀\overrightarrow{x}∈U: |\overrightarrow{x} - \overrightarrow{x_0}| < δ ==> |f(\overrightarrow{x}) - f(\overrightarrow{x_0})| < ε$
+	+ f stetig auf U, wenn f in jedem Punkt von U stetig ist
