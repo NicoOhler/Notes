@@ -100,6 +100,7 @@
   "active": "4ab5be8f8f3b1248",
   "lastOpenFiles": [
     "Analysis/Differentialrechnung für Funktionen in mehreren Variablen.md",
+    "Analysis/Funktionen/Stetigkeit.md",
     "Allgemeine Mathematik/Zeichensammlung.md",
     "Analysis/Integralrechnung/Anwendungen bestimmter Integrale.md",
     "Analysis/Integralrechnung/Integration rationaler Funktionen.md",
@@ -107,7 +108,6 @@
     "NRLA/Eigenwerte/Ähnliche Matrizen.md",
     "NRLA/Lineare Abbildungen/Basiswechsel.md",
     "NRLA/Eigenwerte/Diagonalisierung.md",
-    "NRLA/Eigenwerte/Eigenwerte.md",
-    "NRLA/Matrizen/Gaußsche Eliminationsverfahren.md"
+    "NRLA/Eigenwerte/Eigenwerte.md"
   ]
 }
