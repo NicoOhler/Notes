@@ -10,7 +10,18 @@
           "type": "markdown",
           "state": {
             "file": "Analysis/Integralrechnung/Anwendungen bestimmter Integrale.md",
-            "mode": "preview"
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "031c33c23df6bb75",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Allgemeine Mathematik/Zeichensammlung.md",
+            "mode": "source"
           }
         }
       }
@@ -100,6 +111,7 @@
   "active": "4ab5be8f8f3b1248",
   "lastOpenFiles": [
     "Analysis/Integralrechnung/Anwendungen bestimmter Integrale.md",
+    "Allgemeine Mathematik/Zeichensammlung.md",
     "Analysis/Integralrechnung/Integration rationaler Funktionen.md",
     "Analysis/Integralrechnung/Substitution rationaler Funktionen.md",
     "NRLA/Eigenwerte/Ähnliche Matrizen.md",
@@ -107,7 +119,6 @@
     "NRLA/Eigenwerte/Diagonalisierung.md",
     "NRLA/Eigenwerte/Eigenwerte.md",
     "NRLA/Matrizen/Gaußsche Eliminationsverfahren.md",
-    "NRLA/Lineare Abbildungen/Matrix einer linearen Abbildung.md",
-    "NRLA/Lineare Abbildungen/Lineare Abbildungen.md"
+    "NRLA/Lineare Abbildungen/Matrix einer linearen Abbildung.md"
   ]
 }

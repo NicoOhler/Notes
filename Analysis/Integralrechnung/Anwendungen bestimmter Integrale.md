@@ -20,3 +20,9 @@
 + Leibnizsche Sektorformel
 	+ $A_{Sektor}=\frac{1}{2}\int_a^b (x(t)y'(t)-x'(t)y(t))dt$
 	+ ![[Pasted image 20211231172742.png]]
+
+### Bogenlänge von Kurven in Parameterdarstellung
++ $C: \overrightarrow{x}=(x(t),y(t))$
+	+ $t∈[a,b]$
+	+ Länge von C gesucht
+	+ $L=\int^b_a\sqrt{x'(t)^2+y'(t)^2}$	+ $L=\int^b_a\sqrt{||\overrightarrow{x'}||}$
