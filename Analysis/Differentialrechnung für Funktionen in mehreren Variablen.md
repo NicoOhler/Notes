@@ -13,3 +13,7 @@
 ### Grenzwerte für ...
 + $A=\lim{\overrightarrow{x} \to \overrightarrow{x_0}} f(\overrightarrow{x_0})=\lim{x to x_0} \lim{y to y_0} f(x,y)=\lim{y to y_0} \lim{x to x_0} f(x,y)$
 	+ Grenzwerte unterschiedlich <==> Grenzwert existiert nicht
+
+### Partielle Ableitung
++ f: $U-->ℝ$ ist differenzierbar in $x_0$, wenn f eine erste Näherung zulässt
+	+ $∃l:ℝ-->ℝ$ linear: $f(\overrightarrow{x})=f(\overrightarrow{x_0})+l(\overrightarrow{x}-\overrightarrow{x_0})+||\overrightarrow{x}-\overrightarrow{x_0}||r(\overrightarrow{x})$ mit $\lim{x \to x_0} r(\overrightarrow{x})=0$
