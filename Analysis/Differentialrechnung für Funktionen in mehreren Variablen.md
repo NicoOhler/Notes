@@ -23,3 +23,13 @@
 		+ bzw. wird angenommen
 + partielle Ableitung kann existieren, obwohl f nicht differenzierbar
 	+ sind alle partielle Ableitungen stetig in $x_0$ <==> differenzierbar
++ Richtungsableitung
+	+ partielle Ableitung entlang einer Richtung möglich
+	+ entspricht Änderungsrate entlang des Vektor n
+	+ Richtung ≠ Achsen/Variablen
+	+ ![[Pasted image 20220121171531.png]]
+	+ $\frac{\partial f}{\partial \overrightarrow{n}}=l(\overrightarrow{n})$
+		+ gilt wenn f in $x_0$ differenzierbar
+
+### Gradient von f
++ $$
