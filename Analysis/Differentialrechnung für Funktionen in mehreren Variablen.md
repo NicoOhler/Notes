@@ -16,4 +16,10 @@
 
 ### Partielle Ableitung
 + f: $U-->ℝ$ ist differenzierbar in $x_0$, wenn f eine erste Näherung zulässt
-	+ $∃l:ℝ-->ℝ$ linear: $f(\overrightarrow{x})=f(\overrightarrow{x_0})+l(\overrightarrow{x}-\overrightarrow{x_0})+||\overrightarrow{x}-\overrightarrow{x_0}||r(\overrightarrow{x})$ mit $\lim{x \to x_0} r(\overrightarrow{x})=0$
+	+ $∃l:ℝ-->ℝ$ linear: $f(\overrightarrow{x})=f(\overrightarrow{x_0})+l(\overrightarrow{x}-\overrightarrow{x_0})+||\overrightarrow{x}-\overrightarrow{x_0}||r(\overrightarrow{x})$ mit $\lim_{x \to x_0} r(\overrightarrow{x})=0$
++ Vorgehensweise:
+	+ für f(x,y)
+	+ $\frac{\partial f}{\partial x}=$ Ableitung von f(x,y) nach x jedoch ist y konstant
+		+ bzw. wird angenommen
++ partielle Ableitung kann existieren, obwohl f nicht differenzierbar
+	+ sind alle partielle Ableitungen stetig in $x_0$ <==> differenzierbar
