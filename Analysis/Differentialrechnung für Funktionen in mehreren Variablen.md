@@ -32,4 +32,11 @@
 		+ gilt wenn f in $x_0$ differenzierbar
 
 ### Gradient von f
-+ $$
++ Koordinaten der linearen Abbildung als Vektor
++ ![[Pasted image 20220121172207.png]]
++ $\frac{\partial f}{\partial \overrightarrow{n}}=<grad(f)(\overrightarrow{x_0}),\overrightarrow{n}>$
+	+ Richtungsableitung = Skalarprodukt von Gradient und Richtungsvektor
+	+ $<grad(f)(\overrightarrow{x_0}),\overrightarrow{n}>$
+		+ Gradient von f zeigt in Richtung des größten Anstiegs
+		+ senkrecht zu Gradient findet keine Änderung statt
+			+ <..,..>=0
