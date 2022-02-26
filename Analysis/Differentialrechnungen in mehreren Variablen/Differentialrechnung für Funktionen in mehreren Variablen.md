@@ -12,11 +12,13 @@
 			+ z.B.	$∀ε>0 ∃δ>0 ∀\overrightarrow{x}∈U: |\overrightarrow{x} - \overrightarrow{x_0}| < δ ==> |f(\overrightarrow{x}) - f(\overrightarrow{x_0})| < ε$
 	+ f stetig auf U, wenn f in jedem Punkt von U stetig ist
 	+ Folgenkriterium
-		+ f ist genau dann stetig in x0, wenn für jede Folge 
+		+ f ist genau dann stetig in $\overrightarrow{x_0}$, wenn für jede Folge $\overrightarrow{x_n}$ mit Grenzwert$\overrightarrow{x_0}$ auch der Limes der Funktionswerte=f($\overrightarrow{x_0}$) gilt
 
+ 
 ### Grenzwerte für ...
-+ $A=\lim{\overrightarrow{x} \to \overrightarrow{x_0}} f(\overrightarrow{x_0})=\lim{x to x_0} \lim{y to y_0} f(x,y)=\lim{y to y_0} \lim{x to x_0} f(x,y)$
++ $A=\lim{\overrightarrow{x} \to \overrightarrow{x_0}} f(\overrightarrow{x_0})=\lim{x \to x_0} \lim{y \to y_0} f(x,y)=\lim{y \to y_0} \lim{x \to x_0} f(x,y)$
 	+ Grenzwerte unterschiedlich <==> Grenzwert existiert nicht
+	+ Ableitungen der beiden iterierten Grenzwerte können existieren, ohne dass der Grenzwert existiert
 
 ### Partielle Ableitung
 + f: $U-->ℝ$ ist differenzierbar in $x_0$, wenn f eine erste Näherung zulässt

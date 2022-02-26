@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Differentialrechnung für Funktionen in mehreren Variablen.md",
+            "file": "Analysis/Differentialrechnungen in mehreren Variablen/Differentialrechnung für Funktionen in mehreren Variablen.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Differentialrechnung für Funktionen in mehreren Variablen.md",
+                "file": "Analysis/Differentialrechnungen in mehreren Variablen/Differentialrechnung für Funktionen in mehreren Variablen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +99,7 @@
   },
   "active": "4ab5be8f8f3b1248",
   "lastOpenFiles": [
-    "Analysis/Differentialrechnung für Funktionen in mehreren Variablen.md",
+    "Analysis/Differentialrechnungen in mehreren Variablen/Differentialrechnung für Funktionen in mehreren Variablen.md",
     "Analysis/Integralrechnung/Anwendungen bestimmter Integrale.md",
     "Analysis/Integralrechnung/Integralrechnung.md",
     "Analysis/Integralrechnung/Integration rationaler Funktionen.md",
