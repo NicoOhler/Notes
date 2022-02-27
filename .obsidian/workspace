@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Differentialrechnungen in mehreren Variablen/Differentialrechnung für Funktionen in mehreren Variablen.md",
-            "mode": "preview"
+            "file": "Analysis/Differentialrechnungen in mehreren Variablen/Untitled.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Differentialrechnungen in mehreren Variablen/Differentialrechnung für Funktionen in mehreren Variablen.md",
+                "file": "Analysis/Differentialrechnungen in mehreren Variablen/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +99,7 @@
   },
   "active": "4ab5be8f8f3b1248",
   "lastOpenFiles": [
+    "Analysis/Differentialrechnungen in mehreren Variablen/Untitled.md",
     "Analysis/Differentialrechnungen in mehreren Variablen/Differentialrechnung für Funktionen in mehreren Variablen.md",
     "Analysis/Integralrechnung/Anwendungen bestimmter Integrale.md",
     "Analysis/Integralrechnung/Integralrechnung.md",
@@ -107,7 +108,6 @@
     "Analysis/Funktionen/Stetigkeit.md",
     "Allgemeine Mathematik/Zeichensammlung.md",
     "Analysis/Integralrechnung/Substitution rationaler Funktionen.md",
-    "NRLA/Eigenwerte/Ähnliche Matrizen.md",
-    "NRLA/Lineare Abbildungen/Basiswechsel.md"
+    "NRLA/Eigenwerte/Ähnliche Matrizen.md"
   ]
 }
