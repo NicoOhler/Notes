@@ -12,4 +12,8 @@
 
 ### Definitionen
 + f ist n-mal (stetig) diffbar in $x_0$
-	+ alle Ableitungen der Ordung
+	+ alle Ableitungen der Ordung k (k<n) existieren (und stetig sind)
++ Hesse-Matrix
+	+ enthält alle möglichen zweiten Ableitunge
+	+ ![[Pasted image 20220227122625.png]]
+	+ $H=H^T$, wenn Satz von Schwartz gilt
