@@ -15,7 +15,7 @@
 	+ Determinante der Koeffizientenmatrix mit 0 gleichsetzen
 		+ λ bestimmen
 	+ λ in Gleichung einsetzen und Variablenwerte bestimmen
-		+ ==> Extrema
+		+ ==> mögliche Extrema  
 
 
 + Anschauliches Beispiel
