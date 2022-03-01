@@ -20,3 +20,4 @@
 	+ Ableitungsmatrix (nicht Jacobi)
 		+ $det(\frac{\partial (f_1,...,f_p)}{\partial (x_1,...,x_p)})≠0$
 + kann auch ohne Bedingungen auflösbar sein
++ ![[Pasted image 20220301122858.png]]
