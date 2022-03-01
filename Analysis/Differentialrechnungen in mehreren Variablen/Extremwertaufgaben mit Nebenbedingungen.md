@@ -15,8 +15,8 @@
 	+ Determinante der Koeffizientenmatrix mit 0 gleichsetzen
 		+ λ bestimmen
 	+ λ in Gleichung einsetzen und Variablenwerte bestimmen
-		+ ==> mögliche Extrema  
-
-
+		+ ==> mögliche Extrema
+		+ Satz von Weierstraß ==> Min und Max muss existieren
+		+ Min und Max durch logische Vergleiche bestimmen? 
 + Anschauliches Beispiel
 	+ ![[Pasted image 20220301130440.png]]
