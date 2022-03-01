@@ -10,10 +10,27 @@
 + Multinomialer Lehrsatz
 	+ ![[Pasted image 20220301090151.png]]
 	+ ![[Pasted image 20220301090413.png]]
-+ Satz von Taylor
-	+ $U⊆ℝ^p$ offen
-	+ liegen $x_0$ und $x_0 + h$ samt Verbindungsstrecke in U
-	+ ==> $f(x_0 + h)=\sum^n_{v=0} (\frac{1}{v!}(h_1\frac{\partial}{\partial x_1} + ... + h_p\frac{\partial}{\partial x_p})f|_{x_0} + \frac{1}{(n+1)!}(h_1\frac{\partial}{\partial x_1} + ... + h_p\frac{\partial}{\partial x_p})f|_{x_0+θh}$
+	+ 
+### Satz von Taylor
++ $U⊆ℝ^p$ offen
++ liegen $x_0$ und $x_0 + h$ samt Verbindungsstrecke in U
++ ==> $f(x_0 + h)=\sum^n_{v=0} (\frac{1}{v!}(h_1\frac{\partial}{\partial x_1} + ... + h_p\frac{\partial}{\partial x_p})f|_{x_0}) + \frac{1}{(n+1)!}(h_1\frac{\partial}{\partial x_1} + ... + h_p\frac{\partial}{\partial x_p})f|_{x_0+θh}$
+	+ 1. Term Taylor-Polynom
+	+ 2. Term Rest
+
+### Extremwerte für Funktionen $ℝ^2$-->$ℝ$
++ im eindimensionalen
+	+ Extremstelle, wenn f'(x)=0
+	+ Min/Max, wen f''(x)>/< 0
++ mehrdimensionalen
+	+ Extremstelle, wenn Gradient von f(x)= 0
+	+ Definitheit
+	+ 
+		+ positiv definit <==> $Q_A(x)>0 ∀x≠0$
+		+ negativ definit <==> $Q_A(x)<0 ∀x≠0$
+		+ positiv semidefinit <==> $Q_A(x)≥0 ∀x≠0$
+		+ negativ semidefinit <==> $Q_A(x)≤0 ∀x≠0$
+		+ ansonsten indefinit
 
 
 
