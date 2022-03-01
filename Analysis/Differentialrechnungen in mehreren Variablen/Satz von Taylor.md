@@ -24,13 +24,27 @@
 	+ Min/Max, wen f''(x)>/< 0
 + mehrdimensionalen
 	+ Extremstelle, wenn Gradient von f(x)= 0
+	+ Max, wenn Hessematrix im Punkt negativ definit
+	+ Min, wenn Hessematrix im Punkt positiv definit
+	+ kein Extremum, wenn indefinit
+		+ sondern Sattelpunkt
+	+ semidefinit ==> keine Aussagekraft
 	+ Definitheit
-	+ 
+		+ quadratische Form $Q_A(x)$
+			+ ![[Pasted image 20220301092217.png]]
 		+ positiv definit <==> $Q_A(x)>0 ∀x≠0$
 		+ negativ definit <==> $Q_A(x)<0 ∀x≠0$
 		+ positiv semidefinit <==> $Q_A(x)≥0 ∀x≠0$
 		+ negativ semidefinit <==> $Q_A(x)≤0 ∀x≠0$
 		+ ansonsten indefinit
++ Rechnerische Bestimmung von Extrema im mehrdimensionalen
+	+ ![[Pasted image 20220301092715.png]]
+	+ Vorzeichen von Unterdeterminanten
+		+ positiv def. <==> positives Vorzeichen <==> Min
+		+ negativ def. <==> alternierendes Vorzeichen <==> May
+		+ ![[Pasted image 20220301092945.png]]
+	+ Beispiel
+		+ 
 
 
 
