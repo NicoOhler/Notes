@@ -1,4 +1,4 @@
-# Höhere Ableitungen und Satz v. Taylor
+# Höhere Ableitungen
 ### Höhere Ableitungen
 + f: $ℝ^p$-->$ℝ$
 + ![[Pasted image 20220227121847.png]]
