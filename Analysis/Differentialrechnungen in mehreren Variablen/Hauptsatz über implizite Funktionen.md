@@ -12,4 +12,10 @@
 + f: $M⊆ℝ^{p+q}$-->$ℝ^p$
 	+ M offen
 	+ GLS mit p+q Variablen und p Gleichungen
-	+ $M(ζ)$
+	+ $M(ζ): f_i(x_1,...,x_p,y_{p+1},y_{p+q})=0$
++ Bedingungen
+	+ $f_i(ζ)=0$ für i = 1 bis p
+	+ Koordinatenfunktion $f_i$ mindestens einmal stetig differenzierbar
+		+ für i = 1 bis p
+	+ Ableitungsmatrix (nicht Jacobi)
+		+ $\partial (f_1,...,f_p)$
