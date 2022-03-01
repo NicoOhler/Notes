@@ -13,9 +13,10 @@
 	+ M offen
 	+ GLS mit p+q Variablen und p Gleichungen
 	+ $M(ζ): f_i(x_1,...,x_p,y_{p+1},y_{p+q})=0$
-+ Bedingungen
++ auflösbar, wenn folgende Bedingungen erfüllt sind
 	+ $f_i(ζ)=0$ für i = 1 bis p
 	+ Koordinatenfunktion $f_i$ mindestens einmal stetig differenzierbar
 		+ für i = 1 bis p
 	+ Ableitungsmatrix (nicht Jacobi)
-		+ $\partial (f_1,...,f_p)$
+		+ $det(\frac{\partial (f_1,...,f_p)}{\partial (x_1,...,x_p)})≠0$
++ kann auch ohne Bedingungen auflösbar sein
