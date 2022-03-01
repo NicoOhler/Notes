@@ -40,11 +40,14 @@
 + Rechnerische Bestimmung von Extrema im mehrdimensionalen
 	+ ![[Pasted image 20220301092715.png]]
 	+ Vorzeichen von Unterdeterminanten
-		+ positiv def. <==> positives Vorzeichen <==> Min
-		+ negativ def. <==> alternierendes Vorzeichen <==> May
+		+ positiv def. <==> positives Vorzeichen
+		+ negativ def. <==> alternierendes Vorzeichen
 		+ ![[Pasted image 20220301092945.png]]
-	+ Beispiel
-		+ 
+	+ Aussagekraft der $Δ_j$
+		+ eins der Δ = 0 ==> keine Aussagekraft
+		+ alle Δ > 0 ==> Min
+		+ ungerade Δ < 0, gerade Δ > 0 ==> Max
+		+ ein gerades Δ < 0 ==> Sattelpunkt
 
 
 
