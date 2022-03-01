@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Differentialrechnungen in mehreren Variablen/Satz von Taylor.md",
+            "file": "Analysis/Differentialrechnungen in mehreren Variablen/Hauptsatz über implizite Funktionen.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Differentialrechnungen in mehreren Variablen/Satz von Taylor.md",
+                "file": "Analysis/Differentialrechnungen in mehreren Variablen/Hauptsatz über implizite Funktionen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +99,7 @@
   },
   "active": "4ab5be8f8f3b1248",
   "lastOpenFiles": [
+    "Analysis/Differentialrechnungen in mehreren Variablen/Hauptsatz über implizite Funktionen.md",
     "Analysis/Differentialrechnungen in mehreren Variablen/Satz von Taylor.md",
     "Analysis/Differentialrechnungen in mehreren Variablen/Höhere Ableitungen und Satz v. Taylor.md",
     "Analysis/Differentialrechnungen in mehreren Variablen/Funktionen ℝ^p auf ℝ^q.md",
@@ -107,7 +108,6 @@
     "Analysis/Integralrechnung/Integralrechnung.md",
     "Analysis/Integralrechnung/Integration rationaler Funktionen.md",
     "Analysis/Integralrechnung/Bestimmte Integrale.md",
-    "Analysis/Funktionen/Stetigkeit.md",
-    "Allgemeine Mathematik/Zeichensammlung.md"
+    "Analysis/Funktionen/Stetigkeit.md"
   ]
 }

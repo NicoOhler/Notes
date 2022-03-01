@@ -1,0 +1,2 @@
+# Hauptsatz über implizite Funktionen
++ 
