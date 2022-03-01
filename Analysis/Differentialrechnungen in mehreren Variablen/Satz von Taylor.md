@@ -9,7 +9,11 @@
 	+ Binomialkoeffizient $\binom{n}{k}=\binom{n}{k,n-k}$
 + Multinomialer Lehrsatz
 	+ ![[Pasted image 20220301090151.png]]
-
+	+ ![[Pasted image 20220301090413.png]]
++ Satz von Taylor
+	+ $U⊆ℝ^p$ offen
+	+ liegen $x_0$ und $x_0 + h$ samt Verbindungsstrecke in U
+	+ ==> $f(x_0 + h)=\sum^n_{v=0} (\frac{1}{v!}(h_1\frac{\partial}{\partial x_1} + ... + h_p\frac{\partial}{\partial x_p})f|_{x_0} + \frac{1}{(n+1)!}(h_1\frac{\partial}{\partial x_1} + ... + h_p\frac{\partial}{\partial x_p})f|_{x_0+θh}$
 
 
 
