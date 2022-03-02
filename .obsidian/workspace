@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Mehdimensionale Integralrechnung/Mehrdimensionale Integralrechnung.md",
-            "mode": "source"
+            "file": "Analysis/Mehrdimensionale Differentialrechnung/Satz von Taylor.md",
+            "mode": "preview"
           }
         }
       }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284
+    "width": 356
   },
   "right": {
     "id": "d1219e90b492538d",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Mehdimensionale Integralrechnung/Mehrdimensionale Integralrechnung.md",
+                "file": "Analysis/Mehrdimensionale Differentialrechnung/Satz von Taylor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,14 +99,14 @@
   },
   "active": "4ab5be8f8f3b1248",
   "lastOpenFiles": [
+    "Analysis/Mehrdimensionale Differentialrechnung/Satz von Taylor.md",
+    "Analysis/Mehrdimensionale Differentialrechnung/Höhere Ableitungen.md",
+    "Analysis/Mehrdimensionale Differentialrechnung/Funktionen ℝ^p auf ℝ^q.md",
+    "Analysis/Mehrdimensionale Differentialrechnung/Extremwertaufgaben mit Nebenbedingungen.md",
+    "Analysis/Mehrdimensionale Differentialrechnung/Hauptsatz über implizite Funktionen.md",
+    "Analysis/Mehrdimensionale Differentialrechnung/Differentialrechnung für Funktionen in mehreren Variablen.md",
     "Analysis/Mehdimensionale Integralrechnung/Mehrdimensionale Integralrechnung.md",
     "Images/Pasted image 20220121172149.png",
-    "Analysis/Mehrdimensionale Differentialrechnung/Extremwertaufgaben mit Nebenbedingungen.md",
-    "Analysis/Mehrdimensionale Differentialrechnung/Funktionen ℝ^p auf ℝ^q.md",
-    "Analysis/Mehrdimensionale Differentialrechnung/Hauptsatz über implizite Funktionen.md",
-    "Analysis/Mehrdimensionale Differentialrechnung/Satz von Taylor.md",
-    "Analysis/Mehrdimensionale Differentialrechnung/Höhere Ableitungen und Satz v. Taylor.md",
-    "Analysis/Mehrdimensionale Differentialrechnung/Differentialrechnung für Funktionen in mehreren Variablen.md",
     "Analysis/Integralrechnung/Anwendungen bestimmter Integrale.md",
     "Analysis/Integralrechnung/Integralrechnung.md"
   ]
