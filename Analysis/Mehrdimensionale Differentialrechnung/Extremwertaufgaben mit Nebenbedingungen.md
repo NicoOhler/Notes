@@ -4,7 +4,7 @@
 	+ ...
 	+ $N_k(x_1,...,x_n)=0$
 + Anzahl der Nebenbedingungen k ist beliebig
-+ + grad f senkrecht auch Tangentialebene von A
++ grad f senkrecht auch Tangentialebene von A
 	+ $grad f ∈ span\{grad N_1, ..., grad N_p\}$
 + Satz:
 	+ $M⊆ℝ^n$ offen
