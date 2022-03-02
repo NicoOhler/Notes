@@ -21,3 +21,7 @@
 		+ Min und Max durch logische Vergleiche bestimmen? 
 + Anschauliches Beispiel
 	+ ![[Pasted image 20220301130440.png]]
+
+### Im Mehrdimensionalen
++ grad f senkrecht auch Tangentialebene von A
+	+ $grad f ∈ span\{grad N_1, ..., grad N_p\}$
