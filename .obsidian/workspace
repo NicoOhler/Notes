@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Mehrdimensionale Differentialrechnung/Extremwertaufgaben mit Nebenbedingungen.md",
-            "mode": "preview"
+            "file": "Analysis/Mehrdimensionale Differentialrechnung/Hauptsatz über implizite Funktionen.md",
+            "mode": "source"
           }
         }
       }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 356
+    "width": 289
   },
   "right": {
     "id": "d1219e90b492538d",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Mehrdimensionale Differentialrechnung/Extremwertaufgaben mit Nebenbedingungen.md",
+                "file": "Analysis/Mehrdimensionale Differentialrechnung/Hauptsatz über implizite Funktionen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,17 +95,17 @@
       }
     ],
     "direction": "horizontal",
-    "width": 449
+    "width": 352
   },
   "active": "4ab5be8f8f3b1248",
   "lastOpenFiles": [
+    "Analysis/Mehrdimensionale Differentialrechnung/Hauptsatz über implizite Funktionen.md",
+    "Analysis/Mehrdimensionale Differentialrechnung/Funktionen ℝ^p auf ℝ^q.md",
     "Analysis/Mehrdimensionale Differentialrechnung/Extremwertaufgaben mit Nebenbedingungen.md",
+    "Analysis/Mehrdimensionale Differentialrechnung/Differentialrechnung für Funktionen in mehreren Variablen.md",
     "Images/Pasted image 20220301130440.png",
     "Analysis/Mehrdimensionale Differentialrechnung/Satz von Taylor.md",
     "Analysis/Mehrdimensionale Differentialrechnung/Höhere Ableitungen.md",
-    "Analysis/Mehrdimensionale Differentialrechnung/Funktionen ℝ^p auf ℝ^q.md",
-    "Analysis/Mehrdimensionale Differentialrechnung/Hauptsatz über implizite Funktionen.md",
-    "Analysis/Mehrdimensionale Differentialrechnung/Differentialrechnung für Funktionen in mehreren Variablen.md",
     "Analysis/Mehdimensionale Integralrechnung/Mehrdimensionale Integralrechnung.md",
     "Images/Pasted image 20220121172149.png",
     "Analysis/Integralrechnung/Anwendungen bestimmter Integrale.md"
