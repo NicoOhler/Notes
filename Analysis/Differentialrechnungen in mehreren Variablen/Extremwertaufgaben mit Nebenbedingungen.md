@@ -4,6 +4,8 @@
 	+ ...
 	+ $N_k(x_1,...,x_n)=0$
 + Anzahl der Nebenbedingungen k ist beliebig
++ + grad f senkrecht auch Tangentialebene von A
+	+ $grad f ∈ span\{grad N_1, ..., grad N_p\}$
 + Satz:
 	+ $M⊆ℝ^n$ offen
 	+ f (mind.) 1x stetig diffbar
@@ -22,6 +24,3 @@
 + Anschauliches Beispiel
 	+ ![[Pasted image 20220301130440.png]]
 
-### Im Mehrdimensionalen
-+ grad f senkrecht auch Tangentialebene von A
-	+ $grad f ∈ span\{grad N_1, ..., grad N_p\}$
