@@ -9,6 +9,7 @@
 	+ f (mind.) 1x stetig diffbar
 	+ Extremum $x_0$ unter NB $N_1(x)=...=N_k(x)=0$ ==> ∃λ für jede NB
 	+ $grad(f(x_0))-λ_1 grad(N_1)(x_0)-...-λ_k grad(N_k)(x_0)=0$
+		+ $grad f = λ grad N$
 + Vorgehensweise
 	+ in obige Formel einsetzen
 	+ eine Gleichung für jede Variable nach der abgeleitet wird
