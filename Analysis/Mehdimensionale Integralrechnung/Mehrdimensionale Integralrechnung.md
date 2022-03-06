@@ -20,3 +20,5 @@
 + ![[Pasted image 20220306083846.png]]
 + Grenzen sind c,d und χ(x), ψ(x)
 + $\int^d_c (\int^ψ(x)_χ(x) f(x,y)dx)dy$
+
+### Substitutionsregel (Transformationsformel)
