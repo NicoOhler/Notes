@@ -6,3 +6,6 @@
 + Integral bzw. Volumen von f
 	+ $\int^d_c (\int^b_a f(x,y)dx)dy$
 	+ Reihenfolge vertauschbar
+	
+### Normalbereiche
++ 
