@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Analysis/Mehdimensionale Integralrechnung/Mehrdimensionale Integralrechnung.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -100,14 +100,14 @@
   "active": "4ab5be8f8f3b1248",
   "lastOpenFiles": [
     "Analysis/Mehdimensionale Integralrechnung/Mehrdimensionale Integralrechnung.md",
+    "Analysis/Folgen und Reihen/Intervallschachtelung.md",
+    "Allgemeine Mathematik/Allgemeine Mathematik.md",
+    "Images/Pasted image 20220306083846.png",
     "Images/Pasted image 20220301130440.png",
     "Analysis/Mehrdimensionale Differentialrechnung/Extremwertaufgaben mit Nebenbedingungen.md",
     "Analysis/Mehrdimensionale Differentialrechnung/Satz von Taylor.md",
     "Analysis/Mehrdimensionale Differentialrechnung/Höhere Ableitungen.md",
     "Analysis/Mehrdimensionale Differentialrechnung/Hauptsatz über implizite Funktionen.md",
-    "Analysis/Mehrdimensionale Differentialrechnung/Funktionen ℝ^p auf ℝ^q.md",
-    "Analysis/Mehrdimensionale Differentialrechnung/Differentialrechnung für Funktionen in mehreren Variablen.md",
-    "Images/Pasted image 20220121172149.png",
-    "Analysis/Integralrechnung/Anwendungen bestimmter Integrale.md"
+    "Analysis/Mehrdimensionale Differentialrechnung/Funktionen ℝ^p auf ℝ^q.md"
   ]
 }
