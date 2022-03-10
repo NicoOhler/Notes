@@ -7,20 +7,6 @@
 	+ $\int^d_c (\int^b_a f(x,y)dx)dy$
 	+ Reihenfolge vertauschbar
 	
-### Normalbereiche bzgl. x-Achse
-+ Fläche wird von zwei Funktionen bestimmt
-+ ![[Pasted image 20220306083651.png]]
-+ ![[Pasted image 20220306083446.png]]
-+ Grenzen sind a,b und φ(x), ψ(x)
-+ $\int^b_a (\int^ψ(x)_φ(x) f(x,y)dy)dx$
-
-### Normalbereiche bzgl. y-Achse
-+ Fläche wird von zwei Funktionen bestimmt
-+ ![[Pasted image 20220306083749.png]]
-+ ![[Pasted image 20220306083846.png]]
-+ Grenzen sind c,d und χ(x), ψ(x)
-+ $\int^d_c (\int^ψ(x)_χ(x) f(x,y)dx)dy$
-
 ### Substitutionsregel (Transformationsformel)
 + differenzierbar und injektiv
 + $\int\underset{T(B)}{\int} f(x,y)dxdy=\int\underset{B}{\int} f*T(u,v)*|det \frac{\partial(x,y)}{\partial(u,v)}|du dv$
