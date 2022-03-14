@@ -8,4 +8,4 @@
 + $vol(N)=\int^d_{y=c}(\int^{φ(y)}_{x=ψ(y)}(\int_{z=g(x,y)}^{h(x,y)}dz)dx)dy$
 + Beispiel
 	+ ![[Pasted image 20220314130508.png]]
-	+ 
+	+ ![[Pasted image 20220314131029.png]]
