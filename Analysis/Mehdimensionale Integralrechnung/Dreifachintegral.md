@@ -15,6 +15,7 @@
 + T differenzierbar und injektiv
 + $\int\underset{T(B)}{\int}\int f(x,y,z)dx dy dz=\int\underset{B}{\int}\int f*T(u,v,w)*|det \frac{\partial(x,y,z)}{\partial(u,v,w)}|du dv dw$
 + Volumensumrechnungsfaktor - JACOBI-Determinante
+	+ x,y,z beliebig vertauschbar
 + Beispiel: dreidimensionale Polarkoordinaten
 	+ x ==> rsin(ψ)cos(φ)
 	+ y ==> rsin(ψ)sin(φ) 
@@ -26,3 +27,9 @@
 	+ ![[Pasted image 20220314132808.png]]
 	+ Beispiel: Polarkoordinaten bei Kugel
 		+ ![[Pasted image 20220314143710.png]]
++ Zylinderkoordinaten
+	+ x ==> rcos(φ)
+	+ y ==> rsin(φ) 
+	+ z ==> z
+	+ Volumenselement
+		+ $dxdydz=rdrdφdz$
