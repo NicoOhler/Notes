@@ -4,4 +4,8 @@
 	+ andere Reihenfolgen auch möglich
 
 ### Normalbereich im R^3
-+ $N={(x,y,z)}∈ℝ^3|(x,y)∈M, g(x,y)≤z≤h≤$
++ $N={(x,y,z)∈ℝ^3|(x,y)∈M, g(x,y)≤z≤h(x,y)}$
++ $vol(N)=\int^d_{y=c}(\int^{φ(y)}_{x=ψ(y)}(\int_{z=g(x,y)}^{h(x,y)}dz)dx)dy$
++ Beispiel
+	+ ![[Pasted image 20220314130508.png]]
+	+ 
