@@ -9,3 +9,13 @@
 + Beispiel
 	+ ![[Pasted image 20220314130508.png]]
 	+ ![[Pasted image 20220314131029.png]]
+
+### Substitutionsregel (Transformationsformel)
++ $T: B$-->$ℝ^3$
++ T differenzierbar und injektiv
++ $\int\underset{T(B)}{\int}\int f(x,y,z)dx dy dz=\int\underset{B}{\int}\int f*T(u,v,w)*|det \frac{\partial(x,y,z)}{\partial(u,v,w)}|du dv dw$
++ Volumensumrechnungsfaktor - JACOBI-Determinante
++ dreidimensionale Polarkoordinaten
+	+ x ==> rsin(ψ)cos(φ)
+	+ y ==> rsin(ψ)cos(φ) 
+	+ z ==> rcos(ψ)cos(φ)	

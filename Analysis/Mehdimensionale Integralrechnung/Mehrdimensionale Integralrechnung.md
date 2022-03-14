@@ -10,3 +10,4 @@
 ### Substitutionsregel (Transformationsformel)
 + differenzierbar und injektiv
 + $\int\underset{T(B)}{\int} f(x,y)dxdy=\int\underset{B}{\int} f*T(u,v)*|det \frac{\partial(x,y)}{\partial(u,v)}|du dv$
++ Volumensumrechnungsfaktor - JACOBI-Determinante
