@@ -24,3 +24,5 @@
 		+ 0≤ψ≤π
 		+ 0≤φ≤2π
 	+ ![[Pasted image 20220314132808.png]]
+	+ Beispiel: Polarkoordinaten bei Kugel
+		+ ![[Pasted image 20220314143710.png]]
