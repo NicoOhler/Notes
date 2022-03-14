@@ -33,3 +33,7 @@
 	+ z ==> z
 	+ Volumenselement
 		+ $dxdydz=rdrdφdz$
+	+ Beispiel
+		+  ![[Pasted image 20220314145659.png]]
+		+  ![[Pasted image 20220314145710.png]]
+		+  
