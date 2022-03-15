@@ -1,8 +1,4 @@
-# Entity Relationship Model
-+ ER diagram
-+ conceptual schema
-+ description of parts of real world
-
+# Chen Notation
 ### Entity
 + objects of the real world
 + entity type/set
@@ -46,7 +42,12 @@
 	+ ![[Pasted image 20220315120234.png]]
 
 ### Employee DB Example
-![[Pasted image 20220315115722.png]]
++ without cardinalites
+	+ ![[Pasted image 20220315115722.png]]
++ with cardinalities
+	+ ![[Pasted image 20220315120548.png]]
++ with additional information
+	+ ![[Pasted image 20220315120654.png]]
 
 
-[[Data Models]]
+[[ER Diagram]]
