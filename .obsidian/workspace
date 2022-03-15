@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Mehdimensionale Integralrechnung/Mehrdimensionale Integralrechnung.md",
-            "mode": "preview"
+            "file": "Data Management/Data Modeling/ER Diagram.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Mehdimensionale Integralrechnung/Mehrdimensionale Integralrechnung.md",
+                "file": "Data Management/Data Modeling/ER Diagram.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +99,8 @@
   },
   "active": "4ab5be8f8f3b1248",
   "lastOpenFiles": [
+    "Data Management/Data Modeling/ER Diagram.md",
+    "Images/Pasted image 20220314145710.png",
     "Analysis/Mehdimensionale Integralrechnung/Mehrdimensionale Integralrechnung.md",
     "Analysis/Mehdimensionale Integralrechnung/Normalbereiche.md",
     "Analysis/Mehdimensionale Integralrechnung/Dreifachintegral.md",
@@ -106,8 +108,6 @@
     "Analysis/Mehrdimensionale Differentialrechnung/Funktionen ℝ^p auf ℝ^q.md",
     "Analysis/Mehrdimensionale Differentialrechnung/Hauptsatz über implizite Funktionen.md",
     "Analysis/Mehrdimensionale Differentialrechnung/Satz von Taylor.md",
-    "Analysis/Mehrdimensionale Differentialrechnung/Höhere Ableitungen.md",
-    "Analysis/Folgen und Reihen/Intervallschachtelung.md",
-    "Allgemeine Mathematik/Allgemeine Mathematik.md"
+    "Analysis/Mehrdimensionale Differentialrechnung/Höhere Ableitungen.md"
   ]
 }
