@@ -1,6 +1,6 @@
 {
-  "collapse-filter": true,
-  "search": "",
+  "collapse-filter": false,
+  "search": "path:Analysis",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -46,6 +46,6 @@
   "repelStrength": 6.85393258426966,
   "linkStrength": 0.49438202247191,
   "linkDistance": 257,
-  "scale": 0.6673653567896242,
+  "scale": 0.18796564267778973,
   "close": false
 }

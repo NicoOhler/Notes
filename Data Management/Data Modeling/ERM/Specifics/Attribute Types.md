@@ -11,6 +11,6 @@
 		+ ![[Pasted image 20220315125108.png]]
 + multi-valued attribute
 	+ list of entries
-	+ can also be implemented with as separate
+	+ can also be implemented as separate entitiy
 	+ e.g. one person with multiple phone numbers
 		+ ![[Pasted image 20220315125229.png]]
