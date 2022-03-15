@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Data Management/Data Modeling/ER Diagram.md",
+            "file": "Data Management/Data Modeling/Untitled.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Management/Data Modeling/ER Diagram.md",
+                "file": "Data Management/Data Modeling/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
   },
   "active": "4ab5be8f8f3b1248",
   "lastOpenFiles": [
+    "Data Management/Data Modeling/Untitled.md",
     "Data Management/Data Modeling/ER Diagram.md",
+    "Data Management/Data Modeling/Data Models.md",
     "Images/Pasted image 20220314145710.png",
     "Analysis/Mehdimensionale Integralrechnung/Mehrdimensionale Integralrechnung.md",
     "Analysis/Mehdimensionale Integralrechnung/Normalbereiche.md",
     "Analysis/Mehdimensionale Integralrechnung/Dreifachintegral.md",
     "Analysis/Mehrdimensionale Differentialrechnung/Extremwertaufgaben mit Nebenbedingungen.md",
     "Analysis/Mehrdimensionale Differentialrechnung/Funktionen ℝ^p auf ℝ^q.md",
-    "Analysis/Mehrdimensionale Differentialrechnung/Hauptsatz über implizite Funktionen.md",
-    "Analysis/Mehrdimensionale Differentialrechnung/Satz von Taylor.md",
-    "Analysis/Mehrdimensionale Differentialrechnung/Höhere Ableitungen.md"
+    "Analysis/Mehrdimensionale Differentialrechnung/Hauptsatz über implizite Funktionen.md"
   ]
 }

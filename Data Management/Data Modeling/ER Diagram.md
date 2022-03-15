@@ -1,4 +1,5 @@
-# Enti
+# Entity Relationship Model
++ ER diagram
 + conceptual schema
-+ Description of parts of real world
-+ 
++ description of parts of real world
+
