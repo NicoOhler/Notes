@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Data Management/Data Modeling/ERM/(min,max)-Notation.md",
+            "file": "Data Management/Data Modeling/ERM/Modified Chen Notation.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Management/Data Modeling/ERM/(min,max)-Notation.md",
+                "file": "Data Management/Data Modeling/ERM/Modified Chen Notation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
   },
   "active": "4ab5be8f8f3b1248",
   "lastOpenFiles": [
-    "Data Management/Data Modeling/ERM/(min,max)-Notation.md",
     "Data Management/Data Modeling/ERM/Modified Chen Notation.md",
     "Data Management/Data Modeling/ERM/ER Diagram.md",
+    "Data Management/Data Modeling/ERM/(min,max)-Notation.md",
+    "z_images/Pasted image 20220315121456.png",
     "Data Management/Data Modeling/ERM/Chen Notation.md",
     "Data Management/Data Modeling/Database Design.md",
     "Data Management/Data Management.md",
     "z_images/Pasted image 20220315120654.png",
     "z_images/Pasted image 20220315120234.png",
-    "Data Management/Data Modeling/Data Models.md",
-    "z_images/Pasted image 20220315114927.png"
+    "Data Management/Data Modeling/Data Models.md"
   ]
 }

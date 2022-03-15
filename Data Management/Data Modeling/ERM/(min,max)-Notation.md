@@ -1,5 +1,14 @@
 # (min,max)-Notation
-+ each entity is part of at least/most x relations 
++ each entity is part of at least/most x relations
++ describes number of relationships for each entity
 + \* means aritrary many 
 
-![[Pasted image 20220315121305.png]]
+### Comparison to Chen-Notation
++ (min,max)-Notation focus on relationships
++ Chen-Notation focus on entities
++ ![[Pasted image 20220315121456.png]]
+
+### Example
++ ![[Pasted image 20220315121315.png]]
+
+[[ER Diagram]]
