@@ -9,3 +9,5 @@
 +  f in $x_0$ diffbar und g in $f(x_0)$ diffbar
 	+  $(gf)'(x_0)=g'(f(x_0))*f(x_0)$
 	+  Achtung: Matrixmultiplikation
+
+[[Hauptsatz über implizite Funktionen]]

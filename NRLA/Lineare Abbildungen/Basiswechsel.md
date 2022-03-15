@@ -28,3 +28,5 @@
 			+ $T_{alt} * T_{neu}^{-1}$
 		+ Beispiel
 			+ ![[Pasted image 20211204163106.png]]
+
+[[Lineare Abbildungen]] [[Basis]]

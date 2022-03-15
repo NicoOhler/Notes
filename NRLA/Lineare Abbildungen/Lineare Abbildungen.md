@@ -81,3 +81,5 @@
 ### Koordinatenabbildung
 + Koordinaten c brauchen Basis B
 + Kordinaten-Vektor, von V bezüglich B = c<sub>B</sub>
+
+[[Allgemeine Vektorräume]]

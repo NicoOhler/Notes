@@ -17,3 +17,5 @@
 	+ enthält alle möglichen zweiten Ableitunge
 	+ ![[Pasted image 20220227122625.png]]
 	+ $H=H^T$, wenn Satz von Schwartz gilt
+
+[[Differentialrechnung für Funktionen in mehreren Variablen]]

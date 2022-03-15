@@ -1,4 +1,6 @@
 # Chen Notation
++  [[Modified Chen Notation]]
+
 ### Entity
 + objects of the real world
 + entity type/set

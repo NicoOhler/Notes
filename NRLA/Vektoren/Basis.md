@@ -5,3 +5,5 @@
 + In einem endlich dimensionalen VR V hat jede Basis dieselbe Anzahl von Vektoren
 	+ Vektorenanzahl in Basis = Dimension
 + endliche Basis ==> VR V ist endlich dimensional
+
+[[Vektor]] [[Allgemeine Vektorräume]] [[Lineare Unabhängigkeit]]

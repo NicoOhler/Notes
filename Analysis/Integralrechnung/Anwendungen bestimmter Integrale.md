@@ -32,3 +32,5 @@
 
 ### Oberflächen von Drehkörpern
 + $O=2π\int^b_a f(x)\sqrt{1+f'(x)^2}dx$
+
+[[Integralrechnung]]

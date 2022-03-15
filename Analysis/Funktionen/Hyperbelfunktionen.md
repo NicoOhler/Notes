@@ -40,3 +40,5 @@
 	+ nimmt Werte von $(-∞,-1)$ und $(1,∞)$an
 + arcoth: $(-∞,-1)∪(1,∞)$-->ℝ\\{0}
 + $arcoth(y)=artanh(\frac{1}{y})=\frac{1}{2}ln(\frac{1-\frac{1}{y}}{1+\frac{1}{y}})$
+
+[[Funktionen]]

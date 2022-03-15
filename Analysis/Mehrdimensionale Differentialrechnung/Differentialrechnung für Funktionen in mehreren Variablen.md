@@ -46,3 +46,5 @@
 		+ Gradient von f zeigt in Richtung des größten Anstiegs
 		+ senkrecht zu Gradient findet keine Änderung statt
 			+ <..,..>=0
+
+[[Diffenrentialrechnung]]

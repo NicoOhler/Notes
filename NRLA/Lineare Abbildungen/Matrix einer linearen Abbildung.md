@@ -38,3 +38,5 @@
 + Spaltenräume bleiben nicht gleich
 + Zeilenräume bleiben gleich
 	+ Span({Zeilen von A}) = Span({Zeilen von A'})
+
+[[Lineare Abbildungen]]
