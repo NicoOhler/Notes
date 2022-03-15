@@ -17,6 +17,7 @@
 ### Attribute
 + entities or relationshiips may have attribute value pairs
 + attributes describe entity/object
++ [[Attribute Types]]
 	+ multi-value
 	+ derived
 	+ composite
