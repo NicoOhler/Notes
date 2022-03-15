@@ -3,13 +3,15 @@
 + objects of the real world
 + entity type/set
 	+ collection of entities
-+ weak entities
++ [[Weak Entity]]
 	+ entities that are dependent on existing entity
 + ![[Pasted image 20220315114927.png]]
 
 ### Relationship Type
 + defines behaviour between entities
 + connected to concrete entities
++ special types:
+	+ [[N-ary Relationships]]
 + ![[Pasted image 20220315114933.png]]
 
 ### Attribute
