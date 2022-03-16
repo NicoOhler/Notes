@@ -19,5 +19,8 @@
 	+ ![[Pasted image 20220316105018.png]]
 	+ deren Partitionsklassen
 		+ $[0]_3=[3]_3=[-3]_3=...$
-+ alle Partitionsklassen von sind
++ Partition von ℤ
 	+ ${[0]_3,[1]_3_,[2]_3}$
++ Partition von X
+	+ ![[Pasted image 20220316105547.png]]
++  
