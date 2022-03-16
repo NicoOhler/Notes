@@ -1,5 +1,5 @@
 # Integralrechnung
-+ Umkehraufgabe der Differentiation
++ Umkehraufgabe der [[Differentialrechnung]]
 + F'=f - gesuchte Funktion F heißt Stammfunktion von f.
 + Da Konstanten beim Differentieren verschwinden, kann auf diese nicht zurückgeschlossen werden
 	+ $F'+const = f$
@@ -23,4 +23,3 @@
 + $\frac{1}{a}F(ax+b)$ ist Stammfunktion von f(ax+b)
 + logarithmische Regel
 	+ $\int \frac{f'(x)}{f(x)}=ln|f(x)|+C$
-

@@ -17,7 +17,7 @@
 
 ### Spektralsatz  der lin. Alg.
  + $A∈ℝ^{n×n}$ symmetrisch $(A=A^T)$==>
-	 + alle EW sind reell
+	 + alle [[Eigenwerte]] sind reell
 	 + EV zu verschiedenen EW sind orthogonal
 	 + A besitzt n orthonormierte EV
 	 + A ist diagonalisierbar mittels ONB von EV (Orthonogale Diagonalisierung)

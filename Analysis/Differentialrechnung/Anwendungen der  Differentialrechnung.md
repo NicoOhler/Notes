@@ -33,4 +33,4 @@
 + ∀x∈(a, b): g'(x) ≠ 0
 	+ ==> ∃x<sub>0</sub>∈(a, b): $\frac{f(b)-f(a)}{g(b)-g(a)} = \frac{f'(x_0))}{g'(x_0)}$
 
-[[Diffenrentialrechnung]]
+[[Differentialrechnung]]

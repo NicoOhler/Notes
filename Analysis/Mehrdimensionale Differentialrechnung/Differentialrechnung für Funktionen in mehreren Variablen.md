@@ -47,4 +47,4 @@
 		+ senkrecht zu Gradient findet keine Änderung statt
 			+ <..,..>=0
 
-[[Diffenrentialrechnung]]
+[[Differentialrechnung]]

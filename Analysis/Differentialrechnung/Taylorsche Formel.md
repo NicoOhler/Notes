@@ -20,3 +20,4 @@
 		+ Restglied von Lagrauge
 		+ wiederholbar für n Ableitungen - alle Glieder des Taylor-Polynom
 
+[[Differentialrechnung]]

@@ -100,14 +100,14 @@
   "active": "4ab5be8f8f3b1248",
   "lastOpenFiles": [
     "Data Management/Data Modeling/ERM/Chen Notation.md",
+    "Analysis/Differentialrechnung/Taylorsche Formel.md",
+    "NRLA/Eigenwerte/Diagonalisierung.md",
+    "NRLA/Eigenwerte/Eigenwerte.md",
+    "NRLA/Eigenwerte/Ähnliche Matrizen.md",
+    "Analysis/Integralrechnung/Integralrechnung.md",
+    "Analysis/Differentialrechnung/Anwendungen der  Differentialrechnung.md",
     "Data Management/Data Modeling/ERM/Modified Chen Notation.md",
     "Data Management/Data Modeling/ERM/(min,max)-Notation.md",
-    "Data Management/Data Modeling/ERM/ER Diagram.md",
-    "Data Management/Data Modeling/ERM/ERM Design Decisions.md",
-    "Data Management/Data Modeling/ERM/Specifics/Weak Entity.md",
-    "Data Management/Data Modeling/ERM/Specifics/Recursive Relationships.md",
-    "Data Management/Data Modeling/ERM/Specifics/N-ary Relationships.md",
-    "Data Management/Data Modeling/ERM/Specifics/Attribute Types.md",
-    "NRLA/Vektoren/Basis.md"
+    "Data Management/Data Modeling/ERM/ER Diagram.md"
   ]
 }
