@@ -12,4 +12,4 @@
 + $∀x,y∈ℤ:$ x ist Kongruenz zu y modulo, wenn
 	+ $a|(x-y)$ <==> $x≡y$ mod a <=> $x≡_ay$
 + $R={(x,y)∈ℤ^2: x≡_ay}$
-	+ Äquivalenzrelation auf ℤ
+	+ Äquivalenzrelation auf ℤ 
