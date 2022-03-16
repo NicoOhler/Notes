@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NRLA/Vektoren/Vektor.md",
+            "file": "Analysis/Mehdimensionale Integralrechnung/Dreifachintegral.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NRLA/Vektoren/Vektor.md",
+                "file": "Analysis/Mehdimensionale Integralrechnung/Dreifachintegral.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,8 +99,8 @@
   },
   "active": "4ab5be8f8f3b1248",
   "lastOpenFiles": [
-    "NRLA/Vektoren/Vektor.md",
     "Analysis/Mehdimensionale Integralrechnung/Dreifachintegral.md",
+    "NRLA/Vektoren/Vektor.md",
     "z_images/Pasted image 20220314143710.png",
     "Analysis/Mehdimensionale Integralrechnung/Mehrdimensionale Integralrechnung.md",
     "Analysis/Mehdimensionale Integralrechnung/Normalbereiche.md",
