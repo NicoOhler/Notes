@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Data Management/Data Modeling/ERM/Chen Notation.md",
+            "file": "Analysis/Mehdimensionale Integralrechnung/Dreifachintegral.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Management/Data Modeling/ERM/Chen Notation.md",
+                "file": "Analysis/Mehdimensionale Integralrechnung/Dreifachintegral.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +99,7 @@
   },
   "active": "4ab5be8f8f3b1248",
   "lastOpenFiles": [
+    "Analysis/Mehdimensionale Integralrechnung/Dreifachintegral.md",
     "Data Management/Data Modeling/ERM/Chen Notation.md",
     "Analysis/Differentialrechnung/Taylorsche Formel.md",
     "NRLA/Eigenwerte/Diagonalisierung.md",
@@ -107,7 +108,6 @@
     "Analysis/Integralrechnung/Integralrechnung.md",
     "Analysis/Differentialrechnung/Anwendungen der  Differentialrechnung.md",
     "Data Management/Data Modeling/ERM/Modified Chen Notation.md",
-    "Data Management/Data Modeling/ERM/(min,max)-Notation.md",
-    "Data Management/Data Modeling/ERM/ER Diagram.md"
+    "Data Management/Data Modeling/ERM/(min,max)-Notation.md"
   ]
 }

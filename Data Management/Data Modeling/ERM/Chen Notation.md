@@ -14,7 +14,7 @@
 + connected to concrete entities
 + special types:
 	+ [[N-ary Relationships]]
-	+ [[rec]]
+	+ [[Recursive Relationships]]
 + ![[Pasted image 20220315114933.png]]
 
 ### Attribute
