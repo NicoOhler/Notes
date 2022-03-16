@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Diskrete Mathematik/Kongruenzen und Partitionen.md",
+            "file": "Diskrete Mathematik/Relationen.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diskrete Mathematik/Kongruenzen und Partitionen.md",
+                "file": "Diskrete Mathematik/Relationen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +99,7 @@
   },
   "active": "4ab5be8f8f3b1248",
   "lastOpenFiles": [
+    "Diskrete Mathematik/Relationen.md",
     "Diskrete Mathematik/Kongruenzen und Partitionen.md",
     "Diskrete Mathematik/Diskrete Mathematik.md",
     "Analysis/Vektoranalysis/Vektoranalysis.md",
@@ -107,7 +108,6 @@
     "Analysis/Differentialrechnung/Taylorsche Formel.md",
     "NRLA/Eigenwerte/Diagonalisierung.md",
     "NRLA/Eigenwerte/Eigenwerte.md",
-    "NRLA/Eigenwerte/Ähnliche Matrizen.md",
-    "Analysis/Integralrechnung/Integralrechnung.md"
+    "NRLA/Eigenwerte/Ähnliche Matrizen.md"
   ]
 }
