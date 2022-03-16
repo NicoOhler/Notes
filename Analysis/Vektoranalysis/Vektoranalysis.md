@@ -3,7 +3,7 @@
 	+  $\overrightarrow{V}$ besteht aus Koordinatenfunktionen
 	+ $\overrightarrow{V}:U$ auf U koordinatenweise differenzierbar
 		+ ==> differenzierbares Vektorfeld
-+ Gesucht:  geleistete Arbeit bei Bewegung entlang Kurve C in $\overrightarrow{V}$
++ Gesucht:  geleistete Arbeit W bei Bewegung entlang Kurve C in $\overrightarrow{V}$
 	+ C: $\overrightarrow{x}(t)$
 	+ t∈\[a,b]
 	+ $W = \int_a^b <\overrightarrow{V}(\overrightarrow{x}(t)),\bar{\overrightarrow{x}}(t)>dt$
@@ -14,3 +14,9 @@
 + Bewegung entlang anderer Kurve in selbem Bereich ==> W anders
 	+ ![[Pasted image 20220316090732.png]]
 	+ ![[Pasted image 20220316091028.png]]
++ Weitere Beispiele
+	+ ![[Pasted image 20220316091413.png]]
+
+### Unabhängig von Kurve
++ ang. W hängt nur von Anfangs- und Endpunkt von C ab
++ 
