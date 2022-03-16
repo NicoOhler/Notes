@@ -6,6 +6,9 @@
 + Gesucht:  geleistete Arbeit bei Bewegung entlang Kurve C in $\overrightarrow{V}$
 	+ C: $\overrightarrow{x}(t)$
 	+ t∈\[a,b]
-	+ W = $\int_a^b <\overrightarrow{V}(\overrightarrow{x}(t)),\bar{\overrightarrow{x}}(t)>dt$
+	+ $W = \int_a^b <\overrightarrow{V}(\overrightarrow{x}(t)),\bar{\overrightarrow{x}}(t)>dt$
 		+ $\bar{\overrightarrow{x}}(t)dt=d\overrightarrow{x}$
-		+ $W=$
+	+ $\overrightarrow{V}$ besteht aus P(t), Q(t), R(t) ==> $W=\int_C Pdx+Qdy+Rdz$
++ Integral ist unabhängig von orientierter Parametrisierung
+	+ Kurvenintegral
+	+ Wegintegral
