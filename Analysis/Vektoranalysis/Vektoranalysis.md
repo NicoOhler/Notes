@@ -9,6 +9,8 @@
 	+ $W = \int_a^b <\overrightarrow{V}(\overrightarrow{x}(t)),\bar{\overrightarrow{x}}(t)>dt$
 		+ $\bar{\overrightarrow{x}}(t)dt=d\overrightarrow{x}$
 	+ $\overrightarrow{V}$ besteht aus P(t), Q(t), R(t) ==> $W=\int_C Pdx+Qdy+Rdz$
-+ Integral ist unabhängig von orientierter Parametrisierung
-	+ Kurvenintegral
-	+ Wegintegral
++ Kurven/Wegintegral ist unabhängig von orientierter Parametrisierung
+	+ lediglich von Kurve und Vektorfeld
++ Bewegung entlang anderer Kurve in selbem Bereich ==> W anders
+	+ ![[Pasted image 20220316090732.png]]
+	+ ![[Pasted image 20220316091028.png]]
