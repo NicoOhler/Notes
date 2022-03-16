@@ -12,4 +12,12 @@
 + $∀x,y∈ℤ:$ x ist Kongruenz zu y modulo, wenn
 	+ $a|(x-y)$ <==> $x≡y$ mod a <=> $x≡_ay$
 + $R={(x,y)∈ℤ^2: x≡_ay}$
-	+ Äquivalenzrelation auf ℤ 
+	+ Äquivalenzrelation auf ℤ   
+
+### Partitionsklassen
++ gegeben ist die Menge
+	+ ![[Pasted image 20220316105018.png]]
+	+ deren Partitionsklassen
+		+ $[0]_3=[3]_3=[-3]_3=...$
++ alle Partitionsklassen von sind
+	+ ${[0]_3,[1]_3_,[2]_3}$
