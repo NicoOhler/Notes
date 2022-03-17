@@ -21,3 +21,9 @@
 
 ### Modulooperationen
 + ![[Pasted image 20220317141822.png]]
+
+### Inverse
++ ![[Pasted image 20220317142739.png]]
++ $[a]_m∈ℤ_m$ ist invertierbar, wenn
+	+ $∃b∈S:[a]_m*[b]_m=[b]_m*[a]_m=[1]_m$
++ $[a]_m=[b]_m^{-1}=$
