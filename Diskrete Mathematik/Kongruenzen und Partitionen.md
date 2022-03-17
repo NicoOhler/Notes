@@ -23,4 +23,8 @@
 	+ ${[0]_3,[1]_3_,[2]_3}$
 + Partition von X
 	+ ![[Pasted image 20220316105547.png]]
-+  
+
+### Repräsentantensystem
++ Sei ~ eine Äquivalenzrelation auf X
++ Teilmenge S von C ist Repräsentantensystem
+	+ 
