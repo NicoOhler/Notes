@@ -20,11 +20,13 @@
 	+ deren Partitionsklassen
 		+ $[0]_3=[3]_3=[-3]_3=...$
 + Partition von ℤ
-	+ ${[0]_3,[1]_3_,[2]_3}$
+	+ ${[0]_3,[1]_3,[2]_3}$
 + Partition von X
 	+ ![[Pasted image 20220316105547.png]]
 
 ### Repräsentantensystem
 + Sei ~ eine Äquivalenzrelation auf X
-+ Teilmenge S von C ist Repräsentantensystem
-	+ 
++ Teilmenge S von C ist Repräsentantensystem von ~, wenn
+	+ $∀x∈X∃!s∈S: x~s$
++ Beispiel: 
+	+ ![[Pasted image 20220317140708.png]]

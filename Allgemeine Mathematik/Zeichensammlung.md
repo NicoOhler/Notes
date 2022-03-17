@@ -27,7 +27,7 @@ https://learninglab.gitlabpages.inria.fr/mooc-rr/mooc-rr-ressources/module1/ress
 	+ ∄
 + Mengenoperatoren
 	+	∅
-	+	
+	+	∈
 	+	∉
 	+	∪
 	+	∩

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Diskrete Mathematik/Kongruenzen und Partitionen.md",
+            "file": "Diskrete Mathematik/Relationen.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diskrete Mathematik/Kongruenzen und Partitionen.md",
+                "file": "Diskrete Mathematik/Relationen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
   },
   "active": "97fef1fd8ade5d8e",
   "lastOpenFiles": [
-    "Diskrete Mathematik/Kongruenzen und Partitionen.md",
+    "Diskrete Mathematik/Relationen.md",
     "Diskrete Mathematik/Diskrete Mathematik.md",
+    "Diskrete Mathematik/Kongruenzen und Partitionen.md",
     "Data Management/Data Modeling/ERM/Specifics/Specialization and Aggregation.md",
     "Data Management/Data Modeling/ERM/Specifics/Recursive Relationships.md",
     "Data Management/Data Modeling/ERM/Specifics/N-ary Relationships.md",
     "Data Management/Data Modeling/ERM/Specifics/Attribute Types.md",
     "Data Management/Data Modeling/ERM/Modified Chen Notation.md",
     "Data Management/Data Modeling/ERM/Chen Notation.md",
-    "Data Management/Data Modeling/ERM/ER Diagram.md",
-    "Data Management/Data Modeling/ERM/ERM Design Decisions.md"
+    "Data Management/Data Modeling/ERM/ER Diagram.md"
   ]
 }
