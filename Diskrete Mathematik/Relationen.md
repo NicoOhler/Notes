@@ -18,3 +18,6 @@
 	+ reflexiv, symmetrisch und transitiv
 + R ist Ordnungsrelation, wenn
 	+ reflexiv, antisymmetrisch und transitiv
+
+### Modulooperationen
++ ![[Pasted image 20220317141822.png]]
