@@ -4,9 +4,11 @@
 	+  $x≡c_2$ mod $m_2$	
 	+  ...
 	+  $x≡c_n$ mod $m_n$
-+  $m_1$ bis $m_n$ sind teilerfremd
++  Vorgehensweise
+	+  $m_1$ bis $m_n$ sind teilerfremd
+		+  ansonsten redundante Kongruenzen eliminieren
 	+  Produkt berechnen
-	+ $M=\prod_{i=1}^n a_i$
+		+ $M=\prod_{i=1}^n a_i$
 	+ $M_i=\frac{M}{m_i}$
 	+ euklidischen Alg. anwenden
 		+ $a_i*m_i+b_i*M_i=1$
