@@ -27,7 +27,11 @@
 + $[a]_m∈ℤ_m$ ist invertierbar, wenn
 	+ $∃b∈S:[a]_m*[b]_m=[b]_m*[a]_m=[1]_m$
 + $[a]_m=[b]_m^{-1}=$
-+ Inverse bestimmen
++ Inverse $[n]_m^{-1}$ bestimmen
 	+ ggT(m,n)=1
 		+ sonst keine Inverse
-	+ 
+	+ erweiterte euklidische Algorithmus anwenden
+		+ a und b bestimmen
+			+ $a_i, b_i$ mit i der Spalte bevor r=0
+		+ $am+bn=1$
+		+ $[b]_m$ ist Inverse
