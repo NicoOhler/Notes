@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Vektoranalysis/Kurvenunabhängigkeit.md",
-            "mode": "source"
+            "file": "Diskrete Mathematik/Relationen.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Vektoranalysis/Kurvenunabhängigkeit.md",
+                "file": "Diskrete Mathematik/Relationen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,12 +99,12 @@
   },
   "active": "97fef1fd8ade5d8e",
   "lastOpenFiles": [
+    "Diskrete Mathematik/Relationen.md",
+    "Diskrete Mathematik/Kongruenzen und Partitionen.md",
     "Analysis/Vektoranalysis/Kurvenunabhängigkeit.md",
     "Analysis/Vektoranalysis/Vektoranalysis.md",
     "Diskrete Mathematik/Halbgruppen und Gruppen.md",
     "Diskrete Mathematik/Chinesische Restsatz.md",
-    "Diskrete Mathematik/Kongruenzen und Partitionen.md",
-    "Diskrete Mathematik/Relationen.md",
     "Diskrete Mathematik/Diskrete Mathematik.md",
     "Data Management/Data Modeling/ERM/Specifics/Specialization and Aggregation.md",
     "Data Management/Data Modeling/ERM/Specifics/Recursive Relationships.md",
