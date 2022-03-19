@@ -26,7 +26,13 @@
 + <==> Stammfunktion Φ erfüllt folgende Integrabilitätsbedingungen
 	+ ![[Pasted image 20220319115942.png]]
 	+ Ableitungen paarweise gleich
-+ Integrabilitätsbedingungen in Vektor
++ Integrabilitätsbedingungen als Vektor
 	+ Rotation von $\overrightarrow{V}=\overrightarrow{0}$
 		+ dann heißt $\overrightarrow{V}$ wirbelfrei
 	+ ![[Pasted image 20220319120455.png]]
++ Divergenz von $\overrightarrow{V}$
+	+ $div(\overrightarrow{V})=\nabla x \overrightarrow{V}$
+		+ Quelldiche von $\overrightarrow{V}$
+	+ $div(rot\overrightarrow{V})=\nabla(\nabla x \overrightarrow{V})$
+	+ Laplace Operator
+		+ $div(grad f)=\nabla\nabla f=△ f$
