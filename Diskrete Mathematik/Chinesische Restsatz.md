@@ -31,5 +31,6 @@
 			+ $A_3=-2$
 	+ $x=\sum_{l=1}^3C_l*A_l*n_l=1(-1)20+2(-1)15+3(-2)12=-122$
 		+ $n_l$ ist Produkt aller m außer $m_l$
-		+ -122 ==> 58
+		+ $x≡-122mod60$==>$x≡ 58 mod 60$
+		+ Lösungsmenge $[58]_60$
 

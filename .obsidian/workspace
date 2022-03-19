@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Diskrete Mathematik/Chinesische Restsatz.md",
+            "file": "Diskrete Mathematik/Halbgruppen und Gruppen.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diskrete Mathematik/Chinesische Restsatz.md",
+                "file": "Diskrete Mathematik/Halbgruppen und Gruppen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +99,7 @@
   },
   "active": "97fef1fd8ade5d8e",
   "lastOpenFiles": [
+    "Diskrete Mathematik/Halbgruppen und Gruppen.md",
     "Diskrete Mathematik/Chinesische Restsatz.md",
     "Diskrete Mathematik/Kongruenzen und Partitionen.md",
     "Diskrete Mathematik/Relationen.md",
@@ -107,7 +108,6 @@
     "Data Management/Data Modeling/ERM/Specifics/Recursive Relationships.md",
     "Data Management/Data Modeling/ERM/Specifics/N-ary Relationships.md",
     "Data Management/Data Modeling/ERM/Specifics/Attribute Types.md",
-    "Data Management/Data Modeling/ERM/Modified Chen Notation.md",
-    "Data Management/Data Modeling/ERM/Chen Notation.md"
+    "Data Management/Data Modeling/ERM/Modified Chen Notation.md"
   ]
 }
