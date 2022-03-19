@@ -15,3 +15,6 @@
 		+ Integration entlang Gerade zwischen Ursprung und (x,y)
 	+ ![[Pasted image 20220319112203.png]]
 		+ inklusive Integrabilitätsbedingung
++ no clue
+	+ ![[Pasted image 20220319114753.png]]
+	+ 
