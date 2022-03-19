@@ -17,11 +17,3 @@
 + Weitere Beispiele
 	+ ![[Pasted image 20220316091413.png]]
 
-### Unabhängig von Kurve
-+ ang. W hängt nur von Anfangs- und Endpunkt von C ab
-+ ![[Pasted image 20220316092347.png]]
-	+ a,b sind Anfangs und Endpunkt
-	+ Φ ist Potential zu $\overrightarrow{V}$
-+ $grad Φ=\overrightarrow{V}$
-	+ gibt es nur, wenn
-	+ $\frac{\partial P}{\partial y}=\frac{\partial Q}{\partial x}$

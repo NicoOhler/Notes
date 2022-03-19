@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Diskrete Mathematik/Halbgruppen und Gruppen.md",
+            "file": "Analysis/Vektoranalysis/Kurvenunabhängigkeit.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diskrete Mathematik/Halbgruppen und Gruppen.md",
+                "file": "Analysis/Vektoranalysis/Kurvenunabhängigkeit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +99,8 @@
   },
   "active": "97fef1fd8ade5d8e",
   "lastOpenFiles": [
+    "Analysis/Vektoranalysis/Kurvenunabhängigkeit.md",
+    "Analysis/Vektoranalysis/Vektoranalysis.md",
     "Diskrete Mathematik/Halbgruppen und Gruppen.md",
     "Diskrete Mathematik/Chinesische Restsatz.md",
     "Diskrete Mathematik/Kongruenzen und Partitionen.md",
@@ -106,8 +108,6 @@
     "Diskrete Mathematik/Diskrete Mathematik.md",
     "Data Management/Data Modeling/ERM/Specifics/Specialization and Aggregation.md",
     "Data Management/Data Modeling/ERM/Specifics/Recursive Relationships.md",
-    "Data Management/Data Modeling/ERM/Specifics/N-ary Relationships.md",
-    "Data Management/Data Modeling/ERM/Specifics/Attribute Types.md",
-    "Data Management/Data Modeling/ERM/Modified Chen Notation.md"
+    "Data Management/Data Modeling/ERM/Specifics/N-ary Relationships.md"
   ]
 }
