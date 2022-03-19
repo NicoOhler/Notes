@@ -36,3 +36,9 @@
 	+ $div(rot\overrightarrow{V})=\nabla(\nabla x \overrightarrow{V})$
 	+ Laplace Operator
 		+ $div(grad f)=\nabla\nabla f=△ f$
++ Beispiel: selbe Rechnung auf verschiedene Arten
+	+ ![[Pasted image 20220319125430.png]]
+		+ Schritt für Schritt, Variable für Variable
+	+ ![[Pasted image 20220319125541.png]]
+		+ möglichst einfacher Integrationsweg
+		+ x-Achse, y-Achse, z-Achse
