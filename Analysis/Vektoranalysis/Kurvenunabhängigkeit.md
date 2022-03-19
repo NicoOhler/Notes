@@ -4,7 +4,9 @@
 	+ a,b sind Anfangs und Endpunkt
 	+ Φ ist Potential zu $\overrightarrow{V}$
 + wegunabhängig, wenn $grad Φ=\overrightarrow{V}$
-	+ $\frac{\partial P}{\partial y}=\frac{\partial Q}{\partial x}$
+	+ Integrabilitätsbedingung
+		+ Ableitung P nach x = Ableitung Q nach y
+		+ $\frac{\partial P}{\partial y}=\frac{\partial Q}{\partial x}$
 + Integral webunabhängig <==> $\oint_C Pdx + Qdy = 0$ für jede geschlossene Kurve
 + Integrabilitätsbedingung
 	+ Ableitung P nach x = Ableitung Q nach y
@@ -21,6 +23,10 @@
 ### Dreidimensional
 + $\int Pdx+Qdy+Rdz$ ist wegunabhängig <==> ∀C geschlossen $\ointPdx+Qdy+Rdz=0$
 + <==>$∃Φ:grad Φ=(P,Q,R)$
-+ <==> Stammfunktion Φ mit
++ <==> Stammfunktion Φ erfüllt folgende Integrabilitätsbedingungen
 	+ ![[Pasted image 20220319115942.png]]
 	+ Ableitungen paarweise gleich
++ Integrabilitätsbedingungen in Vektor
+	+ Rotation von $\overrightarrow{V}=\overrightarrow{0}$
+		+ dann heißt $\overrightarrow{V}$ wirbelfrei
+	+ ![[Pasted image 20220319120455.png]]
