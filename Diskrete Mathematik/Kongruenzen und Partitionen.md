@@ -26,7 +26,7 @@
 
 ### Repräsentantensystem
 + Sei ~ eine Äquivalenzrelation auf X
-+ Teilmenge S von C ist Repräsentantensystem von ~, wenn
-	+ $∀x∈X∃!s∈S: x~s$
++ Teilmenge S von X ist Repräsentantensystem von ~, wenn
+	+ $∀x∈X∃!s∈S: x$~$s$
 + Beispiel: 
 	+ ![[Pasted image 20220317140708.png]]
