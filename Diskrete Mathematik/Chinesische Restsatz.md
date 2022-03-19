@@ -14,3 +14,6 @@
 		+ $a_i*m_i+b_i*M_i=1$
 	+ Lösung
 		+ $x=\sum_{i=1}^n x_i*s_i*Ai$
+		+ Falls a∉{0,...,m-1}, b∈{0,...,m-1} sodass a≡b mod m
+			+ $L=${$x∈ℤ: x≡C_l$ mod $m_l$ $∀l=1...s$}$=[b]_m=[a]_m$
+
