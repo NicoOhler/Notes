@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Data Management/Data Modeling/ERM/Modified Chen Notation.md",
-            "mode": "preview"
+            "file": "Analysis/Vektoranalysis/Vektoranalysis.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Management/Data Modeling/ERM/Modified Chen Notation.md",
+                "file": "Analysis/Vektoranalysis/Vektoranalysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,14 +99,14 @@
   },
   "active": "97fef1fd8ade5d8e",
   "lastOpenFiles": [
+    "Analysis/Vektoranalysis/Vektoranalysis.md",
+    "Analysis/Vektoranalysis/Kurvenunabhängigkeit.md",
     "Data Management/Data Modeling/ERM/Modified Chen Notation.md",
     "Data Management/Data Modeling/ERM/Chen Notation.md",
     "Data Management/Data Modeling/ERM/Specifics/Recursive Relationships.md",
     "Data Management/Data Management.md",
     "Diskrete Mathematik/Kongruenzen und Partitionen.md",
     "Diskrete Mathematik/Relationen.md",
-    "Analysis/Vektoranalysis/Kurvenunabhängigkeit.md",
-    "Analysis/Vektoranalysis/Vektoranalysis.md",
     "Diskrete Mathematik/Halbgruppen und Gruppen.md",
     "Diskrete Mathematik/Chinesische Restsatz.md"
   ]
