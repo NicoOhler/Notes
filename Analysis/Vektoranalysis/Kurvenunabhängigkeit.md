@@ -21,7 +21,7 @@
 	+ ![[Pasted image 20220319114753.png]]
 
 ### Dreidimensional
-+ $\int Pdx+Qdy+Rdz$ ist wegunabhängig <==> ∀C geschlossen $\ointPdx+Qdy+Rdz=0$
++ $\int Pdx+Qdy+Rdz$ ist wegunabhängig <==> ∀C geschlossen $\oint Pdx+Qdy+Rdz=0$
 + <==>$∃Φ:grad Φ=(P,Q,R)$
 + <==> Stammfunktion Φ erfüllt folgende Integrabilitätsbedingungen
 	+ ![[Pasted image 20220319115942.png]]

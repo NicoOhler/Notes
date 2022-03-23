@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Mehdimensionale Integralrechnung/Dreifachintegral.md",
-            "mode": "preview"
+            "file": "Analysis/Vektoranalysis/Kurvenunabhängigkeit.md",
+            "mode": "source"
           }
         }
       }
@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Mehdimensionale Integralrechnung/Dreifachintegral.md",
+                "file": "Analysis/Vektoranalysis/Kurvenunabhängigkeit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,9 +99,9 @@
   },
   "active": "97fef1fd8ade5d8e",
   "lastOpenFiles": [
-    "Analysis/Mehdimensionale Integralrechnung/Dreifachintegral.md",
     "Analysis/Vektoranalysis/Kurvenunabhängigkeit.md",
     "Analysis/Vektoranalysis/Vektoranalysis.md",
+    "Analysis/Mehdimensionale Integralrechnung/Dreifachintegral.md",
     "NRLA/Vektoren/Vektor.md",
     "Analysis/Mehdimensionale Integralrechnung/Normalbereiche.md",
     "Data Management/Data Modeling/ERM/Modified Chen Notation.md",
