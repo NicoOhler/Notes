@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Vektoranalysis/Vektoranalysis.md",
+            "file": "NRLA/Vektoren/Vektor.md",
             "mode": "preview"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "reprä",
+                "query": "skalarpr",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Vektoranalysis/Vektoranalysis.md",
+                "file": "NRLA/Vektoren/Vektor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +100,7 @@
   },
   "active": "97fef1fd8ade5d8e",
   "lastOpenFiles": [
+    "NRLA/Vektoren/Vektor.md",
     "Analysis/Vektoranalysis/Vektoranalysis.md",
     "Analysis/Vektoranalysis/Kurvenunabhängigkeit.md",
     "Analysis/Mehdimensionale Integralrechnung/Dreifachintegral.md",
@@ -107,7 +109,6 @@
     "Data Management/Data Modeling/ERM/Chen Notation.md",
     "Data Management/Data Modeling/ERM/Specifics/Recursive Relationships.md",
     "Data Management/Data Management.md",
-    "Diskrete Mathematik/Kongruenzen und Partitionen.md",
-    "Diskrete Mathematik/Relationen.md"
+    "Diskrete Mathematik/Kongruenzen und Partitionen.md"
   ]
 }
