@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NRLA/Vektoren/Vektor.md",
+            "file": "Analysis/Mehdimensionale Integralrechnung/Dreifachintegral.md",
             "mode": "preview"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NRLA/Vektoren/Vektor.md",
+                "file": "Analysis/Mehdimensionale Integralrechnung/Dreifachintegral.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,10 +100,10 @@
   },
   "active": "97fef1fd8ade5d8e",
   "lastOpenFiles": [
-    "NRLA/Vektoren/Vektor.md",
-    "Analysis/Vektoranalysis/Vektoranalysis.md",
-    "Analysis/Vektoranalysis/Kurvenunabhängigkeit.md",
     "Analysis/Mehdimensionale Integralrechnung/Dreifachintegral.md",
+    "Analysis/Vektoranalysis/Kurvenunabhängigkeit.md",
+    "Analysis/Vektoranalysis/Vektoranalysis.md",
+    "NRLA/Vektoren/Vektor.md",
     "Analysis/Mehdimensionale Integralrechnung/Normalbereiche.md",
     "Data Management/Data Modeling/ERM/Modified Chen Notation.md",
     "Data Management/Data Modeling/ERM/Chen Notation.md",
