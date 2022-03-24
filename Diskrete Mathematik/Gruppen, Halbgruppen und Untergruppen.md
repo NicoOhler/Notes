@@ -7,6 +7,7 @@
 	+ Halbgruppe kommutativ, wenn $x*y=y*x$ $∀x,y∈X$
 	+ neutrales Element e bzgl. \*, wenn 
 		+ $x*e=e*x=x$ $∀x∈X$
+			+ $x^0=e$
 		+ Halbgruppe mit neutralem Element heißt Monoid
 + Monoid (X,\*) mit neutralem Element e
 	+ y ist inverses Element zu x, wenn
@@ -26,3 +27,4 @@
 			+ ähnlich wie [[Untervektorräume]]
 		+ inverses Element muss existieren
 			+ neutrales Element impliziert durch Abgeschlossenheit und Inverses
++ $<x>:={x^k:k∈ℤ}$
