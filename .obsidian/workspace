@@ -6,11 +6,24 @@
       {
         "id": "97fef1fd8ade5d8e",
         "type": "leaf",
+        "dimension": 69.48561464690496,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Vektoranalysis/Kurvenunabhängigkeit.md",
-            "mode": "preview"
+            "file": "Diskrete Mathematik/Gruppen, Halbgruppen und Untergruppen.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "ed798dac07d214d2",
+        "type": "leaf",
+        "dimension": 30.51438535309503,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Allgemeine Mathematik/Zeichensammlung.md",
+            "mode": "source"
           }
         }
       }
@@ -39,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "skalarpr",
+                "query": "abgeschlos",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,7 +61,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -68,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Vektoranalysis/Kurvenunabhängigkeit.md",
+                "file": "Diskrete Mathematik/Gruppen, Halbgruppen und Untergruppen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +113,15 @@
   },
   "active": "97fef1fd8ade5d8e",
   "lastOpenFiles": [
+    "Diskrete Mathematik/Gruppen, Halbgruppen und Untergruppen.md",
+    "NRLA/Vektoren/Untervektorräume.md",
+    "Allgemeine Mathematik/Zeichensammlung.md",
     "Analysis/Vektoranalysis/Kurvenunabhängigkeit.md",
     "Analysis/Vektoranalysis/Vektoranalysis.md",
     "Analysis/Mehdimensionale Integralrechnung/Dreifachintegral.md",
     "NRLA/Vektoren/Vektor.md",
     "Analysis/Mehdimensionale Integralrechnung/Normalbereiche.md",
     "Data Management/Data Modeling/ERM/Modified Chen Notation.md",
-    "Data Management/Data Modeling/ERM/Chen Notation.md",
-    "Data Management/Data Modeling/ERM/Specifics/Recursive Relationships.md",
-    "Data Management/Data Management.md",
-    "Diskrete Mathematik/Kongruenzen und Partitionen.md"
+    "Data Management/Data Modeling/ERM/Chen Notation.md"
   ]
 }

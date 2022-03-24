@@ -1,4 +1,5 @@
-# Halbgruppen und Gruppen
+# Gruppen, Halbgruppen und Untergruppen
+### Halbgruppen
 + Menge X zusammen mit binärer Operation \* (X,\*)
 	+ X≠∅
 	+ heißt Halbgruppe, wenn assoziativ <==> $(x*y)*z=x*(y*z)$ $∀x,y,z∈X$
@@ -10,7 +11,19 @@
 + Monoid (X,\*) mit neutralem Element e
 	+ y ist inverses Element zu x, wenn
 		+ $x*y=y*x=e$
+
+### Gruppen
 + (X,\*) heißt Gruppe, wenn
 	+ \* assoziativ
 	+ $∃!$ neutrales Element
 	+ $∀x∈X$ besitzt inverses Element $x^{-1}∈X$
+
+### Untergruppen
++ H ⊆ G
+	+ H≠∅
+	+ (H,\*) ist Untergruppe von G(,\*)
+		+ falls (H,\*) auch eine Gruppe ist
+			+ Assoziativität muss nicht erneut bewiesen werden
+			+ neutrale und inverses Element hingegen schon
+			+ Binäroperation muss abgeschlossen sein
+				+ ähnlich wie [[Untervektorräume]]
