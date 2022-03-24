@@ -28,3 +28,4 @@
 		+ inverses Element muss existieren
 			+ neutrales Element impliziert durch Abgeschlossenheit und Inverses
 + $<x>:={x^k:k∈ℤ}$
+ 
