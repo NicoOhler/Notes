@@ -19,12 +19,14 @@
         "id": "ed798dac07d214d2",
         "type": "leaf",
         "dimension": 30.51438535309503,
+        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
             "file": "Allgemeine Mathematik/Zeichensammlung.md",
             "mode": "source"
-          }
+          },
+          "pinned": true
         }
       }
     ],
@@ -61,8 +63,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -114,8 +115,8 @@
   "active": "97fef1fd8ade5d8e",
   "lastOpenFiles": [
     "Diskrete Mathematik/Gruppen, Halbgruppen und Untergruppen.md",
-    "NRLA/Vektoren/Untervektorräume.md",
     "Allgemeine Mathematik/Zeichensammlung.md",
+    "NRLA/Vektoren/Untervektorräume.md",
     "Analysis/Vektoranalysis/Kurvenunabhängigkeit.md",
     "Analysis/Vektoranalysis/Vektoranalysis.md",
     "Analysis/Mehdimensionale Integralrechnung/Dreifachintegral.md",

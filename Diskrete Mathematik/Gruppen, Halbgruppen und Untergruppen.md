@@ -22,8 +22,7 @@
 + H ⊆ G
 	+ H≠∅
 	+ (H,\*) ist Untergruppe von G(,\*)
-		+ falls (H,\*) auch eine Gruppe ist
-			+ Assoziativität muss nicht erneut bewiesen werden
-			+ neutrale und inverses Element hingegen schon
-			+ Binäroperation muss abgeschlossen sein
-				+ ähnlich wie [[Untervektorräume]]
+		+ Binäroperation muss abgeschlossen sein
+			+ ähnlich wie [[Untervektorräume]]
+		+ inverses Element muss existieren
+			+ neutrales Element impliziert durch Abgeschlossenheit und Inverses
