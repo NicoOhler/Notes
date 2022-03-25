@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Diskrete Mathematik/Kryptographie/RSA-Verfahren.md",
-            "mode": "source"
+            "file": "Diskrete Mathematik/Chinesische Restsatz.md",
+            "mode": "preview"
           }
         }
       },
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diskrete Mathematik/Kryptographie/RSA-Verfahren.md",
+                "file": "Diskrete Mathematik/Chinesische Restsatz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +114,8 @@
   },
   "active": "97fef1fd8ade5d8e",
   "lastOpenFiles": [
+    "Diskrete Mathematik/Chinesische Restsatz.md",
+    "Diskrete Mathematik/Kongruenzen und Partitionen.md",
     "Diskrete Mathematik/Kryptographie/RSA-Verfahren.md",
     "Allgemeine Mathematik/Zeichensammlung.md",
     "Diskrete Mathematik/Kryptographie/Kryptographie.md",
@@ -121,8 +123,6 @@
     "Diskrete Mathematik/Kryptographie/Diffie-Hellman-Schlüsselvereinbarung.md",
     "Diskrete Mathematik/Gruppen, Halbgruppen und Untergruppen.md",
     "NRLA/Vektoren/Untervektorräume.md",
-    "Analysis/Vektoranalysis/Kurvenunabhängigkeit.md",
-    "Analysis/Vektoranalysis/Vektoranalysis.md",
-    "Analysis/Mehdimensionale Integralrechnung/Dreifachintegral.md"
+    "Analysis/Vektoranalysis/Kurvenunabhängigkeit.md"
   ]
 }
