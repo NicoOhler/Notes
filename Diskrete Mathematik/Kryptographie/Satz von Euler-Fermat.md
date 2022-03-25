@@ -19,3 +19,5 @@
 	+   $a^{φ(m)}≡_m1$
 	+   $a^{l(p-1)(q-1)+1}≡_{pq}a$
 		+   p,q unterschiedliche Primzahlen
+
+[[Kryptographie]]
