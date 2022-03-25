@@ -8,3 +8,11 @@
 	+  $m=p_1^{k_1}...p_r^{k_r}$
 	+  $φ(p)=p_1^{k_1-1}(p-1)...p_r^{k_r-1}(p_r-1)$
 		+  $φ(p)=\prod_{i=1}^k p_i^{l_i-1}(p_i-1)$
++  für $ggT(p,n)=1$ gilt
+	+  $a^{p-1}≡_p1$
+	+  Beweis
+		+  ![[Pasted image 20220325095038.png]]
+		+  ![[Pasted image 20220325095238.png]]
+		+  ![[Pasted image 20220325095327.png]]
++  Satz von Euler-Fermat
+	+   $a^{φ(m)}≡_m1$
