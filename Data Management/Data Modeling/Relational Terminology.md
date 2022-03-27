@@ -2,6 +2,7 @@
 + Goal: Data Independence
 + value domain
 	+ datatype
+	+ set of all possible values?
 	+ set of items
 + relation
 	+ set of k attributes
@@ -19,3 +20,14 @@
 	+ database instance
 + NULL
 	+ value for unknown/missing values
+	+ ![[Pasted image 20220327145512.png]]
+	+ ![[Pasted image 20220327145606.png]]	+ 
++ primary key
+	+ minimal set of attributes to uniquely identify tuples in relation
+		+ unique
+		+ not null
+		+ minimal
++ foreign key
+	+ reference to primary key in another relation
+
+[[Database Design]]
