@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Diskrete Mathematik/Chinesische Restsatz.md",
-            "mode": "preview"
+            "file": "Data Management/Data Modeling/Relational Data Model.md",
+            "mode": "source"
           }
         }
       },
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diskrete Mathematik/Chinesische Restsatz.md",
+                "file": "Data Management/Data Modeling/Relational Data Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +114,7 @@
   },
   "active": "97fef1fd8ade5d8e",
   "lastOpenFiles": [
+    "Data Management/Data Modeling/Relational Data Model.md",
     "Diskrete Mathematik/Chinesische Restsatz.md",
     "Diskrete Mathematik/Kongruenzen und Partitionen.md",
     "Diskrete Mathematik/Kryptographie/RSA-Verfahren.md",
@@ -122,7 +123,6 @@
     "Diskrete Mathematik/Kryptographie/Satz von Euler-Fermat.md",
     "Diskrete Mathematik/Kryptographie/Diffie-Hellman-Schlüsselvereinbarung.md",
     "Diskrete Mathematik/Gruppen, Halbgruppen und Untergruppen.md",
-    "NRLA/Vektoren/Untervektorräume.md",
-    "Analysis/Vektoranalysis/Kurvenunabhängigkeit.md"
+    "NRLA/Vektoren/Untervektorräume.md"
   ]
 }
