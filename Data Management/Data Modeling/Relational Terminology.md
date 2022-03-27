@@ -21,7 +21,7 @@
 + NULL
 	+ value for unknown/missing values
 	+ ![[Pasted image 20220327145512.png]]
-	+ ![[Pasted image 20220327145606.png]]	+ 
+	+ ![[Pasted image 20220327145606.png]]	
 + primary key
 	+ minimal set of attributes to uniquely identify tuples in relation
 		+ unique
@@ -29,5 +29,16 @@
 		+ minimal
 + foreign key
 	+ reference to primary key in another relation
+	+ may be NULL
+	+ Referential Integrity
+		+ may cause errors when deleting, because tuple may be referenced
+		+ solutions
+			+ ![[Pasted image 20220327151113.png]]
++ domain/semantic constraints
+	+ constraints of attribute value
+	+ unique
+	+ not null
+	+ between x and y
+	+ etc.
 
 [[Database Design]]
