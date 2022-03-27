@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Data Management/Data Modeling/Relational Terminology.md",
+            "file": "Data Management/Data Modeling/Normalization.md",
             "mode": "source"
           }
         }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Management/Data Modeling/Relational Terminology.md",
+                "file": "Data Management/Data Modeling/Normalization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +114,7 @@
   },
   "active": "97fef1fd8ade5d8e",
   "lastOpenFiles": [
+    "Data Management/Data Modeling/Normalization.md",
     "Data Management/Data Modeling/Relational Terminology.md",
     "Diskrete Mathematik/Chinesische Restsatz.md",
     "Diskrete Mathematik/Kongruenzen und Partitionen.md",
@@ -122,7 +123,6 @@
     "Diskrete Mathematik/Kryptographie/Kryptographie.md",
     "Diskrete Mathematik/Kryptographie/Satz von Euler-Fermat.md",
     "Diskrete Mathematik/Kryptographie/Diffie-Hellman-Schlüsselvereinbarung.md",
-    "Diskrete Mathematik/Gruppen, Halbgruppen und Untergruppen.md",
-    "NRLA/Vektoren/Untervektorräume.md"
+    "Diskrete Mathematik/Gruppen, Halbgruppen und Untergruppen.md"
   ]
 }
