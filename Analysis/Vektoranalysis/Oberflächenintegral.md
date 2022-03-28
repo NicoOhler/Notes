@@ -23,10 +23,15 @@
 	+ $d\overrightarrow{o}=\overrightarrow{n}do$
 		+ vektorielle Oberfächenelement
 	+ normierter Normalvektor
+		+ Normalvektor ist Kreuzprodukt der abgeleiteten Koordinatenvektoren 
 		+ Vorzeichen von Orientierung abhängig
 			+ Normalvektor zeigt Richtung "Vorderseite"
 		+ ![[Pasted image 20220328122358.png]]
 		+ ![[Pasted image 20220328122417.png]]
++ Beispiele:
+	+ ![[Pasted image 20220328144717.png]]
+	+  
+
 
 
 [[Vektoranalysis]] [[Vektor]]
