@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Vektoranalysis/Sternförmig.md",
+            "file": "Analysis/Vektoranalysis/Oberflächenintegral.md",
             "mode": "source"
           }
         }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Vektoranalysis/Sternförmig.md",
+                "file": "Analysis/Vektoranalysis/Oberflächenintegral.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +114,7 @@
   },
   "active": "97fef1fd8ade5d8e",
   "lastOpenFiles": [
+    "Analysis/Vektoranalysis/Oberflächenintegral.md",
     "Analysis/Vektoranalysis/Sternförmig.md",
     "Allgemeine Mathematik/Zeichensammlung.md",
     "Data Management/Data Modeling/Normalization.md",
@@ -122,7 +123,6 @@
     "Diskrete Mathematik/Kongruenzen und Partitionen.md",
     "Diskrete Mathematik/Kryptographie/RSA-Verfahren.md",
     "Diskrete Mathematik/Kryptographie/Kryptographie.md",
-    "Diskrete Mathematik/Kryptographie/Satz von Euler-Fermat.md",
-    "Diskrete Mathematik/Kryptographie/Diffie-Hellman-Schlüsselvereinbarung.md"
+    "Diskrete Mathematik/Kryptographie/Satz von Euler-Fermat.md"
   ]
 }

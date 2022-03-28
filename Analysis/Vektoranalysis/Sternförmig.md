@@ -5,3 +5,6 @@
 	+ ![[Pasted image 20220328110912.png]]
 + ist U sternförmig, V ein Vektorfeld auf U und $rot(\overrightarrow{V})=\overrightarrow{0}$
 	+ es gibt ein $Φ: U$-->$ℝ$, sodass $gradΦ=\overrightarrow{V}$
+	+ Beweis:
+		+ ![[Pasted image 20220328112142.png]]
+		+ Produktregel im letzten Schritt
