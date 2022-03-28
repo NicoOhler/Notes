@@ -19,12 +19,14 @@
 + Orientierung der Fläche wird durch Wahl des Normalvektors beschrieben
 	+ ![[Pasted image 20220328115633.png]]
 + $Fluss=\int \int_F <\overrightarrow{V}(\overrightarrow{x}),\overrightarrow{U}(\overrightarrow{x})>do(\overrightarrow{x})=\int\int_F \overrightarrow{V}d\overrightarrow{o}$
+	+ ![[Pasted image 20220328143408.png]]
 	+ $d\overrightarrow{o}=\overrightarrow{n}do$
 		+ vektorielle Oberfächenelement
 	+ normierter Normalvektor
-	+ ![[Pasted image 20220328122358.png]]
-	+ ![[Pasted image 20220328122417.png]]
-	+ ![[Pasted image 20220328143408.png]]
+		+ Vorzeichen von Orientierung abhängig
+			+ Normalvektor zeigt Richtung "Vorderseite"
+		+ ![[Pasted image 20220328122358.png]]
+		+ ![[Pasted image 20220328122417.png]]
 
 
 [[Vektoranalysis]] [[Vektor]]
