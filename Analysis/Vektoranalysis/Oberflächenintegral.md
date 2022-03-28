@@ -3,7 +3,6 @@
 	+ ![[Pasted image 20220328113030.png]]
 	+ gekrümmte Fläche angenähert durch von Vektor aufgespanntes Parallelogramm 
 		+ Kreuzprodukt der Vektoren 
-			+ [[Vektor]]
 			+ ![[Pasted image 20220328113301.png]]
 		+ ![[Pasted image 20220328113538.png]]
 + ![[Pasted image 20220328113949.png]]
@@ -16,6 +15,10 @@
 + gesucht: Fluss von Vektorfeld durch Fläche F
 	+ orientierte Größe
 	+ ![[Pasted image 20220328115501.png]]
-	+ 
++ Orientierung der Fläche wird durch Wahl des Normalvektors beschrieben
+	+ ![[Pasted image 20220328115633.png]]
++ $Fluss=\int \int_F <\overrightarrow{V}(\overrightarrow{x}),\overrightarrow{U}(\overrightarrow{x})>do(\overrightarrow{x})$
 
-[[Vektoranalysis]] 
+
+
+[[Vektoranalysis]] [[Vektor]]
