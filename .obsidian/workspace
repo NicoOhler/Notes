@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Data Management/Data Modeling/Normalization.md",
+            "file": "Analysis/Vektoranalysis/Sternförmig.md",
             "mode": "source"
           }
         }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Management/Data Modeling/Normalization.md",
+                "file": "Analysis/Vektoranalysis/Sternförmig.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,15 +114,15 @@
   },
   "active": "97fef1fd8ade5d8e",
   "lastOpenFiles": [
+    "Analysis/Vektoranalysis/Sternförmig.md",
+    "Allgemeine Mathematik/Zeichensammlung.md",
     "Data Management/Data Modeling/Normalization.md",
     "Data Management/Data Modeling/Relational Terminology.md",
     "Diskrete Mathematik/Chinesische Restsatz.md",
     "Diskrete Mathematik/Kongruenzen und Partitionen.md",
     "Diskrete Mathematik/Kryptographie/RSA-Verfahren.md",
-    "Allgemeine Mathematik/Zeichensammlung.md",
     "Diskrete Mathematik/Kryptographie/Kryptographie.md",
     "Diskrete Mathematik/Kryptographie/Satz von Euler-Fermat.md",
-    "Diskrete Mathematik/Kryptographie/Diffie-Hellman-Schlüsselvereinbarung.md",
-    "Diskrete Mathematik/Gruppen, Halbgruppen und Untergruppen.md"
+    "Diskrete Mathematik/Kryptographie/Diffie-Hellman-Schlüsselvereinbarung.md"
   ]
 }
