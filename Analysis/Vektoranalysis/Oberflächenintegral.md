@@ -28,6 +28,9 @@
 			+ Normalvektor zeigt in Richtung "Vorderseite"
 		+ ![[Pasted image 20220328122358.png]]
 		+ ![[Pasted image 20220328122417.png]]
++ geschlossene Fläche
+	+ immer der nach außen gerichtete Normalvektor
+	+ ![[Pasted image 20220328150656.png]]
 + Beispiele:
 	+ ![[Pasted image 20220328144717.png]]
 	+  ![[Pasted image 20220328145431.png]]

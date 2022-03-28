@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Vektoranalysis/Oberflächenintegral.md",
+            "file": "Analysis/Vektoranalysis/Integralsätze.md",
             "mode": "source"
           }
         }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Allgemeine Mathematik/Zeichensammlung.md",
+                "file": "Analysis/Vektoranalysis/Integralsätze.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,17 +112,17 @@
     "width": 322,
     "collapsed": true
   },
-  "active": "ed798dac07d214d2",
+  "active": "97fef1fd8ade5d8e",
   "lastOpenFiles": [
-    "Allgemeine Mathematik/Zeichensammlung.md",
+    "Analysis/Vektoranalysis/Integralsätze.md",
     "Analysis/Vektoranalysis/Oberflächenintegral.md",
+    "Allgemeine Mathematik/Zeichensammlung.md",
     "z_images/Pasted image 20220328122417.png",
     "Analysis/Vektoranalysis/Sternförmig.md",
     "z_images/Pasted image 20220328110912.png",
     "z_images/Pasted image 20220328113030.png",
     "Data Management/Data Modeling/Normalization.md",
     "Data Management/Data Modeling/Relational Terminology.md",
-    "Diskrete Mathematik/Chinesische Restsatz.md",
-    "Diskrete Mathematik/Kongruenzen und Partitionen.md"
+    "Diskrete Mathematik/Chinesische Restsatz.md"
   ]
 }
