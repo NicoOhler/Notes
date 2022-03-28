@@ -7,7 +7,7 @@
 		+ ![[Pasted image 20220328113538.png]]
 + ![[Pasted image 20220328113949.png]]
 + Oberflächenelement
-	+ 	$do=r^2sin(θ)dθdφ$
+	+ $do=r^2sin(θ)dθdφ$
 + Beispiel: Nordhalbkugel mit Kugelkoordinaten
 	+ ![[Pasted image 20220328114641.png]]
 
@@ -17,8 +17,10 @@
 	+ ![[Pasted image 20220328115501.png]]
 + Orientierung der Fläche wird durch Wahl des Normalvektors beschrieben
 	+ ![[Pasted image 20220328115633.png]]
-+ $Fluss=\int \int_F <\overrightarrow{V}(\overrightarrow{x}),\overrightarrow{U}(\overrightarrow{x})>do(\overrightarrow{x})$
-
++ $Fluss=\int \int_F <\overrightarrow{V}(\overrightarrow{x}),\overrightarrow{U}(\overrightarrow{x})>do(\overrightarrow{x})=\int\int_F \overrightarrow{V}d\overrightarrow{o}$
+	+ $d\overrightarrow{o}=\overrightarrow{n}do$
+	+ ![[Pasted image 20220328122358.png]]
+	+ ![[Pasted image 20220328122417.png]]
 
 
 [[Vektoranalysis]] [[Vektor]]
