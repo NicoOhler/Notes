@@ -7,7 +7,7 @@
 + λ μ
 + ε δ
 + φ ψ
-+ $\iint \partial\oiint$ 
++ $\iint \partial\oint$ 
 + $\binom{n}{k}$
 + $\sum_{i=1}^n X_i$
 + $\overrightarrow{a}$
