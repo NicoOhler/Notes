@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Mehdimensionale Integralrechnung/Dreifachintegral.md",
+            "file": "NRLA/Vektoren/Vektor.md",
             "mode": "preview"
           }
         }
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "skalarpr",
+                "query": "kreuz",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -63,7 +63,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -83,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Mehdimensionale Integralrechnung/Dreifachintegral.md",
+                "file": "NRLA/Vektoren/Vektor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,9 +115,9 @@
   },
   "active": "97fef1fd8ade5d8e",
   "lastOpenFiles": [
+    "NRLA/Vektoren/Vektor.md",
     "Analysis/Mehdimensionale Integralrechnung/Dreifachintegral.md",
     "Analysis/Vektoranalysis/Integralsätze.md",
-    "NRLA/Vektoren/Vektor.md",
     "NRLA/Unitäre Räume/Unitäre Räume.md",
     "Analysis/Vektoranalysis/Oberflächenintegral.md",
     "Analysis/Vektoranalysis/Kurvenunabhängigkeit.md",
