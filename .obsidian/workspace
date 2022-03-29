@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "abgeschlos",
+                "query": "polarko",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -63,7 +63,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -115,6 +116,7 @@
   "active": "97fef1fd8ade5d8e",
   "lastOpenFiles": [
     "Analysis/Vektoranalysis/Oberflächenintegral.md",
+    "Analysis/Mehdimensionale Integralrechnung/Dreifachintegral.md",
     "NRLA/Vektoren/Vektor.md",
     "Analysis/Vektoranalysis/Kurvenunabhängigkeit.md",
     "Analysis/Vektoranalysis/Sternförmig.md",
@@ -122,7 +124,6 @@
     "Allgemeine Mathematik/Zeichensammlung.md",
     "z_images/Pasted image 20220328122417.png",
     "z_images/Pasted image 20220328110912.png",
-    "z_images/Pasted image 20220328113030.png",
-    "Data Management/Data Modeling/Normalization.md"
+    "z_images/Pasted image 20220328113030.png"
   ]
 }
