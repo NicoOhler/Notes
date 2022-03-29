@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Vektoranalysis/Integralsätze.md",
+            "file": "Analysis/Mehdimensionale Integralrechnung/Dreifachintegral.md",
             "mode": "preview"
           }
         }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Vektoranalysis/Integralsätze.md",
+                "file": "Analysis/Mehdimensionale Integralrechnung/Dreifachintegral.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,11 +114,11 @@
   },
   "active": "97fef1fd8ade5d8e",
   "lastOpenFiles": [
+    "Analysis/Mehdimensionale Integralrechnung/Dreifachintegral.md",
     "Analysis/Vektoranalysis/Integralsätze.md",
     "NRLA/Vektoren/Vektor.md",
     "NRLA/Unitäre Räume/Unitäre Räume.md",
     "Analysis/Vektoranalysis/Oberflächenintegral.md",
-    "Analysis/Mehdimensionale Integralrechnung/Dreifachintegral.md",
     "Analysis/Vektoranalysis/Kurvenunabhängigkeit.md",
     "Analysis/Vektoranalysis/Sternförmig.md",
     "Allgemeine Mathematik/Zeichensammlung.md",
