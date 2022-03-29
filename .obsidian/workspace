@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Vektoranalysis/Oberflächenintegral.md",
+            "file": "NRLA/Vektoren/Vektor.md",
             "mode": "preview"
           }
         }
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "polarko",
+                "query": "kreu",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Vektoranalysis/Oberflächenintegral.md",
+                "file": "NRLA/Vektoren/Vektor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,12 +115,12 @@
   },
   "active": "97fef1fd8ade5d8e",
   "lastOpenFiles": [
+    "NRLA/Vektoren/Vektor.md",
+    "Analysis/Vektoranalysis/Integralsätze.md",
     "Analysis/Vektoranalysis/Oberflächenintegral.md",
     "Analysis/Mehdimensionale Integralrechnung/Dreifachintegral.md",
-    "NRLA/Vektoren/Vektor.md",
     "Analysis/Vektoranalysis/Kurvenunabhängigkeit.md",
     "Analysis/Vektoranalysis/Sternförmig.md",
-    "Analysis/Vektoranalysis/Integralsätze.md",
     "Allgemeine Mathematik/Zeichensammlung.md",
     "z_images/Pasted image 20220328122417.png",
     "z_images/Pasted image 20220328110912.png",
