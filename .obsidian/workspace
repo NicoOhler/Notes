@@ -6,19 +6,19 @@
       {
         "id": "97fef1fd8ade5d8e",
         "type": "leaf",
-        "dimension": 53.23981295925184,
+        "dimension": 67.71378708551484,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Vektoranalysis/Integralsätze.md",
-            "mode": "preview"
+            "file": "Analysis/Vektoranalysis/Oberflächenintegral.md",
+            "mode": "source"
           }
         }
       },
       {
         "id": "ed798dac07d214d2",
         "type": "leaf",
-        "dimension": 46.76018704074817,
+        "dimension": 32.28621291448517,
         "pinned": true,
         "state": {
           "type": "markdown",
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Vektoranalysis/Integralsätze.md",
+                "file": "Analysis/Vektoranalysis/Oberflächenintegral.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,8 +114,8 @@
   },
   "active": "97fef1fd8ade5d8e",
   "lastOpenFiles": [
-    "Analysis/Vektoranalysis/Integralsätze.md",
     "Analysis/Vektoranalysis/Oberflächenintegral.md",
+    "Analysis/Vektoranalysis/Integralsätze.md",
     "NRLA/Vektoren/Vektor.md",
     "Analysis/Mehdimensionale Integralrechnung/Mehrdimensionale Integralrechnung.md",
     "Analysis/Mehdimensionale Integralrechnung/Dreifachintegral.md",
