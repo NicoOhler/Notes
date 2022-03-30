@@ -11,7 +11,7 @@
           "type": "markdown",
           "state": {
             "file": "Analysis/Vektoranalysis/Oberflächenintegral.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       },
@@ -115,14 +115,14 @@
   "active": "97fef1fd8ade5d8e",
   "lastOpenFiles": [
     "Analysis/Vektoranalysis/Oberflächenintegral.md",
+    "Analysis/Vektoranalysis/Vektoranalysis.md",
+    "Analysis/Mehdimensionale Integralrechnung/Normalbereiche.md",
+    "Analysis/Mehdimensionale Integralrechnung/Dreifachintegral.md",
+    "Analysis/Mehdimensionale Integralrechnung/Mehrdimensionale Integralrechnung.md",
     "Analysis/Vektoranalysis/Integralsätze.md",
     "NRLA/Vektoren/Vektor.md",
-    "Analysis/Mehdimensionale Integralrechnung/Mehrdimensionale Integralrechnung.md",
-    "Analysis/Mehdimensionale Integralrechnung/Dreifachintegral.md",
     "NRLA/Unitäre Räume/Unitäre Räume.md",
     "Analysis/Vektoranalysis/Kurvenunabhängigkeit.md",
-    "Analysis/Vektoranalysis/Sternförmig.md",
-    "Allgemeine Mathematik/Zeichensammlung.md",
-    "z_images/Pasted image 20220328122417.png"
+    "Analysis/Vektoranalysis/Sternförmig.md"
   ]
 }
