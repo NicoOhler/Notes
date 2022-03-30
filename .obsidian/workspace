@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Vektoranalysis/Oberflächenintegral.md",
+            "file": "NRLA/Vektoren/Vektor.md",
             "mode": "preview"
           }
         }
@@ -63,7 +63,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -83,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Vektoranalysis/Oberflächenintegral.md",
+                "file": "NRLA/Vektoren/Vektor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,8 +115,8 @@
   },
   "active": "97fef1fd8ade5d8e",
   "lastOpenFiles": [
-    "Analysis/Vektoranalysis/Oberflächenintegral.md",
     "NRLA/Vektoren/Vektor.md",
+    "Analysis/Vektoranalysis/Oberflächenintegral.md",
     "Analysis/Mehdimensionale Integralrechnung/Dreifachintegral.md",
     "Analysis/Vektoranalysis/Integralsätze.md",
     "NRLA/Unitäre Räume/Unitäre Räume.md",
