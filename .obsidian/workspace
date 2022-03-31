@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Vektoranalysis/Oberflächenintegral.md",
-            "mode": "preview"
+            "file": "Data Science and AI/Definition of Intelligence.md",
+            "mode": "source"
           }
         }
       },
@@ -63,8 +63,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -84,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Vektoranalysis/Oberflächenintegral.md",
+                "file": "Data Science and AI/Definition of Intelligence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,15 +114,15 @@
   },
   "active": "97fef1fd8ade5d8e",
   "lastOpenFiles": [
-    "Analysis/Vektoranalysis/Oberflächenintegral.md",
-    "NRLA/Vektoren/Vektor.md",
-    "Analysis/Vektoranalysis/Vektoranalysis.md",
-    "Analysis/Mehdimensionale Integralrechnung/Normalbereiche.md",
-    "Analysis/Mehdimensionale Integralrechnung/Dreifachintegral.md",
-    "Analysis/Mehdimensionale Integralrechnung/Mehrdimensionale Integralrechnung.md",
-    "Analysis/Vektoranalysis/Integralsätze.md",
-    "NRLA/Unitäre Räume/Unitäre Räume.md",
-    "Analysis/Vektoranalysis/Kurvenunabhängigkeit.md",
-    "Analysis/Vektoranalysis/Sternförmig.md"
+    "Data Science and AI/Definition of Intelligence.md",
+    "Data Science and AI/Rule-Based Systems/Forward Chaining.md",
+    "Data Science and AI/Rule-Based Systems/Backward Chaining.md",
+    "Data Science and AI/Object-oriented knowledge Representation/General Knowledge vs Facts.md",
+    "Data Management/Data Modeling/ERM/ER Diagram.md",
+    "Data Science and AI/Data Science and AI.md",
+    "Data Management/Data Modeling/ERM/Chen Notation.md",
+    "Data Management/Data Modeling/Relational Terminology.md",
+    "Data Management/Data Modeling/Normalization.md",
+    "Data Management/Data Modeling/Data Models.md"
   ]
 }
