@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Data Science and AI/Rule-Based Systems/Untitled.md",
+            "file": "Data Science and AI/Graphs.md",
             "mode": "source"
           }
         }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Science and AI/Rule-Based Systems/Untitled.md",
+                "file": "Data Science and AI/Graphs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,15 +114,15 @@
   },
   "active": "97fef1fd8ade5d8e",
   "lastOpenFiles": [
-    "Data Science and AI/Rule-Based Systems/Untitled.md",
-    "Data Science and AI/Rule-Based Systems/Backward Chaining.md",
+    "Data Science and AI/Graphs.md",
+    "Data Science and AI/Object-oriented knowledge Representation/General Knowledge vs Facts.md",
+    "Data Science and AI/Definition of Intelligence.md",
+    "Data Science and AI/Data Science and AI.md",
+    "Data Science and AI/Rule-Based Systems/Components of Rule-Based System.md",
     "Data Science and AI/Rule-Based Systems/Rules-Based System.md",
     "Data Science and AI/Rule-Based Systems/Forward Chaining.md",
-    "Data Science and AI/Definition of Intelligence.md",
-    "Data Science and AI/Object-oriented knowledge Representation/General Knowledge vs Facts.md",
+    "Data Science and AI/Rule-Based Systems/Backward Chaining.md",
     "Data Management/Data Modeling/ERM/ER Diagram.md",
-    "Data Science and AI/Data Science and AI.md",
-    "Data Management/Data Modeling/ERM/Chen Notation.md",
-    "Data Management/Data Modeling/Relational Terminology.md"
+    "Data Management/Data Modeling/ERM/Chen Notation.md"
   ]
 }

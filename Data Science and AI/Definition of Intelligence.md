@@ -34,3 +34,5 @@
 		+ capable of adapting to changing environment
 		+ respond to changes with own interactions with environment
 
+
+[[Data Science and AI]]
