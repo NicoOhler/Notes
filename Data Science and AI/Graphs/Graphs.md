@@ -7,7 +7,6 @@
 		+ directed graph
 		+ undirected graph
 + some knowledge can be well represented as graph
-	+ Stammbaum
 
 ### Adjacency Matrix
 + represents distance/adjacency between all nodes of a graph
