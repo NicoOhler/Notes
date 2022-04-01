@@ -1,10 +1,17 @@
 # Äquivalenz
-+ Implikation x==>Y
+### Implikation und Äquivalenz
++  Implikation x==>Y
 	+ wenn für jede β|=x auch β|=y
 + Äquivalenz x<==>Y
-	+ wenn für jede β|=x auch β|=y 
+	+ wenn für jede β gilt ß(x)=ß(y) 
 	+ vice versa
 		+ Umkehrschluss gilt
+	
+### Logische Rechengesetze
+![[Pasted image 20220401143005.png]]
+![[Pasted image 20220401143023.png]]
++ aus Falschen folgt Beliebiges
++ aus Beliebigem folgt Wahres
 
 
 
