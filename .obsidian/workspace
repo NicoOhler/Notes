@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Diskrete Mathematik/Logik/Prämisse.md",
+            "file": "Diskrete Mathematik/Logik/Prämissen.md",
             "mode": "source"
           }
         }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diskrete Mathematik/Logik/Prämisse.md",
+                "file": "Diskrete Mathematik/Logik/Prämissen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
   },
   "active": "97fef1fd8ade5d8e",
   "lastOpenFiles": [
-    "Diskrete Mathematik/Logik/Prämisse.md",
+    "Diskrete Mathematik/Logik/Prämissen.md",
     "z_images/Pasted image 20220401153212.png",
     "Allgemeine Mathematik/Zeichensammlung.md",
     "Diskrete Mathematik/Logik/Konjunktive und Disjunktive Normalform.md",
