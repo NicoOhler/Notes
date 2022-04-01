@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Data Science and AI/Graphs/Graph Use Cases.md",
+            "file": "Diskrete Mathematik/Logik/Aussagenlogische Formeln und Äquivalenz.md",
             "mode": "source"
           }
         }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Science and AI/Graphs/Graph Use Cases.md",
+                "file": "Diskrete Mathematik/Logik/Aussagenlogische Formeln und Äquivalenz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +114,7 @@
   },
   "active": "97fef1fd8ade5d8e",
   "lastOpenFiles": [
+    "Diskrete Mathematik/Logik/Aussagenlogische Formeln und Äquivalenz.md",
     "Data Science and AI/Graphs/Graph Use Cases.md",
     "Data Science and AI/Graphs/Spreading activation.md",
     "Allgemeine Mathematik/Zeichensammlung.md",
@@ -122,7 +123,6 @@
     "z_images/Pasted image 20220331093939.png",
     "Data Science and AI/Object-oriented knowledge Representation/General Knowledge vs Facts.md",
     "Data Science and AI/Definition of Intelligence.md",
-    "Data Science and AI/Data Science and AI.md",
-    "Data Science and AI/Rule-Based Systems/Components of Rule-Based System.md"
+    "Data Science and AI/Data Science and AI.md"
   ]
 }
