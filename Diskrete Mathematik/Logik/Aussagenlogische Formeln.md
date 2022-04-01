@@ -1,4 +1,4 @@
-# Aussagenlogische Formeln und Äquivalenz
+# Aussagenlogische Formeln
 ### Belegung
 + V ist die Menge der aussagenlogischen Variablen
 	+ V'⊆V
@@ -21,6 +21,18 @@
 + > **_NOTE:_** Unterschied zwischen ß und β!
 + vollständige Belegung β erfüllt x, wenn ß(x)=w
 	+ β ist Model für x
+	+ b|=x
 	+ ![[Pasted image 20220401141438.png]]
-+ Formel ist erfüllbar, wenn es mindestens eine Belegung gibt, sodass Formel wahr ist
-+ 
++ Formel erfüllbar, wenn für mindestens eine Belegung gilt:
+	+ ß(x)=w
++ Tautologie
+	+ wenn jede vollständige Belegung erfüllbar ist
+	+ |=x
+	+ ![[Pasted image 20220401142028.png]]
++ Kontradiktion bzw. unerfüllbar
+	+ wenn jede vollständige Belegung unerfüllbar ist
+		+ ß(x)=f
++ Beispiele:
+	+ ![[Pasted image 20220401142240.png]]
+
+[[Diskrete Mathematik]]
