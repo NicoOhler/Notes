@@ -13,5 +13,14 @@
 + L ist die Menge aller Formeln über Variablen in V
 + Fortsetzung ß  L: -->{w,f}, x-->ß(x)
 	+ ∀v∈V: ß(v)=β(v)
-	+ ∀l∈L: ß(¬l)=¬ß(l)
-	+ ∀x,y∈L: ß(¬l)=¬ß(l)
+	+ ∀x∈L: ß(¬x)=¬ß(x)
+	+ ∀x,y∈L: ß(x∧y)=ß(x)∧ß(y)
+		+ analog für andere binäre Operationen
+	+ ß(x) heißt Wahrheitswert von x unter Belegung β
+		+ $[[x]]_β$
++ > **_NOTE:_** Unterschied zwischen ß und β!
++ vollständige Belegung β erfüllt x, wenn ß(x)=w
+	+ β ist Model für x
+	+ ![[Pasted image 20220401141438.png]]
++ Formel ist erfüllbar, wenn es mindestens eine Belegung gibt, sodass Formel wahr ist
++ 
