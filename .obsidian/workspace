@@ -6,11 +6,11 @@
       {
         "id": "97fef1fd8ade5d8e",
         "type": "leaf",
-        "dimension": 67.71378708551484,
+        "dimension": 71.66521360069747,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Diskrete Mathematik/Logik/Prämissen.md",
+            "file": "Diskrete Mathematik/Logik/First Order Logic.md",
             "mode": "source"
           }
         }
@@ -18,7 +18,7 @@
       {
         "id": "ed798dac07d214d2",
         "type": "leaf",
-        "dimension": 32.28621291448517,
+        "dimension": 28.33478639930253,
         "pinned": true,
         "state": {
           "type": "markdown",
@@ -67,7 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 330
+    "width": 307
   },
   "right": {
     "id": "d1219e90b492538d",
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diskrete Mathematik/Logik/Prämissen.md",
+                "file": "Diskrete Mathematik/Logik/First Order Logic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,15 +114,15 @@
   },
   "active": "97fef1fd8ade5d8e",
   "lastOpenFiles": [
-    "Diskrete Mathematik/Logik/Prämissen.md",
-    "z_images/Pasted image 20220401153212.png",
+    "Diskrete Mathematik/Logik/First Order Logic.md",
+    "z_images/Pasted image 20220403104726.png",
+    "z_images/Pasted image 20220403105415.png",
     "Allgemeine Mathematik/Zeichensammlung.md",
     "Diskrete Mathematik/Logik/Konjunktive und Disjunktive Normalform.md",
     "Diskrete Mathematik/Logik/Aussagenlogische Formeln.md",
+    "Diskrete Mathematik/Logik/Prämissen.md",
+    "z_images/Pasted image 20220401153212.png",
     "Diskrete Mathematik/Logik/Äquivalenz.md",
-    "Data Science and AI/Graphs/Graph Use Cases.md",
-    "Data Science and AI/Graphs/Spreading activation.md",
-    "z_images/Pasted image 20220331095729.png",
-    "Data Science and AI/Graphs/Graphs.md"
+    "Data Science and AI/Graphs/Graph Use Cases.md"
   ]
 }
