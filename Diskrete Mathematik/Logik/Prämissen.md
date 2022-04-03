@@ -5,3 +5,6 @@
 + Prämissen $P_i$ sind konsistent, wenn
 	+ $P_1∧...∧P_i$ keine Kontradiktion
 + Folgerung F ist trivial, wenn F eine Tautologie
++ Konjugat
+	+ mit Konjugation verknüpfte Prämissen
+	+ 
