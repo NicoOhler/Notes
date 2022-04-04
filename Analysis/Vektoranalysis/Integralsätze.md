@@ -16,9 +16,9 @@
 ### Integralsatz von STOKES
 + Vektorfeld von Fläche mit Rand bestimmen
 	+ ![[Pasted image 20220404105041.png]]
-+ Variablensubstitution
++ Herleitung
 	+ ![[Pasted image 20220404105446.png]]
-	+  Substitution
+	+  Variablensubstitution
 		+  $x=x(u,v)$
 		+  $y=y(u,v)$
 		+  $z =z(u,v)$
@@ -31,6 +31,8 @@
 		+ ...
 + $\oint_{\partial B} Pdx+Qdy+Rdz=\int\int_B(\frac{\partial R}{\partial y}-\frac{\partial Q}{\partial z})dy\textasciicircum{}dz+(\frac{\partial P}{\partial z}-\frac{\partial R}{\partial x})dz\textasciicircum{}dx+(\frac{\partial Q}{\partial x}-\frac{\partial P}{\partial y})dx\textasciicircum{}dy$
 + $\oint_{\partial B} Pdx+Qdy+Rdz=\int\int_B rot(P,Q,R)d\overrightarrow{o}$
++ Orientierung des Normalvektors wird aus der Ebene übernommen
++  
 
 
 
