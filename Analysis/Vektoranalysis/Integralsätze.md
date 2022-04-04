@@ -37,4 +37,5 @@
 + $\oint\oint_{\partial B}\overrightarrow{V}d\overrightarrow{o}=\int\int\int_B div(\overrightarrow{o})dxdydz$
 	+ $div(\overrightarrow{V})=\frac{\partial P}{\partial x}+\frac{\partial Q}{\partial y}+\frac{\partial R}{\partial z}$
 
+
 [[Oberflächenintegral]]
