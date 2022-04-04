@@ -13,5 +13,10 @@
 	+ ![[Pasted image 20220404104341.png]]
 
 
+### Integralsatz von STOKES
++ Vektorfeld von Fläche mit Rand bestimmen
+	+ ![[Pasted image 20220404105041.png]]
+
+
 
 [[Vektoranalysis]]
