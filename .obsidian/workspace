@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Vektoranalysis/Integralsätze.md",
-            "mode": "source"
+            "file": "Diskrete Mathematik/Gruppen, Halbgruppen und Untergruppen.md",
+            "mode": "preview"
           }
         }
       },
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Vektoranalysis/Integralsätze.md",
+                "file": "Diskrete Mathematik/Gruppen, Halbgruppen und Untergruppen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,15 +114,15 @@
   },
   "active": "97fef1fd8ade5d8e",
   "lastOpenFiles": [
+    "Diskrete Mathematik/Gruppen, Halbgruppen und Untergruppen.md",
+    "Diskrete Mathematik/Logik/Prämissen.md",
+    "Diskrete Mathematik/Logik/Aussagenlogische Formeln.md",
     "Analysis/Vektoranalysis/Integralsätze.md",
     "Allgemeine Mathematik/Zeichensammlung.md",
     "Diskrete Mathematik/Logik/First Order Logic.md",
     "z_images/Pasted image 20220403104726.png",
     "z_images/Pasted image 20220403105415.png",
     "Diskrete Mathematik/Logik/Konjunktive und Disjunktive Normalform.md",
-    "Diskrete Mathematik/Logik/Aussagenlogische Formeln.md",
-    "Diskrete Mathematik/Logik/Prämissen.md",
-    "z_images/Pasted image 20220401153212.png",
-    "Diskrete Mathematik/Logik/Äquivalenz.md"
+    "z_images/Pasted image 20220401153212.png"
   ]
 }

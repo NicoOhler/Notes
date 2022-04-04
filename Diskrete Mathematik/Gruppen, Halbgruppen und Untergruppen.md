@@ -30,5 +30,5 @@
 + ![[Pasted image 20220324141209.png]]
 + $<x>:={x^k:k∈ℤ}$
 + Ordnung von $x∈G$
-	+ $O_G(x):=min{n∈ℕ: x^n=e}$
+	+ $O_G(x):=min\{n∈ℕ: x^n=e\}$
  
