@@ -32,8 +32,9 @@
 + $\oint_{\partial B} Pdx+Qdy+Rdz=\int\int_B(\frac{\partial R}{\partial y}-\frac{\partial Q}{\partial z})dy\textasciicircum{}dz+(\frac{\partial P}{\partial z}-\frac{\partial R}{\partial x})dz\textasciicircum{}dx+(\frac{\partial Q}{\partial x}-\frac{\partial P}{\partial y})dx\textasciicircum{}dy$
 + $\oint_{\partial B} Pdx+Qdy+Rdz=\int\int_B rot(P,Q,R)d\overrightarrow{o}$
 + Orientierung des Normalvektors wird aus der Ebene übernommen
-+  
 
+### Integralsatz von Gauß im Raum
++ $\oint\oint_{\partial B}\overrightarrow{V}d\overrightarrow{o}=\int\int\int_B div(\overrightarrow{o})dxdydz$
+	+ Divergenz: 
 
-
-[[Vektoranalysis]]
+[[Oberflächenintegral]]
