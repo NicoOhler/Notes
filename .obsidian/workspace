@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Diskrete Mathematik/Logik/First Order Logic.md",
+            "file": "Analysis/Vektoranalysis/Integralsätze.md",
             "mode": "source"
           }
         }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diskrete Mathematik/Logik/First Order Logic.md",
+                "file": "Analysis/Vektoranalysis/Integralsätze.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +114,7 @@
   },
   "active": "97fef1fd8ade5d8e",
   "lastOpenFiles": [
+    "Analysis/Vektoranalysis/Integralsätze.md",
     "Diskrete Mathematik/Logik/First Order Logic.md",
     "z_images/Pasted image 20220403104726.png",
     "z_images/Pasted image 20220403105415.png",
@@ -122,7 +123,6 @@
     "Diskrete Mathematik/Logik/Aussagenlogische Formeln.md",
     "Diskrete Mathematik/Logik/Prämissen.md",
     "z_images/Pasted image 20220401153212.png",
-    "Diskrete Mathematik/Logik/Äquivalenz.md",
-    "Data Science and AI/Graphs/Graph Use Cases.md"
+    "Diskrete Mathematik/Logik/Äquivalenz.md"
   ]
 }
