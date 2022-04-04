@@ -6,6 +6,7 @@
 	+ ![[Pasted image 20220328151343.png]]
 + $\oint_{\partial B}Pdx+Qdy=\iint_B(\frac{\partial Q}{\partial x}-\frac{\partial P}{\partial y})dx dy$
 	+ muss vollständig definiert sein
+	+ Bereich darf keine Löcher haben
 + Leibnizsche Sektorformel
 	+ Fläche von B $\frac{1}{2}\oint_{\partial B} -ydx+xdy$
 + Beispiel:
@@ -36,6 +37,10 @@
 ### Integralsatz von Gauß im Raum
 + $\oint\oint_{\partial B}\overrightarrow{V}d\overrightarrow{o}=\int\int\int_B div(\overrightarrow{o})dxdydz$
 	+ $div(\overrightarrow{V})=\frac{\partial P}{\partial x}+\frac{\partial Q}{\partial y}+\frac{\partial R}{\partial z}$
+	+ Bereich darf keine Löcher haben
 
+### Vektorfeld Eigenschaften
++ wirbelfrei, wenn Rotation Null
++ quellenfrei, wenn Divergenz Null
 
 [[Oberflächenintegral]]
