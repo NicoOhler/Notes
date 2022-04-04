@@ -16,6 +16,18 @@
 ### Integralsatz von STOKES
 + Vektorfeld von Fläche mit Rand bestimmen
 	+ ![[Pasted image 20220404105041.png]]
++ Variablensubstitution
+	+ ![[Pasted image 20220404105446.png]]
+	+  Substitution
+		+  $x=x(u,v)$
+		+  $y=y(u,v)$
+		+  $z =z(u,v)$
+		+ $dx=\frac{\partial x}{\partial u} du +\frac{\partial x}{\partial v} dv$
+		+  $dy=\frac{\partial y}{\partial u} du +\frac{\partial y}{\partial v} dv$
+		+ $dz=\frac{\partial z}{\partial u} du +\frac{\partial z}{\partial v} dv$
+	+ ![[Pasted image 20220404105932.png]]
+		+ 3D Flächenintegral wird zu 2D Kurvenintegral
+		+ Gaußsche Integralsatz
 
 
 
