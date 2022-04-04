@@ -1,4 +1,4 @@
-# Differentialrechnung für Funktionen in mehreren Variablen
+# Mehrdimensionale Differentialrechnung
 + $U⊆ℝ^n$ ist offen, wenn $∀\overrightarrow{x}∈U ∃ε>0: B(\overrightarrow{x},ε)⊆U$
 	+ $B(\overrightarrow{x},r)={\overrightarrow{x}∈ℝ^n : ||\overrightarrow{x}-\overrightarrow{y}||<r}$
 	+ um jeden Punkt gibt es Platz

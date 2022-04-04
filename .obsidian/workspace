@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Vektoranalysis/Integralsätze.md",
+            "file": "Analysis/Differentialgleichungen/Differentialgleichungen.md",
             "mode": "source"
           }
         }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Vektoranalysis/Integralsätze.md",
+                "file": "Analysis/Differentialgleichungen/Differentialgleichungen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,15 +114,15 @@
   },
   "active": "97fef1fd8ade5d8e",
   "lastOpenFiles": [
+    "Analysis/Differentialgleichungen/Differentialgleichungen.md",
+    "Analysis/Mehrdimensionale Differentialrechnung/Mehrdimensionale Differentialrechnung.md",
+    "Allgemeine Mathematik/Zeichensammlung.md",
     "Analysis/Vektoranalysis/Integralsätze.md",
     "Diskrete Mathematik/Logik/Aussagenlogische Formeln.md",
     "Diskrete Mathematik/Logik/Prämissen.md",
     "Diskrete Mathematik/Gruppen, Halbgruppen und Untergruppen.md",
-    "Allgemeine Mathematik/Zeichensammlung.md",
     "Diskrete Mathematik/Logik/First Order Logic.md",
     "z_images/Pasted image 20220403104726.png",
-    "z_images/Pasted image 20220403105415.png",
-    "Diskrete Mathematik/Logik/Konjunktive und Disjunktive Normalform.md",
-    "z_images/Pasted image 20220401153212.png"
+    "z_images/Pasted image 20220403105415.png"
   ]
 }

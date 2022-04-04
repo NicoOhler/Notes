@@ -49,7 +49,7 @@
 		+ ungerade Δ < 0, gerade Δ > 0 ==> Max
 		+ ein gerades Δ < 0 ==> Sattelpunkt
 
-[[Differentialrechnung für Funktionen in mehreren Variablen]]
+[[Mehrdimensionale Differentialrechnung]]
 
 
 

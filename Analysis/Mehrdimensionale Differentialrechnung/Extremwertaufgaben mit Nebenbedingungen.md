@@ -25,4 +25,4 @@
 	+ ![[Pasted image 20220301130440.png]]
 
 
-[[Differentialrechnung für Funktionen in mehreren Variablen]]
+[[Mehrdimensionale Differentialrechnung]]
