@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Vektoranalysis/Kurvenunabhängigkeit.md",
+            "file": "Analysis/Vektoranalysis/Integralsätze.md",
             "mode": "preview"
           }
         }
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "skalarpr",
+                "query": "integralsä",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Vektoranalysis/Kurvenunabhängigkeit.md",
+                "file": "Analysis/Vektoranalysis/Integralsätze.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,8 +115,8 @@
   },
   "active": "97fef1fd8ade5d8e",
   "lastOpenFiles": [
-    "Analysis/Vektoranalysis/Kurvenunabhängigkeit.md",
     "Analysis/Vektoranalysis/Integralsätze.md",
+    "Analysis/Vektoranalysis/Kurvenunabhängigkeit.md",
     "Analysis/Folgen und Reihen/Cauchy-Kriterium.md",
     "Analysis/Mehrdimensionale Differentialrechnung/Mehrdimensionale Differentialrechnung.md",
     "Analysis/Differentialgleichungen/Differentialgleichungen.md",
