@@ -20,6 +20,9 @@
 + Satz von Picard-Lindelöf
 	+ f: $[a,b]×[y_0-b,y_0+b]$--> ℝ stetig und gilt für ein L≥0
 		+ $∀x∈[a,b]∀y_1, y_2∈[y_0-b,y_0+b]: |f(x,y_1)-f(x,y_2)|≤|y_1-y_2|$
-	+ sei M so, dass $∀x,y∈ℝ:$
+		+ sei M so, dass $∀x,y∈ℝ:|f(x,y)≤M|$
+	+ dann hat das AWP genau eine Lösung y=y(x) auf das Intervall $[a,m]$
+		+ $m=min(b,a+\frac{b}{M})$
+		+ ![[Pasted image 20220404174640.png]]
 
 [[Mehrdimensionale Differentialrechnung]]
