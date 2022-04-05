@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rot",
+                "query": "skalarpr",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
