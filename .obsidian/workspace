@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Mehrdimensionale Integralrechnung/Dreifachintegral.md",
+            "file": "Analysis/Vektoranalysis/Integralsätze.md",
             "mode": "preview"
           }
         }
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "integralsä",
+                "query": "diverge",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -63,7 +63,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -83,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Mehrdimensionale Integralrechnung/Dreifachintegral.md",
+                "file": "Analysis/Vektoranalysis/Integralsätze.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,10 +115,10 @@
   },
   "active": "97fef1fd8ade5d8e",
   "lastOpenFiles": [
-    "Analysis/Mehrdimensionale Integralrechnung/Dreifachintegral.md",
-    "Analysis/Mehrdimensionale Differentialrechnung/Extremwertaufgaben mit Nebenbedingungen.md",
     "Analysis/Vektoranalysis/Integralsätze.md",
     "Analysis/Vektoranalysis/Kurvenunabhängigkeit.md",
+    "Analysis/Mehrdimensionale Integralrechnung/Dreifachintegral.md",
+    "Analysis/Mehrdimensionale Differentialrechnung/Extremwertaufgaben mit Nebenbedingungen.md",
     "Analysis/Folgen und Reihen/Cauchy-Kriterium.md",
     "Analysis/Mehrdimensionale Differentialrechnung/Mehrdimensionale Differentialrechnung.md",
     "Analysis/Differentialgleichungen/Differentialgleichungen.md",
