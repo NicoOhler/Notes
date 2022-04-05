@@ -32,7 +32,7 @@
 	+ ![[Pasted image 20220319120455.png]]
 + Divergenz von $\overrightarrow{V}$
 	+ $div(\overrightarrow{V})=\nabla x \overrightarrow{V}$
-		+ Quelldiche von $\overrightarrow{V}$
+		+ Quelldichte von $\overrightarrow{V}$
 	+ $div(rot\overrightarrow{V})=\nabla(\nabla x \overrightarrow{V})$
 	+ Laplace Operator
 		+ $div(grad f)=\nabla\nabla f=△ f$

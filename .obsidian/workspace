@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Mehrdimensionale Differentialrechnung/Mehrdimensionale Differentialrechnung.md",
+            "file": "Analysis/Vektoranalysis/Kurvenunabhängigkeit.md",
             "mode": "preview"
           }
         }
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "grad",
+                "query": "diverge",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Mehrdimensionale Differentialrechnung/Mehrdimensionale Differentialrechnung.md",
+                "file": "Analysis/Vektoranalysis/Kurvenunabhängigkeit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,15 +115,15 @@
   },
   "active": "97fef1fd8ade5d8e",
   "lastOpenFiles": [
+    "Analysis/Vektoranalysis/Kurvenunabhängigkeit.md",
+    "Analysis/Vektoranalysis/Integralsätze.md",
+    "Analysis/Folgen und Reihen/Cauchy-Kriterium.md",
     "Analysis/Mehrdimensionale Differentialrechnung/Mehrdimensionale Differentialrechnung.md",
     "Analysis/Differentialgleichungen/Differentialgleichungen.md",
     "Allgemeine Mathematik/Zeichensammlung.md",
-    "Analysis/Vektoranalysis/Integralsätze.md",
     "Diskrete Mathematik/Logik/Aussagenlogische Formeln.md",
     "Diskrete Mathematik/Logik/Prämissen.md",
     "Diskrete Mathematik/Gruppen, Halbgruppen und Untergruppen.md",
-    "Diskrete Mathematik/Logik/First Order Logic.md",
-    "z_images/Pasted image 20220403104726.png",
-    "z_images/Pasted image 20220403105415.png"
+    "Diskrete Mathematik/Logik/First Order Logic.md"
   ]
 }
