@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Differentialgleichungen/Differentialgleichungen.md",
-            "mode": "source"
+            "file": "Analysis/Mehrdimensionale Differentialrechnung/Mehrdimensionale Differentialrechnung.md",
+            "mode": "preview"
           }
         }
       },
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "kreuz",
+                "query": "grad",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -63,7 +63,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -83,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Differentialgleichungen/Differentialgleichungen.md",
+                "file": "Analysis/Mehrdimensionale Differentialrechnung/Mehrdimensionale Differentialrechnung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,9 +115,9 @@
   },
   "active": "97fef1fd8ade5d8e",
   "lastOpenFiles": [
+    "Analysis/Mehrdimensionale Differentialrechnung/Mehrdimensionale Differentialrechnung.md",
     "Analysis/Differentialgleichungen/Differentialgleichungen.md",
     "Allgemeine Mathematik/Zeichensammlung.md",
-    "Analysis/Mehrdimensionale Differentialrechnung/Mehrdimensionale Differentialrechnung.md",
     "Analysis/Vektoranalysis/Integralsätze.md",
     "Diskrete Mathematik/Logik/Aussagenlogische Formeln.md",
     "Diskrete Mathematik/Logik/Prämissen.md",
