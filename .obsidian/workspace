@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Data Management/Data Modeling/Relational Algebra/Tuple Calculus/Tuple Calculus.md",
+            "file": "Data Management/Data Modeling/Relational Algebra/Physical Operators.md",
             "mode": "source"
           }
         }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Management/Data Modeling/Relational Algebra/Tuple Calculus/Tuple Calculus.md",
+                "file": "Data Management/Data Modeling/Relational Algebra/Physical Operators.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,8 @@
   },
   "active": "97fef1fd8ade5d8e",
   "lastOpenFiles": [
-    "Data Management/Data Modeling/Relational Algebra/Tuple Calculus/Tuple Calculus.md",
+    "Data Management/Data Modeling/Relational Algebra/Physical Operators.md",
+    "Data Management/Data Modeling/Relational Algebra/Tuple Calculus.md",
     "Data Management/Data Modeling/Relational Algebra/Basic Operators.md",
     "z_images/Pasted image 20220406142243.png",
     "Data Management/Data Modeling/Relational Algebra/Relational Algebra.md",
@@ -120,7 +121,6 @@
     "Allgemeine Mathematik/Zeichensammlung.md",
     "Data Management/Data Modeling/Data Models.md",
     "Data Management/Data Modeling/Relational Terminology.md",
-    "Data Science and AI/Knowledge Representation/Vektors as KR.md",
-    "Data Science and AI/Knowledge Representation/Knowledge Representation.md"
+    "Data Science and AI/Knowledge Representation/Vektors as KR.md"
   ]
 }
