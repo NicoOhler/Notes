@@ -55,6 +55,11 @@
 	+ defines new schema (new attribute/schema names)
 	+ tuples keep unchanged
 
+### Grouping and Aggregation
++ grouping γ(R)
+	+ group input tuples R according to unique values in A
++ aggregation
+	+ compute aggregate
 
 
 [[Relational Algebra]]
