@@ -13,3 +13,29 @@
 + e.g. 
 	+ ![[Pasted image 20220406161042.png]]
 	+ ![[Pasted image 20220406161145.png]]
+
+### Physical Table Access Operator
++ seq scan
+	+ sequential read of table
+	+ reading tuples one by one
++ index scan
+	+ first reads all indexes
+	+ throwing all away which do not satisfy certain criteria
+	+ reads remaining attributes afterwards
++ index only scan
+	+ only reads indexes
+
+### Physical Join Operators
++ nested loop join
+	+ like two nested for loops
+	+ for every tuple in table A iterate over every tuple in table B
+	+ slow
++ hash/hash join
+	+ only for equi joins
+	+ smaller table A is read first
+	+ create hashmap out of A
+	+ if value in B equal to A ==> hash equal
+	+ access via hashmap
+	+ fast
++ sort/merge join
+	+ 
