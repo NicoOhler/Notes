@@ -1,4 +1,4 @@
-# Derived Operations
+# Derived Operators
 ### Intersection
 + R∩S
 + each tuple within R and S
@@ -59,7 +59,10 @@
 + grouping γ(R)
 	+ group input tuples R according to unique values in A
 + aggregation
-	+ compute aggregate
+	+ compute aggregate per group of tuples (created by grouping)
+	+ aggregation w/o grouping possible
+	+ ![[Pasted image 20220406154703.png]]
++ 
 
 
 [[Relational Algebra]]

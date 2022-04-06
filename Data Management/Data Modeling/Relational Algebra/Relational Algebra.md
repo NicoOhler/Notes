@@ -9,7 +9,7 @@
 		+ deduplification
 	+ types
 		+ [[Basic Operators]]
-		+ derived
+		+ [[Derived Operators]]
 		+ extended
 	+ e.g.
 		+ ![[Pasted image 20220406142243.png]]

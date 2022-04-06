@@ -36,6 +36,7 @@
 	+ leaf...tables
 	+ root/top...result
 + ![[Pasted image 20220406144328.png]]
++ ![[Pasted image 20220406155242.png]]
 
 
 [[Relational Algebra]]

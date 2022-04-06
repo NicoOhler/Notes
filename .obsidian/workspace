@@ -6,11 +6,11 @@
       {
         "id": "97fef1fd8ade5d8e",
         "type": "leaf",
-        "dimension": 62.15753424657534,
+        "dimension": 75.70573139435415,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Data Management/Data Modeling/Relational Algebra/Derived Operations.md",
+            "file": "Data Management/Data Modeling/Relational Algebra/Tuple Calculus/Tuple Calculus.md",
             "mode": "source"
           }
         }
@@ -18,7 +18,7 @@
       {
         "id": "dd0e5717ae0e326d",
         "type": "leaf",
-        "dimension": 37.84246575342466,
+        "dimension": 24.294268605645854,
         "state": {
           "type": "markdown",
           "state": {
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Management/Data Modeling/Relational Algebra/Derived Operations.md",
+                "file": "Data Management/Data Modeling/Relational Algebra/Tuple Calculus/Tuple Calculus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,15 +112,15 @@
   },
   "active": "97fef1fd8ade5d8e",
   "lastOpenFiles": [
-    "Data Management/Data Modeling/Relational Algebra/Derived Operations.md",
-    "Allgemeine Mathematik/Zeichensammlung.md",
-    "Data Management/Data Modeling/Relational Algebra/Relational Algebra.md",
-    "Data Management/Data Modeling/Data Models.md",
+    "Data Management/Data Modeling/Relational Algebra/Tuple Calculus/Tuple Calculus.md",
     "Data Management/Data Modeling/Relational Algebra/Basic Operators.md",
+    "z_images/Pasted image 20220406142243.png",
+    "Data Management/Data Modeling/Relational Algebra/Relational Algebra.md",
+    "Data Management/Data Modeling/Relational Algebra/Derived Operators.md",
+    "Allgemeine Mathematik/Zeichensammlung.md",
+    "Data Management/Data Modeling/Data Models.md",
     "Data Management/Data Modeling/Relational Terminology.md",
     "Data Science and AI/Knowledge Representation/Vektors as KR.md",
-    "Data Science and AI/Knowledge Representation/Knowledge Representation.md",
-    "Data Science and AI/Knowledge Representation/General Knowledge vs Facts.md",
-    "Data Science and AI/Knowledge Representation/Graphs/Graphs.md"
+    "Data Science and AI/Knowledge Representation/Knowledge Representation.md"
   ]
 }
