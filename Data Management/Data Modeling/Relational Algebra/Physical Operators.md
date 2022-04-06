@@ -38,4 +38,22 @@
 	+ access via hashmap
 	+ fast
 + sort/merge join
-	+ 
+	+ no clue... VO#04 1:28
+	+ efficient if one table is already sorted
+
+
+### Physical Grouping Operators
++ hash aggregate
+	+ groups into hash tables
+	+ useful for additive/incremental aggregations
++ group aggregate
+	+ sorting
+	+ group by easy if sorted
+
+### Analyzing/Explaining Queries
++ EXPLAIN command before SQL-query
++  returns query tree
+	+  physical operators instead of SQL operators
++  ![[Pasted image 20220406163315.png]]
++  EXPLAIN does not update regularly
+	+  ANALYZE beforehand
