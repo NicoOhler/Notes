@@ -1,4 +1,4 @@
-# Relational Terminology
+ # Relational Terminology
 + Goal: Data Independence
 + value domain
 	+ datatype
