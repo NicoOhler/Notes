@@ -41,7 +41,21 @@
 + right/left anti join
 	+ returns tuples that do not appear within other side
 
-### Deduplication, Sorting
+### Deduplication, Sorting, Renaming
++ deduplication 
+	+ converts a bag into a set by removing duplicates
+	+ ALL/DISTINCT
+		+ indicate w/ or w/o duplicate elimination
++ sorting
+	+ converts a bag into a sorted list of tuples
+	+ order lost if used in other ops
+	+ ASC/DESC
+		+ as/descending order
++ Rename
+	+ defines new schema (new attribute/schema names)
+	+ tuples keep unchanged
+
+
 
 [[Relational Algebra]]
 
