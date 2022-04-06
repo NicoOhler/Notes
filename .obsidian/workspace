@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Data Science and AI/Graphs/Graphs.md",
+            "file": "Data Science and AI/Knowledge Representation/Vektors as KR.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Science and AI/Graphs/Graphs.md",
+                "file": "Data Science and AI/Knowledge Representation/Vektors as KR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
   },
   "active": "97fef1fd8ade5d8e",
   "lastOpenFiles": [
-    "Data Science and AI/Graphs/Graphs.md",
-    "Data Science and AI/Graphs/Graph Use Cases.md",
-    "Data Science and AI/Graphs/Spreading activation.md",
+    "Data Science and AI/Knowledge Representation/Vektors as KR.md",
+    "Data Science and AI/Knowledge Representation/Graphs/Graphs.md",
+    "Data Science and AI/Knowledge Representation/Knowledge Representation.md",
+    "Data Science and AI/Knowledge Representation/General Knowledge vs Facts.md",
+    "Data Science and AI/Knowledge Representation/Graphs/Graph Use Cases.md",
+    "Data Science and AI/Knowledge Representation/Graphs/Spreading activation.md",
     "Analysis/Vektoranalysis/Integralsätze.md",
     "z_images/Pasted image 20220404174640.png",
     "Analysis/Vektoranalysis/Kurvenunabhängigkeit.md",
-    "Analysis/Mehrdimensionale Integralrechnung/Dreifachintegral.md",
-    "Analysis/Mehrdimensionale Differentialrechnung/Extremwertaufgaben mit Nebenbedingungen.md",
-    "Analysis/Folgen und Reihen/Cauchy-Kriterium.md",
-    "Analysis/Mehrdimensionale Differentialrechnung/Mehrdimensionale Differentialrechnung.md"
+    "Analysis/Mehrdimensionale Integralrechnung/Dreifachintegral.md"
   ]
 }

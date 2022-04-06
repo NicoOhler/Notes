@@ -25,3 +25,5 @@
 	+ lexical database of english words/concepts
 		+ ![[Pasted image 20220331095709.png]]
 	+ ![[Pasted image 20220331095729.png]]
+
+[[Knowledge Representation]]
