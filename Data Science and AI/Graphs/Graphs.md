@@ -1,4 +1,5 @@
 # Graph
++ represent logic statements
 + structure consisting of nodes/vertices and edges
 	+ edges and nodes can have labels
 		+ labelled graph

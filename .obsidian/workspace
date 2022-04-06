@@ -6,27 +6,12 @@
       {
         "id": "97fef1fd8ade5d8e",
         "type": "leaf",
-        "dimension": 71.66521360069747,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Vektoranalysis/Integralsätze.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "ed798dac07d214d2",
-        "type": "leaf",
-        "dimension": 28.33478639930253,
-        "pinned": true,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Allgemeine Mathematik/Zeichensammlung.md",
+            "file": "Data Science and AI/Graphs/Graphs.md",
             "mode": "source"
-          },
-          "pinned": true
+          }
         }
       }
     ],
@@ -54,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "diverge",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -63,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -84,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Vektoranalysis/Integralsätze.md",
+                "file": "Data Science and AI/Graphs/Graphs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,15 +99,15 @@
   },
   "active": "97fef1fd8ade5d8e",
   "lastOpenFiles": [
+    "Data Science and AI/Graphs/Graphs.md",
+    "Data Science and AI/Graphs/Graph Use Cases.md",
+    "Data Science and AI/Graphs/Spreading activation.md",
     "Analysis/Vektoranalysis/Integralsätze.md",
+    "z_images/Pasted image 20220404174640.png",
     "Analysis/Vektoranalysis/Kurvenunabhängigkeit.md",
     "Analysis/Mehrdimensionale Integralrechnung/Dreifachintegral.md",
     "Analysis/Mehrdimensionale Differentialrechnung/Extremwertaufgaben mit Nebenbedingungen.md",
     "Analysis/Folgen und Reihen/Cauchy-Kriterium.md",
-    "Analysis/Mehrdimensionale Differentialrechnung/Mehrdimensionale Differentialrechnung.md",
-    "Analysis/Differentialgleichungen/Differentialgleichungen.md",
-    "Allgemeine Mathematik/Zeichensammlung.md",
-    "Diskrete Mathematik/Logik/Aussagenlogische Formeln.md",
-    "Diskrete Mathematik/Logik/Prämissen.md"
+    "Analysis/Mehrdimensionale Differentialrechnung/Mehrdimensionale Differentialrechnung.md"
   ]
 }
