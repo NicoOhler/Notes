@@ -54,6 +54,8 @@
 + EXPLAIN command before SQL-query
 +  returns query tree
 	+  physical operators instead of SQL operators
-+  ![[Pasted image 20220406163315.png]]
 +  EXPLAIN does not update regularly
-	+  ANALYZE beforehand
+	+  ANALYZE beforehand necessary
++  ![[Pasted image 20220406163536.png]]
++  Visual EXPLAIN
+	+  ![[Pasted image 20220406163735.png]]
