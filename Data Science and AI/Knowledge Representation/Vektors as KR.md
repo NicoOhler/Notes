@@ -1,5 +1,8 @@
 # Vektors as KR
 + Vectors as numeric, non-symbolic representation of complex entities
+	+ complex entity becomes a set of finite number
+	+ no longer express general knowledge
+		+ hidden within choice of entities and features
 + relevant characteristics have to be chosen
 	+ representable as real numbers
 	+ ideally easily computable
@@ -8,7 +11,10 @@
 		+ what questions do we want to ask?
 + Vector operations
 	+ identify useful operations in a given use case
-	+ 
+	+ vector operattions can be used to reason over knowledge
++ vector representation is easy after feature engineering is done
+	+ depending on computational complexity
+	+ can be created automatically
 
 ### Useful questions for Feature Engineering
 + What are similar entities?
@@ -28,3 +34,6 @@
 + useful for
 	+ recommendation
 	+ information retrieval
+	+ classification
+	+ clustering
++ s
