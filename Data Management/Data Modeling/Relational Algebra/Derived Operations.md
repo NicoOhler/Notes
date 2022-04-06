@@ -19,9 +19,31 @@
 + Theta Join
 	+ join by arbitrary condition
 + Natural Join
+	+ equi join - join by equivalence
+	+ shared attributes only appearing once
 
+### Outer Join
++ same as inner join but NULL matches
++ left outer join
+	+ full left side, NULL for non-existing right side
++ right outer join
+	+ full right side, NULL for non-existing right side
++ full outer join
+	+ full left and right side, NULL for non-existing side
++ ![[Pasted image 20220406145729.png]]
+	+ symbols different
 
+### Semi Join and Anti Join
++ left semi join
+	+ join based on condition without left side
++ right semi join
+	+ join based on condition without right  side
++ right/left anti join
+	+ returns tuples that do not appear within other side
 
+### Deduplication, Sorting
+
+[[Relational Algebra]]
 
 
 
