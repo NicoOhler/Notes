@@ -36,4 +36,18 @@
 	+ information retrieval
 	+ classification
 	+ clustering
-+ s
++ many types of simillarity measures
++ cosine similarity
+	+ measures similarity
+		+ angle between two vectors
+		+ length independent
+			+ normalized vectors
+		+ direction dependent
+		+ $cos: [0,360]-->[-1,1]$
+		+ $sim(a,b)=cos(\phi)=\frac{a*b}{||a||*||b||}$
+	+ angles
+		+ 0° ==> extremely similar
+			+ no equality
+		+ 90° ==> orthogonal, not similiar at all
+		+ 180° ==> opposite direction, inverse
+		
