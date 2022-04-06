@@ -6,10 +6,23 @@
       {
         "id": "97fef1fd8ade5d8e",
         "type": "leaf",
+        "dimension": 62.15753424657534,
         "state": {
           "type": "markdown",
           "state": {
             "file": "Data Management/Data Modeling/Relational Algebra.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "dd0e5717ae0e326d",
+        "type": "leaf",
+        "dimension": 37.84246575342466,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Allgemeine Mathematik/Zeichensammlung.md",
             "mode": "source"
           }
         }
@@ -100,6 +113,7 @@
   "active": "97fef1fd8ade5d8e",
   "lastOpenFiles": [
     "Data Management/Data Modeling/Relational Algebra.md",
+    "Allgemeine Mathematik/Zeichensammlung.md",
     "Data Management/Data Modeling/Data Models.md",
     "Data Management/Data Modeling/Relational Terminology.md",
     "Data Science and AI/Knowledge Representation/Vektors as KR.md",
@@ -107,7 +121,6 @@
     "Data Science and AI/Knowledge Representation/General Knowledge vs Facts.md",
     "Data Science and AI/Knowledge Representation/Graphs/Graphs.md",
     "Data Science and AI/Knowledge Representation/Graphs/Graph Use Cases.md",
-    "Data Science and AI/Knowledge Representation/Graphs/Spreading activation.md",
-    "Analysis/Vektoranalysis/Integralsätze.md"
+    "Data Science and AI/Knowledge Representation/Graphs/Spreading activation.md"
   ]
 }
