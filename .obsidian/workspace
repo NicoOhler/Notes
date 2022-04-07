@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Mehrdimensionale Integralrechnung/Dreifachintegral.md",
-            "mode": "source"
+            "file": "Analysis/Vektoranalysis/Oberflächenintegral.md",
+            "mode": "preview"
           }
         }
       },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Mehrdimensionale Integralrechnung/Dreifachintegral.md",
+                "file": "Analysis/Vektoranalysis/Oberflächenintegral.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,15 +112,15 @@
   },
   "active": "97fef1fd8ade5d8e",
   "lastOpenFiles": [
+    "Analysis/Vektoranalysis/Oberflächenintegral.md",
+    "Analysis/Vektoranalysis/Kurvenunabhängigkeit.md",
+    "Analysis/Vektoranalysis/Integralsätze.md",
     "Analysis/Mehrdimensionale Integralrechnung/Dreifachintegral.md",
     "Data Science and AI/Knowledge Representation/Vektors as KR.md",
     "Analysis/Analysis.md",
     "Data Science and AI/Knowledge Representation/Knowledge Representation.md",
     "Data Science and AI/Knowledge Representation/General Knowledge vs Facts.md",
     "Data Science and AI/Knowledge Representation/Graphs/Graphs.md",
-    "Data Science and AI/Knowledge Representation/Graphs/Graph Use Cases.md",
-    "Data Management/Data Modeling/Relational Algebra/Physical Operators.md",
-    "z_images/Pasted image 20220406163315.png",
-    "Data Management/Data Modeling/Relational Algebra/Relational Algebra.md"
+    "Data Science and AI/Knowledge Representation/Graphs/Graph Use Cases.md"
   ]
 }
