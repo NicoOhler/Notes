@@ -6,11 +6,11 @@
       {
         "id": "97fef1fd8ade5d8e",
         "type": "leaf",
-        "dimension": 75.70573139435415,
+        "dimension": 75.53122987765614,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Data Management/Data Modeling/Relational Algebra/Physical Operators.md",
+            "file": "Data Science and AI/Knowledge Representation/Vektors as KR.md",
             "mode": "source"
           }
         }
@@ -18,7 +18,7 @@
       {
         "id": "dd0e5717ae0e326d",
         "type": "leaf",
-        "dimension": 24.294268605645854,
+        "dimension": 24.468770122343848,
         "state": {
           "type": "markdown",
           "state": {
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Management/Data Modeling/Relational Algebra/Physical Operators.md",
+                "file": "Data Science and AI/Knowledge Representation/Vektors as KR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,15 +112,15 @@
   },
   "active": "97fef1fd8ade5d8e",
   "lastOpenFiles": [
+    "Data Science and AI/Knowledge Representation/Vektors as KR.md",
+    "Data Science and AI/Knowledge Representation/Knowledge Representation.md",
+    "Data Science and AI/Knowledge Representation/General Knowledge vs Facts.md",
+    "Data Science and AI/Knowledge Representation/Graphs/Graphs.md",
+    "Data Science and AI/Knowledge Representation/Graphs/Graph Use Cases.md",
     "Data Management/Data Modeling/Relational Algebra/Physical Operators.md",
     "z_images/Pasted image 20220406163315.png",
     "Data Management/Data Modeling/Relational Algebra/Relational Algebra.md",
     "Data Management/Data Modeling/Relational Algebra/Tuple Calculus.md",
-    "Data Management/Data Modeling/Relational Algebra/Derived Operators.md",
-    "Data Management/Data Modeling/Relational Algebra/Basic Operators.md",
-    "Allgemeine Mathematik/Zeichensammlung.md",
-    "z_images/Pasted image 20220406142243.png",
-    "Data Management/Data Modeling/Data Models.md",
-    "Data Management/Data Modeling/Relational Terminology.md"
+    "Data Management/Data Modeling/Relational Algebra/Derived Operators.md"
   ]
 }
