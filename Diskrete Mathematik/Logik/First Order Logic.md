@@ -13,5 +13,13 @@
 + Stelligkeit
 	+ Funktions- und Relationssysmbole besitze fixe Parameteranzahl
 	+ Stelligkeit = Parameteranzahl
++ Menge der Terme über V und Σ induktiv definiert
+	+ alle Variablen und Konstanten sind Terme
+	+ Funktionen, welche Terme als Input bekommen, sind auch Terme
+
+
+### Terme
+
+
 
 [[Aussagenlogische Formeln]]

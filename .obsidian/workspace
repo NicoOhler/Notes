@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Vektoranalysis/Kurvenunabhängigkeit.md",
-            "mode": "preview"
+            "file": "Diskrete Mathematik/Logik/First Order Logic.md",
+            "mode": "source"
           }
         }
       },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Vektoranalysis/Kurvenunabhängigkeit.md",
+                "file": "Diskrete Mathematik/Logik/First Order Logic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,6 +112,8 @@
   },
   "active": "97fef1fd8ade5d8e",
   "lastOpenFiles": [
+    "Diskrete Mathematik/Logik/First Order Logic.md",
+    "Diskrete Mathematik/Logik/Aussagenlogische Formeln.md",
     "Analysis/Vektoranalysis/Kurvenunabhängigkeit.md",
     "Analysis/Vektoranalysis/Integralsätze.md",
     "Analysis/Vektoranalysis/Vektoranalysis.md",
@@ -119,8 +121,6 @@
     "Analysis/Mehrdimensionale Integralrechnung/Dreifachintegral.md",
     "Data Science and AI/Knowledge Representation/Vektors as KR.md",
     "Analysis/Analysis.md",
-    "Data Science and AI/Knowledge Representation/Knowledge Representation.md",
-    "Data Science and AI/Knowledge Representation/General Knowledge vs Facts.md",
-    "Data Science and AI/Knowledge Representation/Graphs/Graphs.md"
+    "Data Science and AI/Knowledge Representation/Knowledge Representation.md"
   ]
 }
