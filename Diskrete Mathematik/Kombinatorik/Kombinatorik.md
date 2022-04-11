@@ -1,7 +1,7 @@
 # Kombinatorik
 ### Permutation
-+ Anordnung/Reihenfolge von n Elementen
-+ Anzahl von Möglichkeiten
++ Anordnung von n Elementen
++ Anzahl von Permutation
 	+  ohne Wiederholung: n!
 	+ mit Wiederholung: $\frac{n!}{k_1!...k_n!}$
 		+ $k_i$ Anzahl gleicher Objekte
@@ -13,14 +13,14 @@
 ### Variation
 + Auswahl von k Elementen aus n verschiedenen Elementen
 + Berücksichtigung der Reihenfolge
-+ Anzahl von Möglichkeiten
++ Anzahl von Variationen
 	+ ohne Wiederholung: $\frac{n!}{(n-k)!}$ 
 	+ mit Wiederholung: $n^k$
 
 ### Kombination
 + Auswahl von k Elementen aus n verschiedenen Elementen
 + keine Berücksichtigung der Reihenfolge
-+ Anzahl von Möglichkeiten
++ Anzahl von Kombinationen
 	+ ohne Wiederholung: $\binom{n}{k}=\frac{(n+k-1)!}{(n-1)!k!}$ 
 	+ mit Wiederholung: $\binom{n+k-1}{k}=\frac{n!}{(n-k)!k!}$ 
 

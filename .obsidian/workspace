@@ -11,7 +11,7 @@
           "type": "markdown",
           "state": {
             "file": "Diskrete Mathematik/Kombinatorik/Kombinatorik.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       },
@@ -113,6 +113,7 @@
   "active": "97fef1fd8ade5d8e",
   "lastOpenFiles": [
     "Diskrete Mathematik/Kombinatorik/Kombinatorik.md",
+    "Analysis/Folgen und Reihen/Reihen und Folgen.md",
     "Allgemeine Mathematik/Zeichensammlung.md",
     "Diskrete Mathematik/Kombinatorik/Binomische Lehrsatz.md",
     "Diskrete Mathematik/Logik/Substitutionen in Prädikatenlogik.md",
@@ -120,7 +121,6 @@
     "Diskrete Mathematik/Logik/Aussagenlogische Formeln.md",
     "Analysis/Vektoranalysis/Kurvenunabhängigkeit.md",
     "Analysis/Vektoranalysis/Integralsätze.md",
-    "Analysis/Vektoranalysis/Vektoranalysis.md",
-    "Analysis/Vektoranalysis/Oberflächenintegral.md"
+    "Analysis/Vektoranalysis/Vektoranalysis.md"
   ]
 }
