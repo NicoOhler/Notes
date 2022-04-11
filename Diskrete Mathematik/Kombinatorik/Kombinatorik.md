@@ -22,7 +22,7 @@
 + keine Berücksichtigung der Reihenfolge
 + Anzahl von Möglichkeiten
 	+ ohne Wiederholung: $\binom{n}{k}=\frac{(n+k-1)!}{(n-1)!k!}$ 
-	+ mit Wiederholung: $\binom{n+k-1}{k}=\frac{(n1)!}{(n-k)!k!}$ 
+	+ mit Wiederholung: $\binom{n+k-1}{k}=\frac{n!}{(n-k)!k!}$ 
 
 
 
