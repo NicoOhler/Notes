@@ -38,13 +38,13 @@
 	+ für jede Konstante $C∈Σ$ existiert $C^A∈A$
 	+ für jede n-stellige Funktion $f∈Σ$ existiert $f^A: A^n$-->$A$
 	+ für jede n-stellige Relation $R∈Σ$ existiert $R^A⊆A^n$
+	+ ![[Pasted image 20220411112821.png]]
 + Abbildung $ω: V$-->$A$ heißt Belegung
 +  Σ-Modell $M=(Ä,ω)=M(A,Σ,ω)$
 	+ Ä mit Belegung ω heißt Σ-Modell für $F_{V,Σ}$
-	+ $∀P∈F_{V,Σ}$ wird Auswertung von P in M mithilfe von ω kanonisch definiert 
-	+ Beispiel:
-		+ ![[Pasted image 20220411112231.png]]
-		+ 
+	+ $∀P∈F_{V,Σ}$ wird Auswertung von P in M mithilfe von ω kanonisch definiert
+		+ Auswertung $P^M$
+	+ ![[Pasted image 20220411112231.png]]
 
 
 

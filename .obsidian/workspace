@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Diskrete Mathematik/Logik/First Order Logic.md",
+            "file": "Diskrete Mathematik/Logik/Substitutionen in Prädikatenlogik.md",
             "mode": "source"
           }
         }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diskrete Mathematik/Logik/First Order Logic.md",
+                "file": "Diskrete Mathematik/Logik/Substitutionen in Prädikatenlogik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,6 +112,7 @@
   },
   "active": "97fef1fd8ade5d8e",
   "lastOpenFiles": [
+    "Diskrete Mathematik/Logik/Substitutionen in Prädikatenlogik.md",
     "Diskrete Mathematik/Logik/First Order Logic.md",
     "Allgemeine Mathematik/Zeichensammlung.md",
     "Diskrete Mathematik/Logik/Aussagenlogische Formeln.md",
@@ -120,7 +121,6 @@
     "Analysis/Vektoranalysis/Vektoranalysis.md",
     "Analysis/Vektoranalysis/Oberflächenintegral.md",
     "Analysis/Mehrdimensionale Integralrechnung/Dreifachintegral.md",
-    "Data Science and AI/Knowledge Representation/Vektors as KR.md",
-    "Analysis/Analysis.md"
+    "Data Science and AI/Knowledge Representation/Vektors as KR.md"
   ]
 }
