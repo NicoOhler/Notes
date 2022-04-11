@@ -42,3 +42,5 @@
 	+ ![[Pasted image 20220319125541.png]]
 		+ möglichst einfacher Integrationsweg
 		+ x-Achse, y-Achse, z-Achse
+
+[[Oberflächenintegral]]

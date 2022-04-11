@@ -18,3 +18,5 @@
 ### 3rd Normal Form
 + every non-key attribute is non-transitively dependent on every key
 	+ no dependencies among non-key attributes
+
+[[Database Design]]

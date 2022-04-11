@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Diskrete Mathematik/Kombinatorik/Kombinatorik.md",
-            "mode": "preview"
+            "file": "Diskrete Mathematik/Relationen.md",
+            "mode": "source"
           }
         }
       },
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "binomialk",
+                "query": "charakteris",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diskrete Mathematik/Kombinatorik/Kombinatorik.md",
+                "file": "Diskrete Mathematik/Relationen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,15 +112,15 @@
   },
   "active": "97fef1fd8ade5d8e",
   "lastOpenFiles": [
-    "Diskrete Mathematik/Kombinatorik/Kombinatorik.md",
-    "Analysis/Folgen und Reihen/Reihen und Folgen.md",
-    "Allgemeine Mathematik/Zeichensammlung.md",
-    "Diskrete Mathematik/Kombinatorik/Binomische Lehrsatz.md",
-    "Diskrete Mathematik/Logik/Substitutionen in Prädikatenlogik.md",
-    "Diskrete Mathematik/Logik/First Order Logic.md",
-    "Diskrete Mathematik/Logik/Aussagenlogische Formeln.md",
+    "Diskrete Mathematik/Relationen.md",
+    "Diskrete Mathematik/Kryptographie/RSA-Verfahren.md",
+    "Diskrete Mathematik/Kryptographie/Kryptographie.md",
+    "Diskrete Mathematik/Kongruenzen und Partitionen.md",
+    "Diskrete Mathematik/Gruppen, Halbgruppen und Untergruppen.md",
+    "Diskrete Mathematik/Diskrete Mathematik.md",
+    "Diskrete Mathematik/Chinesische Restsatz.md",
     "Analysis/Vektoranalysis/Kurvenunabhängigkeit.md",
     "Analysis/Vektoranalysis/Integralsätze.md",
-    "Analysis/Vektoranalysis/Vektoranalysis.md"
+    "Analysis/Vektoranalysis/Sternförmig.md"
   ]
 }

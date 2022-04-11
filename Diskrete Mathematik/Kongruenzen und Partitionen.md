@@ -30,3 +30,5 @@
 	+ $∀x∈X∃!s∈S: x$~$s$
 + Beispiel: 
 	+ ![[Pasted image 20220317140708.png]]
+
+[[Diskrete Mathematik]]

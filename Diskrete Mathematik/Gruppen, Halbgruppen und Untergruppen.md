@@ -32,3 +32,4 @@
 + Ordnung von $x∈G$
 	+ $O_G(x):=min\{n∈ℕ: x^n=e\}$
  
+ [[Diskrete Mathematik]]

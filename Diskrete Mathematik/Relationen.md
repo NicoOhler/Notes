@@ -35,3 +35,5 @@
 			+ $a_i, b_i$ mit i der Spalte bevor r=0
 		+ $am+bn=1$
 		+ $[b]_m$ ist Inverse
+
+[[Diskrete Mathematik]]

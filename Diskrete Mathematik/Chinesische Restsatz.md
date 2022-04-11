@@ -34,3 +34,4 @@
 		+ $x≡-122mod60$==>$x≡ 58 mod 60$
 		+ Lösungsmenge $[58]_60$
 
+[[Diskrete Mathematik]]

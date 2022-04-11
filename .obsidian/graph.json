@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:NRLA",
@@ -41,6 +41,13 @@
         "a": 1,
         "rgb": 393935
       }
+    },
+    {
+      "query": "path:\"Diskrete Mathematik\"",
+      "color": {
+        "a": 1,
+        "rgb": 14725970
+      }
     }
   ],
   "collapse-display": true,
@@ -53,6 +60,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.4374568925549983,
-  "close": false
+  "scale": 0.437456892554999,
+  "close": true
 }
