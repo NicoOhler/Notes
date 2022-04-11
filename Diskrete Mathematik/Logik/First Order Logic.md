@@ -30,12 +30,15 @@
 	+ falls P und Q Formeln ==> $FV(P∧Q)=FV(P∨Q)=FV(P)∪FV(Q)$
 	+ Variablen aus Quantoren sind gebundene Variablen
 		+ ![[Pasted image 20220411110023.png]]
-	+ Beispiele:
-		+ 
+	+ Beispiel: Vereinigung beider Mengen exklusive Quantoren 
+		+ ![[Pasted image 20220411110344.png]]
 
-
-
-
+### Σ-Struktur und Σ-Modell
++ Σ-Struktur $Ä=(A,Σ)$ besteht aus Grundmengen A und Strukturmenge Σ für die gilt
+	+ für jede Konstante $C∈Σ$ existiert $C^A∈A$
+	+ für jede n-stellige Funktion $f∈Σ$ existiert $f^A: A^n$-->$A$
+	+ für jede n-stellige Relation $R∈Σ$ existiert $R^A⊆A^n$
++ Abbildung $w: V$-->$A$ heißt Belegung
 
 
 
