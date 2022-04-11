@@ -21,10 +21,17 @@
 		+ T und ⊥ sind Formeln
 		+ Terme $t_1, t_2$ ==> $t_1=t_2$ ist Formel
 		+ Relationen, welche Terme als Input bekommen, sind auch Formeln
-		+ für jede Formel P ist jede Junktorenverknüpfung auch eine Formel
-			+ ¬P
-			+ ...
-	+ 
+	+ für jede Formel P ist jede Junktoren/Quantorenverknüpfung auch eine Formel
+		+ ¬P
+		+ ...
++ Menge der freien Variablen $FV(P)$ für $P∈F_{V,Σ}$
+	+ P ist Primformel ==> $FV(P)$ = Menge aller Variablen in P
+	+ $FV(P)=FV(¬P)$
+	+ falls P und Q Formeln ==> $FV(P∧Q)=FV(P∨Q)=FV(P)∪FV(Q)$
+	+ Variablen aus Quantoren sind gebundene Variablen
+		+ ![[Pasted image 20220411110023.png]]
+	+ Beispiele:
+		+ 
 
 
 
