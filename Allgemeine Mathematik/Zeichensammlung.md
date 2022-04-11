@@ -47,6 +47,7 @@
 	+	→
 	+	<==>
 	+	==>
+	+	T ⊥
 + Griechische Alphabet
 	+ Α - α - alpha
 	+ Β - β - beta

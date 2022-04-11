@@ -13,12 +13,22 @@
 + Stelligkeit
 	+ Funktions- und Relationssysmbole besitze fixe Parameteranzahl
 	+ Stelligkeit = Parameteranzahl
-+ Menge der Terme über V und Σ induktiv definiert
++ Menge der Terme über V und Σ
 	+ alle Variablen und Konstanten sind Terme
 	+ Funktionen, welche Terme als Input bekommen, sind auch Terme
++ Menge aller Formeln über V und Σ $F_{V,Σ}$
+	+ Primformeln
+		+ T und ⊥ sind Formeln
+		+ Terme $t_1, t_2$ ==> $t_1=t_2$ ist Formel
+		+ Relationen, welche Terme als Input bekommen, sind auch Formeln
+		+ für jede Formel P ist jede Junktorenverknüpfung auch eine Formel
+			+ ¬P
+			+ ...
+	+ 
 
 
-### Terme
+
+
 
 
 

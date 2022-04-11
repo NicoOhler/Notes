@@ -25,11 +25,11 @@
 	+ ![[Pasted image 20220401141438.png]]
 + Formel erfüllbar, wenn für mindestens eine Belegung gilt:
 	+ ß(x)=w
-+ Tautologie
++ Tautologie T 
 	+ wenn jede vollständige Belegung erfüllbar ist
 	+ |=x
 	+ ![[Pasted image 20220401142028.png]]
-+ Kontradiktion bzw. unerfüllbar
++ Kontradiktion bzw. unerfüllbar ⊥
 	+ wenn jede vollständige Belegung unerfüllbar ist
 		+ ß(x)=f
 + Beispiele:
