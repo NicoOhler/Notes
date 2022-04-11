@@ -50,4 +50,7 @@
 			+ no equality
 		+ 90° ==> orthogonal, not similiar at all
 		+ 180° ==> opposite direction, inverse
+
+[[Knowledge Representation]]
+
 		

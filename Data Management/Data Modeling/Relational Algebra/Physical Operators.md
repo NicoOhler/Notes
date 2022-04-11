@@ -59,3 +59,5 @@
 +  ![[Pasted image 20220406163536.png]]
 +  Visual EXPLAIN
 	+  ![[Pasted image 20220406163735.png]]
+
+[[Relational Algebra]]

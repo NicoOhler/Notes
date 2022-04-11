@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Diskrete Mathematik/Relationen.md",
+            "file": "Diskrete Mathematik/Kombinatorik/Rekursionen und erzeugende Funktionen.md",
             "mode": "source"
           }
         }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diskrete Mathematik/Relationen.md",
+                "file": "Diskrete Mathematik/Kombinatorik/Rekursionen und erzeugende Funktionen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,15 +112,15 @@
   },
   "active": "97fef1fd8ade5d8e",
   "lastOpenFiles": [
+    "Diskrete Mathematik/Kombinatorik/Rekursionen und erzeugende Funktionen.md",
+    "Allgemeine Mathematik/Zeichensammlung.md",
+    "Data Management/Data Modeling/Relational Algebra/Relational Terminology.md",
+    "Data Management/Data Modeling/Relational Algebra/Relational Algebra.md",
+    "Data Science and AI/Knowledge Representation/Vektors as KR.md",
+    "Data Science and AI/Data Science and AI.md",
+    "Data Management/Data Modeling/Relational Algebra/Tuple Calculus.md",
+    "Data Management/Data Modeling/Relational Algebra/Physical Operators.md",
     "Diskrete Mathematik/Relationen.md",
-    "Diskrete Mathematik/Kryptographie/RSA-Verfahren.md",
-    "Diskrete Mathematik/Kryptographie/Kryptographie.md",
-    "Diskrete Mathematik/Kongruenzen und Partitionen.md",
-    "Diskrete Mathematik/Gruppen, Halbgruppen und Untergruppen.md",
-    "Diskrete Mathematik/Diskrete Mathematik.md",
-    "Diskrete Mathematik/Chinesische Restsatz.md",
-    "Analysis/Vektoranalysis/Kurvenunabhängigkeit.md",
-    "Analysis/Vektoranalysis/Integralsätze.md",
-    "Analysis/Vektoranalysis/Sternförmig.md"
+    "Diskrete Mathematik/Kryptographie/RSA-Verfahren.md"
   ]
 }
