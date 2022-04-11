@@ -6,19 +6,19 @@
       {
         "id": "97fef1fd8ade5d8e",
         "type": "leaf",
-        "dimension": 75.53122987765614,
+        "dimension": 60.682876357992754,
         "state": {
           "type": "markdown",
           "state": {
             "file": "Diskrete Mathematik/Kombinatorik/Kombinatorik.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       },
       {
         "id": "dd0e5717ae0e326d",
         "type": "leaf",
-        "dimension": 24.468770122343848,
+        "dimension": 39.317123642007246,
         "state": {
           "type": "markdown",
           "state": {
@@ -113,9 +113,9 @@
   "active": "97fef1fd8ade5d8e",
   "lastOpenFiles": [
     "Diskrete Mathematik/Kombinatorik/Kombinatorik.md",
+    "Allgemeine Mathematik/Zeichensammlung.md",
     "Diskrete Mathematik/Kombinatorik/Binomische Lehrsatz.md",
     "Diskrete Mathematik/Logik/Substitutionen in Prädikatenlogik.md",
-    "Allgemeine Mathematik/Zeichensammlung.md",
     "Diskrete Mathematik/Logik/First Order Logic.md",
     "Diskrete Mathematik/Logik/Aussagenlogische Formeln.md",
     "Analysis/Vektoranalysis/Kurvenunabhängigkeit.md",
