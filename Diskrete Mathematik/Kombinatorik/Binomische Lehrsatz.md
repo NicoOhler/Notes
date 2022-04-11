@@ -9,4 +9,4 @@
 	+ z.B. $\binom{n}{k}$ eim Auswählen von k Objekten aus n Möglichkeiten. (ohne Wiederholung)
 + Heißt Binomialkoeffizient, da er auch im binomischen Lehrsatz vorkommt.
 
-[[Analysis]][[Binomische Lehrsatz]][[Kombinatorik]]
+[[Diskrete Mathematik]] [[Analysis]] [[Binomische Lehrsatz]] [[Kombinatorik]]

@@ -24,9 +24,11 @@
 	+ ![[Pasted image 20220411142454.png]]
 + P ist in pränexer Normalform, wenn
 	+ $P=Q_1x_1Q_2x_2...Q_kx_kR$
-	+ Q...Quantoren
-	+ x...Variablen
-	+ R...
+		+ Q...Quantoren
+		+ x...Variablen
+		+ R...quantorenfreie Formel aus $F_{V,Σ}$
+	+ Jede Formel besitzt äquivalente pränexe NF
+		+ ![[Pasted image 20220411143028.png]]
 
 
 [[First Order Logic]]
