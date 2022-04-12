@@ -24,5 +24,11 @@
 	+ dann hat das AWP genau eine Lösung y=y(x) auf das Intervall $[a,m]$
 		+ $m=min(b,a+\frac{b}{M})$
 		+ ![[Pasted image 20220404174640.png]]
++ Beispiele: keine Eindeutigkeit
+	+ ![[Pasted image 20220412171519.png]]
+	+ für y=0 gibt es ∞ Lösungen
+
+### Euler-Verfahren
++ Annäherung 
 
 [[Mehrdimensionale Differentialrechnung]]

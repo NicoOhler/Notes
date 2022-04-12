@@ -11,7 +11,7 @@
           "type": "markdown",
           "state": {
             "file": "Analysis/Differentialgleichungen/Differentialgleichungen.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       },
@@ -113,14 +113,14 @@
   "active": "97fef1fd8ade5d8e",
   "lastOpenFiles": [
     "Analysis/Differentialgleichungen/Differentialgleichungen.md",
+    "Analysis/Folgen und Reihen/Cauchy-Kriterium.md",
+    "Analysis/Folgen und Reihen/Intervallschachtelung.md",
+    "Analysis/Folgen und Reihen/Konvergenzkriterien für Reihen.md",
+    "Analysis/Folgen und Reihen/Monotonie.md",
+    "Analysis/Folgen und Reihen/Sandwich Theorem.md",
+    "Analysis/Folgen und Reihen/Reihen und Folgen.md",
+    "Allgemeine Mathematik/Zeichensammlung.md",
     "Analysis/Analysis.md",
-    "z_images/Pasted image 20220412155936.png",
-    "Data Management/Data Modeling/SQL Concepts/JSON.md",
-    "Data Management/Data Modeling/SQL Concepts/XML.md",
-    "z_images/Pasted image 20220412155458.png",
-    "Data Management/Data Modeling/SQL Concepts/SQL Injection.md",
-    "Data Management/Data Modeling/SQL Concepts/Views and Authorization.md",
-    "Data Management/Data Modeling/SQL Concepts/Trigger.md",
-    "Data Management/Data Modeling/SQL Concepts/Procedures and Functions.md"
+    "z_images/Pasted image 20220412155936.png"
   ]
 }
