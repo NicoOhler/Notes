@@ -15,7 +15,8 @@
 + wenn $y(x_0)=0$ ==> laut Satz von P-L $y(x)=0$ für alle x
 + $ln|y(x)|=\int a(x)dx$
 	+ $y(x)=C*e^{A(x)}$ ist allgemeine Lösung
-+ Be
++ Beispiel:
+	+ ![[Pasted image 20220412175042.png]]
 
 
 [[Differentialgleichungen]]
