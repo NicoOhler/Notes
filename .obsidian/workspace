@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Diskrete Mathematik/Kombinatorik/Rekursionen und erzeugende Funktionen.md",
-            "mode": "preview"
+            "file": "Data Management/Data Modeling/Advanced SQL Concepts/Advanced SQL Concepts.md",
+            "mode": "source"
           }
         }
       },
@@ -61,8 +61,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -82,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diskrete Mathematik/Kombinatorik/Rekursionen und erzeugende Funktionen.md",
+                "file": "Data Management/Data Modeling/Advanced SQL Concepts/Advanced SQL Concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,15 +112,15 @@
   },
   "active": "97fef1fd8ade5d8e",
   "lastOpenFiles": [
-    "Diskrete Mathematik/Kombinatorik/Rekursionen und erzeugende Funktionen.md",
-    "Allgemeine Mathematik/Zeichensammlung.md",
+    "Data Management/Data Modeling/Advanced SQL Concepts/Advanced SQL Concepts.md",
+    "Data Management/Data Modeling/Advanced SQL Concepts/Database Catalog.md",
+    "Data Management/Data Modeling/Advanced SQL Concepts/Indexing.md",
     "Data Management/Data Modeling/Relational Algebra/Relational Terminology.md",
     "Data Management/Data Modeling/Relational Algebra/Relational Algebra.md",
-    "Data Science and AI/Knowledge Representation/Vektors as KR.md",
-    "Data Science and AI/Data Science and AI.md",
-    "Data Management/Data Modeling/Relational Algebra/Tuple Calculus.md",
     "Data Management/Data Modeling/Relational Algebra/Physical Operators.md",
-    "Diskrete Mathematik/Relationen.md",
-    "Diskrete Mathematik/Kryptographie/RSA-Verfahren.md"
+    "Data Management/Data Modeling/Relational Algebra/Basic Operators.md",
+    "Data Management/Data Modeling/Relational Algebra/Derived Operators.md",
+    "Diskrete Mathematik/Kombinatorik/Rekursionen und erzeugende Funktionen.md",
+    "Allgemeine Mathematik/Zeichensammlung.md"
   ]
 }
