@@ -29,6 +29,12 @@
 	+ für y=0 gibt es ∞ Lösungen
 
 ### Euler-Verfahren
-+ Annäherung 
++ Annäherung der Lösung durch Polygonzug
++ Vorgehensweise
+	+ Schrittweite h wird definiert
+	+ Steigung $k_i$ in Punkt wird bestimmt
+	+ Gerade (Steigung $k_i$, Länge h) bis zu nächstem Punkt
+	+ dies wird x mal wiederholt
++ ![[Pasted image 20220412172308.png]]
 
 [[Mehrdimensionale Differentialrechnung]]
