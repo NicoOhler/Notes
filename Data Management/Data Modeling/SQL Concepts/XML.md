@@ -1,5 +1,7 @@
 # XML
 ### Extensible Markup Language
++ nested data
++ more verbose than [[JSON]]
  ![[Pasted image 20220412155114.png]]
 
 ### XML in SQL
