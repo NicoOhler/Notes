@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Folgen und Reihen/Supremum und Infimum.md",
+            "file": "Analysis/Differentialgleichungen/Getrennte Variablen.md",
             "mode": "source"
           }
         }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Folgen und Reihen/Supremum und Infimum.md",
+                "file": "Analysis/Differentialgleichungen/Getrennte Variablen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,15 +112,15 @@
   },
   "active": "97fef1fd8ade5d8e",
   "lastOpenFiles": [
-    "Analysis/Folgen und Reihen/Supremum und Infimum.md",
+    "Analysis/Differentialgleichungen/Getrennte Variablen.md",
     "Analysis/Differentialgleichungen/Differentialgleichungen.md",
-    "Analysis/Folgen und Reihen/Cauchy-Kriterium.md",
-    "Analysis/Folgen und Reihen/Intervallschachtelung.md",
-    "Analysis/Folgen und Reihen/Konvergenzkriterien für Reihen.md",
-    "Analysis/Folgen und Reihen/Monotonie.md",
-    "Analysis/Folgen und Reihen/Sandwich Theorem.md",
-    "Analysis/Folgen und Reihen/Reihen und Folgen.md",
-    "Allgemeine Mathematik/Zeichensammlung.md",
-    "Analysis/Analysis.md"
+    "Analysis/Funktionen/Stetigkeit.md",
+    "Analysis/Funktionen/Winkelfunktionen.md",
+    "Analysis/Funktionen/Hyperbelfunktionen.md",
+    "Analysis/Funktionen/Funktionen.md",
+    "Analysis/Funktionen/Exponentialfunktion.md",
+    "Analysis/Analysis.md",
+    "Analysis/Vollständige Induktion.md",
+    "Analysis/Bernoulli Ungleichung.md"
   ]
 }

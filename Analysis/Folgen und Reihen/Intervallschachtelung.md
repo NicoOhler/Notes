@@ -11,4 +11,5 @@ Die Folgen a und b konvergieren zu einem Punkt x.
 > + lim<sub>n=>∞</sub>(I<sub>n</sub>) = lim<sub>n=>∞</sub>(b<sub>n</sub> - a<sub>n</sub>) = 0
 
 ![Bild](https://www.lernhelfer.de/sites/default/files/lexicon/article_image/BWS-MAT2-0136-04.gif)
+
 [[Beschränktheit]][[Reihen und Folgen]]
