@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Data Management/Data Modeling/SQL Concepts/Procedures and Functions.md",
+            "file": "Data Management/Data Modeling/SQL Concepts/Views and Authorization.md",
             "mode": "source"
           }
         }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Management/Data Modeling/SQL Concepts/Procedures and Functions.md",
+                "file": "Data Management/Data Modeling/SQL Concepts/Views and Authorization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,6 +112,8 @@
   },
   "active": "97fef1fd8ade5d8e",
   "lastOpenFiles": [
+    "Data Management/Data Modeling/SQL Concepts/Views and Authorization.md",
+    "Data Management/Data Modeling/SQL Concepts/Trigger.md",
     "Data Management/Data Modeling/SQL Concepts/Procedures and Functions.md",
     "Data Management/Data Modeling/SQL Concepts/Subqueries.md",
     "Data Management/Data Modeling/SQL Concepts/Indexing.md",
@@ -119,8 +121,6 @@
     "Data Management/Data Modeling/SQL Concepts/Basic SQL Concepts.md",
     "z_images/Pasted image 20220412151915.png",
     "Data Management/Data Modeling/SQL Concepts/Database Catalog.md",
-    "Data Management/Data Modeling/SQL Concepts/SQL Concepts.md",
-    "Data Management/Data Modeling/Relational Algebra/Relational Terminology.md",
-    "Data Management/Data Modeling/Relational Algebra/Relational Algebra.md"
+    "Data Management/Data Modeling/SQL Concepts/SQL Concepts.md"
   ]
 }
