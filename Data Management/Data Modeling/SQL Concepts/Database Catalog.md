@@ -7,4 +7,4 @@
 	+ ![[Pasted image 20220412151344.png]]
 
 
-[[Advanced SQL Concepts]]
+[[SQL Concepts]]
