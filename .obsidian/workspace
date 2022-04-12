@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Data Management/Data Modeling/SQL Concepts/JSON.md",
-            "mode": "source"
+            "file": "Analysis/Differentialgleichungen/Differentialgleichungen.md",
+            "mode": "preview"
           }
         }
       },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Management/Data Modeling/SQL Concepts/JSON.md",
+                "file": "Analysis/Differentialgleichungen/Differentialgleichungen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,15 +112,15 @@
   },
   "active": "97fef1fd8ade5d8e",
   "lastOpenFiles": [
+    "Analysis/Differentialgleichungen/Differentialgleichungen.md",
+    "Analysis/Analysis.md",
+    "z_images/Pasted image 20220412155936.png",
     "Data Management/Data Modeling/SQL Concepts/JSON.md",
     "Data Management/Data Modeling/SQL Concepts/XML.md",
-    "Pasted image 20220412155458.png",
+    "z_images/Pasted image 20220412155458.png",
     "Data Management/Data Modeling/SQL Concepts/SQL Injection.md",
     "Data Management/Data Modeling/SQL Concepts/Views and Authorization.md",
     "Data Management/Data Modeling/SQL Concepts/Trigger.md",
-    "Data Management/Data Modeling/SQL Concepts/Procedures and Functions.md",
-    "Data Management/Data Modeling/SQL Concepts/Subqueries.md",
-    "Data Management/Data Modeling/SQL Concepts/Indexing.md",
-    "Data Management/Data Modeling/SQL Concepts/Grouping and Aggregation.md"
+    "Data Management/Data Modeling/SQL Concepts/Procedures and Functions.md"
   ]
 }
