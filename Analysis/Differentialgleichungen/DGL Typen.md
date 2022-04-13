@@ -33,8 +33,16 @@
 			+ ==> $C'(x)=b(x)*e^{-A(x)}$ ==> $C(x)=\int b(x)*e^{-A(x)}dx$
 	+ $y(x)=y_P(x)+D*e^{A(x)}$
 		+ allgemeine Lösung
+		+ homogene + partikuläre Lösung
 + Beispiel:
 	+ ![[Pasted image 20220413090213.png]]
-	+ 
+	+ ![[Pasted image 20220413090708.png]]
+
+### Exakte DGL
++ $P(x,y)dx+Q(x,y)dy=0$ <==> $y'=\frac{dy}{dx}=-\frac{P(x,y)}{Q(x,y}$
+	+ Stammfunktion existiert, wenn $\frac{\partial Q}{\partial x}=\frac{\partial P}{\partial y}$
+	+ Stammfunktion: $d\phi=0$ ==> $\phi(x,y)=const$
+		+ Lösungen von $P(x,y)dx+Q(x,y)dy=0$ sind Niveaulinien von 
+
 
 [[Differentialgleichungen]]
