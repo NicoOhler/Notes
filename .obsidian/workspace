@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "join",
+                "query": "template",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
