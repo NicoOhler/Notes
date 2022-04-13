@@ -52,9 +52,17 @@
 	+ Stammfunktion: $d\phi=0$ ==> $\phi(x,y)=const$
 		+ Lösungen von $P(x,y)dx+Q(x,y)dy=0$ sind Niveaulinien von $\phi$
 + Beispiele:
-	+ ![[Pasted image 20220413091800.png]]
-	+ ![[Pasted image 20220413092634.png]]
-	+ ![[Pasted image 20220413092916.png]]
+	+ ohne $\mu(x)$
+		+ ![[Pasted image 20220413091800.png]]
+	+ mit $\mu(x)$
+		+ ![[Pasted image 20220413092634.png]]
+		+ ![[Pasted image 20220413092916.png]]
+	+ mit $\mu(x*y)$
+		+ ![[Pasted image 20220413093600.png]]
+		+ ![[Pasted image 20220413093614.png]]
+	+ Lotka-Volterra Räuber-Beute-Modell
+		+ ![[Pasted image 20220413094158.png]]
+		+ 
 
 
 [[Differentialgleichungen]]
