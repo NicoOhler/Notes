@@ -62,7 +62,9 @@
 		+ ![[Pasted image 20220413093614.png]]
 	+ Lotka-Volterra Räuber-Beute-Modell
 		+ ![[Pasted image 20220413094158.png]]
-		+ 
+		+ ![[Pasted image 20220413094541.png]]
+	+ logistisches Wachstum
+		+ ![[Pasted image 20220413094851.png]]
 
 
 [[Differentialgleichungen]]

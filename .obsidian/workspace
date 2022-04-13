@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Differentialgleichungen/DGL Typen.md",
-            "mode": "preview"
+            "file": "Analysis/Differentialgleichungen/Lineare DGL mit konstanten Koeffizienten.md",
+            "mode": "source"
           }
         }
       },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Differentialgleichungen/DGL Typen.md",
+                "file": "Analysis/Differentialgleichungen/Lineare DGL mit konstanten Koeffizienten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,6 +112,7 @@
   },
   "active": "97fef1fd8ade5d8e",
   "lastOpenFiles": [
+    "Analysis/Differentialgleichungen/Lineare DGL mit konstanten Koeffizienten.md",
     "Analysis/Differentialgleichungen/DGL Typen.md",
     "Allgemeine Mathematik/Zeichensammlung.md",
     "Analysis/Differentialgleichungen/Differentialgleichungen.md",
@@ -120,7 +121,6 @@
     "Analysis/Funktionen/Hyperbelfunktionen.md",
     "Analysis/Funktionen/Funktionen.md",
     "Analysis/Funktionen/Exponentialfunktion.md",
-    "Analysis/Analysis.md",
-    "Analysis/Vollständige Induktion.md"
+    "Analysis/Analysis.md"
   ]
 }
