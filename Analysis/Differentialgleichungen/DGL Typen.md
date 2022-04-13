@@ -41,8 +41,14 @@
 ### Exakte DGL
 + $P(x,y)dx+Q(x,y)dy=0$ <==> $y'=\frac{dy}{dx}=-\frac{P(x,y)}{Q(x,y}$
 	+ Stammfunktion existiert, wenn $\frac{\partial Q}{\partial x}=\frac{\partial P}{\partial y}$
+		+ wenn nicht exakt ==> Multiplikation mit integrierenden Faktor μ(x)
+		+ $2y≠10y$ ==> $μ(x)=5$
+		+ siehe 2. Beispiel
 	+ Stammfunktion: $d\phi=0$ ==> $\phi(x,y)=const$
-		+ Lösungen von $P(x,y)dx+Q(x,y)dy=0$ sind Niveaulinien von 
+		+ Lösungen von $P(x,y)dx+Q(x,y)dy=0$ sind Niveaulinien von $\phi$
++ Beispiele:
+	+ ![[Pasted image 20220413091800.png]]
+	+ 
 
 
 [[Differentialgleichungen]]

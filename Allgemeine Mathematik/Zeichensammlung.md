@@ -74,8 +74,8 @@
 	+ Ψ - ψ - psi
 	+ Ω - ω - omega
 + Sonstiges
-	+	△
-	+	Matrix/Table
+	+ △
+	+ Matrix/Table
 	A | B | A∧B 
 	--- | --- | ---
 	True | True | True 
