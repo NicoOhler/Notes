@@ -6,19 +6,19 @@
       {
         "id": "97fef1fd8ade5d8e",
         "type": "leaf",
-        "dimension": 60.682876357992754,
+        "dimension": 63.4417808219178,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Differentialgleichungen/Lineare DGL mit konstanten Koeffizienten.md",
-            "mode": "source"
+            "file": "Data Management/Data Modeling/SQL Concepts/Subqueries.md",
+            "mode": "preview"
           }
         }
       },
       {
         "id": "dd0e5717ae0e326d",
         "type": "leaf",
-        "dimension": 39.317123642007246,
+        "dimension": 36.55821917808219,
         "state": {
           "type": "markdown",
           "state": {
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Differentialgleichungen/Lineare DGL mit konstanten Koeffizienten.md",
+                "file": "Data Management/Data Modeling/SQL Concepts/Subqueries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,15 +112,15 @@
   },
   "active": "97fef1fd8ade5d8e",
   "lastOpenFiles": [
-    "Analysis/Differentialgleichungen/Lineare DGL mit konstanten Koeffizienten.md",
-    "Analysis/Differentialgleichungen/DGL Typen.md",
-    "Allgemeine Mathematik/Zeichensammlung.md",
-    "Analysis/Differentialgleichungen/Differentialgleichungen.md",
-    "Analysis/Funktionen/Stetigkeit.md",
-    "Analysis/Funktionen/Winkelfunktionen.md",
-    "Analysis/Funktionen/Hyperbelfunktionen.md",
-    "Analysis/Funktionen/Funktionen.md",
-    "Analysis/Funktionen/Exponentialfunktion.md",
-    "Analysis/Analysis.md"
+    "Data Management/Data Modeling/SQL Concepts/Subqueries.md",
+    "Data Management/Data Modeling/SQL Concepts/Basic SQL Concepts.md",
+    "Data Management/Data Modeling/SQL Concepts/Database Catalog.md",
+    "Data Management/Data Modeling/SQL Concepts/Grouping and Aggregation.md",
+    "Data Management/Data Modeling/SQL Concepts/Indexing.md",
+    "Data Management/Data Modeling/SQL Concepts/SQL Injection.md",
+    "Data Management/Data Modeling/SQL Concepts/SQL Concepts.md",
+    "Data Management/Data Modeling/SQL Concepts/Procedures and Functions.md",
+    "z_images/Pasted image 20220413095615.png",
+    "Analysis/Differentialgleichungen/Lineare DGL mit konstanten Koeffizienten.md"
   ]
 }
