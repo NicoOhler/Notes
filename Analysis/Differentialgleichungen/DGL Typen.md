@@ -26,6 +26,15 @@
 	+ homogene GL lösen
 		+ $y_H'=a(x)y_H(x)$ ==> $y_H(x)=C*e^{A(x)}$
 	+ inhomogene GL lösen
-		+ $y_P$
+		+ $y_P(x)=C(x)*e^{A(x)}$
+			+ $C(x)$ gesuchte Funktion
+			+ Variation der Konstanten
+		+ $y_P=C'(x)*e^{A(x)}+C(x)*e^{A(x)}*a(x)=a(x)*C(x)*e^{A(x)}+b(x)$
+			+ ==> $C'(x)=b(x)*e^{-A(x)}$ ==> $C(x)=\int b(x)*e^{-A(x)}dx$
+	+ $y(x)=y_P(x)+D*e^{A(x)}$
+		+ allgemeine Lösung
++ Beispiel:
+	+ ![[Pasted image 20220413090213.png]]
+	+ 
 
 [[Differentialgleichungen]]
