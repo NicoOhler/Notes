@@ -12,7 +12,7 @@
 		+ $B^a$ mod p
 	+ Bob berechnet mithilfe von public key
 		+ $A^b$ mod p
-	+ $B^a=k^{a^b}=A^b$
+	+ $B^a=k^{ab}=A^b$
 		+ Alice und Bob haben selben Schlüssel
 
 [[Kryptographie]]

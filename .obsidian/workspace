@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Data Management/Data Modeling/SQL Concepts/Basic SQL Concepts.md",
+            "file": "Diskrete Mathematik/Kryptographie/Diffie-Hellman-Schlüsselvereinbarung.md",
             "mode": "preview"
           }
         }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Management/Data Modeling/SQL Concepts/Basic SQL Concepts.md",
+                "file": "Diskrete Mathematik/Kryptographie/Diffie-Hellman-Schlüsselvereinbarung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,15 +112,15 @@
   },
   "active": "97fef1fd8ade5d8e",
   "lastOpenFiles": [
-    "Data Management/Data Modeling/SQL Concepts/Basic SQL Concepts.md",
-    "Data Management/Data Modeling/SQL Concepts/Database Catalog.md",
-    "Data Management/Data Modeling/Relational Algebra/Derived Operators.md",
-    "Data Management/Data Modeling/SQL Concepts/Grouping and Aggregation.md",
-    "Data Management/Data Modeling/SQL Concepts/SQL Concepts.md",
-    "Data Management/Data Modeling/SQL Concepts/Subqueries.md",
-    "Data Management/Data Modeling/SQL Concepts/Indexing.md",
-    "Data Management/Data Modeling/SQL Concepts/SQL Injection.md",
+    "Diskrete Mathematik/Kryptographie/Diffie-Hellman-Schlüsselvereinbarung.md",
+    "Diskrete Mathematik/Kryptographie/Satz von Euler-Fermat.md",
+    "Diskrete Mathematik/Kryptographie/RSA-Verfahren.md",
+    "Diskrete Mathematik/Kryptographie/Kryptographie.md",
     "Data Management/Data Modeling/SQL Concepts/Procedures and Functions.md",
-    "z_images/Pasted image 20220413095615.png"
+    "Data Management/Data Modeling/SQL Concepts/Indexing.md",
+    "Data Management/Data Modeling/SQL Concepts/Grouping and Aggregation.md",
+    "Data Management/Data Modeling/SQL Concepts/Database Catalog.md",
+    "Data Management/Data Modeling/SQL Concepts/Basic SQL Concepts.md",
+    "Data Management/Data Modeling/Relational Algebra/Derived Operators.md"
   ]
 }
