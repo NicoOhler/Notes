@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Vektoranalysis/Oberflächenintegral.md",
+            "file": "Analysis/Vektoranalysis/Kurvenunabhängigkeit.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "kreuz",
+                "query": "rot",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Vektoranalysis/Oberflächenintegral.md",
+                "file": "Analysis/Vektoranalysis/Kurvenunabhängigkeit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,12 +100,12 @@
   },
   "active": "dd0e5717ae0e326d",
   "lastOpenFiles": [
-    "Analysis/Vektoranalysis/Oberflächenintegral.md",
     "Analysis/Vektoranalysis/Kurvenunabhängigkeit.md",
+    "Analysis/Vektoranalysis/Integralsätze.md",
+    "Analysis/Vektoranalysis/Oberflächenintegral.md",
     "NRLA/Vektoren/Vektor.md",
     "z_images/Pasted image 20220328144717.png",
     "Allgemeine Mathematik/Zeichensammlung.md",
-    "Analysis/Vektoranalysis/Integralsätze.md",
     "Analysis/Mehrdimensionale Integralrechnung/Normalbereiche.md",
     "Analysis/Mehrdimensionale Integralrechnung/Mehrdimensionale Integralrechnung.md",
     "Analysis/Mehrdimensionale Integralrechnung/Dreifachintegral.md",
