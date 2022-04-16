@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rot",
+                "query": "partialbr",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -100,6 +101,7 @@
   "active": "dd0e5717ae0e326d",
   "lastOpenFiles": [
     "Analysis/Differentialgleichungen/DGL Typen.md",
+    "Analysis/Integralrechnung/Integration rationaler Funktionen.md",
     "Analysis/Differentialgleichungen/Lineare DGL mit konstanten Koeffizienten.md",
     "Analysis/Differentialgleichungen/Differentialgleichungen.md",
     "Analysis/Vektoranalysis/Kurvenunabhängigkeit.md",
@@ -107,7 +109,6 @@
     "Analysis/Vektoranalysis/Oberflächenintegral.md",
     "NRLA/Vektoren/Vektor.md",
     "z_images/Pasted image 20220328144717.png",
-    "Allgemeine Mathematik/Zeichensammlung.md",
-    "Analysis/Mehrdimensionale Integralrechnung/Normalbereiche.md"
+    "Allgemeine Mathematik/Zeichensammlung.md"
   ]
 }
