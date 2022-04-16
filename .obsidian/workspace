@@ -4,25 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "97fef1fd8ade5d8e",
-        "type": "leaf",
-        "dimension": 66.29310344827586,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Analysis/Vektoranalysis/Integralsätze.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
         "id": "dd0e5717ae0e326d",
         "type": "leaf",
-        "dimension": 33.706896551724135,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Allgemeine Mathematik/Zeichensammlung.md",
+            "file": "Analysis/Vektoranalysis/Oberflächenintegral.md",
             "mode": "source"
           }
         }
@@ -52,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "equi",
+                "query": "rot",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Vektoranalysis/Integralsätze.md",
+                "file": "Analysis/Vektoranalysis/Oberflächenintegral.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,17 +97,17 @@
     "width": 322,
     "collapsed": true
   },
-  "active": "97fef1fd8ade5d8e",
+  "active": "dd0e5717ae0e326d",
   "lastOpenFiles": [
+    "Analysis/Vektoranalysis/Oberflächenintegral.md",
+    "z_images/Pasted image 20220328144717.png",
+    "Allgemeine Mathematik/Zeichensammlung.md",
+    "Analysis/Vektoranalysis/Kurvenunabhängigkeit.md",
     "Analysis/Vektoranalysis/Integralsätze.md",
     "Analysis/Mehrdimensionale Integralrechnung/Normalbereiche.md",
     "Analysis/Mehrdimensionale Integralrechnung/Mehrdimensionale Integralrechnung.md",
     "Analysis/Mehrdimensionale Integralrechnung/Dreifachintegral.md",
     "Analysis/Differentialgleichungen/DGL Typen.md",
-    "Analysis/Differentialgleichungen/Differentialgleichungen.md",
-    "Analysis/Differentialgleichungen/Lineare DGL mit konstanten Koeffizienten.md",
-    "Diskrete Mathematik/Kryptographie/RSA-Verfahren.md",
-    "Diskrete Mathematik/Kryptographie/Diffie-Hellman-Schlüsselvereinbarung.md",
-    "Diskrete Mathematik/Kryptographie/Satz von Euler-Fermat.md"
+    "Analysis/Differentialgleichungen/Differentialgleichungen.md"
   ]
 }
