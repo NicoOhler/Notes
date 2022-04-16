@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Vektoranalysis/Oberflächenintegral.md",
+            "file": "NRLA/Vektoren/Vektor.md",
             "mode": "preview"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Vektoranalysis/Oberflächenintegral.md",
+                "file": "NRLA/Vektoren/Vektor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,11 +100,11 @@
   },
   "active": "dd0e5717ae0e326d",
   "lastOpenFiles": [
-    "Analysis/Vektoranalysis/Oberflächenintegral.md",
     "NRLA/Vektoren/Vektor.md",
+    "Analysis/Vektoranalysis/Oberflächenintegral.md",
+    "Analysis/Vektoranalysis/Kurvenunabhängigkeit.md",
     "z_images/Pasted image 20220328144717.png",
     "Allgemeine Mathematik/Zeichensammlung.md",
-    "Analysis/Vektoranalysis/Kurvenunabhängigkeit.md",
     "Analysis/Vektoranalysis/Integralsätze.md",
     "Analysis/Mehrdimensionale Integralrechnung/Normalbereiche.md",
     "Analysis/Mehrdimensionale Integralrechnung/Mehrdimensionale Integralrechnung.md",
