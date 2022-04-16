@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Vektoranalysis/Kurvenunabhängigkeit.md",
-            "mode": "source"
+            "file": "Analysis/Differentialgleichungen/DGL Typen.md",
+            "mode": "preview"
           }
         }
       }
@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Vektoranalysis/Kurvenunabhängigkeit.md",
+                "file": "Analysis/Differentialgleichungen/DGL Typen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,15 +99,15 @@
   },
   "active": "dd0e5717ae0e326d",
   "lastOpenFiles": [
+    "Analysis/Differentialgleichungen/DGL Typen.md",
+    "Analysis/Differentialgleichungen/Lineare DGL mit konstanten Koeffizienten.md",
+    "Analysis/Differentialgleichungen/Differentialgleichungen.md",
     "Analysis/Vektoranalysis/Kurvenunabhängigkeit.md",
     "Analysis/Vektoranalysis/Integralsätze.md",
     "Analysis/Vektoranalysis/Oberflächenintegral.md",
     "NRLA/Vektoren/Vektor.md",
     "z_images/Pasted image 20220328144717.png",
     "Allgemeine Mathematik/Zeichensammlung.md",
-    "Analysis/Mehrdimensionale Integralrechnung/Normalbereiche.md",
-    "Analysis/Mehrdimensionale Integralrechnung/Mehrdimensionale Integralrechnung.md",
-    "Analysis/Mehrdimensionale Integralrechnung/Dreifachintegral.md",
-    "Analysis/Differentialgleichungen/DGL Typen.md"
+    "Analysis/Mehrdimensionale Integralrechnung/Normalbereiche.md"
   ]
 }
