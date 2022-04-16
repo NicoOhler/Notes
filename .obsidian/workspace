@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Differentialgleichungen/DGL Typen.md",
+            "file": "Analysis/Differentialgleichungen/Differentialgleichungen.md",
             "mode": "preview"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "partialbr",
+                "query": "pl",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Differentialgleichungen/DGL Typen.md",
+                "file": "Analysis/Differentialgleichungen/Differentialgleichungen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,10 +99,10 @@
   },
   "active": "dd0e5717ae0e326d",
   "lastOpenFiles": [
+    "Analysis/Differentialgleichungen/Differentialgleichungen.md",
     "Analysis/Differentialgleichungen/DGL Typen.md",
     "Analysis/Integralrechnung/Integration rationaler Funktionen.md",
     "Analysis/Differentialgleichungen/Lineare DGL mit konstanten Koeffizienten.md",
-    "Analysis/Differentialgleichungen/Differentialgleichungen.md",
     "Analysis/Vektoranalysis/Kurvenunabhängigkeit.md",
     "Analysis/Vektoranalysis/Integralsätze.md",
     "Analysis/Vektoranalysis/Oberflächenintegral.md",
