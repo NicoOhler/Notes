@@ -29,12 +29,18 @@
 + generates value for each topic of document
 	+ term frequency
 		+ based on how often term occurs in document $d_i$
+		+ normaliced with document length
 		+ $tf_i=\frac{#term_occurences}{#terms}$
 	+ inverse document frequency
-		+ specifies how many documents contain term
+		+ based on how many documents contain term
 		+ $idf_i=log_10(\frac{|D|}{#documents_containing_this_term})$
 	+ TFIDF
+		+ combination of 
+			+ term frequency
+			+ inverse document frequency
 		+ element-wise multiplication of $tf_i$ and $idf$
++ example
+	+ 
 
 
 
