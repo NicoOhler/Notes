@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Data Science and AI/Information Retrieval/Data Retrieval.md",
+            "file": "Data Science and AI/Information Retrieval/Information Retrieval.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Science and AI/Information Retrieval/Data Retrieval.md",
+                "file": "Data Science and AI/Information Retrieval/Information Retrieval.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,8 +99,8 @@
   },
   "active": "dd0e5717ae0e326d",
   "lastOpenFiles": [
-    "Data Science and AI/Information Retrieval/Data Retrieval.md",
     "Data Science and AI/Information Retrieval/Information Retrieval.md",
+    "Data Science and AI/Information Retrieval/Data Retrieval.md",
     "Data Science and AI/Knowledge Representation/Vektors as KR.md",
     "Data Science and AI/Knowledge Representation/Knowledge Representation.md",
     "Data Management/Data Modeling/SQL Concepts/Subqueries.md",

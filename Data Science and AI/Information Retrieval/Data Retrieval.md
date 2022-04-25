@@ -1,11 +1,13 @@
 # Data Retrieval
++ different from [[Information Retrieval]]
+	+ hybrid approach possible
++ retrieves all matching data
++ no relevance ranking
++ similiar to SQL queries
+	+ [[Subqueries]]
++ ![[Pasted image 20220425133502.png]]
+
 ### Data Retrieval vs Information Retrieval
-+ r=f(q,D)
-	+ r...ranking score
-	+ D...set of documents
-	+ q...query returns data from document
-	+ f....function returns ranking based on query and document
-+ use only most relevant documents
+![[Pasted image 20220425133600.png]]
 
 
-[[Information Retrieval]]
