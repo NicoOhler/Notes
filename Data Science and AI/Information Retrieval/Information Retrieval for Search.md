@@ -17,5 +17,16 @@
 	+ contains all selected content elements from documents and query
 	+ each element has index
 	+ decides which elements are relevant
-	
+		+ each vector element represents a different topic
+		+ each document has value corresponding to each topic
+			+ different ways to generate this value
+			+ e.g. TFIDF
+	+ weird example
+		+ ![[Pasted image 20220425140706.png]]
+
+### TFIDF
++ term frequency-inverse document-frequency
+
+
+
 	[[Information Retrieval]]
