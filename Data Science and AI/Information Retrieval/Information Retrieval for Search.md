@@ -40,7 +40,8 @@
 			+ inverse document frequency
 		+ element-wise multiplication of $tf_i$ and $idf$
 + example
-	+ 
+	+ ![[Pasted image 20220425144131.png]]
+	+ ![[Pasted image 20220425144153.png]]
 
 
 
