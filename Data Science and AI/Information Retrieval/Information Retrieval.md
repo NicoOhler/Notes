@@ -12,10 +12,6 @@
 	+ basically all over the web
 + different from [[Data Retrieval]]
 	+ hybrid approach possible
-+ search information retrieval
-	+ represent data as [[Vektors as KR]]
-	+ assess its relevance (similarity)
-	+ renking
 + heavily reliant on user feedback
 	+ unlike [[Data Retrieval]]
 	+ query refining

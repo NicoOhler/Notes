@@ -1,4 +1,4 @@
-# Vektors as KR
+# Vectors as KR
 + Vectors as numeric, non-symbolic representation of complex entities
 	+ complex entity becomes a set of finite number
 	+ no longer express general knowledge
