@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Data Science and AI/Information Retrieval/Natural Language Processing.md",
-            "mode": "source"
+            "file": "Analysis/Differentialgleichungen/DGL Typen.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Science and AI/Information Retrieval/Natural Language Processing.md",
+                "file": "Analysis/Differentialgleichungen/DGL Typen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
   },
   "active": "dd0e5717ae0e326d",
   "lastOpenFiles": [
+    "Analysis/Differentialgleichungen/DGL Typen.md",
+    "Analysis/Differentialgleichungen/Lineare DGL mit konstanten Koeffizienten.md",
+    "Analysis/Differentialgleichungen/Differentialgleichungen.md",
     "Data Science and AI/Information Retrieval/Natural Language Processing.md",
     "Data Science and AI/Information Retrieval/Information Retrieval for Search.md",
     "Data Science and AI/Information Retrieval/Information Retrieval.md",
     "Data Science and AI/Knowledge Representation/Vectors as KR.md",
     "Data Science and AI/Information Retrieval/Data Retrieval.md",
     "Data Science and AI/Knowledge Representation/Knowledge Representation.md",
-    "Data Management/Data Modeling/SQL Concepts/Subqueries.md",
-    "Data Management/Data Modeling/SQL Concepts/Procedures and Functions.md",
-    "Data Management/Data Modeling/Normalization.md",
-    "Data Management/Data Modeling/SQL Concepts/Indexing.md"
+    "Data Management/Data Modeling/SQL Concepts/Subqueries.md"
   ]
 }
