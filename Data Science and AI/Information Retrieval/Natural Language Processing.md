@@ -21,6 +21,12 @@
 		+ e.g. a, an, and, the, it, ...
 	+ stem tokens to word roots
 		+ e.g. computational ==> comput
++ challenges
+	+ semantic information
+		+ synonyms
+		+ one word wtih two different meanings
+			+ e.g. jaguar ==> animal, car
+	+ structural syntatic information 
 
 
 [[Information Retrieval]]
