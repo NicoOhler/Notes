@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Differentialgleichungen/DGL Typen.md",
+            "file": "Analysis/Vektoranalysis/Integralsätze.md",
             "mode": "preview"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "kubisc",
+                "query": "stoke",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Differentialgleichungen/DGL Typen.md",
+                "file": "Analysis/Vektoranalysis/Integralsätze.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +99,7 @@
   },
   "active": "dd0e5717ae0e326d",
   "lastOpenFiles": [
+    "Analysis/Vektoranalysis/Integralsätze.md",
     "Analysis/Differentialgleichungen/DGL Typen.md",
     "Analysis/Differentialgleichungen/Lineare DGL mit konstanten Koeffizienten.md",
     "Analysis/Differentialgleichungen/Differentialgleichungen.md",
@@ -108,7 +108,6 @@
     "Data Science and AI/Information Retrieval/Information Retrieval.md",
     "Data Science and AI/Knowledge Representation/Vectors as KR.md",
     "Data Science and AI/Information Retrieval/Data Retrieval.md",
-    "Data Science and AI/Knowledge Representation/Knowledge Representation.md",
-    "Data Management/Data Modeling/SQL Concepts/Subqueries.md"
+    "Data Science and AI/Knowledge Representation/Knowledge Representation.md"
   ]
 }
