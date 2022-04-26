@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Vektoranalysis/Integralsätze.md",
+            "file": "Analysis/Vektoranalysis/Oberflächenintegral.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Vektoranalysis/Integralsätze.md",
+                "file": "Analysis/Vektoranalysis/Oberflächenintegral.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
   },
   "active": "dd0e5717ae0e326d",
   "lastOpenFiles": [
+    "Analysis/Vektoranalysis/Oberflächenintegral.md",
+    "Analysis/Vektoranalysis/Kurvenunabhängigkeit.md",
+    "Analysis/Mehrdimensionale Integralrechnung/Dreifachintegral.md",
+    "Analysis/Mehrdimensionale Integralrechnung/Normalbereiche.md",
+    "Analysis/Mehrdimensionale Integralrechnung/Mehrdimensionale Integralrechnung.md",
     "Analysis/Vektoranalysis/Integralsätze.md",
     "Analysis/Differentialgleichungen/DGL Typen.md",
     "Analysis/Differentialgleichungen/Lineare DGL mit konstanten Koeffizienten.md",
     "Analysis/Differentialgleichungen/Differentialgleichungen.md",
-    "Data Science and AI/Information Retrieval/Natural Language Processing.md",
-    "Data Science and AI/Information Retrieval/Information Retrieval for Search.md",
-    "Data Science and AI/Information Retrieval/Information Retrieval.md",
-    "Data Science and AI/Knowledge Representation/Vectors as KR.md",
-    "Data Science and AI/Information Retrieval/Data Retrieval.md",
-    "Data Science and AI/Knowledge Representation/Knowledge Representation.md"
+    "Data Science and AI/Information Retrieval/Natural Language Processing.md"
   ]
 }
