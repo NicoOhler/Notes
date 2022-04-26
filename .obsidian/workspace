@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "with",
+                "query": "kubisc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -48,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
