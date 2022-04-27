@@ -21,3 +21,8 @@
 + ![[Pasted image 20220427122230.png]]
 + ![[Pasted image 20220427122514.png]]
 + ![[Pasted image 20220427122704.png]]
+
+### Transaction Handling
++ no transactions enabled by default
++ can be disabled
++ transactions can be fully committed or rolled back in case an error occurs
