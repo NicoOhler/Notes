@@ -20,4 +20,4 @@
 ![[Pasted image 20220412152004.png]]
 ![[Pasted image 20220412152016.png]]
 
-[[SQL Concepts]]
+[[SQL]]

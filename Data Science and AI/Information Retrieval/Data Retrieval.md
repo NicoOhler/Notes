@@ -3,7 +3,7 @@
 	+ hybrid approach possible
 + retrieves all matching data
 + no relevance ranking
-+ similiar to SQL queries
++ similiar to [[SQL]] queries
 	+ [[Subqueries]]
 + not reliant on user feedback
 	+ unlike [[Information Retrieval]]

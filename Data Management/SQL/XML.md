@@ -4,7 +4,7 @@
 + more verbose than [[JSON]]
  ![[Pasted image 20220412155114.png]]
 
-### XML in SQL
+### XML in [[SQL]]
 + XML can be used as datatype
 + various built-in functions to parse documents/create attributes/elements
 	+ ![[Pasted image 20220412155315.png]]

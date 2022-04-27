@@ -4,7 +4,7 @@
 + less verbose than [[XML]]
 + ![[Pasted image 20220412155451.png]]
 
-### JSON in SQL
+### JSON in [[SQL]]
 + JSON can be used as datatype
 	+ JSON (text)
 	+ JSONB (binary)
@@ -20,4 +20,3 @@
 	+ ...
 
 
-[[SQL Concepts]]

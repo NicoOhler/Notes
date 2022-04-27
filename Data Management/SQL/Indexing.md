@@ -15,4 +15,4 @@
 	+ verifying uniqueness would be inefficient otherwise
 
 
-[[SQL Concepts]]
+[[SQL]]

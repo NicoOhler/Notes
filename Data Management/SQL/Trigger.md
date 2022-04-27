@@ -16,4 +16,4 @@
 ### Trigger Template
 ![[Pasted image 20220412154145.png]]
 
-[[SQL Concepts]]
+[[SQL]]

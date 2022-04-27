@@ -19,4 +19,4 @@
 + table functions can return sets of records with multiple attribute
 + ![[Pasted image 20220412153755.png]]
 
-[[SQL Concepts]]
+[[SQL]]
