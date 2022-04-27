@@ -7,3 +7,5 @@
 		+ Reibung mal Geschwindigkeit
 		+ Federzug mal Strecke
 		+ ![[Pasted image 20220413095615.png]]
+
+[[Differentialgleichungen]]

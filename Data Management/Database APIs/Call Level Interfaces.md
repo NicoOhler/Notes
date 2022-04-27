@@ -8,4 +8,14 @@
 
 ### ODBC
 + Open Database Connectivity
-+ API
++ API for accessing databases independent of DBMS and OS
++ all relational DBMS have ODBC implementations
+
+### JDBC
++ API for accessing databases independent of DBMS from Java
++ most relational DBMS have JDBC implementations
++ driver types
+	+ ![[Pasted image 20220427121203.png]]
++ components
+	+ DriverManager establishes Connection to execute Prepared/ 
+	+ ![[Pasted image 20220427121722.png]]
