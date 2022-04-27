@@ -18,6 +18,11 @@
 + ![[Pasted image 20220427142310.png]]
 	+ Nullstellen des charakteristischen Polynoms entsprechen Lösungen
 	+ alle Nullstellen verschieden ==> alle Lösungen gefunden
++ ![[Pasted image 20220427143038.png]]
++ ![[Pasted image 20220427143648.png]]
+
+### Beispiele
++ 
 	
 
 [[Differentialgleichungen]]
