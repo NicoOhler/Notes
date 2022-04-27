@@ -1,6 +1,6 @@
 # Zeichensammlung
 + $\infty$ - ∞
-+ ×
++ × ±
 + π
 + Σ Π
 + α β

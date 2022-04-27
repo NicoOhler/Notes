@@ -22,14 +22,26 @@
 + ![[Pasted image 20220427143648.png]]
 
 ### Vorgehensweise
++ ![[Pasted image 20220427145109.png]]
 + Gleichung in charakteristische Polynom umwandeln
++ Polynom in Linearfaktoren zerlegen
+	+ mehrere Nullstellen ==> innere Resonanz
 + umformen nach λ
 	+ quadratische Gleichung
 + Fallunterscheidung der Diskrimante D
 	+ D > 0
 		+ zwei komplexe Lösungen
+		+ umwandeln in reelle Lösungen
+			+ $λ_{1/2}=e^{±ix} = sin(x)/cos(x)$
+		+ ![[Pasted image 20220427145359.png]]
 	+ D = 0
+		+ Doppellösung ==> allgemeine Lösung
+		+ ![[Pasted image 20220427145410.png]]
 	+ D < 0
+		+ zwei verschiedene reellle Lösungen
+		+ ![[Pasted image 20220427145416.png]]
++ Zusammenfassung
+	+ 
 
 ### Beispiele
 + 
