@@ -13,7 +13,11 @@
 		+ $x(0)$ Anfangsauslenkung gegeben
 		+ $x'(0)$ Anfangsgeschwindigkeit gegeben
 	
-	### Ansatz
+### Ansatz
++ ![[Pasted image 20220427141810.png]]
++ ![[Pasted image 20220427142310.png]]
+	+ Nullstellen des charakteristischen Polynoms entsprechen Lösungen
+	+ alle Nullstellen verschieden ==> alle Lösungen gefunden
 	
 
 [[Differentialgleichungen]]
