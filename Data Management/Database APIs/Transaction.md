@@ -22,4 +22,5 @@
 
 ### Transaction Isolation Level
 + guarantee certain things cannot happen
++ sacrifices performance
 + ![[Pasted image 20220427124439.png]]

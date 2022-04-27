@@ -23,6 +23,9 @@
 + ![[Pasted image 20220427122704.png]]
 
 ### Transaction Handling
-+ no transactions enabled by default
-+ can be disabled
++ [[Transaction]] disabled by default
++ can be enabled
 + transactions can be fully committed or rolled back in case an error occurs
++ ![[Pasted image 20220427124828.png]]
++ batch inserts/fewer commits can increase performance
++ ![[Pasted image 20220427125018.png]]
