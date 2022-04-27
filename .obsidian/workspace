@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Data Management/Database APIs/Call Level Interfaces.md",
+            "file": "Data Management/Database APIs/Transaction.md",
             "mode": "source"
           }
         }
@@ -39,10 +39,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sql",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Management/Database APIs/Call Level Interfaces.md",
+                "file": "Data Management/Database APIs/Transaction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
   },
   "active": "dd0e5717ae0e326d",
   "lastOpenFiles": [
+    "Data Management/Database APIs/Transaction.md",
+    "Data Management/Data Management.md",
+    "Data Management/Database APIs/Psycopg.md",
+    "Data Management/Database APIs/JDBC.md",
     "Data Management/Database APIs/Call Level Interfaces.md",
+    "Data Management/Database APIs/Embedded SQL.md",
     "Analysis/Differentialgleichungen/Lineare DGL mit konstanten Koeffizienten.md",
     "Analysis/Vektoranalysis/Oberflächenintegral.md",
     "Analysis/Vektoranalysis/Vektoranalysis.md",
-    "Data Management/Database APIs/Embedded SQL.md",
-    "Data Management/SQL/Basic SQL Concepts.md",
-    "Data Science and AI/Information Retrieval/Data Retrieval.md",
-    "Data Management/SQL/Database Catalog.md",
-    "Data Management/SQL/Grouping and Aggregation.md",
-    "Data Management/SQL/Indexing.md"
+    "Data Management/SQL/Basic SQL Concepts.md"
   ]
 }
