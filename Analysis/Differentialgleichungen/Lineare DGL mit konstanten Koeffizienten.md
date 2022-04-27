@@ -31,8 +31,11 @@
 + Fallunterscheidung der Diskrimante D
 	+ D > 0
 		+ zwei komplexe Lösungen
+			+ kongugiert ebenfalls Lösungen
 		+ umwandeln in reelle Lösungen
+			+ Nullstellen ergeben zusammen reelle Lösung
 			+ $λ_{1/2}=e^{±ix} = sin(x)/cos(x)$
+			+ ![[Pasted image 20220427145926.png]]
 		+ ![[Pasted image 20220427145359.png]]
 	+ D = 0
 		+ Doppellösung ==> allgemeine Lösung
@@ -41,7 +44,7 @@
 		+ zwei verschiedene reellle Lösungen
 		+ ![[Pasted image 20220427145416.png]]
 + Zusammenfassung
-	+ 
+	+ ![[Pasted image 20220427150013.png]]
 
 ### Beispiele
 + 
