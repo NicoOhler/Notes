@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Data Management/Database APIs/Object-Relation Mapping/Object-Relational Mapping.md",
+            "file": "Analysis/Differentialgleichungen/Lineare DGL mit konstanten Koeffizienten.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Management/Database APIs/Object-Relation Mapping/Object-Relational Mapping.md",
+                "file": "Analysis/Differentialgleichungen/Lineare DGL mit konstanten Koeffizienten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
   },
   "active": "dd0e5717ae0e326d",
   "lastOpenFiles": [
+    "Analysis/Differentialgleichungen/Lineare DGL mit konstanten Koeffizienten.md",
+    "Diskrete Mathematik/Logik/Äquivalenz.md",
+    "Diskrete Mathematik/Diskrete Mathematik.md",
+    "Diskrete Mathematik/Gruppen, Halbgruppen und Untergruppen.md",
+    "Diskrete Mathematik/Kongruenzen/Kongruenzen und Partitionen.md",
     "Data Management/Database APIs/Object-Relation Mapping/Object-Relational Mapping.md",
     "Data Management/Database APIs/Object-Relation Mapping/Java Persistance API.md",
     "Data Management/Database APIs/JDBC.md",
     "Data Management/Database APIs/Transaction.md",
-    "Data Management/Data Management.md",
-    "Data Management/Database APIs/Psycopg.md",
-    "Data Management/Database APIs/Call Level Interfaces.md",
-    "Data Management/Database APIs/Embedded SQL.md",
-    "Analysis/Differentialgleichungen/Lineare DGL mit konstanten Koeffizienten.md",
-    "Analysis/Vektoranalysis/Oberflächenintegral.md"
+    "Data Management/Data Management.md"
   ]
 }
