@@ -1,4 +1,5 @@
 # Lineare DGL mit konstanten Koeffizienten
+### Übersicht
 + $y^{(n)}+a_{n-1}*y^{(n-1)}+...+a_1*y'+a_0*y=0$
 	+ a ... gegebene Konstanten
 	+ DGL n-ter Ordnung
@@ -7,5 +8,12 @@
 		+ Reibung mal Geschwindigkeit
 		+ Federzug mal Strecke
 		+ ![[Pasted image 20220413095615.png]]
++ zweidimensionales GLS lösbar, wenn zwei linear unabhängige Lösungen gegeben
+	+ z.B.
+		+ $x(0)$ Anfangsauslenkung gegeben
+		+ $x'(0)$ Anfangsgeschwindigkeit gegeben
+	
+	### Ansatz
+	
 
 [[Differentialgleichungen]]
