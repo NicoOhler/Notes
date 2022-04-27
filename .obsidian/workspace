@@ -6,10 +6,23 @@
       {
         "id": "dd0e5717ae0e326d",
         "type": "leaf",
+        "dimension": 65.60344827586206,
         "state": {
           "type": "markdown",
           "state": {
             "file": "Analysis/Differentialgleichungen/Lineare DGL mit konstanten Koeffizienten.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "c701e10e5298920e",
+        "type": "leaf",
+        "dimension": 34.39655172413793,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Allgemeine Mathematik/Zeichensammlung.md",
             "mode": "source"
           }
         }
@@ -100,6 +113,7 @@
   "active": "dd0e5717ae0e326d",
   "lastOpenFiles": [
     "Analysis/Differentialgleichungen/Lineare DGL mit konstanten Koeffizienten.md",
+    "Allgemeine Mathematik/Zeichensammlung.md",
     "z_images/Gaußsche, Bestimmung unendlicher Lsg.png",
     "Diskrete Mathematik/Logik/Äquivalenz.md",
     "Diskrete Mathematik/Diskrete Mathematik.md",
@@ -107,7 +121,6 @@
     "Diskrete Mathematik/Kongruenzen/Kongruenzen und Partitionen.md",
     "Data Management/Database APIs/Object-Relation Mapping/Object-Relational Mapping.md",
     "Data Management/Database APIs/Object-Relation Mapping/Java Persistance API.md",
-    "Data Management/Database APIs/JDBC.md",
-    "Data Management/Database APIs/Transaction.md"
+    "Data Management/Database APIs/JDBC.md"
   ]
 }

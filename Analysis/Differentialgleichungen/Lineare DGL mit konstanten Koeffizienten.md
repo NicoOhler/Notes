@@ -21,6 +21,16 @@
 + ![[Pasted image 20220427143038.png]]
 + ![[Pasted image 20220427143648.png]]
 
+### Vorgehensweise
++ Gleichung in charakteristische Polynom umwandeln
++ umformen nach λ
+	+ quadratische Gleichung
++ Fallunterscheidung der Diskrimante D
+	+ D > 0
+		+ zwei komplexe Lösungen
+	+ D = 0
+	+ D < 0
+
 ### Beispiele
 + 
 	
