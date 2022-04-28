@@ -49,6 +49,9 @@
 		+ rechts $△_r$
 + interne Knoten heißen Wurzel
 + externe Knoten heißen Blätter
-
++ ![[Pasted image 20220428153058.png]]
++ Beispiel: Anzahl der Menge von Binärbaume mit n Blättern
+	+ ![[Pasted image 20220428153307.png]]
+	+ 
 
 [[Kombinatorik]]
