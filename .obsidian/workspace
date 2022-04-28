@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Differentialgleichungen/Lineare DGL mit konstanten Koeffizienten.md",
-            "mode": "source"
+            "file": "Analysis/Differentialgleichungen/DGL Typen.md",
+            "mode": "preview"
           }
         }
       },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Differentialgleichungen/Lineare DGL mit konstanten Koeffizienten.md",
+                "file": "Analysis/Differentialgleichungen/DGL Typen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,6 +112,8 @@
   },
   "active": "dd0e5717ae0e326d",
   "lastOpenFiles": [
+    "Analysis/Differentialgleichungen/DGL Typen.md",
+    "Analysis/Differentialgleichungen/Differentialgleichungen.md",
     "Analysis/Differentialgleichungen/Lineare DGL mit konstanten Koeffizienten.md",
     "Allgemeine Mathematik/Zeichensammlung.md",
     "z_images/Gaußsche, Bestimmung unendlicher Lsg.png",
@@ -119,8 +121,6 @@
     "Diskrete Mathematik/Diskrete Mathematik.md",
     "Diskrete Mathematik/Gruppen, Halbgruppen und Untergruppen.md",
     "Diskrete Mathematik/Kongruenzen/Kongruenzen und Partitionen.md",
-    "Data Management/Database APIs/Object-Relation Mapping/Object-Relational Mapping.md",
-    "Data Management/Database APIs/Object-Relation Mapping/Java Persistance API.md",
-    "Data Management/Database APIs/JDBC.md"
+    "Data Management/Database APIs/Object-Relation Mapping/Object-Relational Mapping.md"
   ]
 }
