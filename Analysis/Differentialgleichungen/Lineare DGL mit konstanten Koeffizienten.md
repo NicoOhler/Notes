@@ -47,7 +47,8 @@
 	+ ![[Pasted image 20220427150013.png]]
 
 ### Beispiele
-+ 
++ ![[Pasted image 20220427150842.png]]
++ ![[Pasted image 20220427151157.png]]
 	
 
 [[Differentialgleichungen]]
