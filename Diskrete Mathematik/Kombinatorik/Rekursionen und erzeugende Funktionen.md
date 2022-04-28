@@ -35,7 +35,12 @@
 			+ ![[Pasted image 20220428145740.png]]
 			+ ![[Pasted image 20220428145813.png]]
 			+ ![[Pasted image 20220428145823.png]]
-			+ 
++ $a_n$ bestimmen?
+	+ ![[Pasted image 20220428151212.png]]
+
+
+### Nicht lineare Rekursion
++ 
 
 
 [[Kombinatorik]]

@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Diskrete Mathematik/Kombinatorik/Rekursionen und erzeugende Funktionen.md",
-            "mode": "source"
+            "file": "Diskrete Mathematik/Kombinatorik/Binomische Lehrsatz.md",
+            "mode": "preview"
           }
         }
       },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diskrete Mathematik/Kombinatorik/Rekursionen und erzeugende Funktionen.md",
+                "file": "Diskrete Mathematik/Kombinatorik/Binomische Lehrsatz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,6 +112,7 @@
   },
   "active": "dd0e5717ae0e326d",
   "lastOpenFiles": [
+    "Diskrete Mathematik/Kombinatorik/Binomische Lehrsatz.md",
     "Diskrete Mathematik/Kombinatorik/Rekursionen und erzeugende Funktionen.md",
     "Diskrete Mathematik/Logik/Konjunktive und Disjunktive Normalform.md",
     "Diskrete Mathematik/Logik/Substitutionen in Prädikatenlogik.md",
@@ -120,7 +121,6 @@
     "Analysis/Differentialgleichungen/Differentialgleichungen.md",
     "Analysis/Differentialgleichungen/Lineare DGL mit konstanten Koeffizienten.md",
     "Allgemeine Mathematik/Zeichensammlung.md",
-    "z_images/Gaußsche, Bestimmung unendlicher Lsg.png",
-    "Diskrete Mathematik/Logik/Äquivalenz.md"
+    "z_images/Gaußsche, Bestimmung unendlicher Lsg.png"
   ]
 }
