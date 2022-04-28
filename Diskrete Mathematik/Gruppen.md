@@ -1,4 +1,4 @@
-# Gruppen, Halbgruppen und Untergruppen
+# Gruppen
 ### Halbgruppen
 + Menge X zusammen mit binärer Operation \* (X,\*)
 	+ X≠∅

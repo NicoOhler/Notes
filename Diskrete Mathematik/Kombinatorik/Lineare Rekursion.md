@@ -1,4 +1,4 @@
-# Rekursionen und erzeugende Funktionen
+# Lineaere Rekursion
 ### Lineare Rekursion
 + $a_n$ mit n∈ℕ
 	+ $a_n=c_1*a_{n-1}+c_2*a_{n-2}+...+c_l*a_{n-l}$
