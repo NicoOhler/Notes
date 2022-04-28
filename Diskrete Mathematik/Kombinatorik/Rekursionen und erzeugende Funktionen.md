@@ -19,13 +19,14 @@
 	+ $A(z):=a_0+a_1*z+a_2*z^2+...=\sum_{n=0}^\infty a_n*z^n$
 	+ z formale Variable
 + A(z) heißt erzeugende Funktion/Potenzreihe der Folge $a_n$
-+ $[Z^n]A(z):=a_n$
++ $[z^n]A(z):=a_n$
 	+ Reskalierung
 		+ $[Z^n]A(ßz)=ß^n[z^n]A(z)$
 	+ Rechenregeln
 		+ $A(z)+B(z)=\sum_{n≥0} (a_n+b_n)z^n$
-		+ $A(z)*B(z)=\sum_{n≥0} \sum_{k=0}^n a_k*b_{n-k})z^n$
+		+ $A(z)*B(z)=\sum_{n≥0}^\infty (\sum_{k=0}^n a_k*b_{n-k})z^n$
 		+ $\frac{\partial}{\partial z}(\sum_{n≥0} a_n*z^n)=\sum_{n≥1}n*a_n*z^{n-1}$
++ $B(z)$ ist Reziprokes von $A(z)$, wenn $A(z)*B(z)=B(z)*A(z)=1$
 
 
 
