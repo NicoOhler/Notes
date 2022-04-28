@@ -21,7 +21,7 @@
 + A(z) heißt erzeugende Funktion/Potenzreihe der Folge $a_n$
 + $[z^n]A(z):=a_n$
 	+ Reskalierung
-		+ $[Z^n]A(ßz)=ß^n[z^n]A(z)$
+		+ $[z^n]A(ßz)=ß^n[z^n]A(z)$
 	+ Rechenregeln
 		+ $A(z)+B(z)=\sum_{n≥0} (a_n+b_n)z^n$
 		+ $A(z)*B(z)=\sum_{n≥0}^\infty (\sum_{k=0}^n a_k*b_{n-k})z^n$
@@ -37,7 +37,6 @@
 			+ ![[Pasted image 20220428145823.png]]
 + $a_n$ bestimmen?
 	+ ![[Pasted image 20220428151212.png]]
-
 
 ### Nicht lineare Rekursion
 + Binomial Lehrsatz für nicht lineare Rekursionen
