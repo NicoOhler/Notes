@@ -28,8 +28,14 @@
 		+ $\frac{\partial}{\partial z}(\sum_{n≥0} a_n*z^n)=\sum_{n≥1}n*a_n*z^{n-1}$
 + $B(z)$ ist Reziprokes von $A(z)$, wenn $A(z)*B(z)=B(z)*A(z)=1$
 	+ $A(z)=\frac{1}{B(z)}$
-	+ ![[Pasted image 20220428144758.png]]
-
+	+ Beispiele:
+		+ geometrische Reihe
+			+ ![[Pasted image 20220428144758.png]]
+		+ Fibonacci
+			+ ![[Pasted image 20220428145740.png]]
+			+ ![[Pasted image 20220428145813.png]]
+			+ ![[Pasted image 20220428145823.png]]
+			+ 
 
 
 [[Kombinatorik]]
