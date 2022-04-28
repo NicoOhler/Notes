@@ -38,19 +38,5 @@
 + $a_n$ bestimmen?
 	+ ![[Pasted image 20220428151212.png]]
 
-### Nicht lineare Rekursion
-+ Binomial Lehrsatz für nicht lineare Rekursionen
-	+ ![[Pasted image 20220428152048.png]]
-+ Binärbaum △ rekursiv definiert, wenn
-	+ einzelner externer Knoten oder
-	+ interner Knoten zusammen mit Binärbaum links und rechts 
-		+ links $△_l$
-		+ rechts $△_r$
-+ interne Knoten heißen Wurzel
-+ externe Knoten heißen Blätter
-+ ![[Pasted image 20220428153058.png]]
-+ Beispiel: Anzahl der Menge von Binärbaume mit n Blättern
-	+ ![[Pasted image 20220428153307.png]]
-	+ 
 
 [[Kombinatorik]]

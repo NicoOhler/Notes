@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Diskrete Mathematik/Kombinatorik/Rekursionen und erzeugende Funktionen.md",
-            "mode": "preview"
+            "file": "Diskrete Mathematik/Kombinatorik/Nicht Lineare Rekursion.md",
+            "mode": "source"
           }
         }
       },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diskrete Mathematik/Kombinatorik/Rekursionen und erzeugende Funktionen.md",
+                "file": "Diskrete Mathematik/Kombinatorik/Nicht Lineare Rekursion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,6 +112,7 @@
   },
   "active": "dd0e5717ae0e326d",
   "lastOpenFiles": [
+    "Diskrete Mathematik/Kombinatorik/Nicht Lineare Rekursion.md",
     "Diskrete Mathematik/Kombinatorik/Rekursionen und erzeugende Funktionen.md",
     "Allgemeine Mathematik/Zeichensammlung.md",
     "Diskrete Mathematik/Kombinatorik/Binomische Lehrsatz.md",
@@ -120,7 +121,6 @@
     "Analysis/Differentialgleichungen/DGL Typen.md",
     "z_images/Pasted image 20220427151157.png",
     "Analysis/Differentialgleichungen/Differentialgleichungen.md",
-    "Analysis/Differentialgleichungen/Lineare DGL mit konstanten Koeffizienten.md",
-    "z_images/Gaußsche, Bestimmung unendlicher Lsg.png"
+    "Analysis/Differentialgleichungen/Lineare DGL mit konstanten Koeffizienten.md"
   ]
 }
