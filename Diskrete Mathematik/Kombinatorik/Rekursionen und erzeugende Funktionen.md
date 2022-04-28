@@ -27,6 +27,8 @@
 		+ $A(z)*B(z)=\sum_{n≥0}^\infty (\sum_{k=0}^n a_k*b_{n-k})z^n$
 		+ $\frac{\partial}{\partial z}(\sum_{n≥0} a_n*z^n)=\sum_{n≥1}n*a_n*z^{n-1}$
 + $B(z)$ ist Reziprokes von $A(z)$, wenn $A(z)*B(z)=B(z)*A(z)=1$
+	+ $A(z)=\frac{1}{B(z)}$
+	+ ![[Pasted image 20220428144758.png]]
 
 
 
