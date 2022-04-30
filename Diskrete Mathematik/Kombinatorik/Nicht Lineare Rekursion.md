@@ -38,8 +38,11 @@
 		+ a\[k]=p
 		+ a\[i]\<p für i\<k
 		+ a\[i]\>p für i\>k
-	+ ruf Quicksort rekursiv erneut auf
-		+ 
+	+ ruf Quicksort rekursiv für linke und rechte Seite auf
+		+ links mit den Parametern
+			+ l=l, r=k-1
+		+ rechts mit den Parametern
+			+ l=k+1, r=r
 
 
 [[Lineare Rekursion]]
