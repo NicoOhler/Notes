@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Diskrete Mathematik/Kombinatorik/Nicht Lineare Rekursion.md",
-            "mode": "source"
+            "file": "Diskrete Mathematik/Logik/Aussagenlogische Formeln.md",
+            "mode": "preview"
           }
         }
       },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diskrete Mathematik/Kombinatorik/Nicht Lineare Rekursion.md",
+                "file": "Diskrete Mathematik/Logik/Aussagenlogische Formeln.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,6 +112,8 @@
   },
   "active": "dd0e5717ae0e326d",
   "lastOpenFiles": [
+    "Diskrete Mathematik/Logik/Aussagenlogische Formeln.md",
+    "Diskrete Mathematik/Logik/Äquivalenz.md",
     "Diskrete Mathematik/Kombinatorik/Nicht Lineare Rekursion.md",
     "Diskrete Mathematik/Gruppen.md",
     "Diskrete Mathematik/Kombinatorik/Lineare Rekursion.md",
@@ -119,8 +121,6 @@
     "Diskrete Mathematik/Kombinatorik/Binomische Lehrsatz.md",
     "Diskrete Mathematik/Logik/Konjunktive und Disjunktive Normalform.md",
     "Diskrete Mathematik/Logik/Substitutionen in Prädikatenlogik.md",
-    "Analysis/Differentialgleichungen/DGL Typen.md",
-    "z_images/Pasted image 20220427151157.png",
-    "Analysis/Differentialgleichungen/Differentialgleichungen.md"
+    "Analysis/Differentialgleichungen/DGL Typen.md"
   ]
 }
