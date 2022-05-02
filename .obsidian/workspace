@@ -4,25 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "dd0e5717ae0e326d",
-        "type": "leaf",
-        "dimension": 65.60344827586206,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Diskrete Mathematik/Logik/Aussagenlogische Formeln.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
         "id": "c701e10e5298920e",
         "type": "leaf",
-        "dimension": 34.39655172413793,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Allgemeine Mathematik/Zeichensammlung.md",
+            "file": "Analysis/Differentialgleichungen/Lineare DGL mit konstanten Koeffizienten.md",
             "mode": "source"
           }
         }
@@ -81,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diskrete Mathematik/Logik/Aussagenlogische Formeln.md",
+                "file": "Analysis/Differentialgleichungen/Lineare DGL mit konstanten Koeffizienten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,17 +97,17 @@
     "width": 322,
     "collapsed": true
   },
-  "active": "dd0e5717ae0e326d",
+  "active": "c701e10e5298920e",
   "lastOpenFiles": [
+    "Analysis/Differentialgleichungen/Lineare DGL mit konstanten Koeffizienten.md",
     "Diskrete Mathematik/Logik/Aussagenlogische Formeln.md",
+    "Analysis/Differentialgleichungen/Differentialgleichungen.md",
+    "Allgemeine Mathematik/Zeichensammlung.md",
     "Diskrete Mathematik/Logik/Äquivalenz.md",
     "Diskrete Mathematik/Kombinatorik/Nicht Lineare Rekursion.md",
     "Diskrete Mathematik/Gruppen.md",
     "Diskrete Mathematik/Kombinatorik/Lineare Rekursion.md",
-    "Allgemeine Mathematik/Zeichensammlung.md",
     "Diskrete Mathematik/Kombinatorik/Binomische Lehrsatz.md",
-    "Diskrete Mathematik/Logik/Konjunktive und Disjunktive Normalform.md",
-    "Diskrete Mathematik/Logik/Substitutionen in Prädikatenlogik.md",
-    "Analysis/Differentialgleichungen/DGL Typen.md"
+    "Diskrete Mathematik/Logik/Konjunktive und Disjunktive Normalform.md"
   ]
 }
