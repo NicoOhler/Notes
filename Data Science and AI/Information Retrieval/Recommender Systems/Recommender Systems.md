@@ -7,7 +7,7 @@
 	+ set of items I
 
 ### Recommender System Types/Paradigms
-+ collaboratice filtering
++ [[Collaborative Filtering]]
 	+ based on user interactions with items in a system
 	+ interactions such as
 		+ user ratings
@@ -25,4 +25,4 @@
 	+ based on explicitly modelled constraints on items
 	+ simillar to basic filtering
 	+ e.g. all all-inclusive hotels in Egypt with beach access within a certain price range...
-+ hybrid of different recommendation
++ hybrid of different recommendation paradigms
