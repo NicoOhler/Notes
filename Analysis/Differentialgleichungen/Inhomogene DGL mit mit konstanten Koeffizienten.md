@@ -16,6 +16,10 @@
 
 ### Beispiele
 + ![[Pasted image 20220502144122.png]]
-+ ![[Pasted image 20220502144426.png]]
+	+ ![[Pasted image 20220502144426.png]]
++ ![[Pasted image 20220502152349.png]]
+	+ ![[Pasted image 20220502152440.png]]
++ 
+
 
 
