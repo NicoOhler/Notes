@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Differentialgleichungen/Inhomogene DGL mit mit konstanten Koeffizienten.md",
+            "file": "Data Science and AI/Information Retrieval/Recommender Systems.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Differentialgleichungen/Inhomogene DGL mit mit konstanten Koeffizienten.md",
+                "file": "Data Science and AI/Information Retrieval/Recommender Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
   },
   "active": "c701e10e5298920e",
   "lastOpenFiles": [
+    "Data Science and AI/Information Retrieval/Recommender Systems.md",
+    "Data Science and AI/Information Retrieval/Information Retrieval for Search.md",
+    "Data Science and AI/Information Retrieval/Information Retrieval.md",
+    "Data Science and AI/Information Retrieval/Data Retrieval.md",
+    "Data Science and AI/Information Retrieval/Natural Language Processing.md",
     "Analysis/Differentialgleichungen/Inhomogene DGL mit mit konstanten Koeffizienten.md",
     "Analysis/Differentialgleichungen/Lineare DGL mit konstanten Koeffizienten.md",
     "Diskrete Mathematik/Logik/Aussagenlogische Formeln.md",
     "Analysis/Differentialgleichungen/Differentialgleichungen.md",
-    "Allgemeine Mathematik/Zeichensammlung.md",
-    "Diskrete Mathematik/Logik/Äquivalenz.md",
-    "Diskrete Mathematik/Kombinatorik/Nicht Lineare Rekursion.md",
-    "Diskrete Mathematik/Gruppen.md",
-    "Diskrete Mathematik/Kombinatorik/Lineare Rekursion.md",
-    "Diskrete Mathematik/Kombinatorik/Binomische Lehrsatz.md"
+    "Allgemeine Mathematik/Zeichensammlung.md"
   ]
 }

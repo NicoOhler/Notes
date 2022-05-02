@@ -5,7 +5,7 @@
 	+ assess its relevance (similarity)
 	+ ranking
 
-### Representing document as Vector
+### Representing Documents as Vector
 + vector represents content
 	+ disregards metadata (mostly)
 + vector elements correspond to content elements
