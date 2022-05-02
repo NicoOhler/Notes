@@ -8,8 +8,13 @@
 	+ $y(t)=y_P(t)+y_H(t)$
 		+ $y_P(t)$ ist eine Lösung der inhomogenen Gleichung
 		+ $y_H(t)$ ist allgemeine Lösung der homogenen Gleichung
++ äußere Resonanz für $f_i(x)$, wenn
+	+ $f_i(x)$ eine Lösung der zugehörigen homogenen Differentialgleichung
+
+### Herleitung
++ ![[Pasted image 20220502143123.png]]
+
+### Beispiele
++ 
 
 
-
-+ $y''+y=s(t)=sin(wt)$
-	+ $y=y_H+s(t)*\lambda$
