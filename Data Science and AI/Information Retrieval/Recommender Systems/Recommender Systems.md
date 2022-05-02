@@ -26,3 +26,7 @@
 	+ simillar to basic filtering
 	+ e.g. all all-inclusive hotels in Egypt with beach access within a certain price range...
 + hybrid of different recommendation paradigms
+
+### Challenges
++ ![[Pasted image 20220502175423.png]]
++ 
