@@ -1,4 +1,5 @@
 # Vectors as KR
+### Overview
 + Vectors as numeric, non-symbolic representation of complex entities
 	+ complex entity becomes a set of finite number
 	+ no longer express general knowledge
@@ -15,6 +16,8 @@
 + vector representation is easy after feature engineering is done
 	+ depending on computational complexity
 	+ can be created automatically
++ vector is centered if
+	+ mean value of vector elements = 0
 
 ### Useful questions for Feature Engineering
 + What are similar entities?
