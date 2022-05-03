@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Differentialgleichungen/DGL Typen.md",
-            "mode": "source"
+            "file": "Analysis/Differentialgleichungen/Lineare DGL mit konstanten Koeffizienten.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Differentialgleichungen/DGL Typen.md",
+                "file": "Analysis/Differentialgleichungen/Lineare DGL mit konstanten Koeffizienten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
   },
   "active": "c701e10e5298920e",
   "lastOpenFiles": [
-    "Analysis/Differentialgleichungen/DGL Typen.md",
     "Analysis/Differentialgleichungen/Lineare DGL mit konstanten Koeffizienten.md",
+    "Analysis/Analysis.md",
+    "Analysis/Differentialgleichungen/Differentialgleichungen.md",
+    "Analysis/Differentialgleichungen/DGL Typen.md",
     "Data Science and AI/Information Retrieval/Recommender Systems/Recommender Systems.md",
     "z_images/Pasted image 20220502180245.png",
     "Data Science and AI/Information Retrieval/Recommender Systems/Collaborative Filtering.md",
     "Data Science and AI/Information Retrieval/Recommender Systems/Item Based CF.md",
     "Data Science and AI/Information Retrieval/Recommender Systems/User Based CF.md",
-    "Data Science and AI/Information Retrieval/Data Retrieval.md",
-    "Data Science and AI/Knowledge Representation/Vectors as KR.md",
-    "Data Science and AI/Information Retrieval/Information Retrieval for Search.md"
+    "Data Science and AI/Information Retrieval/Data Retrieval.md"
   ]
 }
