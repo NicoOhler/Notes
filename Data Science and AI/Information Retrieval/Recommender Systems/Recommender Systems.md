@@ -5,6 +5,10 @@
 + $r=f(U,I,U_0,I_{new})$
 	+ set of users U
 	+ set of items I
++ unlike [[Information Retrieval]] recommendation is proactive
+	+ no explicite query
+	+ results often based on implicitly collected data
+	+ clicks
 
 ### Recommender System Types/Paradigms
 + [[Collaborative Filtering]]
@@ -29,4 +33,5 @@
 
 ### Challenges
 + ![[Pasted image 20220502175423.png]]
-+ 
++ ![[Pasted image 20220502180102.png]]
++ ![[Pasted image 20220502180245.png]]
