@@ -24,6 +24,8 @@
 	+ n ist Ordnung von $\lambda$
 + keine äußere und keine innere
 	+ nicht mit Polynom multiplizieren
++ Cheat-Sheet
+	+ 
 
 ### Herleitung
 + ![[Pasted image 20220502143123.png]]
