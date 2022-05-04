@@ -8,16 +8,20 @@
 	+ $y(t)=y_P(t)+y_H(t)$
 		+ $y_P(t)$ ist eine Lösung der inhomogenen Gleichung
 		+ $y_H(t)$ ist allgemeine Lösung der homogenen Gleichung
++ innere Resonanz, wenn Nullstelle $\lambda$ mehrfach auftritt
 + äußere Resonanz für $f_i(x)$, wenn
 	+ $f_i(x)$ eine Lösung der zugehörigen homogenen Differentialgleichung
 
 ### Ansatz für partikuläre Lösung
 + abhängig von Resonanz und s(x)
-	+ weder innere noch äußerer
-		+ Winkelfunktionen ==> $(Acos(x)+Bsin(x))$
-		+ Exponentialfunktionen ==> $e\lambda^x$
-	+ innere
-		+ 
++ innere und keine äußere
+	+ ![[Pasted image 20220504123011.png]]
+	+ ![[Pasted image 20220504123016.png]]
++ äußere und keine innere
+	+ Ansatz x multiplizieren
++ äußere und innere
+	+ Ansatz mit linearem Polynom x^n multiplizieren
+	+ n ist Ordnung von $\lambda$
 
 ### Herleitung
 + ![[Pasted image 20220502143123.png]]
