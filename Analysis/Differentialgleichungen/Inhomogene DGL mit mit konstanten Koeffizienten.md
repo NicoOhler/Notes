@@ -14,7 +14,7 @@
 
 ### Ansatz für partikuläre Lösung
 + abhängig von Resonanz und s(x)
-+ innere und keine äußere
++ keine äußere
 	+ ![[Pasted image 20220504123011.png]]
 	+ ![[Pasted image 20220504123016.png]]
 + äußere und keine innere
@@ -22,6 +22,8 @@
 + äußere und innere
 	+ Ansatz mit linearem Polynom x^n multiplizieren
 	+ n ist Ordnung von $\lambda$
++ keine äußere und keine innere
+	+ nicht mit Polynom multiplizieren
 
 ### Herleitung
 + ![[Pasted image 20220502143123.png]]
