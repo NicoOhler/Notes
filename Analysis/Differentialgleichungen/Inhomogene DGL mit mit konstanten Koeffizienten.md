@@ -25,7 +25,7 @@
 + keine äußere und keine innere
 	+ nicht mit Polynom multiplizieren
 + Cheat-Sheet
-	+ ![[Pasted image 20220504151709.png]]
+	+ ![[Pasted image 20220504154246.png]]
 
 ### Herleitung
 + ![[Pasted image 20220502143123.png]]
