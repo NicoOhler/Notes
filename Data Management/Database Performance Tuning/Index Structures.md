@@ -19,18 +19,13 @@
 + ![[Pasted image 20220505111741.png]]
 + allows specifying uniqueness, order, indexing method
 + postgreSQL methods
-	+ btree
+	+ [[Binary Search and Tree]]
 	+ hash
 	+ gist
 	+ gin
 
-### Binary Search
-+ pos = binarySearch(data,key=23)
-+ find key position within sorted data
-+ ![[Pasted image 20220505112030.png]]
-+ optimizations
-	+ k-ary search for SIMD data-parallelism
-		+ ?
-	+ interpolation search: probe  expexted pos in key range
-		+ e.g. search for David in teleph
-	+ ![[Pasted image 20220505112218.png]]
+### Classification of Index Structures
+![[Pasted image 20220505112449.png]]
+![[Pasted image 20220505112534.png]]
+
+
