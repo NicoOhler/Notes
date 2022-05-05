@@ -29,6 +29,6 @@
 + query by example
 	+ upload similar image
 	+ recommend books based on previously read books
-	+ context extended queries
++ context extended queries
 
 [[Data Science and AI]]

@@ -30,10 +30,10 @@
 	+ term frequency
 		+ based on how often term occurs in document $d_i$
 		+ normaliced with document length
-		+ $tf_i=\frac{#term_occurences}{#terms}$
+		+ $tf_i=$$\frac{\#term\_occurences}{\#terms}$
 	+ inverse document frequency
 		+ based on how many documents contain term
-		+ $idf_i=log_10(\frac{|D|}{#documents_containing_this_term})$
+		+ $idf_i=log_10(\frac{|D|}{\#documents\_containing\_this\_term})$
 	+ TFIDF
 		+ combination of 
 			+ term frequency
