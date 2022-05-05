@@ -8,7 +8,6 @@
 + unlike [[Information Retrieval]] recommendation is proactive
 	+ no explicite query
 	+ results often based on implicitly collected data
-	+ clicks
 
 ### Recommender System Types/Paradigms
 + [[Collaborative Filtering]]
