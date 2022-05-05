@@ -27,7 +27,10 @@
 	+ compress sequence with small changes
 	+ store delta/change to previous value
 	+ ![[Pasted image 20220505110250.png]]
-+ frame of reve
++ frame-of-reference encoding
+	+ compress values by storing delta to reference value
+	+ outlier handling
+	+ ![[Pasted image 20220505110426.png]]
 
 
 
