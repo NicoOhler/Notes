@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Differentialgleichungen/Inhomogene DGL mit mit konstanten Koeffizienten.md",
+            "file": "Analysis/Differentialgleichungen/Lineare DGL mit konstanten Koeffizienten.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Differentialgleichungen/Inhomogene DGL mit mit konstanten Koeffizienten.md",
+                "file": "Analysis/Differentialgleichungen/Lineare DGL mit konstanten Koeffizienten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,8 +99,8 @@
   },
   "active": "c701e10e5298920e",
   "lastOpenFiles": [
-    "Analysis/Differentialgleichungen/Inhomogene DGL mit mit konstanten Koeffizienten.md",
     "Analysis/Differentialgleichungen/Lineare DGL mit konstanten Koeffizienten.md",
+    "Analysis/Differentialgleichungen/Inhomogene DGL mit mit konstanten Koeffizienten.md",
     "Data Science and AI/Information Retrieval/Natural Language Processing.md",
     "Data Science and AI/Information Retrieval/Recommender Systems/User Based CF.md",
     "Data Science and AI/Information Retrieval/Recommender Systems/Recommender Systems.md",
