@@ -14,7 +14,12 @@
 + individual nodes stored as pages
 	+ [[Background Storage System]]
 + each node contains data or reference to data
-+ pointer left of value contains
-	+ 
+	+ values sorted within node
+	
 ![[Pasted image 20220505112930.png]]
++ pointer left/right of value points to leaf with smaller/bigger values
+
+![[Pasted image 20220505113409.png]]
+![[Pasted image 20220505113600.png]]
+
 
