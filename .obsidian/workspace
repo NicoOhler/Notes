@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Data Management/Compression Techniques.md",
+            "file": "Data Management/Untitled/Database Compression Techniques.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Management/Compression Techniques.md",
+                "file": "Data Management/Untitled/Database Compression Techniques.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
   },
   "active": "c701e10e5298920e",
   "lastOpenFiles": [
-    "Data Management/Compression Techniques.md",
-    "Data Management/Physical Design.md",
+    "Data Management/Untitled/Database Compression Techniques.md",
+    "Data Management/Untitled/Background Storage System.md",
+    "Data Management/Untitled/Physical Design.md",
     "Analysis/Differentialgleichungen/Inhomogene DGL mit mit konstanten Koeffizienten.md",
     "Analysis/Differentialgleichungen/Differentialgleichungen.md",
     "Analysis/Differentialgleichungen/Lineare DGL mit konstanten Koeffizienten.md",
     "Analysis/Analysis.md",
     "Analysis/Differentialgleichungen/DGL Typen.md",
     "Data Science and AI/Information Retrieval/Recommender Systems/Recommender Systems.md",
-    "z_images/Pasted image 20220502180245.png",
-    "Data Science and AI/Information Retrieval/Recommender Systems/Collaborative Filtering.md"
+    "z_images/Pasted image 20220502180245.png"
   ]
 }
