@@ -22,6 +22,14 @@
 ![[Pasted image 20220505113409.png]]
 ![[Pasted image 20220505113600.png]]
 
-
-43:28
-
+### B-Tree Insert
++ always insert into leaf nodes
++ if node overflows (exceeds 2k entries) ==> node splitting
++ node splitting
+	+ split into two leaf nodes
+	+ left node with first k entries
+	+ right node with last k entries
+	+ (k+1)th entry inserted into parent node
+		+ may cause recursive splitting
++ self-balancing
++ ![[Pasted image 20220506175849.png]]
