@@ -6,10 +6,23 @@
       {
         "id": "c701e10e5298920e",
         "type": "leaf",
+        "dimension": 58.70689655172414,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Data Management/Database Performance Tuning/Binary Search and Tree.md",
+            "file": "Data Management/Database Performance Tuning/Table Partitioning.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "1bba60caba43805c",
+        "type": "leaf",
+        "dimension": 41.293103448275865,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Allgemeine Mathematik/Zeichensammlung.md",
             "mode": "source"
           }
         }
@@ -68,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Management/Database Performance Tuning/Binary Search and Tree.md",
+                "file": "Data Management/Database Performance Tuning/Table Partitioning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +112,15 @@
   },
   "active": "c701e10e5298920e",
   "lastOpenFiles": [
+    "Data Management/Database Performance Tuning/Table Partitioning.md",
+    "Allgemeine Mathematik/Zeichensammlung.md",
     "Data Management/Database Performance Tuning/Binary Search and Tree.md",
-    "Data Management/Database Performance Tuning/Background Storage System.md",
     "Data Management/Database Performance Tuning/Index Structures.md",
+    "Data Management/Database Performance Tuning/Physical Design.md",
+    "z_images/Pasted image 20220507104055.png",
+    "Data Management/Database Performance Tuning/Background Storage System.md",
     "Data Management/Database Performance Tuning/Database Compression Techniques.md",
     "Analysis/Differentialgleichungen/Inhomogene DGL mit mit konstanten Koeffizienten.md",
-    "Analysis/Differentialgleichungen/Lineare DGL mit konstanten Koeffizienten.md",
-    "Data Science and AI/Information Retrieval/Natural Language Processing.md",
-    "Data Science and AI/Information Retrieval/Recommender Systems/User Based CF.md",
-    "Data Science and AI/Information Retrieval/Recommender Systems/Recommender Systems.md",
-    "Data Science and AI/Information Retrieval/Recommender Systems/Collaborative Filtering.md"
+    "Analysis/Differentialgleichungen/Lineare DGL mit konstanten Koeffizienten.md"
   ]
 }
