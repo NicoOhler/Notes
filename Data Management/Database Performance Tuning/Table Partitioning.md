@@ -16,4 +16,17 @@
 + row partitioning into n fragments
 	+ complete, disjoint and reconstructable
 	+ schema of fragments is equivalent to schema of base relation
-	+ 
++ partitioning
+	+ split table by n selection predicates on attributes
+		+ e.g. split by last name
+	+ beware of attribute domain and skew	
++ reconstruction
+	+ union of all fragments
+	+ bag semantics but no duplicates across partitions
+	+ ![[Pasted image 20220507105522.png]]
+
+### Vertical Fragmentation
+![[Pasted image 20220507105737.png]]
+
+### Derived Horizontal Fragmentation
+![[Pasted image 20220507105901.png]]
