@@ -45,3 +45,11 @@
 + example
 	+ ![[Pasted image 20220507103205.png]]
 
+### B-Tree Insert and Delete Example  
+![[Pasted image 20220507103541.png]]
+
+### Prefix Tree
+![[Pasted image 20220507103927.png]] 
+
+### Learned Index Structures
+![[Pasted image 20220507104055.png]]
