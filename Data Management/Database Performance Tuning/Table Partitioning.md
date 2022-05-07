@@ -30,3 +30,6 @@
 
 ### Derived Horizontal Fragmentation
 ![[Pasted image 20220507105901.png]]
+
+### Partitioning in Postgre
+![[Pasted image 20220507112231.png]]
