@@ -28,4 +28,10 @@
 
 ### How View Maintenance is done
 + incremental maintenance
-	+ track changesin and update view according to these changes
+	+ track changes in separate table - propagate
+	+ apply collected changes to view - apply
+	+ ![[Pasted image 20220507114310.png]]
+	+ ![[Pasted image 20220507114318.png]]
+
+### Materialized Views in PostgreSQL
++ ![[Pasted image 20220507114449.png]]
