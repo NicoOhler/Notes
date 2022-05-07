@@ -33,3 +33,15 @@
 		+ may cause recursive splitting
 + self-balancing
 + ![[Pasted image 20220506175849.png]]
++ Example
+	+ ![[Pasted image 20220507102636.png]]
+
+### B-Tree Delete
++ deletion might cause underflow (<k entries)
+	+ underflow on inner node
+		+ ==> move entry from fullest successor (node below) into inner node
+	+ underflow on leaf node
+		+ ==>  merge with sibling
++ example
+	+ ![[Pasted image 20220507103205.png]]
+
