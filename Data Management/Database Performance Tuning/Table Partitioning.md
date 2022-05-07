@@ -31,5 +31,13 @@
 ### Derived Horizontal Fragmentation
 ![[Pasted image 20220507105901.png]]
 
-### Partitioning in Postgre
+### Exploiting Partitioning in Postgre
 ![[Pasted image 20220507112231.png]]
+![[Pasted image 20220507112555.png]]
+
+### Database Cracking
++ database layout adapts to requested queries and their range predicates
+	+ creates index structure to identify qualifying partitions
+	+ inside partition its elements are unordered
++ workload creates hybrid between partitioning and indexing
++ ![[Pasted image 20220507112812.png]]
