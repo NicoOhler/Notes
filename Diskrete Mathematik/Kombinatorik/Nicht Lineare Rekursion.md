@@ -18,31 +18,4 @@
 		+ $\frac{1}{n}\binom{2n-2}{n-1}$
 		+ ![[Pasted image 20220428163628.png]]
 
-### Quicksort
-+ Sortieralgorithmus
-+ gegeben Array von unterschiedlichen Elementen
-+ Divide and Conquer
-	+ in zwei Subarrays aufteilen
-	+ Teilarrays rekursiv sortieren
-	+ sortierte Arrays zusammenfügen
-+ Input
-	+ Array a
-	+ linke/kleinste Index l
-	+ rechte/größte Index r
-+ zwischen l und r wird sortiert
-+ l=1 und r=n beim ersten Aufruf
-+ Algorithmus
-	+ p:=a\[r] ist Pivot-Element
-	+ vergleiche a\[l] bis a\[r-1] mit p
-	+ sortiere um, sodass
-		+ a\[k]=p
-		+ a\[i]\<p für i\<k
-		+ a\[i]\>p für i\>k
-	+ ruf Quicksort rekursiv für linke und rechte Seite auf
-		+ links mit den Parametern
-			+ l=l, r=k-1
-		+ rechts mit den Parametern
-			+ l=k+1, r=r
-
-
 [[Lineare Rekursion]]
