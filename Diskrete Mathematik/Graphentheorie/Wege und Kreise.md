@@ -13,9 +13,11 @@
 	+ Kante
 
 ### Kreis
-+ geschlossene Pfad 
-+ mindestens Länge 1
-	+ Länge 1 ==> Schleife
-	+ Länge 2 ==> 
++ geschlossener Pfad <==> Zyklus <==> Kreis
++ mindestens Länge 3
+	+ ![[Pasted image 20220508154921.png]]
 + ![[Pasted image 20220508154744.png]]
++ Weg, welcher jede Kante genau einmal verwendet heißt eulerisch
++ Weg, welcher alle Knoten genau einmal verwendet heißt Hamilton-Weg
+	+ G ist hamiltonisch, wenn Hamilton-Weg existiert
 
