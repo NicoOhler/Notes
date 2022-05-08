@@ -46,6 +46,27 @@
 + Adjazenzmatrix ist nxn Matrix mit
 	+ $a_{ij}=1$, wenn $V_i$ und $V_j$ benachbart
 	+ ansonsten 0
-+ ![[Pasted image 20220508150829.png]]
++ immer symmetrisch entlang der Diagonale
++ Beispiel
+	+ ![[Pasted image 20220508150829.png]]
+	+ Sanity Check - Probe
+		+ ![[Pasted image 20220508151129.png]]
+
+### Inzidenzmatrix
++ analog zur Adjazenzmatrix
+	+ 1 wenn inzident
++ Beispiel:
+	+ ![[Pasted image 20220508151314.png]]
+	+ ![[Pasted image 20220508151256.png]]
+
+### Diagonalmatrix/Gradmatrix
++ auf der Diagonale befindet sich Grad des jeweiligen Knoten
++ ![[Pasted image 20220508151638.png]]
+
+### a
++ auf der Diagonale befindet sich Grad des jeweiligen Knoten
++ ansonsten -1 falls verbunden, sonst 0
++ ![[Pasted image 20220508151831.png]]
++ kann a
 
 [[Diskrete Mathematik]] [[Graphs]] [[Matrix]]
