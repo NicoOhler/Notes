@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Data Science and AI/Machine Learning/Classification.md",
+            "file": "Data Science and AI/Machine Learning/Artificial Neural Networks.md",
             "mode": "source"
           }
         }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Science and AI/Machine Learning/Classification.md",
+                "file": "Data Science and AI/Machine Learning/Artificial Neural Networks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,6 +112,7 @@
   },
   "active": "c701e10e5298920e",
   "lastOpenFiles": [
+    "Data Science and AI/Machine Learning/Artificial Neural Networks.md",
     "Data Science and AI/Machine Learning/Classification.md",
     "Data Science and AI/Machine Learning/Machine Learning.md",
     "Allgemeine Mathematik/Zeichensammlung.md",
@@ -120,7 +121,6 @@
     "Diskrete Mathematik/Graphentheorie/Wege und Kreise.md",
     "z_images/Pasted image 20220508153515.png",
     "Diskrete Mathematik/Graphentheorie/Graphentheorie.md",
-    "Diskrete Mathematik/Graphentheorie/Graphenmatrizen.md",
-    "NRLA/Matrizen/Matrix.md"
+    "Diskrete Mathematik/Graphentheorie/Graphenmatrizen.md"
   ]
 }
