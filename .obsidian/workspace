@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Data Management/Database Performance Tuning/Materialized Views.md",
+            "file": "Diskrete Mathematik/Kombinatorik/Nicht Lineare Rekursion.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Management/Database Performance Tuning/Materialized Views.md",
+                "file": "Diskrete Mathematik/Kombinatorik/Nicht Lineare Rekursion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +99,8 @@
   },
   "active": "c701e10e5298920e",
   "lastOpenFiles": [
+    "Diskrete Mathematik/Kombinatorik/Nicht Lineare Rekursion.md",
+    "z_images/Pasted image 20220507114449.png",
     "Data Management/Database Performance Tuning/Materialized Views.md",
     "Data Management/Database Performance Tuning/Table Partitioning.md",
     "Allgemeine Mathematik/Zeichensammlung.md",
@@ -106,8 +108,6 @@
     "Data Management/Database Performance Tuning/Index Structures.md",
     "Data Management/Database Performance Tuning/Physical Design.md",
     "z_images/Pasted image 20220507104055.png",
-    "Data Management/Database Performance Tuning/Background Storage System.md",
-    "Data Management/Database Performance Tuning/Database Compression Techniques.md",
-    "Analysis/Differentialgleichungen/Inhomogene DGL mit mit konstanten Koeffizienten.md"
+    "Data Management/Database Performance Tuning/Background Storage System.md"
   ]
 }
