@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Diskrete Mathematik/Graphentheorie/Graphentheorie.md",
+            "file": "Diskrete Mathematik/Graphentheorie/Wege und Kreise.md",
             "mode": "source"
           }
         }
@@ -61,8 +61,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -82,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diskrete Mathematik/Graphentheorie/Graphentheorie.md",
+                "file": "Diskrete Mathematik/Graphentheorie/Wege und Kreise.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,15 +112,15 @@
   },
   "active": "c701e10e5298920e",
   "lastOpenFiles": [
+    "Diskrete Mathematik/Graphentheorie/Wege und Kreise.md",
+    "z_images/Pasted image 20220508153515.png",
     "Diskrete Mathematik/Graphentheorie/Graphentheorie.md",
+    "Diskrete Mathematik/Graphentheorie/Graphenmatrizen.md",
     "NRLA/Matrizen/Matrix.md",
     "Allgemeine Mathematik/Zeichensammlung.md",
     "Data Science and AI/Knowledge Representation/Graphs/Graphs.md",
     "Diskrete Mathematik/Kombinatorik/Quicksort.md",
     "Diskrete Mathematik/Kombinatorik/Nicht Lineare Rekursion.md",
-    "z_images/Pasted image 20220507114449.png",
-    "Data Management/Database Performance Tuning/Materialized Views.md",
-    "Data Management/Database Performance Tuning/Table Partitioning.md",
-    "Data Management/Database Performance Tuning/Binary Search and Tree.md"
+    "z_images/Pasted image 20220507114449.png"
   ]
 }
