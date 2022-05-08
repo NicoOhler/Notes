@@ -35,6 +35,17 @@
 	+ $deg(V)=|N_G(V)|$
 + Gradarten
 	+ ![[Pasted image 20220508145821.png]]
++ Summe aller Grade in Graph = doppelte Kantenanzahl
+	+ ![[Pasted image 20220508150003.png]]
++ gerichteter Graph ==> Unterscheidung in Ausgangs- und Eingangsgrad
+	+ ![[Pasted image 20220508150304.png]]
+	+ Knoten mit Ausgangsgrad 0 heißt Senke
+	+ Knoten mit Eingangsgrad 0 heißt Quelle
 
+### Adjazenzmatrix
++ Adjazenzmatrix ist nxn Matrix mit
+	+ $a_{ij}=1$, wenn $V_i$ und $V_j$ benachbart
+	+ ansonsten 0
++ ![[Pasted image 20220508150829.png]]
 
-[[Diskrete Mathematik]] [[Graphs]]
+[[Diskrete Mathematik]] [[Graphs]] [[Matrix]]

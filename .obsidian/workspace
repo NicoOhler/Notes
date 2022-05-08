@@ -52,8 +52,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": true,
+                "query": "adjazenz",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -61,7 +61,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -113,6 +114,7 @@
   "active": "c701e10e5298920e",
   "lastOpenFiles": [
     "Diskrete Mathematik/Graphentheorie/Graphentheorie.md",
+    "NRLA/Matrizen/Matrix.md",
     "Allgemeine Mathematik/Zeichensammlung.md",
     "Data Science and AI/Knowledge Representation/Graphs/Graphs.md",
     "Diskrete Mathematik/Kombinatorik/Quicksort.md",
@@ -120,7 +122,6 @@
     "z_images/Pasted image 20220507114449.png",
     "Data Management/Database Performance Tuning/Materialized Views.md",
     "Data Management/Database Performance Tuning/Table Partitioning.md",
-    "Data Management/Database Performance Tuning/Binary Search and Tree.md",
-    "Data Management/Database Performance Tuning/Index Structures.md"
+    "Data Management/Database Performance Tuning/Binary Search and Tree.md"
   ]
 }
