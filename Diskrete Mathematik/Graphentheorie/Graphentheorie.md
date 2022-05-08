@@ -6,7 +6,7 @@
 		+ Menge von 2-elementrigeTeilmengen von V
 	+ z.B. ungerichtete Graph
 		+ ![[Pasted image 20220508130402.png]]
-+ gerichtete Graph (Dirgraph)
++ gerichtete Graph (Digraph)
 	+ ![[Pasted image 20220508130756.png]]
 + Knoten A ist Nachbar von B, wenn verbunden durch Kante
 + Knoten ist isoliert, wenn er keine Nachbarn hat
@@ -27,7 +27,14 @@
 + Graph ist vollständig, wenn je zwei Knoten benachbart
 	+ jeder Knoten ist mit jedem verbunden?
 	+ ![[Pasted image 20220508144551.png]]
-+ Teilmenge von V und E 
++ Teilmenge von V und E sind unabhängig
+	+ wenn Elemente paarweise nicht benachbart sind
+	+ ![[Pasted image 20220508145351.png]]
+	+ ![[Pasted image 20220508145357.png]]
++ Grad von Knoten = Anzahl von Nachbarn
+	+ $deg(V)=|N_G(V)|$
++ Gradarten
+	+ ![[Pasted image 20220508145821.png]]
 
 
 [[Diskrete Mathematik]] [[Graphs]]
