@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Diskrete Mathematik/Kombinatorik/Quicksort.md",
+            "file": "Diskrete Mathematik/Graphentheorie/Graphentheorie.md",
             "mode": "source"
           }
         }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diskrete Mathematik/Kombinatorik/Quicksort.md",
+                "file": "Diskrete Mathematik/Graphentheorie/Graphentheorie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,6 +112,8 @@
   },
   "active": "c701e10e5298920e",
   "lastOpenFiles": [
+    "Diskrete Mathematik/Graphentheorie/Graphentheorie.md",
+    "Data Science and AI/Knowledge Representation/Graphs/Graphs.md",
     "Diskrete Mathematik/Kombinatorik/Quicksort.md",
     "Allgemeine Mathematik/Zeichensammlung.md",
     "Diskrete Mathematik/Kombinatorik/Nicht Lineare Rekursion.md",
@@ -119,8 +121,6 @@
     "Data Management/Database Performance Tuning/Materialized Views.md",
     "Data Management/Database Performance Tuning/Table Partitioning.md",
     "Data Management/Database Performance Tuning/Binary Search and Tree.md",
-    "Data Management/Database Performance Tuning/Index Structures.md",
-    "Data Management/Database Performance Tuning/Physical Design.md",
-    "z_images/Pasted image 20220507104055.png"
+    "Data Management/Database Performance Tuning/Index Structures.md"
   ]
 }
