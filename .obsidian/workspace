@@ -6,10 +6,23 @@
       {
         "id": "c701e10e5298920e",
         "type": "leaf",
+        "dimension": 67.8448275862069,
         "state": {
           "type": "markdown",
           "state": {
             "file": "Diskrete Mathematik/Kombinatorik/Quicksort.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "b066902f5f769c60",
+        "type": "leaf",
+        "dimension": 32.1551724137931,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Allgemeine Mathematik/Zeichensammlung.md",
             "mode": "source"
           }
         }
@@ -100,11 +113,11 @@
   "active": "c701e10e5298920e",
   "lastOpenFiles": [
     "Diskrete Mathematik/Kombinatorik/Quicksort.md",
+    "Allgemeine Mathematik/Zeichensammlung.md",
     "Diskrete Mathematik/Kombinatorik/Nicht Lineare Rekursion.md",
     "z_images/Pasted image 20220507114449.png",
     "Data Management/Database Performance Tuning/Materialized Views.md",
     "Data Management/Database Performance Tuning/Table Partitioning.md",
-    "Allgemeine Mathematik/Zeichensammlung.md",
     "Data Management/Database Performance Tuning/Binary Search and Tree.md",
     "Data Management/Database Performance Tuning/Index Structures.md",
     "Data Management/Database Performance Tuning/Physical Design.md",

@@ -32,6 +32,14 @@
 	+ $C_n=2(n+1)(H_{n+1}-2+\frac{1}{n+1})$
 	+ $H_n:=\sum_{k=1}^n\frac{1}{k}=1+\frac{1}{2}+\frac{1}{3}+...+\frac{1}{n}$
 		+ n-te harmonische Zahl
-+ $H_n-ln(n)-\$
++ $H_n-ln(n)-γ$ konvergiert gegen 0 für n->∞
+	+ γ:=Euler-Mascheroni-Konstante
+	+ ~0.577
++ $\frac{C_n}{2nln(n)}$ konvergiert gegen 1 asymptotisch
++ Beweis
+	+ ![[Pasted image 20220508124455.png]]
+	+ ![[Pasted image 20220508124704.png]]
+	+ ![[Pasted image 20220508124754.png]]
+	+ ![[Pasted image 20220508124917.png]]
 
-[[Nicht Lineare Rekursion]
+[[Nicht Lineare Rekursion]]
