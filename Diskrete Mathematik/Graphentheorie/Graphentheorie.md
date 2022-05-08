@@ -67,6 +67,8 @@
 + auf der Diagonale befindet sich Grad des jeweiligen Knoten
 + ansonsten -1 falls verbunden, sonst 0
 + ![[Pasted image 20220508151831.png]]
-+ kann a
++ kann auch über Adjazenz- und Diagonalmatrix bestimmen
+	+ L=D-A
+	+ ![[Pasted image 20220508152102.png]]
 
 [[Diskrete Mathematik]] [[Graphs]] [[Matrix]]
