@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Data Science and AI/Machine Learning/Machine Learning.md",
+            "file": "Data Science and AI/Machine Learning/Classification.md",
             "mode": "source"
           }
         }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Science and AI/Machine Learning/Machine Learning.md",
+                "file": "Data Science and AI/Machine Learning/Classification.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,8 +112,8 @@
   },
   "active": "c701e10e5298920e",
   "lastOpenFiles": [
+    "Data Science and AI/Machine Learning/Classification.md",
     "Data Science and AI/Machine Learning/Machine Learning.md",
-    "Data Science and AI/Classification.md",
     "Allgemeine Mathematik/Zeichensammlung.md",
     "Data Science and AI/Information Retrieval/Recommender Systems/Collaborative Filtering.md",
     "Data Science and AI/Information Retrieval/Recommender Systems/Item Based CF.md",
