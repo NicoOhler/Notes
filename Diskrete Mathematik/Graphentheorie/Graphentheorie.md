@@ -18,6 +18,16 @@
 + Teilgraph induziert(aufgespannt), wenn
 	+ ![[Pasted image 20220508131411.png]]
 	+ ![[Pasted image 20220508131641.png]]
+	+ 
+### Grad
++ falls Knoten auf Kante liegt
+	+  V und E inzident
++ falls e aus zwei unterschiedlichen Knoten v und w besteht
+	+ v und w sind adjazent/benachbart
++ Graph ist vollständig, wenn je zwei Knoten benachbart
+	+ jeder Knoten ist mit jedem verbunden?
+	+ ![[Pasted image 20220508144551.png]]
++ Teilmenge von V und E 
 
 
 [[Diskrete Mathematik]] [[Graphs]]
