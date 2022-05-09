@@ -6,11 +6,24 @@
       {
         "id": "c701e10e5298920e",
         "type": "leaf",
+        "dimension": 62.737127371273715,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Diskrete Mathematik/Logik/Substitutionen in Prädikatenlogik.md",
-            "mode": "preview"
+            "file": "Analysis/Komplexe Analysis/Komplexe Analysis.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "d97d8337520546dc",
+        "type": "leaf",
+        "dimension": 37.262872628726285,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Allgemeine Mathematik/Zeichensammlung.md",
+            "mode": "source"
           }
         }
       }
@@ -48,12 +61,12 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 316
+    "width": 316,
+    "collapsed": true
   },
   "right": {
     "id": "d1219e90b492538d",
@@ -69,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diskrete Mathematik/Logik/Substitutionen in Prädikatenlogik.md",
+                "file": "Analysis/Komplexe Analysis/Komplexe Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,15 +113,15 @@
   },
   "active": "c701e10e5298920e",
   "lastOpenFiles": [
+    "Analysis/Komplexe Analysis/Komplexe Analysis.md",
+    "Allgemeine Mathematik/Zeichensammlung.md",
+    "Analysis/Bernoulli Ungleichung.md",
+    "Analysis/Analysis.md",
+    "Analysis/Komplexe Zahlen.md",
+    "Analysis/Vollständige Induktion.md",
+    "Analysis/Differentialgleichungen/Inhomogene DGL mit mit konstanten Koeffizienten.md",
     "Diskrete Mathematik/Logik/Substitutionen in Prädikatenlogik.md",
     "Diskrete Mathematik/Kongruenzen/Chinesische Restsatz.md",
-    "Diskrete Mathematik/Kryptographie/Satz von Euler-Fermat.md",
-    "Diskrete Mathematik/Kryptographie/RSA-Verfahren.md",
-    "Diskrete Mathematik/Relationen.md",
-    "Diskrete Mathematik/Kongruenzen/Kongruenzen und Partitionen.md",
-    "Analysis/Integralrechnung/Integration rationaler Funktionen.md",
-    "Diskrete Mathematik/Logik/First Order Logic.md",
-    "Allgemeine Mathematik/Zeichensammlung.md",
-    "Diskrete Mathematik/Logik/Aussagenlogische Formeln.md"
+    "Diskrete Mathematik/Kryptographie/Satz von Euler-Fermat.md"
   ]
 }
