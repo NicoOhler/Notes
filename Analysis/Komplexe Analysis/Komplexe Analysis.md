@@ -35,7 +35,9 @@
 
 ### Komplexe Differenzierbarkeit bekannter Funktionen
 + Potenzfunktionen
+	+ holomorph
 	+ ![[Pasted image 20220509155021.png]]
+	+ somit sind auch Polynomfunktionen und Potenzreihen holomorph
 + Potenzreihen
 	+ ![[Pasted image 20220509155254.png]]
 + Exponentialfunktionen
@@ -46,9 +48,13 @@
 + Logarithmus
 	+ ![[Pasted image 20220509160048.png]]
 	+ ![[Pasted image 20220509160119.png]]
+	+ A
 + Beispiel
 	+ ![[Pasted image 20220509160025.png]]
-	+ 
+
+### Rechenregeln für Ableitungen
++ Rechenregeln bleiben erhalten
++ ![[Pasted image 20220509172008.png]]
 
 
 [[Analysis]]
