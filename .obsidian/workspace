@@ -6,24 +6,11 @@
       {
         "id": "c701e10e5298920e",
         "type": "leaf",
-        "dimension": 67.8448275862069,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Data Science and AI/Machine Learning/Artificial Neural Networks.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "b066902f5f769c60",
-        "type": "leaf",
-        "dimension": 32.1551724137931,
         "state": {
           "type": "markdown",
           "state": {
             "file": "Allgemeine Mathematik/Zeichensammlung.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -52,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "adjazenz",
+                "query": "junkto",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Science and AI/Machine Learning/Artificial Neural Networks.md",
+                "file": "Allgemeine Mathematik/Zeichensammlung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,15 +99,15 @@
   },
   "active": "c701e10e5298920e",
   "lastOpenFiles": [
-    "Data Science and AI/Machine Learning/Artificial Neural Networks.md",
-    "Data Science and AI/Machine Learning/Classification.md",
-    "Data Science and AI/Machine Learning/Machine Learning.md",
     "Allgemeine Mathematik/Zeichensammlung.md",
-    "Data Science and AI/Information Retrieval/Recommender Systems/Collaborative Filtering.md",
-    "Data Science and AI/Information Retrieval/Recommender Systems/Item Based CF.md",
-    "Diskrete Mathematik/Graphentheorie/Wege und Kreise.md",
-    "z_images/Pasted image 20220508153515.png",
-    "Diskrete Mathematik/Graphentheorie/Graphentheorie.md",
-    "Diskrete Mathematik/Graphentheorie/Graphenmatrizen.md"
+    "Diskrete Mathematik/Logik/First Order Logic.md",
+    "Analysis/Integralrechnung/Integration rationaler Funktionen.md",
+    "Diskrete Mathematik/Kongruenzen/Chinesische Restsatz.md",
+    "Diskrete Mathematik/Logik/Aussagenlogische Formeln.md",
+    "Diskrete Mathematik/Logik/Äquivalenz.md",
+    "Diskrete Mathematik/Logik/Substitutionen in Prädikatenlogik.md",
+    "Diskrete Mathematik/Logik/Konjunktive und Disjunktive Normalform.md",
+    "Data Science and AI/Machine Learning/Artificial Neural Networks.md",
+    "Data Science and AI/Machine Learning/Classification.md"
   ]
 }
