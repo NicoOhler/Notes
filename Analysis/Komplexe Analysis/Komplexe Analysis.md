@@ -31,9 +31,24 @@
 		+ Niveaulinien von u senkrecht auf Niveaulinien von v
 		+ ![[Pasted image 20220509154730.png]]
 + f ist holomorph <==> f in jedem Punkt von U komplex differenzierbar
-+ Bei
-	+ ![[Pasted image 20220509155021.png]]
+	+ auf ganz ℂ holomorph <==> ganz holomorph
 
+### Komplexe Differenzierbarkeit bekannter Funktionen
++ Potenzfunktionen
+	+ ![[Pasted image 20220509155021.png]]
++ Potenzreihen
+	+ ![[Pasted image 20220509155254.png]]
++ Exponentialfunktionen
+	+ ![[Pasted image 20220509155515.png]]
+	+ ![[Pasted image 20220509155816.png]]
+	+ ![[Pasted image 20220509155852.png]]
+		+ nimmt jeden Wert (≠0) unendlich oft an
++ Logarithmus
+	+ ![[Pasted image 20220509160048.png]]
+	+ ![[Pasted image 20220509160119.png]]
++ Beispiel
+	+ ![[Pasted image 20220509160025.png]]
+	+ 
 
 
 [[Analysis]]
