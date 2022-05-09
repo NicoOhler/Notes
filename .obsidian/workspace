@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Diskrete Mathematik/Kongruenzen/Chinesische Restsatz.md",
+            "file": "Diskrete Mathematik/Logik/Substitutionen in Prädikatenlogik.md",
             "mode": "preview"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "teilerfremd",
+                "query": "präne",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diskrete Mathematik/Kongruenzen/Chinesische Restsatz.md",
+                "file": "Diskrete Mathematik/Logik/Substitutionen in Prädikatenlogik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +100,7 @@
   },
   "active": "c701e10e5298920e",
   "lastOpenFiles": [
+    "Diskrete Mathematik/Logik/Substitutionen in Prädikatenlogik.md",
     "Diskrete Mathematik/Kongruenzen/Chinesische Restsatz.md",
     "Diskrete Mathematik/Kryptographie/Satz von Euler-Fermat.md",
     "Diskrete Mathematik/Kryptographie/RSA-Verfahren.md",
@@ -108,7 +109,6 @@
     "Analysis/Integralrechnung/Integration rationaler Funktionen.md",
     "Diskrete Mathematik/Logik/First Order Logic.md",
     "Allgemeine Mathematik/Zeichensammlung.md",
-    "Diskrete Mathematik/Logik/Aussagenlogische Formeln.md",
-    "Diskrete Mathematik/Logik/Äquivalenz.md"
+    "Diskrete Mathematik/Logik/Aussagenlogische Formeln.md"
   ]
 }
