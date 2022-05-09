@@ -19,5 +19,11 @@
 	+ ![[Pasted image 20220509145653.png]]
 + Grenzwert
 	+ ![[Pasted image 20220509145835.png]]
++ Jacobi-Matrix
+	+ ![[Pasted image 20220509154036.png]]
+	+ Multiplikation führt zu Drehstreckung
+		+ [[Spezielle Abbildungen]]
++ Cauchy-Riemann-Gleichungen
+	+ 
 
 [[Analysis]]

@@ -11,7 +11,7 @@
           "type": "markdown",
           "state": {
             "file": "Analysis/Komplexe Analysis/Komplexe Analysis.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       },
@@ -65,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316,
-    "collapsed": true
+    "width": 316
   },
   "right": {
     "id": "d1219e90b492538d",
@@ -114,14 +113,14 @@
   "active": "c701e10e5298920e",
   "lastOpenFiles": [
     "Analysis/Komplexe Analysis/Komplexe Analysis.md",
-    "Pasted image 20220509145247.png",
+    "NRLA/Lineare Abbildungen/Spezielle Abbildungen.md",
+    "z_images/Pasted image 20220509145247.png",
     "Allgemeine Mathematik/Zeichensammlung.md",
     "Analysis/Bernoulli Ungleichung.md",
     "Analysis/Analysis.md",
     "Analysis/Komplexe Zahlen.md",
     "Analysis/Vollständige Induktion.md",
     "Analysis/Differentialgleichungen/Inhomogene DGL mit mit konstanten Koeffizienten.md",
-    "Diskrete Mathematik/Logik/Substitutionen in Prädikatenlogik.md",
-    "Diskrete Mathematik/Kongruenzen/Chinesische Restsatz.md"
+    "Diskrete Mathematik/Logik/Substitutionen in Prädikatenlogik.md"
   ]
 }
