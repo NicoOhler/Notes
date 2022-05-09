@@ -24,6 +24,16 @@
 	+ Multiplikation führt zu Drehstreckung
 		+ [[Spezielle Abbildungen]]
 + Cauchy-Riemann-Gleichungen
-	+ 
+	+ seien u und v Real- und Imaginäranteil einer komplex differenzierbaren Funktion
+	+ ![[Pasted image 20220509154340.png]]
+	+ erfüllt Laplace/Potentialgleichung
+	+ Gradient von v senkrecht auf Gradient von u
+		+ Niveaulinien von u senkrecht auf Niveaulinien von v
+		+ ![[Pasted image 20220509154730.png]]
++ f ist holomorph <==> f in jedem Punkt von U komplex differenzierbar
++ Bei
+	+ ![[Pasted image 20220509155021.png]]
+
+
 
 [[Analysis]]
