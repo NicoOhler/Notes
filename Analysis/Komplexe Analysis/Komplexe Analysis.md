@@ -46,9 +46,11 @@
 	+ ![[Pasted image 20220509155852.png]]
 		+ nimmt jeden Wert (≠0) unendlich oft an
 + Logarithmus
+	+ nicht auf ganz ℂ definiert
+	+ ![[Pasted image 20220509172247.png]]
 	+ ![[Pasted image 20220509160048.png]]
 	+ ![[Pasted image 20220509160119.png]]
-	+ A
++ Winkelfunktionen
 + Beispiel
 	+ ![[Pasted image 20220509160025.png]]
 
