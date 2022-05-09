@@ -6,19 +6,19 @@
       {
         "id": "c701e10e5298920e",
         "type": "leaf",
-        "dimension": 62.737127371273715,
+        "dimension": 71.68021680216802,
         "state": {
           "type": "markdown",
           "state": {
             "file": "Analysis/Komplexe Analysis/Komplexe Analysis.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       },
       {
         "id": "d97d8337520546dc",
         "type": "leaf",
-        "dimension": 37.262872628726285,
+        "dimension": 28.319783197831978,
         "state": {
           "type": "markdown",
           "state": {
@@ -114,6 +114,7 @@
   "active": "c701e10e5298920e",
   "lastOpenFiles": [
     "Analysis/Komplexe Analysis/Komplexe Analysis.md",
+    "Pasted image 20220509145247.png",
     "Allgemeine Mathematik/Zeichensammlung.md",
     "Analysis/Bernoulli Ungleichung.md",
     "Analysis/Analysis.md",
@@ -121,7 +122,6 @@
     "Analysis/Vollständige Induktion.md",
     "Analysis/Differentialgleichungen/Inhomogene DGL mit mit konstanten Koeffizienten.md",
     "Diskrete Mathematik/Logik/Substitutionen in Prädikatenlogik.md",
-    "Diskrete Mathematik/Kongruenzen/Chinesische Restsatz.md",
-    "Diskrete Mathematik/Kryptographie/Satz von Euler-Fermat.md"
+    "Diskrete Mathematik/Kongruenzen/Chinesische Restsatz.md"
   ]
 }
