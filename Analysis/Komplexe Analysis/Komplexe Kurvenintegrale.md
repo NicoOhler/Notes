@@ -18,9 +18,11 @@
 	+ U sternförmig
 	+ f holomorph
 	+ C geschlossen in U
-+ Beispiel:
++ Beispiele:
 	+ ![[Pasted image 20220511142112.png]]
-	+ ![[Pasted image 20220511142302.png]]
-	+ ![[Pasted image 20220511142346.png]]
+		+ ![[Pasted image 20220511142302.png]]
+		+ ![[Pasted image 20220511142346.png]]
+	+ ![[Pasted image 20220511150220.png]]
+		+ 
 
 [[Komplexe Analysis]]
