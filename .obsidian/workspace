@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Komplexe Analysis/Komplexe Analysis.md",
-            "mode": "preview"
+            "file": "Analysis/Komplexe Analysis/Komplexe Kurvenintegrale.md",
+            "mode": "source"
           }
         }
       },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Komplexe Analysis/Komplexe Analysis.md",
+                "file": "Analysis/Komplexe Analysis/Komplexe Kurvenintegrale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,8 +112,8 @@
   },
   "active": "c701e10e5298920e",
   "lastOpenFiles": [
-    "Analysis/Komplexe Analysis/Komplexe Analysis.md",
     "Analysis/Komplexe Analysis/Komplexe Kurvenintegrale.md",
+    "Analysis/Komplexe Analysis/Komplexe Analysis.md",
     "Allgemeine Mathematik/Zeichensammlung.md",
     "NRLA/Lineare Abbildungen/Spezielle Abbildungen.md",
     "z_images/Pasted image 20220509145247.png",
