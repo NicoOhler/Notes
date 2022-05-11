@@ -30,6 +30,14 @@
 	+ ![[Pasted image 20220511151006.png]]
 	+ ![[Pasted image 20220511151330.png]]
 + Cauchysche Integralformel
-	+ $f(z_0)*Index_C(z_0)=\frac{1}{2\pi}\oint_C\frac{f(z)}{z-z_0}dz$
+	+ $f(z_0)*Ind_C(z_0)=\frac{1}{2\pi}\oint_C\frac{f(z)}{z-z_0}dz$
++ Erkenntnisse
+	+ ![[Pasted image 20220511151750.png]]
+	+ ![[Pasted image 20220511151805.png]]
+	+ f lässt sich als Potenzreihe mit Konvergenzradius ≥R darstellen
+	+ f beliebig oft differenzierbar
+	+ $a_n=\frac{f^{(n)}(z_0)}{n!}=\frac{1}{2\pi}\oint_{|ζ-z_0| } \frac{f(ζ)}{(ζ-z_0)^{n+1}}dζ$
+		+ $=\frac{1}{2\pi}\oint_C \frac{f(ζ)}{(ζ-z_0)^{n+1}}dζ$
+		+ C eine Kurve in U mit $Ind_C(z_0)=1$
 
 [[Komplexe Analysis]]
