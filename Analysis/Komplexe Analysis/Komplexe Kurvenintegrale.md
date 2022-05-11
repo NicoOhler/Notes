@@ -14,15 +14,22 @@
 	+ $\oint f(z)dz=0$
 		+ wegen Cauchy-Riemann-Gleichungen
 		+ ![[Pasted image 20220511141142.png]]
-+ Cauchyscher Integralsatz CIS: $\oint f(z)dz=0$, wenn
+		
+### Cauchyscher Integralsatz
++ $\oint f(z)dz=0$, wenn
 	+ U sternförmig
 	+ f holomorph
 	+ C geschlossen in U
 + Beispiele:
 	+ ![[Pasted image 20220511142112.png]]
-		+ ![[Pasted image 20220511142302.png]]
-		+ ![[Pasted image 20220511142346.png]]
+	+ ![[Pasted image 20220511142302.png]]
+	+ ![[Pasted image 20220511142346.png]]
++ Umläufe zählen
 	+ ![[Pasted image 20220511150220.png]]
-		+ 
+	+ ![[Pasted image 20220511150743.png]]
+	+ ![[Pasted image 20220511151006.png]]
+	+ ![[Pasted image 20220511151330.png]]
++ Cauchysche Integralformel
+	+ $f(z_0)*Index_C(z_0)=\frac{1}{2\pi}\oint_C\frac{f(z)}{z-z_0}dz$
 
 [[Komplexe Analysis]]
