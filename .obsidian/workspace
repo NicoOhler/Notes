@@ -13,6 +13,17 @@
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "3c64f80f2faf9d1d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Allgemeine Mathematik/Zeichensammlung.md",
+            "mode": "source"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -100,6 +111,7 @@
   "active": "c701e10e5298920e",
   "lastOpenFiles": [
     "Diskrete Mathematik/Graphentheorie/Bäume & Spannbäume.md",
+    "Allgemeine Mathematik/Zeichensammlung.md",
     "Diskrete Mathematik/Graphentheorie/Wege und Kreise.md",
     "Diskrete Mathematik/Graphentheorie/Graphenmatrizen.md",
     "Diskrete Mathematik/Graphentheorie/Graphentheorie.md",
@@ -107,7 +119,6 @@
     "Data Management/Database Performance Tuning/Query Optimization/Plan Operators.md",
     "Data Management/Database Performance Tuning/Query Optimization/Query Optimization.md",
     "Data Management/Relational Algebra/Physical Operators.md",
-    "Data Management/Database Performance Tuning/Query Optimization/Join Ordering.md",
-    "Data Management/Database Performance Tuning/Query Optimization/Plan Optimization.md"
+    "Data Management/Database Performance Tuning/Query Optimization/Join Ordering.md"
   ]
 }

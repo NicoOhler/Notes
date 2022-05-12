@@ -25,6 +25,16 @@
 		+ automatisch kürzeste Pfad
 	+ bestimme Pfad $P_y$ von y bis $x_0$
 	+ bestimme kleinsten gemeinsamen Vorgänger j
+		+ ![[Pasted image 20220512170005.png]]
+	+ return Pfad von x zu j nach y
+		+ ![[Pasted image 20220512170121.png]]
+
+### Spannbäume
++ Baum T ist Spannbaum von G, wenn
+	+ $V(T)=V(G)$
+	+ $E(T)⊆E(G)$
+	+ ![[Pasted image 20220512170337.png]]
++ 
 
 
 
