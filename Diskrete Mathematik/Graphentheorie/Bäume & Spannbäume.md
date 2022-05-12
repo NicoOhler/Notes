@@ -5,12 +5,26 @@
 	+ zusammenhängend
 	+ ohne Kreis <==> $|E|=|v|-1$
 + für je zwei Knoten, gibt es genau einen Pfad
++ Wurzel $x_0$ ist "Spitze" von Baum
+	+ ![[Pasted image 20220512164947.png]]
+	+ jeder Knoten (außer $x_0$) hat genau einen (ersten) Vorgänger $v(x)$
+		+ $d(x_0,v(x))<d(x_0,y)$
+		+ $v^{k}(x)=$ k-te Vorgänger 
+	+ Nachfolger sind Nachbarn ohne Vorgänger
+		+ ![[Pasted image 20220512165341.png]]
+		+ Blätter Nachfolger ohne Nachfolger
+	+ Höhe von x $h(x)=d(x_0,x)$
 
 ### Path Finder
 + Input: Baum T, Knoten x,y
 + Output: kürzeste Pfad von x nach y
 + Algorithmus
 	+ wähle Knoten $x_0$ aus $V/\{x,y\}$ als Wurzel
+	+ bestimme Pfad  $P_x$ von x bis $x_0$
+		+ $P_x=(x,v^{1}(x),v^{2}(x),...,v^{k}(x)=x_0)$
+		+ automatisch kürzeste Pfad
+	+ bestimme Pfad $P_y$ von y bis $x_0$
+	+ bestimme kleinsten gemeinsamen Vorgänger j
 
 
 
