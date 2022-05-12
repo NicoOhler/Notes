@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Data Science and AI/Machine Learning/Artificial Neural Networks.md",
+            "file": "Data Science and AI/Machine Learning/Machine Learning.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Science and AI/Machine Learning/Artificial Neural Networks.md",
+                "file": "Data Science and AI/Machine Learning/Machine Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,8 +99,8 @@
   },
   "active": "c701e10e5298920e",
   "lastOpenFiles": [
-    "Data Science and AI/Machine Learning/Artificial Neural Networks.md",
     "Data Science and AI/Machine Learning/Machine Learning.md",
+    "Data Science and AI/Machine Learning/Artificial Neural Networks.md",
     "Data Science and AI/Machine Learning/Classification.md",
     "Analysis/Komplexe Analysis/Komplexe Analysis.md",
     "Analysis/Komplexe Analysis/Komplexe Kurvenintegrale.md",
