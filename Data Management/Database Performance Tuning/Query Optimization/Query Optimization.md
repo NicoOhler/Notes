@@ -40,5 +40,25 @@
 	+ ![[Pasted image 20220512133412.png]]
 + type-J nesting
 	+ unnesting of correlated subqueries w/o aggregation
-	+ ojoin constraint
+	+ optimized via join constraint
 	+ instead of constraint within subqery
+	+ ![[Pasted image 20220512133612.png]]
++ type-JA nesting
+	+ unnesting of correlated subqueries w/ aggregation
+	+ all aggregates computed at once
+	+ ![[Pasted image 20220512133924.png]]
+
+### Selections and Projections
++ transformation rules
+	+ selection grouping
+		+ multiple groups combined to one
+		+ ![[Pasted image 20220512134150.png]]
+	+ projection grouping
+		+ instead of filtering into stricter filtering
+		+ only stricter filtering
+		+ ![[Pasted image 20220512134240.png]]
+	+ selection pushdown
+		+ allows moving selection after join to before
+		+ reduces size of join inputs
+			+ may allow storing all data within RAM 
+		+ ![[Pasted image 20220512134425.png]]
