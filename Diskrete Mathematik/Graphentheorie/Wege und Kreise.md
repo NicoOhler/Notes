@@ -11,6 +11,11 @@
 	+ Knoten
 + Weg der Länge 1
 	+ Kante
++ zwei Knoten v, u sind zusammenhängend, wenn vRu
+	+ vRu, falls Weg dazwischen existiert
+		+ Äquivalenzrelation
+		+ Äquivalenzklassen = Komponenten auf V
++ Abstand $d(u,v)$ = kleinste Länge zwischen u,v
 
 ### Kreis
 + geschlossener Pfad <==> Zyklus <==> Kreis
@@ -21,3 +26,4 @@
 + Weg, welcher alle Knoten genau einmal verwendet heißt Hamilton-Weg
 	+ G ist hamiltonisch, wenn Hamilton-Weg existiert
 
+[[Graphentheorie]]

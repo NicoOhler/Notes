@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Diskrete Mathematik/Graphentheorie/Graphenmatrizen.md",
+            "file": "Diskrete Mathematik/Graphentheorie/Bäume & Spannbäume.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diskrete Mathematik/Graphentheorie/Graphenmatrizen.md",
+                "file": "Diskrete Mathematik/Graphentheorie/Bäume & Spannbäume.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
   },
   "active": "c701e10e5298920e",
   "lastOpenFiles": [
-    "Diskrete Mathematik/Graphentheorie/Graphenmatrizen.md",
+    "Diskrete Mathematik/Graphentheorie/Bäume & Spannbäume.md",
     "Diskrete Mathematik/Graphentheorie/Wege und Kreise.md",
+    "Diskrete Mathematik/Graphentheorie/Graphenmatrizen.md",
+    "Diskrete Mathematik/Graphentheorie/Graphentheorie.md",
     "z_images/Pasted image 20220512153906.png",
     "Data Management/Database Performance Tuning/Query Optimization/Plan Operators.md",
     "Data Management/Database Performance Tuning/Query Optimization/Query Optimization.md",
     "Data Management/Relational Algebra/Physical Operators.md",
     "Data Management/Database Performance Tuning/Query Optimization/Join Ordering.md",
-    "Data Management/Database Performance Tuning/Query Optimization/Plan Optimization.md",
-    "Data Management/Database Performance Tuning/Query Optimization/Query Rewriting.md",
-    "Data Management/Database Performance Tuning/Background Storage System.md"
+    "Data Management/Database Performance Tuning/Query Optimization/Plan Optimization.md"
   ]
 }
