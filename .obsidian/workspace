@@ -6,10 +6,11 @@
       {
         "id": "c701e10e5298920e",
         "type": "leaf",
+        "dimension": 63.70431893687708,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Diskrete Mathematik/Graphentheorie/Bäume & Spannbäume.md",
+            "file": "Diskrete Mathematik/Graphentheorie/Graphenmatrizen.md",
             "mode": "source"
           }
         }
@@ -17,6 +18,7 @@
       {
         "id": "3c64f80f2faf9d1d",
         "type": "leaf",
+        "dimension": 36.29568106312293,
         "state": {
           "type": "markdown",
           "state": {
@@ -79,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diskrete Mathematik/Graphentheorie/Bäume & Spannbäume.md",
+                "file": "Diskrete Mathematik/Graphentheorie/Graphenmatrizen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,10 +112,10 @@
   },
   "active": "c701e10e5298920e",
   "lastOpenFiles": [
+    "Diskrete Mathematik/Graphentheorie/Graphenmatrizen.md",
     "Diskrete Mathematik/Graphentheorie/Bäume & Spannbäume.md",
     "Allgemeine Mathematik/Zeichensammlung.md",
     "Diskrete Mathematik/Graphentheorie/Wege und Kreise.md",
-    "Diskrete Mathematik/Graphentheorie/Graphenmatrizen.md",
     "Diskrete Mathematik/Graphentheorie/Graphentheorie.md",
     "z_images/Pasted image 20220512153906.png",
     "Data Management/Database Performance Tuning/Query Optimization/Plan Operators.md",

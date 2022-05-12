@@ -14,6 +14,7 @@
 ### Inzidenzmatrix
 + analog zur Adjazenzmatrix
 	+ 1 wenn inzident
+	+ ansonsten
 + Beispiel:
 	+ ![[Pasted image 20220508151314.png]]
 	+ ![[Pasted image 20220508151256.png]]
