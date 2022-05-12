@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Komplexe Analysis/Komplexe Analysis.md",
+            "file": "Data Science and AI/Machine Learning/Artificial Neural Networks.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Komplexe Analysis/Komplexe Analysis.md",
+                "file": "Data Science and AI/Machine Learning/Artificial Neural Networks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
   },
   "active": "c701e10e5298920e",
   "lastOpenFiles": [
+    "Data Science and AI/Machine Learning/Artificial Neural Networks.md",
+    "Data Science and AI/Machine Learning/Machine Learning.md",
+    "Data Science and AI/Machine Learning/Classification.md",
     "Analysis/Komplexe Analysis/Komplexe Analysis.md",
     "Analysis/Komplexe Analysis/Komplexe Kurvenintegrale.md",
     "Allgemeine Mathematik/Zeichensammlung.md",
     "NRLA/Lineare Abbildungen/Spezielle Abbildungen.md",
     "z_images/Pasted image 20220509145247.png",
     "Analysis/Bernoulli Ungleichung.md",
-    "Analysis/Analysis.md",
-    "Analysis/Komplexe Zahlen.md",
-    "Analysis/Vollständige Induktion.md",
-    "Analysis/Differentialgleichungen/Inhomogene DGL mit mit konstanten Koeffizienten.md"
+    "Analysis/Analysis.md"
   ]
 }
