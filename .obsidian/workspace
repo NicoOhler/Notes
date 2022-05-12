@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Data Management/Database Performance Tuning/Query Optimization/Query Optimization.md",
+            "file": "Data Management/Database Performance Tuning/Query Optimization/Plan Optimization.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Management/Database Performance Tuning/Query Optimization/Query Optimization.md",
+                "file": "Data Management/Database Performance Tuning/Query Optimization/Plan Optimization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +99,7 @@
   },
   "active": "c701e10e5298920e",
   "lastOpenFiles": [
+    "Data Management/Database Performance Tuning/Query Optimization/Plan Optimization.md",
     "Data Management/Database Performance Tuning/Query Optimization/Query Optimization.md",
     "Data Management/Database Performance Tuning/Query Optimization/Query Rewriting.md",
     "Data Management/Database Performance Tuning/Background Storage System.md",
@@ -107,7 +108,6 @@
     "Data Science and AI/Machine Learning/Artificial Neural Networks.md",
     "Data Science and AI/Machine Learning/Classification.md",
     "Analysis/Komplexe Analysis/Komplexe Analysis.md",
-    "Allgemeine Mathematik/Zeichensammlung.md",
-    "NRLA/Lineare Abbildungen/Spezielle Abbildungen.md"
+    "Allgemeine Mathematik/Zeichensammlung.md"
   ]
 }
