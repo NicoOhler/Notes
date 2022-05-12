@@ -1,5 +1,5 @@
 # Komplexe Kurvenintegrale
-### Überblic
+### Überblick
 + sei eine Kurve C \[a,b]-->U stückweise differenzierbar
 	+ t-->z(t)
 	+ f holomorph auf U

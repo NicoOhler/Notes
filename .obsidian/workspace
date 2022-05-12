@@ -6,24 +6,11 @@
       {
         "id": "c701e10e5298920e",
         "type": "leaf",
-        "dimension": 61.54485049833887,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Komplexe Analysis/Komplexe Kurvenintegrale.md",
+            "file": "Analysis/Komplexe Analysis/Komplexe Analysis.md",
             "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "d97d8337520546dc",
-        "type": "leaf",
-        "dimension": 38.455149501661126,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Allgemeine Mathematik/Zeichensammlung.md",
-            "mode": "source"
           }
         }
       }
@@ -81,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Allgemeine Mathematik/Zeichensammlung.md",
+                "file": "Analysis/Komplexe Analysis/Komplexe Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,11 +97,11 @@
     "width": 322,
     "collapsed": true
   },
-  "active": "d97d8337520546dc",
+  "active": "c701e10e5298920e",
   "lastOpenFiles": [
-    "Allgemeine Mathematik/Zeichensammlung.md",
-    "Analysis/Komplexe Analysis/Komplexe Kurvenintegrale.md",
     "Analysis/Komplexe Analysis/Komplexe Analysis.md",
+    "Analysis/Komplexe Analysis/Komplexe Kurvenintegrale.md",
+    "Allgemeine Mathematik/Zeichensammlung.md",
     "NRLA/Lineare Abbildungen/Spezielle Abbildungen.md",
     "z_images/Pasted image 20220509145247.png",
     "Analysis/Bernoulli Ungleichung.md",
