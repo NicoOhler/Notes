@@ -33,12 +33,3 @@
 + types:
 	+ ![[Pasted image 20220512145654.png]]
 
-### Join Ordering Problem
-+ given a join query graph, find the optimal join ordering
-+ usually NP-hard
-	+ polynomical algorithms exist for special cases
-+ search space sizes
-	+ ![[Pasted image 20220512145848.png]]
-
-### Join Order Seach Strategies
-+ tradeoff between optimal and compile time
