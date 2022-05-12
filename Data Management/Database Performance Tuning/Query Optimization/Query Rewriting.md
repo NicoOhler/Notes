@@ -54,5 +54,6 @@
 + restructuring algorith
 	+ ![[Pasted image 20220512134906.png]]
 	+ ![[Pasted image 20220512134924.png]]
-+ example
++ examples
 	+ ![[Pasted image 20220512135309.png]]
+	+ ![[Pasted image 20220512151834.png]]

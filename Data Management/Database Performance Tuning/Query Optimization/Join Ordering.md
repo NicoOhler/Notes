@@ -33,4 +33,13 @@
 	+ ![[Pasted image 20220512150833.png]]
 
 ### Dynamic Programming Join Ordering
-+ Exact enumeration
++ exact enumeration via dynamic programming
+	+ tries to find optimal substructures first
+	+ overlapping subproblems allow for memoization
+		+ reuse already retrieved data
++ e.g. DPSize
+	+ bottom-up
+	+ split into independent subproblems
+	+ solve subproblems
+	+ combine solutions
+	+ ![[Pasted image 20220512151517.png]]

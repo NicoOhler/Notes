@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Data Management/Database Performance Tuning/Query Optimization/Join Ordering.md",
+            "file": "Data Management/Database Performance Tuning/Query Optimization/Query Rewriting.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Management/Database Performance Tuning/Query Optimization/Join Ordering.md",
+                "file": "Data Management/Database Performance Tuning/Query Optimization/Query Rewriting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,10 +99,10 @@
   },
   "active": "c701e10e5298920e",
   "lastOpenFiles": [
-    "Data Management/Database Performance Tuning/Query Optimization/Join Ordering.md",
-    "Data Management/Database Performance Tuning/Query Optimization/Plan Optimization.md",
-    "Data Management/Database Performance Tuning/Query Optimization/Query Optimization.md",
     "Data Management/Database Performance Tuning/Query Optimization/Query Rewriting.md",
+    "Data Management/Database Performance Tuning/Query Optimization/Plan Optimization.md",
+    "Data Management/Database Performance Tuning/Query Optimization/Join Ordering.md",
+    "Data Management/Database Performance Tuning/Query Optimization/Query Optimization.md",
     "Data Management/Database Performance Tuning/Background Storage System.md",
     "Analysis/Komplexe Analysis/Komplexe Kurvenintegrale.md",
     "Data Science and AI/Machine Learning/Machine Learning.md",
