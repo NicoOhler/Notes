@@ -5,7 +5,7 @@
 	+ semantic analysis
 		+ do all tables/tuples exist
 		+ checks user permissions
-	+ query tewriting
+	+ [[Query Rewriting]]
 	+ plan optimization
 + query execution plan
 	+ semantic analysis creates QEP
@@ -62,3 +62,12 @@
 		+ reduces size of join inputs
 			+ may allow storing all data within RAM 
 		+ ![[Pasted image 20220512134425.png]]
+	+ projection pushdown
+		+ if only some joined columns are required
+		+ remove other columns before
+		+ ![[Pasted image 20220512134620.png]]
++ restructuring algorith
+	+ ![[Pasted image 20220512134906.png]]
+	+ ![[Pasted image 20220512134924.png]]
++ example
+	+ ![[Pasted image 20220512135309.png]]
