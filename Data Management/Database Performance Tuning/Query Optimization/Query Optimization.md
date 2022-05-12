@@ -19,12 +19,26 @@
 + same query can be expressed differently
 	+ avoid hand-tuning
 + complex queries may have redundancy
-+ example:
-	+ remove distinct
-		+ primary key is always unique
-		+ no need to check whether it already exists
++ e.g. remove distinct
+	+ primary key is always unique
+	+ no need to check whether it already exists
 	+ ![[Pasted image 20220512132200.png]]
 
 ### Standardization and Simplification
 + ![[Pasted image 20220512132402.png]]
-+ 
++ ![[Pasted image 20220512132850.png]]
+
+### Query Unnesting
++  type-A nesting
+	+ unrelated inner query computes an aggregate
+	+ no need to aggregate for each tuple
+	+ instead aggregate once and insert result into outer query
+	+ ![[Pasted image 20220512133206.png]]
++ type-N nesting
+	+ unrelated inner query, which returns set of tuples
+	+ join more efficient
+	+ ![[Pasted image 20220512133412.png]]
++ type-J nesting
+	+ unnesting of correlated subqueries w/o aggregation
+	+ ojoin constraint
+	+ instead of constraint within subqery
