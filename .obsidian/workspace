@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Data Management/Database Performance Tuning/Query Optimization/Plan Operators.md",
+            "file": "Diskrete Mathematik/Graphentheorie/Graphenmatrizen.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Management/Database Performance Tuning/Query Optimization/Plan Operators.md",
+                "file": "Diskrete Mathematik/Graphentheorie/Graphenmatrizen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
   },
   "active": "c701e10e5298920e",
   "lastOpenFiles": [
+    "Diskrete Mathematik/Graphentheorie/Graphenmatrizen.md",
+    "Diskrete Mathematik/Graphentheorie/Wege und Kreise.md",
+    "z_images/Pasted image 20220512153906.png",
     "Data Management/Database Performance Tuning/Query Optimization/Plan Operators.md",
     "Data Management/Database Performance Tuning/Query Optimization/Query Optimization.md",
     "Data Management/Relational Algebra/Physical Operators.md",
     "Data Management/Database Performance Tuning/Query Optimization/Join Ordering.md",
     "Data Management/Database Performance Tuning/Query Optimization/Plan Optimization.md",
     "Data Management/Database Performance Tuning/Query Optimization/Query Rewriting.md",
-    "Data Management/Database Performance Tuning/Background Storage System.md",
-    "Analysis/Komplexe Analysis/Komplexe Kurvenintegrale.md",
-    "Data Science and AI/Machine Learning/Machine Learning.md",
-    "Data Science and AI/Machine Learning/Artificial Neural Networks.md"
+    "Data Management/Database Performance Tuning/Background Storage System.md"
   ]
 }

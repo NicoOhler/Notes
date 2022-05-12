@@ -4,7 +4,9 @@
 	+ $a_{ij}=1$, wenn $V_i$ und $V_j$ benachbart
 	+ ansonsten 0
 + immer symmetrisch entlang der Diagonale
-+ Beispiel
++ $(A^k)_{ij}=$# Wege mit Länge k von $v_i$ nach $v_j$
+	+ ![[Pasted image 20220512162757.png]]
++ Beispiel:
 	+ ![[Pasted image 20220508150829.png]]
 	+ Sanity Check - Probe
 		+ ![[Pasted image 20220508151129.png]]
