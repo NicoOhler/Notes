@@ -19,8 +19,15 @@
 + (Volcano) iterator model
 	+ see [[Physical Operators]]
 + materialized intermediates
+	+ one column at a time
+	+ uses binary association tables (BATs)
+	+ ![[Pasted image 20220512153121.png]]
 + vectorized (batched) execution
+	+ one vector at a time
+	+ ![[Pasted image 20220512153159.png]]
 + query compilation
-+ 
+	+ no longer operator centric ==> data centric
+	+ blurred boundaries between operators
+	+ ![[Pasted image 20220512153320.png]]
 
 
