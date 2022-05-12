@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Data Science and AI/Machine Learning/Machine Learning.md",
-            "mode": "preview"
+            "file": "Data Management/Database Performance Tuning/Query Optimization/Query Optimization.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Science and AI/Machine Learning/Machine Learning.md",
+                "file": "Data Management/Database Performance Tuning/Query Optimization/Query Optimization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
   },
   "active": "c701e10e5298920e",
   "lastOpenFiles": [
+    "Data Management/Database Performance Tuning/Query Optimization/Query Optimization.md",
+    "Data Management/Database Performance Tuning/Background Storage System.md",
+    "Analysis/Komplexe Analysis/Komplexe Kurvenintegrale.md",
     "Data Science and AI/Machine Learning/Machine Learning.md",
     "Data Science and AI/Machine Learning/Artificial Neural Networks.md",
     "Data Science and AI/Machine Learning/Classification.md",
     "Analysis/Komplexe Analysis/Komplexe Analysis.md",
-    "Analysis/Komplexe Analysis/Komplexe Kurvenintegrale.md",
     "Allgemeine Mathematik/Zeichensammlung.md",
     "NRLA/Lineare Abbildungen/Spezielle Abbildungen.md",
-    "z_images/Pasted image 20220509145247.png",
-    "Analysis/Bernoulli Ungleichung.md",
-    "Analysis/Analysis.md"
+    "z_images/Pasted image 20220509145247.png"
   ]
 }
