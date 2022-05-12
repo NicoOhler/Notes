@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Data Management/Database Performance Tuning/Query Optimization/Query Rewriting.md",
+            "file": "Data Management/Database Performance Tuning/Query Optimization/Query Optimization.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "präne",
+                "query": "volcan",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Management/Database Performance Tuning/Query Optimization/Query Rewriting.md",
+                "file": "Data Management/Database Performance Tuning/Query Optimization/Query Optimization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +100,15 @@
   },
   "active": "c701e10e5298920e",
   "lastOpenFiles": [
-    "Data Management/Database Performance Tuning/Query Optimization/Query Rewriting.md",
-    "Data Management/Database Performance Tuning/Query Optimization/Plan Optimization.md",
-    "Data Management/Database Performance Tuning/Query Optimization/Join Ordering.md",
     "Data Management/Database Performance Tuning/Query Optimization/Query Optimization.md",
+    "Data Management/Relational Algebra/Physical Operators.md",
+    "Data Management/Database Performance Tuning/Query Optimization/Join Ordering.md",
+    "Data Management/Database Performance Tuning/Query Optimization/Plan Optimization.md",
+    "Data Management/Database Performance Tuning/Query Optimization/Query Rewriting.md",
     "Data Management/Database Performance Tuning/Background Storage System.md",
     "Analysis/Komplexe Analysis/Komplexe Kurvenintegrale.md",
     "Data Science and AI/Machine Learning/Machine Learning.md",
     "Data Science and AI/Machine Learning/Artificial Neural Networks.md",
-    "Data Science and AI/Machine Learning/Classification.md",
-    "Analysis/Komplexe Analysis/Komplexe Analysis.md"
+    "Data Science and AI/Machine Learning/Classification.md"
   ]
 }

@@ -14,4 +14,13 @@
 + runtime may store results in cache use again later
 + ![[Pasted image 20220512131924.png]]
 
+### Overview Execution Strategies
++ different strategies with different pros and cons
++ (Volcano) iterator model
+	+ see [[Physical Operators]]
++ materialized intermediates
++ vectorized (batched) execution
++ query compilation
++ 
+
 

@@ -43,3 +43,5 @@
 	+ solve subproblems
 	+ combine solutions
 	+ ![[Pasted image 20220512151517.png]]
+
+[[Plan Optimization]]
