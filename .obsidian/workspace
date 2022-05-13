@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diskrete Mathematik/Graphentheorie/Bäume & Spannbäume.md",
+                "file": "Allgemeine Mathematik/Zeichensammlung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,10 +110,10 @@
     "width": 322,
     "collapsed": true
   },
-  "active": "c701e10e5298920e",
+  "active": "3c64f80f2faf9d1d",
   "lastOpenFiles": [
-    "Diskrete Mathematik/Graphentheorie/Bäume & Spannbäume.md",
     "Allgemeine Mathematik/Zeichensammlung.md",
+    "Diskrete Mathematik/Graphentheorie/Bäume & Spannbäume.md",
     "Diskrete Mathematik/Graphentheorie/Graphenmatrizen.md",
     "Diskrete Mathematik/Graphentheorie/Wege und Kreise.md",
     "Diskrete Mathematik/Graphentheorie/Graphentheorie.md",

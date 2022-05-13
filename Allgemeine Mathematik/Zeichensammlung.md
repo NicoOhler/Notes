@@ -1,53 +1,17 @@
 # Zeichensammlung
-+ $\infty$ - ∞
-+ × ±
-+ π
-+ Σ Π
-+ α β
-+ λ μ
-+ ε δ
-+ φ ψ
-+ $\iint \partial\oint$ 
-+ $\binom{n}{k}$
-+ $\sum_{i=1}^n X_i$
-+ $\overrightarrow{a}$
-+ $\sqrt[n]{k}$
-+ $\frac{1}{x+iy}$
-+ $\lim_{x \to x_0} f(x)$
-+ $\bar{S}-\underline{S}$
++ $\infty$ ∞ × ±
++  Σ Π
++ α β π λ μ ε δ φ ψ
 + Vergleich
-	+ ≠
-	+ ≤
-	+ ≥
-	+ ≡
+	+ ≠ ≤ ≥ ≡
 + Quantoren
-	+ ∀
-	+ ∃
-	+ ∄
+	+ ∀ ∃ ∄
 + Mengenoperatoren
-	+	∅
-	+	∈
-	+	∉
-	+	∪ ⋈
-	+	∩
-	+	\ ÷
-	+	⊆
-	+	⊄
+	+	∅	∈	∉	∪ ⋈	∩	\ ÷	⊆	⊄
 +	Zahlenmengen
-	+	ℕ
-	+	ℤ
-	+	ℚ
-	+	ℝ
-	+	ℂ
+	+	ℕ	ℤ	ℚ	ℝ	ℂ
 +	Logik
-	+	∧
-	+	∨
-	+	¬
-	+	↔
-	+	→
-	+	<==>
-	+	==>
-	+	T ⊥
+	+	∧	∨	¬	↔	→	<==>	==>	T ⊥
 + Griechische Alphabet
 	+ Α - α - alpha
 	+ Β - β - beta
@@ -73,6 +37,15 @@
 	+ Χ - χ - chi
 	+ Ψ - ψ - psi
 	+ Ω - ω - omega
++ Latex
+	+ + $\iint \partial\oint$ 
++ $\binom{n}{k}$
++ $\sum_{i=1}^n X_i$
++ $\overrightarrow{a}$
++ $\sqrt[n]{k}$
++ $\frac{1}{x+iy}$
++ $\lim_{x \to x_0} f(x)$
++ $\bar{S}-\underline{S}$
 + Sonstiges
 	+ △
 	+ Matrix/Table
