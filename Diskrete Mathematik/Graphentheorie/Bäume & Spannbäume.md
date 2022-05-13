@@ -65,6 +65,12 @@
 	+ findet relativ kurzen Pfad
 	+ branching progress
 	+ ![[Pasted image 20220513135916.png]]
+	+ Input: zusammenhängender Graph G
+	+ Output: Spannbaum T
+	+ Verfahren:
+		+ wähle Knoten $x_0$ als Wurzel
+		+ Durchgang
+			+ gegeben Liste $L=$
 + Depth-First-Search
 	+ findet langen Pfad
 	+ ![[Pasted image 20220513135946.png]]
