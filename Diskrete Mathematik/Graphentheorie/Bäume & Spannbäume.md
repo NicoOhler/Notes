@@ -52,11 +52,16 @@
 + Bijektion f: $T_n$-->$S_{n-2}, T$-->$f(T)=s$
 	+ $S_{n-2}=\{s=(s_1s2....s_{n-2}),s_i∈[n]\}$
 	+ sukzessiv definiert
-		+ $T_0$=T
+		+ $T_0=T$
 		+ $T_i$
 			+ nehme kleinste Blatt $l_i$ in $T_i-1$
 			+ entferne $l_i$  und inzidente Kante von $T_i-1$
 			+ definiere i-te Folgenglied $s_i$ als Nachbar von $l_i$
++ Verfahren retourniert Folge $S_T$
++ ![[Pasted image 20220513135223.png]]
+
+### Breadth-First-Search
++ 
 
 
 [[Wege und Kreise]]
