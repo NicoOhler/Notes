@@ -6,11 +6,11 @@
       {
         "id": "c701e10e5298920e",
         "type": "leaf",
-        "dimension": 63.70431893687708,
+        "dimension": 73.50498338870432,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Diskrete Mathematik/Graphentheorie/Bäume & Spannbäume.md",
+            "file": "Diskrete Mathematik/Graphentheorie/Spannbaumalgorithmen.md",
             "mode": "source"
           }
         }
@@ -18,7 +18,7 @@
       {
         "id": "3c64f80f2faf9d1d",
         "type": "leaf",
-        "dimension": 36.29568106312293,
+        "dimension": 26.49501661129568,
         "state": {
           "type": "markdown",
           "state": {
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Allgemeine Mathematik/Zeichensammlung.md",
+                "file": "Diskrete Mathematik/Graphentheorie/Spannbaumalgorithmen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,8 +110,9 @@
     "width": 322,
     "collapsed": true
   },
-  "active": "3c64f80f2faf9d1d",
+  "active": "c701e10e5298920e",
   "lastOpenFiles": [
+    "Diskrete Mathematik/Graphentheorie/Spannbaumalgorithmen.md",
     "Allgemeine Mathematik/Zeichensammlung.md",
     "Diskrete Mathematik/Graphentheorie/Bäume & Spannbäume.md",
     "Diskrete Mathematik/Graphentheorie/Graphenmatrizen.md",
@@ -120,7 +121,6 @@
     "z_images/Pasted image 20220512153906.png",
     "Data Management/Database Performance Tuning/Query Optimization/Plan Operators.md",
     "Data Management/Database Performance Tuning/Query Optimization/Query Optimization.md",
-    "Data Management/Relational Algebra/Physical Operators.md",
-    "Data Management/Database Performance Tuning/Query Optimization/Join Ordering.md"
+    "Data Management/Relational Algebra/Physical Operators.md"
   ]
 }
