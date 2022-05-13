@@ -60,8 +60,14 @@
 + Verfahren retourniert Folge $S_T$
 + ![[Pasted image 20220513135223.png]]
 
-### Breadth-First-Search
-+ 
+### BFS & DFS
++ Bread-First-Search
+	+ findet relativ kurzen Pfad
+	+ branching progress
+	+ ![[Pasted image 20220513135916.png]]
++ Depth-First-Search
+	+ findet langen Pfad
+	+ ![[Pasted image 20220513135946.png]]
 
 
 [[Wege und Kreise]]
