@@ -60,20 +60,44 @@
 + Verfahren retourniert Folge $S_T$
 + ![[Pasted image 20220513135223.png]]
 
-### BFS & DFS
-+ Bread-First-Search
-	+ findet relativ kurzen Pfad
-	+ branching progress
-	+ ![[Pasted image 20220513135916.png]]
-	+ Input: zusammenhängender Graph G
-	+ Output: Spannbaum T
-	+ Verfahren:
-		+ wähle Knoten $x_0$ als Wurzel
-		+ Durchgang
-			+ gegeben Liste $L=$
-+ Depth-First-Search
-	+ findet langen Pfad
-	+ ![[Pasted image 20220513135946.png]]
+###  Bread-First-Search
++ branching progress
++ ![[Pasted image 20220513135916.png]]
++ Input: zusammenhängender Graph G
++ Output: Spannbaum T
++ Verfahren:
+	+ wähle Knoten $x_0$ als Wurzel
+		+ Liste $L=(x_0)$
+	+ Durchgang bis T alle Knoten enthält $V(T)=V(G)$
+		+ gegeben Liste $L=(x_0,x_1,...)$ und Baum T
+		+ nimm ersten Knoten x von L
+		+ falls x keine Nachbarn hat, welche noch nicht im Baum sind
+			+ $N(x)/V(T)=∅$
+			+ entfern x aus L
+		+ sonst
+			+ füg einen Nachbarn y aus $N(x)/V(T)$ zu T und L hinzu
+			+ ![[Pasted image 20220513143532.png]]
+	+ return T
+
+
+### Depth-First-Search
++ findet langen Pfad
++ ![[Pasted image 20220513135946.png]]
++ Input: zusammenhängender Graph G
++ Output: Spannbaum T
++ Verfahren:
+	+ wähle Knoten $x_0$ als Wurzel
+		+ Liste $L=(x_0)$
+	+ Durchgang bis T alle Knoten enthält $V(T)=V(G)$
+		+ gegeben Liste $L=(x_0,x_1,...)$ und Baum T
+		+ nimm ersten Knoten x von L
+		+ falls x keine Nachbarn hat, welche noch nicht im Baum sind
+			+ $N(x)/V(T)=∅$
+			+ entfern x aus L
+		+ sonst
+			+ füg einen Nachbarn y aus $N(x)/V(T)$ zu T und L hinzu
+			+ ![[Pasted image 20220513143532.png]]
+	+ return T
 
 
 [[Wege und Kreise]]
