@@ -19,7 +19,7 @@
 + Verfahren:
 	+ wähle Knoten $x_0$ als Wurzel
 		+ Liste $L=(x_0)$
-	+ Durchgang bis T alle Knoten enthält $V(T)=V(G)$
+	+ Loop bis T alle Knoten enthält $V(T)=V(G)$
 		+ gegeben Liste $L=(x_0,x_1,...)$ und Baum T
 		+ nimm ersten Knoten x von L
 		+ falls x keine Nachbarn hat, welche noch nicht im Baum sind
@@ -56,8 +56,15 @@
 	+ sortiere (nummeriere) Kanten aufsteigend nach Gewicht
 		+ ![[Pasted image 20220513145554.png]]
 	+ setze E(T)=∅
-	+ Durchgang
-		+ 
+	+ Loop bis $|E(T)|=n-1$
+		+ nimm die kleinste Kante $e_n$
+		+ füge $e_n$ zu T hinzu, wenn das keinen Kreis erzeugt
+			+ sonst wird $e_n$ aus der Liste entfernt
+	+ return T
 
+### Matching
++ Matching in G ist Menge M⊆E, sodass jeder Knoten höchstens eine Kante von M berührt
++ ![[Pasted image 20220513211821.png]]
++ falls M ein Matching in G und 
 
 [[Bäume & Spannbäume]]
