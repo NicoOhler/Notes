@@ -2,7 +2,7 @@
 ### Adjazenzmatrix
 + Adjazenzmatrix ist nxn Matrix mit
 	+ $a_{ij}=1$, wenn $V_i$ und $V_j$ benachbart
-	+ ansonsten 0
+	+ sonst 0
 + immer symmetrisch entlang der Diagonale
 + $(A^k)_{ij}=$# Wege mit Länge k von $v_i$ nach $v_j$
 	+ ![[Pasted image 20220512162757.png]]
@@ -14,7 +14,7 @@
 ### Inzidenzmatrix
 + analog zur Adjazenzmatrix
 	+ 1 wenn inzident
-	+ ansonsten
+	+ sonst 0
 + Beispiel:
 	+ ![[Pasted image 20220508151314.png]]
 	+ ![[Pasted image 20220508151256.png]]

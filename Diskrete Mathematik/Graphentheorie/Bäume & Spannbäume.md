@@ -34,12 +34,18 @@
 	+ $V(T)=V(G)$
 	+ $E(T)⊆E(G)$
 	+ ![[Pasted image 20220512170337.png]]
-+ Laplace-Matrix von G
++ Laplace-Matrix L(G)
 	+ n×n Matrix mit bis zu n Eigenwerten $λ_1,λ_2,.--,λ_{n-1}$
 		+ $∀0≤i≤n-1: λ_i≥0$
 		+ kleinste λ = 0
-		+ 
-
+		+ ![[Pasted image 20220512173159.png]]
++ Matrix-Baum-Satz von Kirchhoff
+	+ sei G ein zusammenhängender Graph mit n Knoten
+	+ \#Spannbäume von G = $\frac{1}{n} λ_1*...*λ_{n-1}$
++ Cayley-Formel
+	+ \#Spannbäume von $K^n=n^{n-2}$
+	+ ![[Pasted image 20220512173648.png]]
+	+ ![[Pasted image 20220512173715.png]]
 
 
 [[Wege und Kreise]]

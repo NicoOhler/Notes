@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Diskrete Mathematik/Graphentheorie/Graphenmatrizen.md",
+            "file": "Diskrete Mathematik/Graphentheorie/Bäume & Spannbäume.md",
             "mode": "source"
           }
         }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diskrete Mathematik/Graphentheorie/Graphenmatrizen.md",
+                "file": "Diskrete Mathematik/Graphentheorie/Bäume & Spannbäume.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,9 +112,9 @@
   },
   "active": "c701e10e5298920e",
   "lastOpenFiles": [
-    "Diskrete Mathematik/Graphentheorie/Graphenmatrizen.md",
     "Diskrete Mathematik/Graphentheorie/Bäume & Spannbäume.md",
     "Allgemeine Mathematik/Zeichensammlung.md",
+    "Diskrete Mathematik/Graphentheorie/Graphenmatrizen.md",
     "Diskrete Mathematik/Graphentheorie/Wege und Kreise.md",
     "Diskrete Mathematik/Graphentheorie/Graphentheorie.md",
     "z_images/Pasted image 20220512153906.png",
