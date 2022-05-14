@@ -33,5 +33,14 @@
 	+ ![[Pasted image 20220514131522.png]]
 + Algorithm:
 	+ ![[Pasted image 20220514132201.png]]
-	+ function weights stay the same on correct guesses
-	+ 
+	+ correct guess ==> weights stay the same
+	+ bad guess ==>
+		+ output too small ==>
+			+ increase weight at positive inputs
+			+ decrease weight at negative inputs
+		+  output too big ==>
+			+ decrease weight at positive inputs
+			+ increase weight at negative inputs
++ repeated until 
+	+ average error below pre-defined threshold
+	+ or after pre-determined number of iterations
