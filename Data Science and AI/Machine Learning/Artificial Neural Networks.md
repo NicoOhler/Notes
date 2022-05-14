@@ -6,7 +6,6 @@
 + similar to blackbox/function
 + ![[Pasted image 20220508202945.png]]
 
-
 ### McCulloch-Pitts Neuron
 + simplest neuron
 + binary input, binary output

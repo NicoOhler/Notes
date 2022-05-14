@@ -17,3 +17,6 @@
 	+ x might be parameters completely independent from f
 	+ goal is to approximate function/hypothesis
 + quality of f needs to be measured with never before seen test data
+
+### Classification Difficulties
+![[Pasted image 20220514130737.png]]

@@ -11,7 +11,7 @@
           "type": "markdown",
           "state": {
             "file": "Data Science and AI/Machine Learning/Artificial Neural Networks.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       },
@@ -113,6 +113,7 @@
   "active": "c701e10e5298920e",
   "lastOpenFiles": [
     "Data Science and AI/Machine Learning/Artificial Neural Networks.md",
+    "Data Science and AI/Machine Learning/Classification.md",
     "Data Science and AI/Information Retrieval/Information Retrieval.md",
     "Diskrete Mathematik/Kombinatorik/Lineare Rekursion.md",
     "Diskrete Mathematik/Kombinatorik/Nicht Lineare Rekursion.md",
@@ -120,7 +121,6 @@
     "Diskrete Mathematik/Kombinatorik/Kombinatorik.md",
     "Diskrete Mathematik/Diskrete Mathematik.md",
     "Diskrete Mathematik/Graphentheorie/Spannbaumalgorithmen.md",
-    "z_images/Pasted image 20220513212531.png",
-    "Allgemeine Mathematik/Zeichensammlung.md"
+    "z_images/Pasted image 20220513212531.png"
   ]
 }
