@@ -26,3 +26,12 @@
 + each input has a certain weight
 + ![[Pasted image 20220508203903.png]]
 + perceptron networks allow non-linear separation
+
+### Perceptron Learning Algorithm
++ ![[Pasted image 20220514131436.png]]
++ Variables:
+	+ ![[Pasted image 20220514131522.png]]
++ Algorithm:
+	+ ![[Pasted image 20220514132201.png]]
+	+ function weights stay the same on correct guesses
+	+ 
