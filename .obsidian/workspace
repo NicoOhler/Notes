@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Diskrete Mathematik/Kombinatorik/Kombinatorik.md",
+            "file": "Diskrete Mathematik/Kombinatorik/Binomische Lehrsatz.md",
             "mode": "preview"
           }
         }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diskrete Mathematik/Kombinatorik/Kombinatorik.md",
+                "file": "Diskrete Mathematik/Kombinatorik/Binomische Lehrsatz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,8 +112,8 @@
   },
   "active": "c701e10e5298920e",
   "lastOpenFiles": [
-    "Diskrete Mathematik/Kombinatorik/Kombinatorik.md",
     "Diskrete Mathematik/Kombinatorik/Binomische Lehrsatz.md",
+    "Diskrete Mathematik/Kombinatorik/Kombinatorik.md",
     "Diskrete Mathematik/Diskrete Mathematik.md",
     "Diskrete Mathematik/Graphentheorie/Spannbaumalgorithmen.md",
     "z_images/Pasted image 20220513212531.png",
