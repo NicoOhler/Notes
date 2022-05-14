@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Diskrete Mathematik/Kombinatorik/Binomische Lehrsatz.md",
+            "file": "Diskrete Mathematik/Kombinatorik/Lineare Rekursion.md",
             "mode": "preview"
           }
         }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diskrete Mathematik/Kombinatorik/Binomische Lehrsatz.md",
+                "file": "Diskrete Mathematik/Kombinatorik/Lineare Rekursion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,6 +112,8 @@
   },
   "active": "c701e10e5298920e",
   "lastOpenFiles": [
+    "Diskrete Mathematik/Kombinatorik/Lineare Rekursion.md",
+    "Diskrete Mathematik/Kombinatorik/Nicht Lineare Rekursion.md",
     "Diskrete Mathematik/Kombinatorik/Binomische Lehrsatz.md",
     "Diskrete Mathematik/Kombinatorik/Kombinatorik.md",
     "Diskrete Mathematik/Diskrete Mathematik.md",
@@ -119,8 +121,6 @@
     "z_images/Pasted image 20220513212531.png",
     "Allgemeine Mathematik/Zeichensammlung.md",
     "Diskrete Mathematik/Graphentheorie/Bäume & Spannbäume.md",
-    "Diskrete Mathematik/Graphentheorie/Graphenmatrizen.md",
-    "Diskrete Mathematik/Graphentheorie/Wege und Kreise.md",
-    "Diskrete Mathematik/Graphentheorie/Graphentheorie.md"
+    "Diskrete Mathematik/Graphentheorie/Graphenmatrizen.md"
   ]
 }
