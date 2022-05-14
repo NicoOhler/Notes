@@ -44,3 +44,18 @@
 + repeated until 
 	+ average error below pre-defined threshold
 	+ or after pre-determined number of iterations
++ ![[Pasted image 20220514133250.png]]
+
+### PLA Properties
++ goes over set of examples
++ compares each example's output with desired output
++ weight changes based on correct output or not
++ convergence towards solution guaranteed if training set is linearly separable
++ may not find best solution, quality jumps around 
++ variants
+	+ batch learning
+		+ change weigths only after batch of training examples
+		+ less quality jumps
+	+ keep best seen solution in memory
+	+ include optimization criteria
+		+ maximizing distance of separation between both classes
