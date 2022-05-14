@@ -79,6 +79,8 @@
 	+ $x_0$ ungematcht:
 		+ $e_i∈M$ für gerade i
 		+ $e_i∉M$ für ungerade i
-+ P ist augmentierend, wenn alternierend und 
++ P ist augmentierend, wenn
+	+ alternierend 
+	+ letzte Knoten $x_kn$ ungematcht
 
 [[Bäume & Spannbäume]]
