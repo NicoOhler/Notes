@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Data Science and AI/Machine Learning/Artificial Neural Networks.md",
+            "file": "Diskrete Mathematik/Kombinatorik/Lineare Rekursion.md",
             "mode": "source"
           }
         }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Science and AI/Machine Learning/Artificial Neural Networks.md",
+                "file": "Diskrete Mathematik/Kombinatorik/Lineare Rekursion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,12 +112,12 @@
   },
   "active": "c701e10e5298920e",
   "lastOpenFiles": [
-    "Data Science and AI/Machine Learning/Artificial Neural Networks.md",
-    "Data Science and AI/Machine Learning/Classification.md",
-    "Data Science and AI/Information Retrieval/Information Retrieval.md",
     "Diskrete Mathematik/Kombinatorik/Lineare Rekursion.md",
     "Diskrete Mathematik/Kombinatorik/Nicht Lineare Rekursion.md",
     "Diskrete Mathematik/Kombinatorik/Binomische Lehrsatz.md",
+    "Data Science and AI/Machine Learning/Artificial Neural Networks.md",
+    "Data Science and AI/Machine Learning/Classification.md",
+    "Data Science and AI/Information Retrieval/Information Retrieval.md",
     "Diskrete Mathematik/Kombinatorik/Kombinatorik.md",
     "Diskrete Mathematik/Diskrete Mathematik.md",
     "Diskrete Mathematik/Graphentheorie/Spannbaumalgorithmen.md",
