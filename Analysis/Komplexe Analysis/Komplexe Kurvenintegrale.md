@@ -39,5 +39,12 @@
 	+ $a_n=\frac{f^{(n)}(z_0)}{n!}=\frac{1}{2\pi}\oint_{|ζ-z_0| } \frac{f(ζ)}{(ζ-z_0)^{n+1}}dζ$
 		+ $=\frac{1}{2\pi}\oint_C \frac{f(ζ)}{(ζ-z_0)^{n+1}}dζ$
 		+ C eine Kurve in U mit $Ind_C(z_0)=1$
++ Cauchy-Abschätzung
+	+ Maximumprinzip
+		+ $|a_n|≤$ Maximum am Rand des Kreises
+		+ ![[Pasted image 20220516101649.png]]
+	+ Satz von Liouville
+		+ Sei f eine ganze Funktion und beschränkt ==> f ist konstant
+		+ 
 
 [[Komplexe Analysis]]
