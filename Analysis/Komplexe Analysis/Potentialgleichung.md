@@ -11,4 +11,16 @@
 		+ Äquipotentiallinien (Niveaulinien) von u und v senkrecht aufeinander
 			+ außer $grad(v)=grad(u)=0$
 			+ ![[Pasted image 20220516124134.png]]
-+ 
+
+### Bestimmen von v(x,y) 
++ Gradientenfeld gegeben ==> v(x,y) als Integral
+	+ ![[Pasted image 20220516132026.png]]
+	+ Integrabilitätsbedingung prüfen ==> wegunabhängig
+	+ Beispiel WTF?
+		+ ![[Pasted image 20220516132229.png]]
+		+ ![[Pasted image 20220516132238.png]]
+		+ ![[Pasted image 20220516132258.png]]
+		+ ![[Pasted image 20220516132352.png]]
+
+### Randwertaufgabe
++ ![[Pasted image 20220516132432.png]]
