@@ -45,6 +45,13 @@
 		+ ![[Pasted image 20220516101649.png]]
 	+ Satz von Liouville
 		+ Sei f eine ganze Funktion und beschränkt ==> f ist konstant
-		+ 
+		+ ![[Pasted image 20220516102124.png]]
+	+ Fundamentalsatz der Algebra
+		+ Polynom p(z) mit Grad n≥1
+		+ $∃z_0: p(z_0)=0$
+		+ jedes Polynom hat eine komplexe Nullstelle
+		+ Beweis
+			+ ![[Pasted image 20220516102832.png]]
++ Nullstellen holomorpher Funktionen
 
 [[Komplexe Analysis]]
