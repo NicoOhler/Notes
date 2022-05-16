@@ -13,6 +13,7 @@
 
 ### Differenzierbarkeit in ℂ
 + differenzierbar, wenn Grenzwert existiert
+	+ einmal differenzierbar ==> beliebig oft differenzierbar
 	+ ![[Pasted image 20220509145247.png]]
 + mehrere Möglichkeiten der Annäherung, da zweidimensional
 	+ ![[Pasted image 20220509145356.png]]

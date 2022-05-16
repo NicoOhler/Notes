@@ -42,6 +42,7 @@
 	+ $\iint \partial\oint$ 
 	+ $\binom{n}{k}$
 	+ $\sum_{i=1}^n X_i$
+	+ $\bigtriangleup$
 	+ $\overrightarrow{a}$
 	+ $\sqrt[n]{k}$
 	+ $\frac{1}{x+iy}$

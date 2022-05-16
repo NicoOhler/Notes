@@ -34,7 +34,19 @@
 +  sei A⊆U, sodass A in U keinen Häufungspunkt hat
 	+ $f∈H(U/A)$ meromorph, wenn in A nur Pole hat
 	+ ![[Pasted image 20220516122936.png]]
++  harmonische Funktion
+	+  $f(x+iy)=u(x,y)+iv(x,y)$ differenzierbar
+		+ wenn CR Gleichungen gelten
+			+ ==> beliebig oft
+		+ ![[Pasted image 20220516123304.png]]
+			+ ==> u und v harmonisch
 
-	+  
-
-
+### Potentialgleichung
++ $\bigtriangleup u=0$
+	+ Lösung dieser Gleichung kommt mit zweiter Funktion v
+		+ v erfüllt ebenso Gleichung
+		+ v ist mit u über CR-Gleichungen verbunden
+			+ bzw. $f(x+iy)=u(x,y)+iv(x,y)$
+	+ jede Lösung ergibt quellenfreies Gradientenfeld $grad(u)$
+		+ $grad(u)$ senkrecht auf  $grad(v)$ <==> $<grad(u),grad(v)>=0$
+		+ Äquipotenzia
