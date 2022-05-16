@@ -53,5 +53,7 @@
 		+ Beweis
 			+ ![[Pasted image 20220516102832.png]]
 + Nullstellen holomorpher Funktionen
+	+ $N_f=\{z∈U|f(z)=0\}$ Nullstellenmenge
+	+ 
 
 [[Komplexe Analysis]]
