@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Komplexe Analysis/Potentialgleichung.md",
-            "mode": "source"
+            "file": "Diskrete Mathematik/Kombinatorik/Binomische Lehrsatz.md",
+            "mode": "preview"
           }
         }
       },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Komplexe Analysis/Potentialgleichung.md",
+                "file": "Diskrete Mathematik/Kombinatorik/Binomische Lehrsatz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,15 +112,15 @@
   },
   "active": "c701e10e5298920e",
   "lastOpenFiles": [
-    "Analysis/Komplexe Analysis/Potentialgleichung.md",
-    "Analysis/Komplexe Analysis/Singularität.md",
-    "Analysis/Komplexe Analysis/Komplexe Kurvenintegrale.md",
+    "Diskrete Mathematik/Kombinatorik/Binomische Lehrsatz.md",
+    "z_images/Pasted image 20220516132432.png",
     "Analysis/Komplexe Analysis/Komplexe Analysis.md",
+    "Analysis/Komplexe Analysis/Komplexe Kurvenintegrale.md",
+    "Analysis/Komplexe Analysis/Singularität.md",
+    "Analysis/Komplexe Analysis/Potentialgleichung.md",
     "Allgemeine Mathematik/Zeichensammlung.md",
     "Diskrete Mathematik/Kombinatorik/Lineare Rekursion.md",
     "Diskrete Mathematik/Kombinatorik/Nicht Lineare Rekursion.md",
-    "Diskrete Mathematik/Kombinatorik/Binomische Lehrsatz.md",
-    "Data Science and AI/Machine Learning/Artificial Neural Networks.md",
-    "Data Science and AI/Machine Learning/Classification.md"
+    "Data Science and AI/Machine Learning/Artificial Neural Networks.md"
   ]
 }
