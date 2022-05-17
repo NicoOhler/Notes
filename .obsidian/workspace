@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Komplexe Zahlen.md",
+            "file": "Analysis/Komplexe Analysis/Komplexe Zahlen.md",
             "mode": "preview"
           }
         }
@@ -52,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272,
-    "collapsed": true
+    "width": 272
   },
   "right": {
     "id": "d1219e90b492538d",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Komplexe Zahlen.md",
+                "file": "Analysis/Komplexe Analysis/Komplexe Zahlen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +99,7 @@
   },
   "active": "c701e10e5298920e",
   "lastOpenFiles": [
-    "Analysis/Komplexe Zahlen.md",
+    "Analysis/Komplexe Analysis/Komplexe Zahlen.md",
     "Analysis/Komplexe Analysis/Komplexe Analysis.md",
     "Analysis/Komplexe Analysis/Potentialgleichung.md",
     "Analysis/Komplexe Analysis/Komplexe Kurvenintegrale.md",

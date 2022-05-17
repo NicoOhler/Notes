@@ -61,7 +61,7 @@
 		+ $sin(b/|w|)=ψ$
 			+ positiv ==> $arcos(a/|w|)=ψ$
 			+ negativ ==> $-arcos(a/|w|)=ψ$
-+ Formel: $z=\sqrt[n]{|w|}exp(\frac{1}{n}(ψ+2kπ))$ k=0,...,n-1
++ Formel: $z=\sqrt[n]{|w|}exp(\frac{i}{n}(ψ+2kπ))$ k=0,...,n-1
 	+ hergeleitet durch $z^n=|z|^n e^{inφ}=|w|e^{iψ}=w$
 	+ keine Lösung für w=0
 
