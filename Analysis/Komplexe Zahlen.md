@@ -52,7 +52,7 @@
 + $z=|z|e^{iφ}$ - unbekannt
 + $w=|w|e^{iψ}$ - bekannt
 	+ $|w|=\sqrt[2]{a+bi}$
-	+ ψ 
+	+ $ψ$ 
 		+ $|w|e^{iψ}=|w|(cos(ψ)+isin(ψ))$
 		+ $cos(ψ)=a/|w|$
 			+ 2 Lösungen
@@ -62,7 +62,7 @@
 			+ positiv ==> $arcos(a/|w|)=ψ$
 			+ negativ ==> $-arcos(a/|w|)=ψ$
 + Formel: $z=\sqrt[n]{|w|}exp(\frac{1}{n}(ψ+2kπ))$ k=0,...,n-1
-	+ hergeleited durch $z^n=|z|^n e^{inφ}=|w|e^{iψ}=w$
+	+ hergeleitet durch $z^n=|z|^n e^{inφ}=|w|e^{iψ}=w$
 	+ keine Lösung für w=0
 
 ### Multiplikation
