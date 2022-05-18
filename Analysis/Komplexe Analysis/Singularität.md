@@ -18,7 +18,7 @@
 	+  ![[Pasted image 20220516113457.png]]
 
 ### Pol der Ordnung m
-+  $f∈H(U\\\{z_0\}$ , wenn $∃m∈ℕ:(z-z_0)^mf(z)$ holomorph auf U
++  $f∈H(U/\{z_0\})$ , wenn $∃m∈ℕ:(z-z_0)^mf(z)$ holomorph auf U
 +  Ordnung des Pols = kleinste mögliche Wert von m
 +  $∃a_0,...,a_{m-1}:f(z)-(\frac{a_0}{(z-z_0)^m}+...+\frac{a_{m-1}}{z-z_0})$ holomorph in U
 +  Beispiel
