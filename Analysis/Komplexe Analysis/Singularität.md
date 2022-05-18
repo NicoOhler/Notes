@@ -1,6 +1,6 @@
 # Singularität
 ### Singularität
-+ $z_0∈U$ ist Singularität, wenn $f∈H(U\\\{z_0\}$
++ $z_0∈U$ ist Singularität, wenn $f∈H(U/\{z_0\})$
 + punktierte Kreisscheibe
 	+ ![[Pasted image 20220516110136.png]]
 + Singularitätsfälle 

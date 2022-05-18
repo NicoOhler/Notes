@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Komplexe Analysis/Komplexe Kurvenintegrale.md",
-            "mode": "source"
+            "file": "Analysis/Komplexe Analysis/Singularität.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Komplexe Analysis/Komplexe Kurvenintegrale.md",
+                "file": "Analysis/Komplexe Analysis/Singularität.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
   },
   "active": "c701e10e5298920e",
   "lastOpenFiles": [
-    "Analysis/Komplexe Analysis/Komplexe Kurvenintegrale.md",
+    "Analysis/Komplexe Analysis/Singularität.md",
     "Analysis/Komplexe Analysis/Potentialgleichung.md",
+    "Analysis/Komplexe Analysis/Komplexe Kurvenintegrale.md",
     "Analysis/Komplexe Analysis/Komplexe Zahlen.md",
     "Analysis/Komplexe Analysis/Komplexe Analysis.md",
     "Diskrete Mathematik/Kombinatorik/Lineare Rekursion.md",
     "Diskrete Mathematik/Kombinatorik/Nicht Lineare Rekursion.md",
     "Diskrete Mathematik/Kombinatorik/Kombinatorik.md",
     "Diskrete Mathematik/Kombinatorik/Binomische Lehrsatz.md",
-    "z_images/Pasted image 20220516132432.png",
-    "Analysis/Komplexe Analysis/Singularität.md"
+    "z_images/Pasted image 20220516132432.png"
   ]
 }
