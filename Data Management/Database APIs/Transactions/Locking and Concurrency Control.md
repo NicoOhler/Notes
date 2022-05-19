@@ -23,3 +23,25 @@
 ### Serializability Therory
 + ![[Pasted image 20220519150007.png]]
 + ![[Pasted image 20220519150029.png]]
++ ![[Pasted image 20220519150257.png]]
+
+### Locking Schemes
++ exclusive/write x-lock
+	+ only current lock may write
++ shared/read s-lock
+	+ current lock and other locks may read
++ multi-granularity-locking
+	+ abuses hierarchy of db ojects
+	+ intentional x/s-lock
+	+ ![[Pasted image 20220519150801.png]]
++ lock compatibility
+	+ ![[Pasted image 20220519150717.png]]
+
+### Two-Phase Locking
++ concurrency protocol that guarantees serializable
++ expanding phase
+	+ aquires locks needed by TX
++ shrinking phase
+	+ release locks aquired by TX
++ ![[Pasted image 20220519151028.png]]
++ 
