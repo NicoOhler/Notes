@@ -17,10 +17,12 @@
 + durability
 	+ succesful transactions survive permanently even if system fails
 
-### [[SQL]] Transaction Example
+### [[SQL]] Transaction Examples
 + ![[Pasted image 20220427124340.png]]
++ ![[Pasted image 20220519141009.png]]
 
 ### Transaction Isolation Level
 + guarantee certain things cannot happen
 + sacrifices performance
 + ![[Pasted image 20220427124439.png]]
+
