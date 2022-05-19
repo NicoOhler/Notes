@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Data Management/Database APIs/Transactions/Locking and Concurrency Control.md",
+            "file": "Data Management/Database APIs/Transactions/Logging and Recovery.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Management/Database APIs/Transactions/Locking and Concurrency Control.md",
+                "file": "Data Management/Database APIs/Transactions/Logging and Recovery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +99,7 @@
   },
   "active": "c701e10e5298920e",
   "lastOpenFiles": [
+    "Data Management/Database APIs/Transactions/Logging and Recovery.md",
     "Data Management/Database APIs/Transactions/Locking and Concurrency Control.md",
     "Data Management/Database APIs/Transactions/Transaction Processing.md",
     "Data Management/Database APIs/Transactions/Transaction Isolation Level.md",
@@ -107,7 +108,6 @@
     "Data Management/Database APIs/JDBC.md",
     "Data Science and AI/Machine Learning/Perceptron.md",
     "Data Science and AI/Machine Learning/Artificial Neural Networks.md",
-    "Data Science and AI/Machine Learning/Classification.md",
-    "Data Science and AI/Machine Learning/Machine Learning.md"
+    "Data Science and AI/Machine Learning/Classification.md"
   ]
 }

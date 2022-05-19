@@ -60,3 +60,6 @@
 + timestamp comparison to validate access/abort
 + no locks but latches
 + ![[Pasted image 20220519152033.png]]
+
+### Optimistic Concurrency Control
++ ![[Pasted image 20220519152243.png]]
