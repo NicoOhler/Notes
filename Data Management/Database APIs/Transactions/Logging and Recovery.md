@@ -12,4 +12,9 @@
 + media failue
 	+ hard disk errors (non-restorable)
 	+ lose persistent data ==> need back up 
-	+ R4-Recovery: global
+	+ R4-Recovery: global redo of all committed TX
+
+### Database Transaction Log
++ ![[Pasted image 20220519155234.png]]
+
+### Logging Types
