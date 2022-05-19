@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Data Management/SQL/Grouping and Aggregation.md",
-            "mode": "source"
+            "file": "Analysis/Komplexe Analysis/Singularität.md",
+            "mode": "preview"
           }
         }
       }
@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Management/SQL/Grouping and Aggregation.md",
+                "file": "Analysis/Komplexe Analysis/Singularität.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +99,7 @@
   },
   "active": "c701e10e5298920e",
   "lastOpenFiles": [
+    "Analysis/Komplexe Analysis/Singularität.md",
     "Data Management/SQL/Grouping and Aggregation.md",
     "Data Management/Relational Algebra/Derived Operators.md",
     "Data Management/Data Modeling/Database Design.md",
@@ -108,7 +108,6 @@
     "Data Management/Database Performance Tuning/Query Optimization/Plan Optimization.md",
     "Data Management/Database Performance Tuning/Query Optimization/Plan Operators.md",
     "Data Management/Database Performance Tuning/Query Optimization/Join Ordering.md",
-    "Data Management/Database Performance Tuning/Background Storage System.md",
-    "Data Management/Database Performance Tuning/Binary Search and Tree.md"
+    "Data Management/Database Performance Tuning/Background Storage System.md"
   ]
 }
