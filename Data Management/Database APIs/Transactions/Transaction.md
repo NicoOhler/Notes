@@ -5,8 +5,6 @@
 + transactions can be fully committed or rolled back in case an error occurs
 + transforms database from consistent state into another consistent state
 + transaction satisfy ACID properties
-+ potential danger of not using transcations
-	+ ![[Pasted image 20220519142025.png]]
 
 ### ACID
 + atomic
@@ -25,8 +23,17 @@
 + ![[Pasted image 20220427124340.png]]
 + ![[Pasted image 20220519141009.png]]
 
+### Transaction Anomalies
++ ![[Pasted image 20220519142025.png]]
++ ![[Pasted image 20220519142122.png]]
++ ![[Pasted image 20220519142248.png]]
++ ![[Pasted image 20220519142354.png]]
+
 ### Transaction Isolation Level
-+ guarantee certain things cannot happen
++ guarantees certain anomalies cannot happen
 + sacrifices performance
 + ![[Pasted image 20220427124439.png]]
++ ![[Pasted image 20220519142535.png]]
++ isolation level can be set by user or system
+	+ ![[Pasted image 20220519142827.png]]
 

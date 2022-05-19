@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Data Management/Database APIs/Transaction.md",
+            "file": "Data Management/Database APIs/Transactions/Untitled.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Management/Database APIs/Transaction.md",
+                "file": "Data Management/Database APIs/Transactions/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
   },
   "active": "c701e10e5298920e",
   "lastOpenFiles": [
-    "Data Management/Database APIs/Transaction.md",
-    "Data Management/Database APIs/Transaction Processing.md",
+    "Data Management/Database APIs/Transactions/Untitled.md",
+    "Data Management/Database APIs/Transactions/Transaction.md",
+    "Data Management/Database APIs/Transactions/Transaction Processing.md",
     "Data Management/Transaction Processing.md",
     "Data Management/Database APIs/JDBC.md",
     "Data Science and AI/Machine Learning/Perceptron.md",
     "Data Science and AI/Machine Learning/Artificial Neural Networks.md",
     "Data Science and AI/Machine Learning/Classification.md",
     "Data Science and AI/Machine Learning/Machine Learning.md",
-    "Analysis/Komplexe Analysis/Singularität.md",
-    "Analysis/Komplexe Analysis/Potentialgleichung.md"
+    "Analysis/Komplexe Analysis/Singularität.md"
   ]
 }
