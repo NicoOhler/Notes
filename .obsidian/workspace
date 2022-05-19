@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Data Management/Database Performance Tuning/Query Optimization/Query Rewriting.md",
-            "mode": "preview"
+            "file": "Data Management/SQL/Grouping and Aggregation.md",
+            "mode": "source"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "transac",
+                "query": "group",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Management/Database Performance Tuning/Query Optimization/Query Rewriting.md",
+                "file": "Data Management/SQL/Grouping and Aggregation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +100,15 @@
   },
   "active": "c701e10e5298920e",
   "lastOpenFiles": [
+    "Data Management/SQL/Grouping and Aggregation.md",
+    "Data Management/Relational Algebra/Derived Operators.md",
+    "Data Management/Data Modeling/Database Design.md",
     "Data Management/Database Performance Tuning/Query Optimization/Query Rewriting.md",
     "Data Management/Database Performance Tuning/Query Optimization/Query Optimization.md",
     "Data Management/Database Performance Tuning/Query Optimization/Plan Optimization.md",
     "Data Management/Database Performance Tuning/Query Optimization/Plan Operators.md",
     "Data Management/Database Performance Tuning/Query Optimization/Join Ordering.md",
     "Data Management/Database Performance Tuning/Background Storage System.md",
-    "Data Management/Database Performance Tuning/Binary Search and Tree.md",
-    "Data Management/Database Performance Tuning/Database Compression Techniques.md",
-    "Data Management/Database Performance Tuning/Index Structures.md",
-    "Data Management/Database Performance Tuning/Table Partitioning.md"
+    "Data Management/Database Performance Tuning/Binary Search and Tree.md"
   ]
 }
