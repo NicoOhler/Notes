@@ -18,3 +18,7 @@
 + ![[Pasted image 20220519155234.png]]
 
 ### Logging Types
++ ![[Pasted image 20220520151204.png]]
+
+### Recovery on Storage Class Memory
++ ![[Pasted image 20220520151515.png]]

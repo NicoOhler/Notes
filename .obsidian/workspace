@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Data Management/Database Performance Tuning/Binary Search and Tree.md",
-            "mode": "preview"
+            "file": "Data Management/Database APIs/Transactions/Logging and Recovery.md",
+            "mode": "source"
           }
         }
       }
@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Management/Database Performance Tuning/Binary Search and Tree.md",
+                "file": "Data Management/Database APIs/Transactions/Logging and Recovery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,15 +99,15 @@
   },
   "active": "c701e10e5298920e",
   "lastOpenFiles": [
+    "Data Management/Database APIs/Transactions/Logging and Recovery.md",
+    "Data Management/Database APIs/Transactions/Transaction.md",
+    "Data Management/Database APIs/Transactions/Locking and Concurrency Control.md",
     "Data Management/Database Performance Tuning/Binary Search and Tree.md",
     "Data Management/SQL/Indexing.md",
     "z_images/Pasted image 20220519155234.png",
     "Analysis/Komplexe Analysis/Singularität.md",
     "Data Management/SQL/Grouping and Aggregation.md",
     "Data Management/Relational Algebra/Derived Operators.md",
-    "Data Management/Data Modeling/Database Design.md",
-    "Data Management/Database Performance Tuning/Query Optimization/Query Rewriting.md",
-    "Data Management/Database Performance Tuning/Query Optimization/Query Optimization.md",
-    "Data Management/Database Performance Tuning/Query Optimization/Plan Optimization.md"
+    "Data Management/Data Modeling/Database Design.md"
   ]
 }
