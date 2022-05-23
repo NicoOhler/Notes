@@ -16,8 +16,16 @@
 		+ perfect descending linear relationship
 		+ high X <==> low Y
 	+  0: 
-		+  variables not systematically related
-		+  high X <==> high or low Y
+		+ variables not systematically related
+		+ high X <==> high or low Y
 	+  1: 
 		+ perfect ascending linear relationship
-		+  high X <==> high Y
+		+ high X <==> high Y
++  correlation threshold
+	+ threshold depends on domain
+	+ different for each use case
++  large population but small sample size
+	+ likelihood of correlation within subset
+	+ even though no correlation within whole population
+	+ null hypothesis
+	+ ![[Pasted image 20220523101844.png]]

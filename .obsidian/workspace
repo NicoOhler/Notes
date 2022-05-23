@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "cos",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -100,6 +100,7 @@
   "active": "c701e10e5298920e",
   "lastOpenFiles": [
     "Data Science and AI/Machine Learning/Correlation.md",
+    "Data Science and AI/Knowledge Representation/Vectors as KR.md",
     "Data Science and AI/Machine Learning/Perceptron.md",
     "Diskrete Mathematik/Kombinatorik/Binomische Lehrsatz.md",
     "Diskrete Mathematik/Kombinatorik/Kombinatorik.md",
@@ -107,7 +108,6 @@
     "Diskrete Mathematik/Kombinatorik/Nicht Lineare Rekursion.md",
     "Diskrete Mathematik/Kombinatorik/Quicksort.md",
     "Data Management/Relational Algebra/Physical Operators.md",
-    "z_images/Pasted image 20220520151515.png",
-    "Data Management/Database Performance Tuning/Query Optimization/Query Optimization.md"
+    "z_images/Pasted image 20220520151515.png"
   ]
 }

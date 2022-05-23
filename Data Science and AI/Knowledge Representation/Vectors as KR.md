@@ -1,6 +1,6 @@
 # Vectors as KR
 ### Overview
-+ Vectors as numeric, non-symbolic representation of complex entities
++ [[Vektor]] as numeric, non-symbolic representation of complex entities
 	+ complex entity becomes a set of finite number
 	+ no longer express general knowledge
 		+ hidden within choice of entities and features
@@ -10,7 +10,7 @@
 	+ feature/knowledge-engineering
 		+ know what is actually relevant
 		+ what questions do we want to ask?
-+ Vector operations
++ vector operations
 	+ identify useful operations in a given use case
 	+ vector operattions can be used to reason over knowledge
 + vector representation is easy after feature engineering is done
@@ -20,16 +20,16 @@
 	+ mean value of vector elements = 0
 
 ### Useful questions for Feature Engineering
-+ What are similar entities?
-+ Which group does an entity belong to?
++ what are similar entities?
++ which group does an entity belong to?
 	+ classification
-+ What are meaningful sub-groups?
++ what are meaningful sub-groups?
 	+ clustering
-+ Is there a correlation between entity characteristics?
++ is there a correlation between entity characteristics?
 	+ correlation
-+ Does a characteristic cause another one?
++ does a characteristic cause another one?
 	+ causation
-+ Is there a more compact representation?
++ is there a more compact representation?
 	+ factor analysis
 	+ Which variables carry most information?
 
