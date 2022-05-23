@@ -50,4 +50,7 @@
 	+ ![[Pasted image 20220523103022.png]]
 + logistic regression
 	+ fitting log function to continous independent data
-	+ and 
+	+ and dichotomous (zweigeteilt) out come data
+	+ classification method
+
+[[Machine Learning]]
