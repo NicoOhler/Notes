@@ -53,4 +53,9 @@
 	+ and dichotomous (zweigeteilt) out come data
 	+ classification method
 
+### Prediction with Correlation and Regression
++ estimate value $y_i$, given $x_i$ using regression line
+	+ $y_i$ dependent outcome variable
+	+ $x_i$ independent input variable
+
 [[Machine Learning]]
