@@ -29,3 +29,25 @@
 	+ even though no correlation within whole population
 	+ null hypothesis
 	+ ![[Pasted image 20220523101844.png]]
+
+### Linear Regression
++ approximates linear function between linearly correlated data
+	+ $y=a+bx$
++ underlying assumption
+	+ never know all data
+	+ we just have training data
+	+ keep part of data for testing afterwards
++ optimisation criterion
+	+ method of least squares
+	+ see NRLA script
+	+ ![[Pasted image 20220523102714.png]]
+	+ ![[Pasted image 20220523102749.png]]
+	+ ![[Pasted image 20220523102804.png]]
+
+### Other Types of Regression
++ non-linear regression - curve fitting
+	+ fitting non-linear function to data
+	+ ![[Pasted image 20220523103022.png]]
++ logistic regression
+	+ fitting log function to continous independent data
+	+ and 

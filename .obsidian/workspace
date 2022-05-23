@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cos",
+                "query": "least sq",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
