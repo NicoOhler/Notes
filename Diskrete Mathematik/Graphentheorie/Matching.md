@@ -41,4 +41,10 @@
 + Input: $G=(A∪B,E)$ bipartite Graph, Matching M
 + Output: augmentierender Pfad P bzgl. M
 + Verfahren:
-	+ 
+	+ Skriptum
+		+ ![[Pasted image 20220524130831.png]]
+		+ ![[Pasted image 20220524130848.png]]
+		+ ![[Pasted image 20220524130910.png]]
+	+ Tafel:
+		+ ![[Pasted image 20220524131014.png]]
+		+ ![[Pasted image 20220524131021.png]]
