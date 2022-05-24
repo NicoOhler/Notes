@@ -8,3 +8,7 @@
 + Chromatische Zahl $X(G)$ von $G$
 	+ kleinste Zahl $k∈ℕ$, sodass ∃ Färbung mit k Farben
 	+ $a(G)$ größte Zahl $k∈ℕ$, sodass ∃ unabhängige Knotenmenge in G
+	+ ![[Pasted image 20220524140022.png]]
+	+ Kreis mit 
+		+ gerader Länge - braucht 3
+		+ ungerader Länge - braucht 2
