@@ -16,6 +16,10 @@
 	+ $x_0$ ungematcht:
 		+ $e_i∈M$ für gerade i
 		+ $e_i∉M$ für ungerade i
-+ P ist augmentierend, wenn
++ P ist augmentierend bzgl. M, wenn
 	+ alternierend 
 	+ letzte Knoten $x_kn$ ungematcht
+	+ $M'=M△E(P)=(M/E(P))∪(E(P)/M)$ symmetrische Differenz
+		+ Matching mit einer Kante mehr als M
+		+ ![[Pasted image 20220524123037.png]]
++ falls M nicht größtmöglich ==> augmentierender Pfad existiert

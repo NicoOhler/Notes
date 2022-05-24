@@ -12,6 +12,7 @@
 	+	ℕ	ℤ	ℚ	ℝ	ℂ
 +	Logik
 	+	∧	∨	¬	↔	→	<==>	==>	T ⊥
++	△▽
 + Griechische Alphabet
 	+ Α - α - alpha
 	+ Β - β - beta
