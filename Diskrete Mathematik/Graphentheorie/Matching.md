@@ -23,3 +23,22 @@
 		+ Matching mit einer Kante mehr als M
 		+ ![[Pasted image 20220524123037.png]]
 + falls M nicht größtmöglich ==> augmentierender Pfad existiert
+	+ nicht größtmöglich solange $|M|<|A|$ mit $|A|≤|B|$
+	+ ![[Pasted image 20220524123257.png]]
+
+### Bipartite Matching
++ Input: $G=(A∪B,E)$ bipartite Graph mit $|A|≤|B|$
++ Output: größtmögliche Matching in G
++ erstelle M (aus augmentierter Pfad P) mit  Kante mehr bis größtmöglich
++ Verfahren:
+	+ sei $M=∅$
+	+ wiederhole bis $|M|=|A|$
+		+ P=Augmenting-Path(G,M)
+		+ $M=M△E(P)$
+	+ return M
+
+### Augmenting-Path
++ Input: $G=(A∪B,E)$ bipartite Graph, Matching M
++ Output: augmentierender Pfad P bzgl. M
++ Verfahren:
+	+ 
