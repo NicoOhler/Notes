@@ -6,7 +6,7 @@
       {
         "id": "c701e10e5298920e",
         "type": "leaf",
-        "dimension": 65.10840108401084,
+        "dimension": 70.18970189701898,
         "state": {
           "type": "markdown",
           "state": {
@@ -18,7 +18,7 @@
       {
         "id": "d78354cec7c1c0df",
         "type": "leaf",
-        "dimension": 34.89159891598916,
+        "dimension": 29.81029810298103,
         "state": {
           "type": "markdown",
           "state": {
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diskrete Mathematik/Graphentheorie/Matching.md",
+                "file": "Allgemeine Mathematik/Zeichensammlung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,10 +111,10 @@
     "width": 322,
     "collapsed": true
   },
-  "active": "c701e10e5298920e",
+  "active": "d78354cec7c1c0df",
   "lastOpenFiles": [
-    "Diskrete Mathematik/Graphentheorie/Matching.md",
     "Allgemeine Mathematik/Zeichensammlung.md",
+    "Diskrete Mathematik/Graphentheorie/Matching.md",
     "Diskrete Mathematik/Kombinatorik/Binomische Lehrsatz.md",
     "Diskrete Mathematik/Graphentheorie/Spannbaumalgorithmen.md",
     "z_images/Pasted image 20220523103022.png",
