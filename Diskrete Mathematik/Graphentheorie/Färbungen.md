@@ -10,5 +10,6 @@
 	+ $a(G)$ größte Zahl $k∈ℕ$, sodass ∃ unabhängige Knotenmenge in G
 	+ ![[Pasted image 20220524140022.png]]
 	+ Kreis mit 
-		+ gerader Länge - braucht 3
-		+ ungerader Länge - braucht 2
+		+ gerader Länge braucht 3
+		+ ungerader Länge braucht 2
+	+ ![[Pasted image 20220524140317.png]]
