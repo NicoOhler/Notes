@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Diskrete Mathematik/Graphentheorie/Matching.md",
-            "mode": "source"
+            "file": "Diskrete Mathematik/Kombinatorik/Binomische Lehrsatz.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diskrete Mathematik/Graphentheorie/Matching.md",
+                "file": "Diskrete Mathematik/Kombinatorik/Binomische Lehrsatz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,13 +99,13 @@
   },
   "active": "c701e10e5298920e",
   "lastOpenFiles": [
+    "Diskrete Mathematik/Kombinatorik/Binomische Lehrsatz.md",
     "Diskrete Mathematik/Graphentheorie/Matching.md",
     "Diskrete Mathematik/Graphentheorie/Spannbaumalgorithmen.md",
     "z_images/Pasted image 20220523103022.png",
     "Data Science and AI/Machine Learning/Correlation.md",
     "Data Science and AI/Knowledge Representation/Vectors as KR.md",
     "Data Science and AI/Machine Learning/Perceptron.md",
-    "Diskrete Mathematik/Kombinatorik/Binomische Lehrsatz.md",
     "Diskrete Mathematik/Kombinatorik/Kombinatorik.md",
     "Diskrete Mathematik/Kombinatorik/Lineare Rekursion.md",
     "Diskrete Mathematik/Kombinatorik/Nicht Lineare Rekursion.md"
