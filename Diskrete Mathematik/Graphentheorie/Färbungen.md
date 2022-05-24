@@ -1,6 +1,6 @@
 # Färbungen
 ### (Proper) Coloring
-+ Färbung von $G(V,E)$ ist Funktion
++ Knotenfärbung von $G(V,E)$ ist Funktion
 	+ c: V --> F 
 	+ mit Eigenschaft
 		+ $\{x,y\}∈E$ ==> $c(x)≠c(y)$
@@ -22,4 +22,15 @@
 	+ setze $C(V_1)=1$
 	+ für $2≤i≤n$
 		+ wähle als Farbe $C(V_i)$ die kleinste Zahl, welche nicht als (bisher gewählte) Nachbarfarbe von $V_i$ vorkommt
-	+ setze m=1
+	+ setze $m=|{C(V_i)|1≤i≤n}|$ - Anzahl von Farben
+	+ return  c: V --> $[m]$
+		+ ![[Pasted image 20220524144607.png]]
+
+### Arten von Färbungen
++ Knotenfärbungen
+	+ siehe oben
++ Kantenfärbungen
+	+ analog zu Knotenfärbungen
+	+ jedoch werden Kanten gefärbt
++ Listenfärbungen
+	+ jeder Knoten (bzw. Kante) besitzt Liste von möglichen Farben
