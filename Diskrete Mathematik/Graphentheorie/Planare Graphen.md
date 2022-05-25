@@ -12,3 +12,7 @@
 ### Eulersche Formel
 + zusammenhängender planarer Graph G mit $|V|=n$, $|E|=m$
 	+ Anzahl der Flächen $f=2-n+m$
+
+### Korollar
++ planarer Graph G (ohne Schleifen/Mehrfachkanten) mit $|V|≥3$
+	+ $|E|≤3|V|-6$
