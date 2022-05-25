@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Diskrete Mathematik/Graphentheorie/Färbungen.md",
-            "mode": "preview"
+            "file": "Analysis/Komplexe Analysis/Singularität.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diskrete Mathematik/Graphentheorie/Färbungen.md",
+                "file": "Analysis/Komplexe Analysis/Singularität.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +99,8 @@
   },
   "active": "d78354cec7c1c0df",
   "lastOpenFiles": [
+    "Analysis/Komplexe Analysis/Singularität.md",
+    "z_images/Pasted image 20220525154342.png",
     "Diskrete Mathematik/Graphentheorie/Färbungen.md",
     "Diskrete Mathematik/Graphentheorie/Graphentheorie.md",
     "Diskrete Mathematik/Graphentheorie/Matching.md",
@@ -106,8 +108,6 @@
     "Allgemeine Mathematik/Zeichensammlung.md",
     "Diskrete Mathematik/Graphentheorie/Planare Graphen.md",
     "Diskrete Mathematik/Kombinatorik/Binomische Lehrsatz.md",
-    "Diskrete Mathematik/Graphentheorie/Spannbaumalgorithmen.md",
-    "z_images/Pasted image 20220523103022.png",
-    "Data Science and AI/Machine Learning/Correlation.md"
+    "Diskrete Mathematik/Graphentheorie/Spannbaumalgorithmen.md"
   ]
 }
