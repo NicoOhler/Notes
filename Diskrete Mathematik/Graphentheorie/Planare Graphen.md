@@ -8,3 +8,7 @@
 ### Unterteilung
 + Graph G wird unterteilt, durch Ersetzen von Knoten durch Pfade
 + G ist planar <==> jede Unterteilung von G ist planar <==> G enthält Unterteilung von $K_5$ $oder $K_3_3$
+
+### Eulersche Formel
++ zusammenhängender planarer Graph G mit $|V|=n$, $|E|=m$
+	+ Anzahl der Flächen $f=2-n+m$
