@@ -25,5 +25,10 @@
 ### Randwertaufgabe
 + ![[Pasted image 20220516132432.png]]
 
+### Poissonsche Integralformel
 + sei g: $[0,2\pi]$->ℝ eine Funktion
-	+ $u(rcos(φ),rsin(φ))$
+	+ $u(rcos(φ),rsin(φ))=\frac{1}{2\pi}\int_0^{2\pi}g(t)\frac{1-r^2}{1-2rcos(t-φ)+r^2}dt$
+	+ Lösung der Potentialgleichung $\bigtriangleup u=0$ mit
+		+ ![[Pasted image 20220525191526.png]]
++ sei $g_0$ in $φ_0$ stetig
+	+ 

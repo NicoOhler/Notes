@@ -1,4 +1,4 @@
-# Zeichen-sammlung
+# Zeichensammlung
 + ∞ × ±
 +  Σ Π
 + α β π λ μ ε δ φ ψ
