@@ -24,3 +24,6 @@
 
 ### Randwertaufgabe
 + ![[Pasted image 20220516132432.png]]
+
++ sei g: $[0,2\pi]$->ℝ eine Funktion
+	+ $u(rcos(φ),rsin(φ))$

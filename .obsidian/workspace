@@ -6,10 +6,23 @@
       {
         "id": "d78354cec7c1c0df",
         "type": "leaf",
+        "dimension": 53.72628726287263,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Komplexe Analysis/Singularität.md",
+            "file": "Analysis/Komplexe Analysis/Potentialgleichung.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "ca4c848ed99a0b59",
+        "type": "leaf",
+        "dimension": 46.27371273712737,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Allgemeine Mathematik/Zeichensammlung.md",
             "mode": "source"
           }
         }
@@ -52,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324
+    "width": 324,
+    "collapsed": true
   },
   "right": {
     "id": "d1219e90b492538d",
@@ -68,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Komplexe Analysis/Singularität.md",
+                "file": "Analysis/Komplexe Analysis/Potentialgleichung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +113,15 @@
   },
   "active": "d78354cec7c1c0df",
   "lastOpenFiles": [
+    "Analysis/Komplexe Analysis/Potentialgleichung.md",
+    "Allgemeine Mathematik/Zeichensammlung.md",
     "Analysis/Komplexe Analysis/Singularität.md",
     "z_images/Pasted image 20220525154342.png",
     "Diskrete Mathematik/Graphentheorie/Färbungen.md",
     "Diskrete Mathematik/Graphentheorie/Graphentheorie.md",
     "Diskrete Mathematik/Graphentheorie/Matching.md",
     "Diskrete Mathematik/Graphentheorie/Graphenmatrizen.md",
-    "Allgemeine Mathematik/Zeichensammlung.md",
     "Diskrete Mathematik/Graphentheorie/Planare Graphen.md",
-    "Diskrete Mathematik/Kombinatorik/Binomische Lehrsatz.md",
-    "Diskrete Mathematik/Graphentheorie/Spannbaumalgorithmen.md"
+    "Diskrete Mathematik/Kombinatorik/Binomische Lehrsatz.md"
   ]
 }
