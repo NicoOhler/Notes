@@ -30,5 +30,17 @@
 	+ $u(rcos(φ),rsin(φ))=\frac{1}{2\pi}\int_0^{2\pi}g(t)\frac{1-r^2}{1-2rcos(t-φ)+r^2}dt$
 	+ Lösung der Potentialgleichung $\bigtriangleup u=0$ mit
 		+ ![[Pasted image 20220525191526.png]]
-+ sei $g_0$ in $φ_0$ stetig
+
+### Fourier-Reihe
++ sei g: $I$->ℝ
+	+ I ... Intervall der Länge 2π
+	+ Koeffizienten 
+		+ $α_0=\frac{1}{2\pi}\int_I g(t)dt$
+		+ $α_n=\frac{1}{\pi}\int_I g(t)cos(nt)dt$
+		+ $β_n=\frac{1}{\pi}\int_I g(t)sin(nt)dt$
++ wenn Reihe konvergiert, dann gilt in allen Stetigkeitspunkten von g
+	+ $g(φ)=\alpha_0+\sum_{n=1}^\infty(\alpha_n cos(nφ)+\beta_n sin(nφ))$
+	+ ![[Pasted image 20220525194148.png]]
++ Beispiele:
+	+ ![[Pasted image 20220525193346.png]]
 	+ 
