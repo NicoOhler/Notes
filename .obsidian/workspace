@@ -4,26 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "c701e10e5298920e",
-        "type": "leaf",
-        "dimension": 73.17708333333333,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Diskrete Mathematik/Graphentheorie/Planare Graphen.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
         "id": "d78354cec7c1c0df",
         "type": "leaf",
-        "dimension": 26.822916666666664,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Allgemeine Mathematik/Zeichensammlung.md",
-            "mode": "source"
+            "file": "Diskrete Mathematik/Graphentheorie/Färbungen.md",
+            "mode": "preview"
           }
         }
       }
@@ -52,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "least sq",
+                "query": "laplac",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diskrete Mathematik/Graphentheorie/Planare Graphen.md",
+                "file": "Diskrete Mathematik/Graphentheorie/Färbungen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,17 +97,17 @@
     "width": 322,
     "collapsed": true
   },
-  "active": "c701e10e5298920e",
+  "active": "d78354cec7c1c0df",
   "lastOpenFiles": [
-    "Diskrete Mathematik/Graphentheorie/Planare Graphen.md",
-    "Allgemeine Mathematik/Zeichensammlung.md",
     "Diskrete Mathematik/Graphentheorie/Färbungen.md",
+    "Diskrete Mathematik/Graphentheorie/Graphentheorie.md",
     "Diskrete Mathematik/Graphentheorie/Matching.md",
+    "Diskrete Mathematik/Graphentheorie/Graphenmatrizen.md",
+    "Allgemeine Mathematik/Zeichensammlung.md",
+    "Diskrete Mathematik/Graphentheorie/Planare Graphen.md",
     "Diskrete Mathematik/Kombinatorik/Binomische Lehrsatz.md",
     "Diskrete Mathematik/Graphentheorie/Spannbaumalgorithmen.md",
     "z_images/Pasted image 20220523103022.png",
-    "Data Science and AI/Machine Learning/Correlation.md",
-    "Data Science and AI/Knowledge Representation/Vectors as KR.md",
-    "Data Science and AI/Machine Learning/Perceptron.md"
+    "Data Science and AI/Machine Learning/Correlation.md"
   ]
 }
