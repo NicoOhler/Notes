@@ -1,4 +1,4 @@
-# Färbungen
+# Färbung
 ### (Proper) Coloring
 + Knotenfärbung von $G(V,E)$ ist Funktion
 	+ c: V --> F 
@@ -26,7 +26,7 @@
 	+ return  c: V --> $[m]$
 		+ ![[Pasted image 20220524144607.png]]
 
-### Arten von Färbungen
+### Arten von Färbung
 + Knotenfärbungen
 	+ siehe oben
 + Kantenfärbungen

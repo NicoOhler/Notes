@@ -1,8 +1,10 @@
 # Planare Graphen
 ### Planare Graphen
 + Graph G ist planar <==> G in Ebene ohne Überkreuzung zeichenbar
-	+ planar
-		+ ![[Pasted image 20220525154322.png]]
-	+ nicht planar
-		+ ![[Pasted image 20220525154342.png]]
-	+  
+	+ ![[Pasted image 20220525154322.png]]
+	+ ![[Pasted image 20220525154342.png]]
++  jeder planare Graph kann mit ≤4 Farben gefärbt werden
+
+### Unterteilung
++ Graph G wird unterteilt, durch Ersetzen von Knoten durch Pfade
++ G ist planar <==> jede Unterteilung von G ist planar <==> G enthält Unterteilung von $K_5$ $oder $K_3_3$
