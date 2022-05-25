@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Diskrete Mathematik/Graphentheorie/Färbungen.md",
+            "file": "Diskrete Mathematik/Graphentheorie/Planare Graphen.md",
             "mode": "source"
           }
         }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diskrete Mathematik/Graphentheorie/Färbungen.md",
+                "file": "Diskrete Mathematik/Graphentheorie/Planare Graphen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,6 +112,7 @@
   },
   "active": "c701e10e5298920e",
   "lastOpenFiles": [
+    "Diskrete Mathematik/Graphentheorie/Planare Graphen.md",
     "Diskrete Mathematik/Graphentheorie/Färbungen.md",
     "Allgemeine Mathematik/Zeichensammlung.md",
     "Diskrete Mathematik/Graphentheorie/Matching.md",
@@ -120,7 +121,6 @@
     "z_images/Pasted image 20220523103022.png",
     "Data Science and AI/Machine Learning/Correlation.md",
     "Data Science and AI/Knowledge Representation/Vectors as KR.md",
-    "Data Science and AI/Machine Learning/Perceptron.md",
-    "Diskrete Mathematik/Kombinatorik/Kombinatorik.md"
+    "Data Science and AI/Machine Learning/Perceptron.md"
   ]
 }
