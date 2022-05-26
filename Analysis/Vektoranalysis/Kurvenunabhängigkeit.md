@@ -1,4 +1,4 @@
-# Kurvenunabhängigkeit
+# Wegunabhängigkeit
 + ang. V hängt nur von Anfangs- und Endpunkt von C ab
 + ![[Pasted image 20220316092347.png]]
 	+ a,b sind Anfangs und Endpunkt
