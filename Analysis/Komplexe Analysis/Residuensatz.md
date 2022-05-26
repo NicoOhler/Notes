@@ -12,6 +12,7 @@
 	+ U sternförmig
 	+ A die Menge der Singularitäten von f
 	+ C eine geschlossene Kurve in U, die nicht durch A verläuft
-
++ Beispiel
+	+ 
 
 [[Singularität]]
