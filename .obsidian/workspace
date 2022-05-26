@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Vektoranalysis/Oberflächenintegral.md",
+            "file": "Analysis/Differentialgleichungen/DGL Typen.md",
             "mode": "preview"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "grad",
+                "query": "inte",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Vektoranalysis/Oberflächenintegral.md",
+                "file": "Analysis/Differentialgleichungen/DGL Typen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
   },
   "active": "20e7aeb213bd90ab",
   "lastOpenFiles": [
-    "Analysis/Vektoranalysis/Oberflächenintegral.md",
+    "Analysis/Differentialgleichungen/DGL Typen.md",
+    "Analysis/Differentialgleichungen/Differentialgleichungen.md",
+    "Analysis/Differentialgleichungen/Inhomogene DGL mit mit konstanten Koeffizienten.md",
+    "Analysis/Differentialgleichungen/Lineare DGL mit konstanten Koeffizienten.md",
     "Analysis/Vektoranalysis/Kurvenunabhängigkeit.md",
+    "Analysis/Vektoranalysis/Oberflächenintegral.md",
     "Analysis/Vektoranalysis/Vektoranalysis.md",
     "Analysis/Komplexe Analysis/Komplexe Kurvenintegrale.md",
     "Analysis/Komplexe Analysis/Komplexe Analysis.md",
-    "Analysis/Integralrechnung/Integration rationaler Funktionen.md",
-    "Diskrete Mathematik/Graphentheorie/Graphenmatrizen.md",
-    "Analysis/Mehrdimensionale Differentialrechnung/Extremwertaufgaben mit Nebenbedingungen.md",
-    "Diskrete Mathematik/Graphentheorie/Graphentheorie.md",
-    "Analysis/Mehrdimensionale Differentialrechnung/Mehrdimensionale Differentialrechnung.md"
+    "Analysis/Integralrechnung/Integration rationaler Funktionen.md"
   ]
 }
