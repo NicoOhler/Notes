@@ -42,6 +42,8 @@
 		+ $β_n=\frac{1}{\pi}\int_I g(t)sin(nt)dt$
 + wenn Reihe konvergiert, dann gilt in allen Stetigkeitspunkten von g
 	+ $g(φ)=\alpha_0+\sum_{n=1}^\infty(\alpha_n cos(nφ)+\beta_n sin(nφ))$
++ Lösung der Potentialgleichung
+	+ $u(rcos(φ),rsin(φ))=\alpha_0+\sum_{n=1}^\infty r^n(\alpha_n cos(nφ)+\beta_n sin(nφ))$
 	+ ![[Pasted image 20220525194148.png]]
 + Beispiele:
 	+ ![[Pasted image 20220525194423.png]]

@@ -6,11 +6,11 @@
       {
         "id": "d78354cec7c1c0df",
         "type": "leaf",
-        "dimension": 53.72628726287263,
+        "dimension": 74.1869918699187,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Komplexe Analysis/Potentialgleichung.md",
+            "file": "Analysis/Komplexe Analysis/Residuensatz.md",
             "mode": "source"
           }
         }
@@ -18,7 +18,7 @@
       {
         "id": "ca4c848ed99a0b59",
         "type": "leaf",
-        "dimension": 46.27371273712737,
+        "dimension": 25.8130081300813,
         "state": {
           "type": "markdown",
           "state": {
@@ -65,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324,
-    "collapsed": true
+    "width": 324
   },
   "right": {
     "id": "d1219e90b492538d",
@@ -82,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Komplexe Analysis/Potentialgleichung.md",
+                "file": "Analysis/Komplexe Analysis/Residuensatz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,15 +112,15 @@
   },
   "active": "d78354cec7c1c0df",
   "lastOpenFiles": [
-    "Analysis/Komplexe Analysis/Potentialgleichung.md",
+    "Analysis/Komplexe Analysis/Residuensatz.md",
     "Allgemeine Mathematik/Zeichensammlung.md",
+    "Analysis/Komplexe Analysis/Potentialgleichung.md",
     "Analysis/Komplexe Analysis/Singularität.md",
     "z_images/Pasted image 20220525154342.png",
     "Diskrete Mathematik/Graphentheorie/Färbungen.md",
     "Diskrete Mathematik/Graphentheorie/Graphentheorie.md",
     "Diskrete Mathematik/Graphentheorie/Matching.md",
     "Diskrete Mathematik/Graphentheorie/Graphenmatrizen.md",
-    "Diskrete Mathematik/Graphentheorie/Planare Graphen.md",
-    "Diskrete Mathematik/Kombinatorik/Binomische Lehrsatz.md"
+    "Diskrete Mathematik/Graphentheorie/Planare Graphen.md"
   ]
 }
