@@ -29,7 +29,7 @@
 + umformen nach λ
 	+ quadratische Gleichung
 + Fallunterscheidung der Diskrimante D
-	+ D > 0
+	+ D < 0
 		+ zwei komplexe Lösungen
 			+ kongugiert ebenfalls Lösungen
 		+ umwandeln in reelle Lösungen
@@ -40,7 +40,7 @@
 	+ D = 0
 		+ Doppellösung ==> allgemeine Lösung
 		+ ![[Pasted image 20220427145410.png]]
-	+ D < 0
+	+ D > 0
 		+ zwei verschiedene reellle Lösungen
 		+ ![[Pasted image 20220427145416.png]]
 + Zusammenfassung

@@ -34,13 +34,13 @@
 + ![[Pasted image 20220509144746.png]]
 + ![[Pasted image 20220509144715.png]]
 
-### Beispiele
+### Beispiel
 + ![[Pasted image 20220502144122.png]]
-	+ ![[Pasted image 20220502144426.png]]
++ ![[Pasted image 20220502144426.png]]
 + ![[Pasted image 20220502152349.png]]
-	+ ![[Pasted image 20220502152440.png]]
++ ![[Pasted image 20220502152440.png]]
 + ![[Pasted image 20220502153239.png]]
-	+ ![[Pasted image 20220502153314.png]]
++ ![[Pasted image 20220502153314.png]]
 
 
 
