@@ -4,26 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "d78354cec7c1c0df",
+        "id": "20e7aeb213bd90ab",
         "type": "leaf",
-        "dimension": 74.1869918699187,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Komplexe Analysis/Anwendungen der Residuenrechnung.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "ca4c848ed99a0b59",
-        "type": "leaf",
-        "dimension": 25.8130081300813,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Allgemeine Mathematik/Zeichensammlung.md",
-            "mode": "source"
+            "file": "Analysis/Vektoranalysis/Vektoranalysis.md",
+            "mode": "preview"
           }
         }
       }
@@ -81,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Komplexe Analysis/Anwendungen der Residuenrechnung.md",
+                "file": "Analysis/Vektoranalysis/Vektoranalysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,17 +97,17 @@
     "width": 322,
     "collapsed": true
   },
-  "active": "d78354cec7c1c0df",
+  "active": "20e7aeb213bd90ab",
   "lastOpenFiles": [
-    "Analysis/Komplexe Analysis/Anwendungen der Residuenrechnung.md",
-    "Analysis/Komplexe Analysis/Residuensatz.md",
-    "Allgemeine Mathematik/Zeichensammlung.md",
-    "Analysis/Komplexe Analysis/Potentialgleichung.md",
-    "Analysis/Komplexe Analysis/Singularität.md",
-    "z_images/Pasted image 20220525154342.png",
-    "Diskrete Mathematik/Graphentheorie/Färbungen.md",
-    "Diskrete Mathematik/Graphentheorie/Graphentheorie.md",
-    "Diskrete Mathematik/Graphentheorie/Matching.md",
-    "Diskrete Mathematik/Graphentheorie/Graphenmatrizen.md"
+    "Analysis/Vektoranalysis/Vektoranalysis.md",
+    "Analysis/Vektoranalysis/Sternförmig.md",
+    "Analysis/Vektoranalysis/Oberflächenintegral.md",
+    "Analysis/Vektoranalysis/Kurvenunabhängigkeit.md",
+    "Analysis/Vektoranalysis/Integralsätze.md",
+    "Analysis/Mehrdimensionale Integralrechnung/Dreifachintegral.md",
+    "Analysis/Mehrdimensionale Integralrechnung/Normalbereiche.md",
+    "Analysis/Mehrdimensionale Integralrechnung/Mehrdimensionale Integralrechnung.md",
+    "z_images/Pasted image 20220525191526.png",
+    "z_images/Pasted image 20220526111626.png"
   ]
 }
