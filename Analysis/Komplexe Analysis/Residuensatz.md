@@ -26,13 +26,4 @@
 + Pole höherer Ordnung m>1
 	+ ![[Pasted image 20220526104933.png]]
 
-### Anwendungen der Residuenrechnung
-+ Zählen von Nullstellen
-	+ U sternförmig, f∈H(U), C geschlossen in U
-	+ ![[Pasted image 20220526105537.png]]
-		+ ![[Pasted image 20220526105600.png]]
-	+ ![[Pasted image 20220526105612.png]]
-	+ gesucht # Nullstellen innerhalb von C (Vielfachheit gezählt)
-	+ 
-
 [[Singularität]]

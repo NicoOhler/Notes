@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Komplexe Analysis/Residuensatz.md",
+            "file": "Analysis/Komplexe Analysis/Anwendungen der Residuenrechnung.md",
             "mode": "source"
           }
         }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Komplexe Analysis/Residuensatz.md",
+                "file": "Analysis/Komplexe Analysis/Anwendungen der Residuenrechnung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,6 +112,7 @@
   },
   "active": "d78354cec7c1c0df",
   "lastOpenFiles": [
+    "Analysis/Komplexe Analysis/Anwendungen der Residuenrechnung.md",
     "Analysis/Komplexe Analysis/Residuensatz.md",
     "Allgemeine Mathematik/Zeichensammlung.md",
     "Analysis/Komplexe Analysis/Potentialgleichung.md",
@@ -120,7 +121,6 @@
     "Diskrete Mathematik/Graphentheorie/Färbungen.md",
     "Diskrete Mathematik/Graphentheorie/Graphentheorie.md",
     "Diskrete Mathematik/Graphentheorie/Matching.md",
-    "Diskrete Mathematik/Graphentheorie/Graphenmatrizen.md",
-    "Diskrete Mathematik/Graphentheorie/Planare Graphen.md"
+    "Diskrete Mathematik/Graphentheorie/Graphenmatrizen.md"
   ]
 }
