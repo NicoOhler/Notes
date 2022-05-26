@@ -13,6 +13,20 @@
 	+ A die Menge der Singularitäten von f
 	+ C eine geschlossene Kurve in U, die nicht durch A verläuft
 + Beispiel
-	+ 
+	+ ![[Pasted image 20220526104241.png]]
+	+ ![[Pasted image 20220526104257.png]]
+	+ ![[Pasted image 20220526104312.png]]
+
+### Bestimmung von Residuen
++ Pole erster Ordnung
+	+ $\frac{p(z)}{q(z)}$
+		+ $p(z)$ holomorph um $z_0$
+		+ $q(z_0)=0$, $q'(z_0)≠0$
+	+ $Res_{z=z_0}\frac{p(z)}{q(z)}=\frac{p(z_0)}{q'(z_0)}$
++ Pole höherer Ordnung m>1
+	+ ![[Pasted image 20220526104933.png]]
+
+### Anwendungen der Residuenrechnung
++ 
 
 [[Singularität]]
