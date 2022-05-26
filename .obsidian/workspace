@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Differentialgleichungen/DGL Typen.md",
-            "mode": "preview"
+            "file": "Analysis/Vektoranalysis/Vektoranalysis.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Differentialgleichungen/DGL Typen.md",
+                "file": "Analysis/Vektoranalysis/Vektoranalysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
   },
   "active": "20e7aeb213bd90ab",
   "lastOpenFiles": [
-    "Analysis/Differentialgleichungen/DGL Typen.md",
-    "Analysis/Differentialgleichungen/Differentialgleichungen.md",
-    "Analysis/Differentialgleichungen/Inhomogene DGL mit mit konstanten Koeffizienten.md",
-    "Analysis/Differentialgleichungen/Lineare DGL mit konstanten Koeffizienten.md",
-    "Analysis/Vektoranalysis/Kurvenunabhängigkeit.md",
-    "Analysis/Vektoranalysis/Oberflächenintegral.md",
     "Analysis/Vektoranalysis/Vektoranalysis.md",
-    "Analysis/Komplexe Analysis/Komplexe Kurvenintegrale.md",
-    "Analysis/Komplexe Analysis/Komplexe Analysis.md",
-    "Analysis/Integralrechnung/Integration rationaler Funktionen.md"
+    "Analysis/Vektoranalysis/Integralsätze.md",
+    "Analysis/Vektoranalysis/Kurvenunabhängigkeit.md",
+    "Analysis/Mehrdimensionale Integralrechnung/Dreifachintegral.md",
+    "Analysis/Mehrdimensionale Integralrechnung/Mehrdimensionale Integralrechnung.md",
+    "Analysis/Mehrdimensionale Integralrechnung/Normalbereiche.md",
+    "Analysis/Differentialgleichungen/Lineare DGL mit konstanten Koeffizienten.md",
+    "Analysis/Differentialgleichungen/Inhomogene DGL mit mit konstanten Koeffizienten.md",
+    "Analysis/Differentialgleichungen/Differentialgleichungen.md",
+    "Analysis/Differentialgleichungen/DGL Typen.md"
   ]
 }
