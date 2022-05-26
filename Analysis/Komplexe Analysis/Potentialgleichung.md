@@ -30,6 +30,8 @@
 	+ $u(rcos(φ),rsin(φ))=\frac{1}{2\pi}\int_0^{2\pi}g(t)\frac{1-r^2}{1-2rcos(t-φ)+r^2}dt$
 	+ Lösung der Potentialgleichung $\bigtriangleup u=0$ mit
 		+ ![[Pasted image 20220525191526.png]]
++ Beispiel
+	+  ![[Pasted image 20220525193346.png]]
 
 ### Fourier-Reihe
 + sei g: $I$->ℝ
@@ -42,5 +44,5 @@
 	+ $g(φ)=\alpha_0+\sum_{n=1}^\infty(\alpha_n cos(nφ)+\beta_n sin(nφ))$
 	+ ![[Pasted image 20220525194148.png]]
 + Beispiele:
-	+ ![[Pasted image 20220525193346.png]]
-	+ 
+	+ ![[Pasted image 20220525194423.png]]
+	+ ![[Pasted image 20220525194635.png]]
