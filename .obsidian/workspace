@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Vektoranalysis/Vektoranalysis.md",
+            "file": "Analysis/Vektoranalysis/Kurvenunabhängigkeit.md",
             "mode": "preview"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "inte",
+                "query": "potenti",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Vektoranalysis/Vektoranalysis.md",
+                "file": "Analysis/Vektoranalysis/Kurvenunabhängigkeit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,10 +100,10 @@
   },
   "active": "20e7aeb213bd90ab",
   "lastOpenFiles": [
+    "Analysis/Vektoranalysis/Kurvenunabhängigkeit.md",
+    "Analysis/Vektoranalysis/Oberflächenintegral.md",
     "Analysis/Vektoranalysis/Vektoranalysis.md",
     "Analysis/Vektoranalysis/Sternförmig.md",
-    "Analysis/Vektoranalysis/Oberflächenintegral.md",
-    "Analysis/Vektoranalysis/Kurvenunabhängigkeit.md",
     "Analysis/Vektoranalysis/Integralsätze.md",
     "Analysis/Mehrdimensionale Integralrechnung/Normalbereiche.md",
     "Analysis/Mehrdimensionale Integralrechnung/Mehrdimensionale Integralrechnung.md",
