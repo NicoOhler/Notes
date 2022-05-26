@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Vektoranalysis/Kurvenunabhängigkeit.md",
+            "file": "Analysis/Vektoranalysis/Oberflächenintegral.md",
             "mode": "preview"
           }
         }
@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Vektoranalysis/Kurvenunabhängigkeit.md",
+                "file": "Analysis/Vektoranalysis/Oberflächenintegral.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,15 +99,15 @@
   },
   "active": "20e7aeb213bd90ab",
   "lastOpenFiles": [
+    "Analysis/Vektoranalysis/Oberflächenintegral.md",
     "Analysis/Vektoranalysis/Kurvenunabhängigkeit.md",
+    "Analysis/Vektoranalysis/Vektoranalysis.md",
     "Analysis/Komplexe Analysis/Komplexe Kurvenintegrale.md",
     "Analysis/Komplexe Analysis/Komplexe Analysis.md",
     "Analysis/Integralrechnung/Integration rationaler Funktionen.md",
     "Diskrete Mathematik/Graphentheorie/Graphenmatrizen.md",
     "Analysis/Mehrdimensionale Differentialrechnung/Extremwertaufgaben mit Nebenbedingungen.md",
     "Diskrete Mathematik/Graphentheorie/Graphentheorie.md",
-    "Analysis/Mehrdimensionale Differentialrechnung/Mehrdimensionale Differentialrechnung.md",
-    "Analysis/Vektoranalysis/Vektoranalysis.md",
-    "Analysis/Vektoranalysis/Sternförmig.md"
+    "Analysis/Mehrdimensionale Differentialrechnung/Mehrdimensionale Differentialrechnung.md"
   ]
 }
