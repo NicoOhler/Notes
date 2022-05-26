@@ -30,11 +30,11 @@
 	+ quadratische Gleichung
 + Fallunterscheidung der Diskrimante D
 	+ D < 0
-		+ zwei komplexe Lösungen
+		+ zwei komplexe Lösungen (x+yi)
 			+ kongugiert ebenfalls Lösungen
 		+ umwandeln in reelle Lösungen
 			+ Nullstellen ergeben zusammen reelle Lösung
-			+ $λ_{1/2}=e^{±ix} = sin(x)/cos(x)$
+			+ $λ_{1/2}=e^xe^{±iy} = e^x*sin(y)/cos(y)$
 			+ ![[Pasted image 20220427145926.png]]
 		+ ![[Pasted image 20220427145359.png]]
 	+ D = 0

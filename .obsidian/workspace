@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Differentialgleichungen/Lineare DGL mit konstanten Koeffizienten.md",
-            "mode": "source"
+            "file": "Analysis/Differentialgleichungen/Inhomogene DGL mit mit konstanten Koeffizienten.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Differentialgleichungen/Lineare DGL mit konstanten Koeffizienten.md",
+                "file": "Analysis/Differentialgleichungen/Inhomogene DGL mit mit konstanten Koeffizienten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,8 +99,8 @@
   },
   "active": "20e7aeb213bd90ab",
   "lastOpenFiles": [
-    "Analysis/Differentialgleichungen/Lineare DGL mit konstanten Koeffizienten.md",
     "Analysis/Differentialgleichungen/Inhomogene DGL mit mit konstanten Koeffizienten.md",
+    "Analysis/Differentialgleichungen/Lineare DGL mit konstanten Koeffizienten.md",
     "Analysis/Differentialgleichungen/DGL Typen.md",
     "Analysis/Vektoranalysis/Vektoranalysis.md",
     "Analysis/Vektoranalysis/Integralsätze.md",
