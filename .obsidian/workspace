@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Vektoranalysis/Kurvenunabhängigkeit.md",
-            "mode": "preview"
+            "file": "Analysis/Teststoff 1. Kl.md",
+            "mode": "source"
           }
         }
       }
@@ -48,13 +48,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 324,
-    "collapsed": true
+    "width": 324
   },
   "right": {
     "id": "d1219e90b492538d",
@@ -70,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Vektoranalysis/Kurvenunabhängigkeit.md",
+                "file": "Analysis/Teststoff 1. Kl.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +99,8 @@
   },
   "active": "20e7aeb213bd90ab",
   "lastOpenFiles": [
+    "Analysis/Teststoff 1. Kl.md",
+    "Analysis/Differentialgleichungen/DGL Typen.md",
     "Analysis/Vektoranalysis/Kurvenunabhängigkeit.md",
     "Analysis/Vektoranalysis/Oberflächenintegral.md",
     "Analysis/Vektoranalysis/Vektoranalysis.md",
@@ -108,8 +108,6 @@
     "Analysis/Vektoranalysis/Integralsätze.md",
     "Analysis/Mehrdimensionale Integralrechnung/Normalbereiche.md",
     "Analysis/Mehrdimensionale Integralrechnung/Mehrdimensionale Integralrechnung.md",
-    "Analysis/Mehrdimensionale Integralrechnung/Dreifachintegral.md",
-    "Analysis/Differentialgleichungen/Inhomogene DGL mit mit konstanten Koeffizienten.md",
-    "Analysis/Differentialgleichungen/Lineare DGL mit konstanten Koeffizienten.md"
+    "Analysis/Mehrdimensionale Integralrechnung/Dreifachintegral.md"
   ]
 }
