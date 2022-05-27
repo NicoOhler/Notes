@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Teststoff 1. Kl.md",
-            "mode": "source"
+            "file": "Analysis/Vektoranalysis/Oberflächenintegral.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Teststoff 1. Kl.md",
+                "file": "Analysis/Vektoranalysis/Oberflächenintegral.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,10 +99,10 @@
   },
   "active": "20e7aeb213bd90ab",
   "lastOpenFiles": [
-    "Analysis/Teststoff 1. Kl.md",
-    "Analysis/Differentialgleichungen/DGL Typen.md",
-    "Analysis/Vektoranalysis/Kurvenunabhängigkeit.md",
     "Analysis/Vektoranalysis/Oberflächenintegral.md",
+    "Analysis/Vektoranalysis/Kurvenunabhängigkeit.md",
+    "Analysis/Differentialgleichungen/DGL Typen.md",
+    "Analysis/Teststoff 1. Kl.md",
     "Analysis/Vektoranalysis/Vektoranalysis.md",
     "Analysis/Vektoranalysis/Sternförmig.md",
     "Analysis/Vektoranalysis/Integralsätze.md",
