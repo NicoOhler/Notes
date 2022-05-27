@@ -1,2 +1,3 @@
 dgl
-	e
+	4 typen
+	
