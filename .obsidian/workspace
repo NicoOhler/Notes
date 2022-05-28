@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Mehrdimensionale Integralrechnung/Dreifachintegral.md",
-            "mode": "source"
+            "file": "Analysis/Vektoranalysis/Vektoranalysis.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Mehrdimensionale Integralrechnung/Dreifachintegral.md",
+                "file": "Analysis/Vektoranalysis/Vektoranalysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
   },
   "active": "20e7aeb213bd90ab",
   "lastOpenFiles": [
-    "Analysis/Mehrdimensionale Integralrechnung/Dreifachintegral.md",
-    "Analysis/Mehrdimensionale Integralrechnung/Mehrdimensionale Integralrechnung.md",
+    "Analysis/Vektoranalysis/Vektoranalysis.md",
     "Analysis/Mehrdimensionale Integralrechnung/Normalbereiche.md",
+    "Analysis/Integralrechnung/Substitution rationaler Funktionen.md",
+    "Analysis/Integralrechnung/Integration rationaler Funktionen.md",
+    "Analysis/Mehrdimensionale Integralrechnung/Mehrdimensionale Integralrechnung.md",
+    "Analysis/Mehrdimensionale Integralrechnung/Dreifachintegral.md",
     "Analysis/Differentialgleichungen/Inhomogene DGL mit mit konstanten Koeffizienten.md",
     "Analysis/Differentialgleichungen/Lineare DGL mit konstanten Koeffizienten.md",
     "Analysis/Differentialgleichungen/DGL Typen.md",
-    "Analysis/Differentialgleichungen/Differentialgleichungen.md",
-    "Analysis/Vektoranalysis/Integralsätze.md",
-    "Analysis/Vektoranalysis/Oberflächenintegral.md",
-    "Analysis/Vektoranalysis/Wegunabhängigkeit.md"
+    "Analysis/Differentialgleichungen/Differentialgleichungen.md"
   ]
 }
