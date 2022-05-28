@@ -1,4 +1,5 @@
 # Vektoranalysis 
+### Kurvenintegral
 + Sei $U⊆ℝ^2 (bzw. ℝ^3)$ offen. Dann ist $\overrightarrow{V}:U$-->$ℝ^2 (bzw. ℝ^3)$ ein Vektorfeld
 	+  $\overrightarrow{V}$ besteht aus Koordinatenfunktionen
 	+ $\overrightarrow{V}:U$ auf U koordinatenweise differenzierbar
