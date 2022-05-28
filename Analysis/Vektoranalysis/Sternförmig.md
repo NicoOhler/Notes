@@ -9,4 +9,4 @@
 		+ ![[Pasted image 20220328112142.png]]
 		+ Produktregel im letzten Schritt
 
-[[Kurvenunabhängigkeit]]
+[[Wegunabhängigkeit]]

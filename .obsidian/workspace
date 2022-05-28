@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Vektoranalysis/Vektoranalysis.md",
+            "file": "Analysis/Vektoranalysis/Wegunabhängigkeit.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Vektoranalysis/Vektoranalysis.md",
+                "file": "Analysis/Vektoranalysis/Wegunabhängigkeit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
   },
   "active": "20e7aeb213bd90ab",
   "lastOpenFiles": [
+    "Analysis/Vektoranalysis/Wegunabhängigkeit.md",
+    "Analysis/Vektoranalysis/Integralsätze.md",
+    "Analysis/Vektoranalysis/Oberflächenintegral.md",
     "Analysis/Vektoranalysis/Vektoranalysis.md",
     "Analysis/Mehrdimensionale Integralrechnung/Normalbereiche.md",
     "Analysis/Mehrdimensionale Integralrechnung/Mehrdimensionale Integralrechnung.md",
     "Analysis/Mehrdimensionale Integralrechnung/Dreifachintegral.md",
-    "Analysis/Vektoranalysis/Oberflächenintegral.md",
-    "Analysis/Vektoranalysis/Kurvenunabhängigkeit.md",
     "Analysis/Differentialgleichungen/DGL Typen.md",
     "Analysis/Teststoff 1. Kl.md",
-    "Analysis/Vektoranalysis/Sternförmig.md",
-    "Analysis/Vektoranalysis/Integralsätze.md"
+    "Analysis/Vektoranalysis/Sternförmig.md"
   ]
 }

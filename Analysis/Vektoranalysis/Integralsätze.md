@@ -43,4 +43,4 @@
 + wirbelfrei, wenn Rotation Null
 + quellenfrei, wenn Divergenz Null
 
-[[Kurvenunabhängigkeit]]
+[[Wegunabhängigkeit]]
