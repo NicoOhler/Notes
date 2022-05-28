@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Vektoranalysis/Integralsätze.md",
+            "file": "Analysis/Differentialgleichungen/DGL Typen.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Vektoranalysis/Integralsätze.md",
+                "file": "Analysis/Differentialgleichungen/DGL Typen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +99,7 @@
   },
   "active": "20e7aeb213bd90ab",
   "lastOpenFiles": [
+    "Analysis/Differentialgleichungen/DGL Typen.md",
     "Analysis/Vektoranalysis/Integralsätze.md",
     "Analysis/Vektoranalysis/Oberflächenintegral.md",
     "Analysis/Vektoranalysis/Wegunabhängigkeit.md",
@@ -107,7 +108,6 @@
     "Analysis/Mehrdimensionale Integralrechnung/Normalbereiche.md",
     "Analysis/Mehrdimensionale Integralrechnung/Mehrdimensionale Integralrechnung.md",
     "Analysis/Mehrdimensionale Integralrechnung/Dreifachintegral.md",
-    "Analysis/Differentialgleichungen/DGL Typen.md",
     "Analysis/Teststoff 1. Kl.md"
   ]
 }
