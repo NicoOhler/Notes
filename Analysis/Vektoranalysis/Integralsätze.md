@@ -8,7 +8,7 @@
 	+ muss vollständig definiert sein
 	+ Bereich darf keine Löcher haben
 + Leibnizsche Sektorformel
-	+ Fläche von B $\frac{1}{2}\oint_{\partial B} -ydx+xdy$
+	+ Fläche von B $=\frac{1}{2}\oint_{\partial B} -ydx+xdy$
 + Beispiel:
 	+ Integralsatz von Gauß nicht möglich, da undefiniert im Ursprung
 	+ ![[Pasted image 20220404104341.png]]
