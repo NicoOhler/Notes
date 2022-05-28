@@ -20,7 +20,7 @@
 + äußere und keine innere
 	+ Ansatz x multiplizieren
 + äußere und innere
-	+ Ansatz mit linearem Polynom x^n multiplizieren
+	+ Ansatz mit linearem Polynom $x^n$ multiplizieren
 	+ n ist Ordnung von $\lambda$
 + keine äußere und keine innere
 	+ nicht mit Polynom multiplizieren
