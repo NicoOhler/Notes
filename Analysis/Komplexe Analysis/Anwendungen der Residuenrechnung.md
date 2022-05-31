@@ -14,3 +14,6 @@
 	+ Beispiel
 		+ ![[Pasted image 20220526111225.png]]
 		+ ![[Pasted image 20220526111626.png]]
+
+
+[[Residuensatz]]
