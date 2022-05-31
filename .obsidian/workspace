@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Vektoranalysis/Oberflächenintegral.md",
-            "mode": "source"
+            "file": "Analysis/Komplexe Analysis/Potentialgleichung.md",
+            "mode": "preview"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "potenti",
+                "query": "harmo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Vektoranalysis/Oberflächenintegral.md",
+                "file": "Analysis/Komplexe Analysis/Potentialgleichung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
   },
   "active": "20e7aeb213bd90ab",
   "lastOpenFiles": [
+    "Analysis/Komplexe Analysis/Potentialgleichung.md",
+    "Analysis/Komplexe Analysis/Residuensatz.md",
+    "Analysis/Komplexe Analysis/Singularität.md",
+    "Analysis/Komplexe Analysis/Anwendungen der Residuenrechnung.md",
     "Analysis/Vektoranalysis/Oberflächenintegral.md",
     "Analysis/Vektoranalysis/Vektoranalysis.md",
     "Analysis/Mehrdimensionale Integralrechnung/Normalbereiche.md",
     "Analysis/Integralrechnung/Substitution rationaler Funktionen.md",
     "Analysis/Integralrechnung/Integration rationaler Funktionen.md",
-    "Analysis/Mehrdimensionale Integralrechnung/Mehrdimensionale Integralrechnung.md",
-    "Analysis/Mehrdimensionale Integralrechnung/Dreifachintegral.md",
-    "Analysis/Differentialgleichungen/Inhomogene DGL mit mit konstanten Koeffizienten.md",
-    "Analysis/Differentialgleichungen/Lineare DGL mit konstanten Koeffizienten.md",
-    "Analysis/Differentialgleichungen/DGL Typen.md"
+    "Analysis/Mehrdimensionale Integralrechnung/Mehrdimensionale Integralrechnung.md"
   ]
 }
