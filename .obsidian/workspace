@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Komplexe Analysis/Potentialgleichung.md",
+            "file": "Analysis/Vektoranalysis/Integralsätze.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Komplexe Analysis/Potentialgleichung.md",
+                "file": "Analysis/Vektoranalysis/Integralsätze.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +99,7 @@
   },
   "active": "20e7aeb213bd90ab",
   "lastOpenFiles": [
+    "Analysis/Vektoranalysis/Integralsätze.md",
     "Analysis/Komplexe Analysis/Potentialgleichung.md",
     "Analysis/Komplexe Analysis/Komplexe Analysis.md",
     "Analysis/Komplexe Analysis/Komplexe Kurvenintegrale.md",
@@ -107,7 +108,6 @@
     "Analysis/Komplexe Analysis/Singularität.md",
     "Analysis/Vektoranalysis/Oberflächenintegral.md",
     "Analysis/Vektoranalysis/Vektoranalysis.md",
-    "Analysis/Mehrdimensionale Integralrechnung/Normalbereiche.md",
-    "Analysis/Integralrechnung/Substitution rationaler Funktionen.md"
+    "Analysis/Mehrdimensionale Integralrechnung/Normalbereiche.md"
   ]
 }
