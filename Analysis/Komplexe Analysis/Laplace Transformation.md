@@ -1,5 +1,6 @@
 # Laplace Transformation
 ### Übersicht
++ [[Anwendungen der Residuenrechnung]]
 + f: $[a,\infty)$-->ℝ
 + Laplace Transformation 
 	+ ![[Pasted image 20220608124719.png]]
@@ -36,7 +37,7 @@
 		+  Summe der Residuen bleibt übrig
 
 ### Beispiele mit Umkehrformel 
-+ gleich wie oben jedoch ohne PBZ
++ gleiche Beispiel wie oben jedoch ohne PBZ
 	+ ![[Pasted image 20220608135221.png]]
 	+ ![[Pasted image 20220608135420.png]]
 + Rechteckschwingung mit unendlich Polen
@@ -47,3 +48,4 @@
 	+ ![[Pasted image 20220608145504.png]]
 	+ ![[Pasted image 20220608150128.png]]
 	+ ![[Pasted image 20220608150811.png]]
++ 
