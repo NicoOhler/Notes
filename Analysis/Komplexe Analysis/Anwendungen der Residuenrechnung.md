@@ -21,6 +21,15 @@
 		+ p, q Polynome
 		+ $deg(p)<deg(q)-2$
 		+ q hat keine reellen Nullstellen
-	+ 
+	+ ![[Pasted image 20220608113244.png]]
+		+ Summe der Residuen an Polen $z_0$ mit $Im(z_0)>0$
+		+  ![[Pasted image 20220608113221.png]]
+	+ Beispiel:
+		+ Pol erster Ordnung
+			+ ![[Pasted image 20220608113656.png]]
+			+ ![[Pasted image 20220608113710.png]]
+		+ Pol höherer Ordnung
+			+ ![[Pasted image 20220608113813.png]]
+			+ 
 
 [[Residuensatz]]
