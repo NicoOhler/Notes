@@ -21,6 +21,7 @@
 + approach
 	+ buffer writes in memory
 	+ flushes data as sorted run
-	+ merges runs into larger runs of next level (compaction)
-+ 
+	+ compaction - merges sorted runs into larger runs of next level
++ ![[Pasted image 20220608181817.png]]
++ ![[Pasted image 20220608182130.png]]
 
