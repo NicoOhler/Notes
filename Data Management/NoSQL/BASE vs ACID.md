@@ -1,4 +1,4 @@
-# ACID in NoSQL
+# BASE vs ACID
 ### Two-Phase Commit Protocol
 + distributed TX processing
 	+ n nodes with related but distributed data (vertical partitiong)
@@ -18,5 +18,20 @@
 	+ consistency - changes consistent among all nodes
 	+ availablity - services must be always availabe
 	+ partition tolerance - tolerance of temporarily unreachable noces
-+ proof
-+ 
++ possible combinations
+	+ ![[Pasted image 20220608173739.png]]
+
+### BASE Properties
++ instead of ACID
++ basically available
+	+ focus on availability
+	+ potentially outdated dta
+	+ no guarantee on consistent data
++ soft state
+	+ data might change later on
+	+ due to async updates/nodes becoming available again
++ eventual consistency
+	+ after enough time data distributed on all nodes become consistent
+	+ ![[Pasted image 20220608174250.png]]
+
+[[NoSQL]]

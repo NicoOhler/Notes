@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Data Management/NoSQL/ACID in NoSQL.md",
+            "file": "Data Management/NoSQL/BASE vs ACID.md",
             "mode": "source"
           }
         }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Management/NoSQL/ACID in NoSQL.md",
+                "file": "Data Management/NoSQL/BASE vs ACID.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,9 +112,9 @@
   },
   "active": "20e7aeb213bd90ab",
   "lastOpenFiles": [
-    "Data Management/NoSQL/ACID in NoSQL.md",
-    "Data Management/Database APIs/Transactions/Transaction.md",
+    "Data Management/NoSQL/BASE vs ACID.md",
     "Data Management/NoSQL/NoSQL.md",
+    "Data Management/Database APIs/Transactions/Transaction.md",
     "Data Management/SQL/SQL.md",
     "z_images/Pasted image 20220608113051.png",
     "z_images/Pasted image 20220608113221.png",
