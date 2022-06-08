@@ -28,7 +28,12 @@
 + Rücktransformation mit CIF statt
 	+ PBZ
 	+ Bekanntsein der Rechenregeln für L
-+ Verschieben des Kurvenintegrals im holomorphen Gebiet ändert nichts
-+ Verschiebung,
++ Verschiebung in Gebiet mit Polstellen
+	+ ==> Residuensatz statt CIF
+	+ ![[Pasted image 20220608135348.png]]
+		+  Verschieben des Kurvenintegrals im holomorphen Gebiet ändert nichts
+		+  Kurvenintegral = 0
+		+  Summe der Residuen bleibt übrig
 + Beispiel: gleich wie oben jedoch ohne PBZ
-	+ 
+	+ ![[Pasted image 20220608135221.png]]
+	+ ![[Pasted image 20220608135420.png]]
