@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Data Management/NoSQL/BASE vs ACID.md",
+            "file": "Data Management/NoSQL/Key-Value Pairs.md",
             "mode": "source"
           }
         }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Management/NoSQL/BASE vs ACID.md",
+                "file": "Data Management/NoSQL/Key-Value Pairs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,6 +112,7 @@
   },
   "active": "20e7aeb213bd90ab",
   "lastOpenFiles": [
+    "Data Management/NoSQL/Key-Value Pairs.md",
     "Data Management/NoSQL/BASE vs ACID.md",
     "Data Management/NoSQL/NoSQL.md",
     "Data Management/Database APIs/Transactions/Transaction.md",
@@ -120,7 +121,6 @@
     "z_images/Pasted image 20220608113221.png",
     "Analysis/Komplexe Analysis/Laplace Transformation.md",
     "Allgemeine Mathematik/Zeichensammlung.md",
-    "Analysis/Komplexe Analysis/Komplexe Zahlen.md",
-    "Analysis/Komplexe Analysis/Anwendungen der Residuenrechnung.md"
+    "Analysis/Komplexe Analysis/Komplexe Zahlen.md"
   ]
 }
