@@ -48,4 +48,8 @@
 	+ ![[Pasted image 20220608145504.png]]
 	+ ![[Pasted image 20220608150128.png]]
 	+ ![[Pasted image 20220608150811.png]]
-+ 
+
+### Distributionen?
++ ![[Pasted image 20220608155543.png]]
++ ![[Pasted image 20220608155620.png]]
++ ![[Pasted image 20220608155743.png]]
