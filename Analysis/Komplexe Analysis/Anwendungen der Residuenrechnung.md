@@ -41,7 +41,12 @@
 	+ Beispiel:
 		+ ![[Pasted image 20220608114906.png]]
 + rationale Funktionen mal $e^{itx}$
-	+ 
+	+ $R(x)$ mit $deg(p)<deg(q)-2$
+	+ Fallunterscheidung für t
+		+ t=0 
+			+ $e^{itx}=e^0=1$ ==> rationalen Funktionen ohne $e^{itx}$
+		+ t>0
+			+ 
 
 
 [[Residuensatz]]
