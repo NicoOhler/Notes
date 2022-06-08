@@ -38,5 +38,10 @@
 		+ $e^{ix}$ substituieren mit $z$
 			+ ![[Pasted image 20220608114739.png]]
 	+ ![[Pasted image 20220608114253.png]]
+	+ Beispiel:
+		+ ![[Pasted image 20220608114906.png]]
++ rationale Funktionen mal $e^{itx}$
+	+ 
+
 
 [[Residuensatz]]
