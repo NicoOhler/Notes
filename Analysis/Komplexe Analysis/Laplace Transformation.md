@@ -34,14 +34,16 @@
 		+  Verschieben des Kurvenintegrals im holomorphen Gebiet ändert nichts
 		+  Kurvenintegral = 0
 		+  Summe der Residuen bleibt übrig
-+ Beispiel: 
-	+ gleich wie oben jedoch ohne PBZ
-		+ ![[Pasted image 20220608135221.png]]
-		+ ![[Pasted image 20220608135420.png]]
-	+ Rechteckschwingung mit unendlich Polen
-		+ ![[Pasted image 20220608140316.png]]
-		+ ![[Pasted image 20220608140742.png]]
-		+ ![[Pasted image 20220608140835.png]]
-	+ Kirchhoffsche Gesetz
-		+ ![[Pasted image 20220608145504.png]]
-		+ 
+
+### Beispiele mit Umkehrformel 
++ gleich wie oben jedoch ohne PBZ
+	+ ![[Pasted image 20220608135221.png]]
+	+ ![[Pasted image 20220608135420.png]]
++ Rechteckschwingung mit unendlich Polen
+	+ ![[Pasted image 20220608140316.png]]
+	+ ![[Pasted image 20220608140742.png]]
+	+ ![[Pasted image 20220608140835.png]]
++ Kirchhoffsche Gesetz
+	+ ![[Pasted image 20220608145504.png]]
+	+ ![[Pasted image 20220608150128.png]]
+	+ ![[Pasted image 20220608150811.png]]

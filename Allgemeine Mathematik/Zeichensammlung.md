@@ -6,7 +6,7 @@
 	+ ≠ ≤ ≥ ≡
 + Quantoren
 	+ ∀ ∃ ∄
-+ Mengenoperatoren
++ Mengenoperator
 	+	∅	∈	∉	∪ 
 	+	⋈	∩	\ ÷	⊆	⊄
 +	Zahlenmengen
