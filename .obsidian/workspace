@@ -6,19 +6,19 @@
       {
         "id": "20e7aeb213bd90ab",
         "type": "leaf",
-        "dimension": 81.84281842818429,
+        "dimension": 75.17361111111111,
         "state": {
           "type": "markdown",
           "state": {
             "file": "Analysis/Komplexe Analysis/Laplace Transformation.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       },
       {
         "id": "fdce5ed6bec51f62",
         "type": "leaf",
-        "dimension": 18.157181571815716,
+        "dimension": 24.82638888888889,
         "state": {
           "type": "markdown",
           "state": {
@@ -113,9 +113,9 @@
   "active": "20e7aeb213bd90ab",
   "lastOpenFiles": [
     "Analysis/Komplexe Analysis/Laplace Transformation.md",
+    "Allgemeine Mathematik/Zeichensammlung.md",
     "Analysis/Komplexe Analysis/Komplexe Zahlen.md",
     "Analysis/Komplexe Analysis/Anwendungen der Residuenrechnung.md",
-    "Allgemeine Mathematik/Zeichensammlung.md",
     "Analysis/Komplexe Analysis/Potentialgleichung.md",
     "Analysis/Komplexe Analysis/Residuensatz.md",
     "Analysis/Komplexe Analysis/Komplexe Analysis.md",

@@ -34,6 +34,11 @@
 		+  Verschieben des Kurvenintegrals im holomorphen Gebiet ändert nichts
 		+  Kurvenintegral = 0
 		+  Summe der Residuen bleibt übrig
-+ Beispiel: gleich wie oben jedoch ohne PBZ
-	+ ![[Pasted image 20220608135221.png]]
-	+ ![[Pasted image 20220608135420.png]]
++ Beispiel: 
+	+ gleich wie oben jedoch ohne PBZ
+		+ ![[Pasted image 20220608135221.png]]
+		+ ![[Pasted image 20220608135420.png]]
+	+ Rechteckschwingung mit unendlich Polen
+		+ ![[Pasted image 20220608140316.png]]
+		+ ![[Pasted image 20220608140742.png]]
+		+ ![[Pasted image 20220608140835.png]]
