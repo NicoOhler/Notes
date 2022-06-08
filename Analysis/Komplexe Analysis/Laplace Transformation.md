@@ -42,3 +42,6 @@
 		+ ![[Pasted image 20220608140316.png]]
 		+ ![[Pasted image 20220608140742.png]]
 		+ ![[Pasted image 20220608140835.png]]
+	+ Kirchhoffsche Gesetz
+		+ ![[Pasted image 20220608145504.png]]
+		+ 
