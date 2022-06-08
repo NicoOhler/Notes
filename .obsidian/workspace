@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Komplexe Analysis/Residuensatz.md",
-            "mode": "preview"
+            "file": "Analysis/Komplexe Analysis/Anwendungen der Residuenrechnung.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Komplexe Analysis/Residuensatz.md",
+                "file": "Analysis/Komplexe Analysis/Anwendungen der Residuenrechnung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,11 +99,11 @@
   },
   "active": "20e7aeb213bd90ab",
   "lastOpenFiles": [
-    "Analysis/Komplexe Analysis/Residuensatz.md",
     "Analysis/Komplexe Analysis/Anwendungen der Residuenrechnung.md",
-    "Analysis/Vektoranalysis/Integralsätze.md",
     "Analysis/Komplexe Analysis/Potentialgleichung.md",
+    "Analysis/Komplexe Analysis/Residuensatz.md",
     "Analysis/Komplexe Analysis/Komplexe Analysis.md",
+    "Analysis/Vektoranalysis/Integralsätze.md",
     "Analysis/Komplexe Analysis/Komplexe Kurvenintegrale.md",
     "Analysis/Komplexe Analysis/Singularität.md",
     "Analysis/Vektoranalysis/Oberflächenintegral.md",

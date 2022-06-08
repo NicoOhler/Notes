@@ -15,5 +15,12 @@
 		+ ![[Pasted image 20220526111225.png]]
 		+ ![[Pasted image 20220526111626.png]]
 
+### Bestimmung von Integralen
++ Integrale über rationale Funktionen
+	+ $R(x)=\frac{p(x)}{q(x)}$, für die gilt
+		+ p, q Polynome
+		+ $deg(p)<deg(q)-2$
+		+ q hat keine reellen Nullstellen
+	+ 
 
 [[Residuensatz]]
