@@ -66,9 +66,9 @@
 	+ $Lf(s)$ ist holomorphe Funktion für $Re(s)>c_0(f)$
 + Doetsch Symbol
 	+ Beziehung zwischen f und Lf
-	+ $\Laplace$
+	+ ![[Pasted image 20220608130107.png]]
 
 ### Rechenregeln für L
-+ 
++ ![[Pasted image 20220608130146.png]]
 
 [[Residuensatz]]
