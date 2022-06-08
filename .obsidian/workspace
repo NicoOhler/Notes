@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Komplexe Analysis/Anwendungen der Residuenrechnung.md",
+            "file": "Analysis/Komplexe Analysis/Laplace Transformation.md",
             "mode": "source"
           }
         }
@@ -65,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324,
-    "collapsed": true
+    "width": 324
   },
   "right": {
     "id": "d1219e90b492538d",
@@ -82,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Komplexe Analysis/Anwendungen der Residuenrechnung.md",
+                "file": "Analysis/Komplexe Analysis/Laplace Transformation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +112,8 @@
   },
   "active": "20e7aeb213bd90ab",
   "lastOpenFiles": [
+    "Analysis/Komplexe Analysis/Laplace Transformation.md",
+    "Analysis/Komplexe Analysis/Komplexe Zahlen.md",
     "Analysis/Komplexe Analysis/Anwendungen der Residuenrechnung.md",
     "Allgemeine Mathematik/Zeichensammlung.md",
     "Analysis/Komplexe Analysis/Potentialgleichung.md",
@@ -120,8 +121,6 @@
     "Analysis/Komplexe Analysis/Komplexe Analysis.md",
     "Analysis/Vektoranalysis/Integralsätze.md",
     "Analysis/Komplexe Analysis/Komplexe Kurvenintegrale.md",
-    "Analysis/Komplexe Analysis/Singularität.md",
-    "Analysis/Vektoranalysis/Oberflächenintegral.md",
-    "Analysis/Vektoranalysis/Vektoranalysis.md"
+    "Analysis/Komplexe Analysis/Singularität.md"
   ]
 }
