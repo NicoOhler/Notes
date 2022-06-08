@@ -53,6 +53,7 @@
 		+ ![[Pasted image 20220608121345.png]]
 	+ R reell ==> Konjugation von Integral für $t>0$ = Integral für $t<0$
 	+ Beispiel:
-		+ 
+		+ ![[Pasted image 20220608121915.png]]
+		+ ![[Pasted image 20220608122218.png]]
 
 [[Residuensatz]]
