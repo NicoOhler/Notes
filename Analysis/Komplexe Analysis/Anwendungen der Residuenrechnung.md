@@ -56,4 +56,11 @@
 		+ ![[Pasted image 20220608121915.png]]
 		+ ![[Pasted image 20220608122218.png]]
 
+### Laplace Transformation
++ f: $[a,\infty)$-->ℝ
++ Laplace Transformation 
+	+ ![[Pasted image 20220608124719.png]]
+	+ $Lf(s)$ f existiert, wenn $∃A,C∈ℝ ∀t∈ℝ^+:|f(t)|≤Ce^{At}$
++ für jedes f gibt es eine reelle Zahl  
+
 [[Residuensatz]]
