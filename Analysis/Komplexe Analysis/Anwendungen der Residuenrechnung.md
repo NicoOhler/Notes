@@ -71,4 +71,11 @@
 ### Rechenregeln für L
 + ![[Pasted image 20220608130146.png]]
 
+### DGL lösen
++ ![[Pasted image 20220608132508.png]]
+	+  Laplace Transformation auf lineare DGL
+	+ dividieren statt DGL lösen  
+	+ Rücktransformation
+	+ 
+
 [[Residuensatz]]
