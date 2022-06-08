@@ -24,4 +24,11 @@
 	+ ![[Pasted image 20220608133514.png]]
 
 ### Laplace Umkehrformel
-+ 
++ ![[Pasted image 20220608134312.png]]
++ Rücktransformation mit CIF statt
+	+ PBZ
+	+ Bekanntsein der Rechenregeln für L
++ Verschieben des Kurvenintegrals im holomorphen Gebiet ändert nichts
++ Verschiebung,
++ Beispiel: gleich wie oben jedoch ohne PBZ
+	+ 
