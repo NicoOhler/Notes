@@ -6,11 +6,11 @@
       {
         "id": "20e7aeb213bd90ab",
         "type": "leaf",
-        "dimension": 75.17361111111111,
+        "dimension": 72.91666666666666,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Komplexe Analysis/Laplace Transformation.md",
+            "file": "Data Management/NoSQL/ACID in NoSQL.md",
             "mode": "source"
           }
         }
@@ -18,7 +18,7 @@
       {
         "id": "fdce5ed6bec51f62",
         "type": "leaf",
-        "dimension": 24.826388888888893,
+        "dimension": 27.083333333333332,
         "state": {
           "type": "markdown",
           "state": {
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Komplexe Analysis/Laplace Transformation.md",
+                "file": "Data Management/NoSQL/ACID in NoSQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,15 +112,15 @@
   },
   "active": "20e7aeb213bd90ab",
   "lastOpenFiles": [
+    "Data Management/NoSQL/ACID in NoSQL.md",
+    "Data Management/NoSQL/NoSQL.md",
+    "Data Management/SQL/SQL.md",
+    "z_images/Pasted image 20220608113051.png",
+    "z_images/Pasted image 20220608113221.png",
     "Analysis/Komplexe Analysis/Laplace Transformation.md",
     "Allgemeine Mathematik/Zeichensammlung.md",
     "Analysis/Komplexe Analysis/Komplexe Zahlen.md",
     "Analysis/Komplexe Analysis/Anwendungen der Residuenrechnung.md",
-    "Analysis/Komplexe Analysis/Potentialgleichung.md",
-    "Analysis/Komplexe Analysis/Residuensatz.md",
-    "Analysis/Komplexe Analysis/Komplexe Analysis.md",
-    "Analysis/Vektoranalysis/Integralsätze.md",
-    "Analysis/Komplexe Analysis/Komplexe Kurvenintegrale.md",
-    "Analysis/Komplexe Analysis/Singularität.md"
+    "Analysis/Komplexe Analysis/Potentialgleichung.md"
   ]
 }
