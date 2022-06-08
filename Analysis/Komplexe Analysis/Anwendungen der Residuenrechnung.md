@@ -61,6 +61,14 @@
 + Laplace Transformation 
 	+ ![[Pasted image 20220608124719.png]]
 	+ $Lf(s)$ f existiert, wenn $∃A,C∈ℝ ∀t∈ℝ^+:|f(t)|≤Ce^{At}$
-+ für jedes f gibt es eine reelle Zahl  
++ Konvergergenzabszisse $c_0(f)$
+	+ $∀f∃c_0(f)∈ℝ:∀s∈ℂ$ mit $Re(s)>c_0(f)$ $Lf(s)$ existiert
+	+ $Lf(s)$ ist holomorphe Funktion für $Re(s)>c_0(f)$
++ Doetsch Symbol
+	+ Beziehung zwischen f und Lf
+	+ $\Laplace$
+
+### Rechenregeln für L
++ 
 
 [[Residuensatz]]
