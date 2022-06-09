@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Komplexe Analysis/Laplace Transformation.md",
-            "mode": "preview"
+            "file": "Data Management/NoSQL/Document Stores.md",
+            "mode": "source"
           }
         }
       }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Komplexe Analysis/Laplace Transformation.md",
+                "file": "Data Management/NoSQL/Document Stores.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,9 +100,9 @@
   },
   "active": "20e7aeb213bd90ab",
   "lastOpenFiles": [
-    "Analysis/Komplexe Analysis/Laplace Transformation.md",
-    "z_images/Pasted image 20220608140742.png",
     "Data Management/NoSQL/Document Stores.md",
+    "z_images/Pasted image 20220608140742.png",
+    "Analysis/Komplexe Analysis/Laplace Transformation.md",
     "Data Management/NoSQL/Key-Value Pairs.md",
     "Data Management/NoSQL/BASE vs ACID.md",
     "z_images/Pasted image 20220608173739.png",
