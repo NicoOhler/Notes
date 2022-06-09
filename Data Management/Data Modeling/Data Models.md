@@ -6,10 +6,13 @@
 	+ focus on data + behaviour
 
 ### Logical Data Models
-+ Key Value Pairs
-+ Document (XML, JSON)
-+ Graplh
-+ Time Series
++ [Key-Value Pairs]]
++ [[Document Stores]]
+	+ [[XML]]
+	+ [[JSON]]
++ [[Graphs]] 
+	+ [[Graph Processing]]
++ [[Time Series]]
 + Matrix/Tensor
 
 [[Database Design]]

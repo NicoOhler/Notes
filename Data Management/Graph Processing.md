@@ -21,3 +21,5 @@
 + RDF graphs are directed, labeled multigraph
 + querying data
 	+ ![[Pasted image 20220609172032.png]]
+
+[[Data Models]]

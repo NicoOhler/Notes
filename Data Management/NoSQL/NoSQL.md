@@ -17,4 +17,8 @@
 	+ horizontal partitioning (sharding)
 	+ scaling
 
+### MongoDB Example
+![[Pasted image 20220609165804.png]]
 
+
+[[Data Models]]
