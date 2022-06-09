@@ -1,4 +1,17 @@
-# BASE vs ACID
+# BASE
+### BASE Properties
++ instead of ACID in [[NoSQL]] systems
++ basically available
+	+ focus on availability
+	+ potentially outdated dta
+	+ no guarantee on consistent data
++ soft state
+	+ data might change later on
+	+ due to async updates/nodes becoming available again
++ eventual consistency
+	+ after enough time data distributed on all nodes become consistent
+	+ ![[Pasted image 20220608174250.png]]
+
 ### Two-Phase Commit Protocol
 + distributed TX processing
 	+ n nodes with related but distributed data (vertical partitiong)
@@ -14,24 +27,10 @@
 		+ one node temporarily down ==> failure
 
 ### Cap Theorem
-+ cap theorem ==> at most 2 of the following attributes
++ at most 2 of the following attributes
 	+ consistency - changes consistent among all nodes
 	+ availablity - services must be always availabe
 	+ partition tolerance - tolerance of temporarily unreachable noces
 + possible combinations
 	+ ![[Pasted image 20220608173739.png]]
 
-### BASE Properties
-+ instead of ACID
-+ basically available
-	+ focus on availability
-	+ potentially outdated dta
-	+ no guarantee on consistent data
-+ soft state
-	+ data might change later on
-	+ due to async updates/nodes becoming available again
-+ eventual consistency
-	+ after enough time data distributed on all nodes become consistent
-	+ ![[Pasted image 20220608174250.png]]
-
-[[NoSQL]]

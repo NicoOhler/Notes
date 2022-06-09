@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Data Management/Graph Processing DB.md",
+            "file": "Data Management/Time Series.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "acid",
+                "query": "ACID",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Management/Graph Processing DB.md",
+                "file": "Data Management/Time Series.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
   },
   "active": "20e7aeb213bd90ab",
   "lastOpenFiles": [
-    "Data Management/Graph Processing DB.md",
+    "Data Management/Time Series.md",
+    "Data Management/Graph Processing.md",
+    "Data Management/NoSQL/BASE.md",
+    "Data Management/Database APIs/Transactions/ACID.md",
+    "Data Management/Database APIs/Transactions/Transaction.md",
     "Data Management/NoSQL/Document Stores.md",
-    "z_images/Pasted image 20220608140742.png",
-    "Analysis/Komplexe Analysis/Laplace Transformation.md",
     "Data Management/NoSQL/Key-Value Pairs.md",
-    "Data Management/NoSQL/BASE vs ACID.md",
-    "z_images/Pasted image 20220608173739.png",
-    "z_images/Pasted image 20220608174250.png",
     "Data Management/NoSQL/NoSQL.md",
-    "Data Management/Database APIs/Transactions/Transaction.md"
+    "Data Management/SQL/SQL.md",
+    "z_images/Pasted image 20220608140742.png"
   ]
 }

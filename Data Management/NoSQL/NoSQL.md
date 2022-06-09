@@ -1,4 +1,9 @@
 # NoSQL
+### Overview
++ not only SQL
++ [[SQL]] alternative
++ uses [[Document Stores]] to store data as documents within collections as [[Key-Value Pairs]]
+
 ### Benefits
 + non-relational
 	+ key value pairs

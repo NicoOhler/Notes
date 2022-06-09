@@ -8,7 +8,7 @@
 
 ### Terminology
 + a collection is a set of documents
-+ [[SQL]] equivalents
++ SQL equivalents
 	+ document - tuple
 	+ collection - table
 + MongoDB example
