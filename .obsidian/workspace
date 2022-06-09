@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Data Management/Cloud Computing/Data Center.md",
+            "file": "Data Management/Cloud Computing/Containerization.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Management/Cloud Computing/Data Center.md",
+                "file": "Data Management/Cloud Computing/Containerization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +99,7 @@
   },
   "active": "20e7aeb213bd90ab",
   "lastOpenFiles": [
+    "Data Management/Cloud Computing/Containerization.md",
     "Data Management/Cloud Computing/Data Center.md",
     "Data Management/Database Performance Tuning/Database Performance Tuning.md",
     "Analysis/Komplexe Analysis/Potentialgleichung.md",
@@ -107,7 +108,6 @@
     "Data Management/Database Performance Tuning/Table Partitioning.md",
     "Data Management/Database Performance Tuning/Index Structures.md",
     "Data Management/Database Performance Tuning/Query Optimization/Plan Operators.md",
-    "Data Management/Database Performance Tuning/Query Optimization/Plan Optimization.md",
-    "Data Management/Database Performance Tuning/Query Optimization/Query Optimization.md"
+    "Data Management/Database Performance Tuning/Query Optimization/Plan Optimization.md"
   ]
 }
