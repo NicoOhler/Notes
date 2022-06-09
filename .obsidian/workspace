@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Data Management/NoSQL/Document Stores.md",
+            "file": "Data Management/Graph Processing DB.md",
             "mode": "source"
           }
         }
@@ -52,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324,
-    "collapsed": true
+    "width": 324
   },
   "right": {
     "id": "d1219e90b492538d",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Management/NoSQL/Document Stores.md",
+                "file": "Data Management/Graph Processing DB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +99,7 @@
   },
   "active": "20e7aeb213bd90ab",
   "lastOpenFiles": [
+    "Data Management/Graph Processing DB.md",
     "Data Management/NoSQL/Document Stores.md",
     "z_images/Pasted image 20220608140742.png",
     "Analysis/Komplexe Analysis/Laplace Transformation.md",
@@ -108,7 +108,6 @@
     "z_images/Pasted image 20220608173739.png",
     "z_images/Pasted image 20220608174250.png",
     "Data Management/NoSQL/NoSQL.md",
-    "Data Management/Database APIs/Transactions/Transaction.md",
-    "Data Management/SQL/SQL.md"
+    "Data Management/Database APIs/Transactions/Transaction.md"
   ]
 }
