@@ -1,6 +1,6 @@
 # Plan Optimization
 ### Plan Generation
-+ selection of physical access path and plan operators
++ selection of physical access path and [[Plan Operators]]
 + selection of execution order
 + convert logical query plan into optimal physical query plan
 + cost query optimization must be less than actual improvements

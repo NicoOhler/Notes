@@ -34,3 +34,5 @@
 	+ jedoch werden Kanten gefärbt
 + Listenfärbungen
 	+ jeder Knoten (bzw. Kante) besitzt Liste von möglichen Farben
+
+[[Graphentheorie]]

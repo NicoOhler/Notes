@@ -37,7 +37,9 @@
 
 ### Database Cracking
 + database layout adapts to requested queries and their range predicates
-	+ creates index structure to identify qualifying partitions
+	+ creates [[Index Structures]] to identify qualifying partitions
 	+ inside partition its elements are unordered
 + workload creates hybrid between partitioning and indexing
 + ![[Pasted image 20220507112812.png]]
+
+[[Background Storage System]] [[Database Performance Tuning]]

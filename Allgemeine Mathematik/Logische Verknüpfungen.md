@@ -81,5 +81,5 @@
 	1. A∧B ⇔ B∧A
 
 	
-[[Allgemeine Mathematik]] #Computer_Science
+[[Allgemeine Mathematik]]
 	

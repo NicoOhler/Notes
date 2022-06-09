@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Diskrete Mathematik/Graphentheorie/Spannbaumalgorithmen.md",
+            "file": "Data Management/Cloud Computing/Data Center.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "graph",
+                "query": "tag:#Computer_Science",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diskrete Mathematik/Graphentheorie/Spannbaumalgorithmen.md",
+                "file": "Data Management/Cloud Computing/Data Center.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
   },
   "active": "20e7aeb213bd90ab",
   "lastOpenFiles": [
-    "Diskrete Mathematik/Graphentheorie/Spannbaumalgorithmen.md",
-    "Diskrete Mathematik/Graphentheorie/Bäume & Spannbäume.md",
-    "Diskrete Mathematik/Graphentheorie/Färbungen.md",
-    "Diskrete Mathematik/Graphentheorie/Wege und Kreise.md",
-    "Diskrete Mathematik/Graphentheorie/Graphentheorie.md",
+    "Data Management/Cloud Computing/Data Center.md",
+    "Data Management/Database Performance Tuning/Database Performance Tuning.md",
+    "Analysis/Komplexe Analysis/Potentialgleichung.md",
     "Data Management/Data Modeling/Data Models.md",
-    "Data Science and AI/Knowledge Representation/Graphs/Graphs.md",
-    "Diskrete Mathematik/Graphentheorie/Matching.md",
-    "Diskrete Mathematik/Graphentheorie/Planare Graphen.md",
-    "Data Management/Database APIs/Transactions/Transaction.md"
+    "Data Management/Database Performance Tuning/Background Storage System.md",
+    "Data Management/Database Performance Tuning/Table Partitioning.md",
+    "Data Management/Database Performance Tuning/Index Structures.md",
+    "Data Management/Database Performance Tuning/Query Optimization/Plan Operators.md",
+    "Data Management/Database Performance Tuning/Query Optimization/Plan Optimization.md",
+    "Data Management/Database Performance Tuning/Query Optimization/Query Optimization.md"
   ]
 }

@@ -29,7 +29,7 @@
 ### Bipartite Matching
 + Input: $G=(A∪B,E)$ bipartite Graph mit $|A|≤|B|$
 + Output: größtmögliche Matching in G
-+ erstelle M (aus augmentierter Pfad P) mit  Kante mehr bis größtmöglich
++ erstelle M (aus augmentierter Pfad P) mit Kante mehr bis größtmöglich
 + Verfahren:
 	+ sei $M=∅$
 	+ wiederhole bis $|M|=|A|$
@@ -48,3 +48,5 @@
 	+ Tafel:
 		+ ![[Pasted image 20220524131014.png]]
 		+ ![[Pasted image 20220524131021.png]]
+
+[[Graphentheorie]]
