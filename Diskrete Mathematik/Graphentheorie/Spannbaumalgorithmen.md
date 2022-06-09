@@ -49,7 +49,7 @@
 		+ E-->ℝ
 		+ e-->w(e)
 + Output:
-	+ Spannbaum T von G mit minimalem Gewicht
+	+ [[Spannbaum]] T von G mit minimalem Gewicht
 	+ Summe aller Kantengewichte ist minimal
 	+ ![[Pasted image 20220513145234.png]]
 + Verfahren

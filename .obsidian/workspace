@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Data Management/Cloud Computing/Data Center.md",
+            "file": "Diskrete Mathematik/Graphentheorie/Spannbaumalgorithmen.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ACID",
+                "query": "graph",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Management/Cloud Computing/Data Center.md",
+                "file": "Diskrete Mathematik/Graphentheorie/Spannbaumalgorithmen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
   },
   "active": "20e7aeb213bd90ab",
   "lastOpenFiles": [
-    "Data Management/Cloud Computing/Data Center.md",
-    "Data Management/Cloud Computing/Cloud Computing.md",
-    "Graph.md",
-    "Data Management/Time Series.md",
-    "Data Management/NoSQL/NoSQL.md",
-    "Data Management/NoSQL/Document Stores.md",
-    "Data Management/NoSQL/BASE.md",
-    "Data Management/Key-Value Pairs.md",
-    "Data Management/Graph Processing.md",
-    "Data Management/Relational Algebra/Relational Algebra.md"
+    "Diskrete Mathematik/Graphentheorie/Spannbaumalgorithmen.md",
+    "Diskrete Mathematik/Graphentheorie/Bäume & Spannbäume.md",
+    "Diskrete Mathematik/Graphentheorie/Färbungen.md",
+    "Diskrete Mathematik/Graphentheorie/Wege und Kreise.md",
+    "Diskrete Mathematik/Graphentheorie/Graphentheorie.md",
+    "Data Management/Data Modeling/Data Models.md",
+    "Data Science and AI/Knowledge Representation/Graphs/Graphs.md",
+    "Diskrete Mathematik/Graphentheorie/Matching.md",
+    "Diskrete Mathematik/Graphentheorie/Planare Graphen.md",
+    "Data Management/Database APIs/Transactions/Transaction.md"
   ]
 }

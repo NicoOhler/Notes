@@ -48,6 +48,4 @@
 	+ ![[Pasted image 20220512173648.png]]
 	+ ![[Pasted image 20220512173715.png]]
 
-
-
 [[Wege und Kreise]]

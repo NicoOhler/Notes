@@ -16,3 +16,5 @@
 ### Korollar
 + planarer Graph G (ohne Schleifen/Mehrfachkanten) mit $|V|≥3$
 	+ $|E|≤3|V|-6$
+
+[[Färbungen]]

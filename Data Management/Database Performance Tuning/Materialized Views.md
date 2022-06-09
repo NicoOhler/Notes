@@ -35,3 +35,5 @@
 
 ### Materialized Views in PostgreSQL
 + ![[Pasted image 20220507114449.png]]
+
+[[Database Performance Tuning]]

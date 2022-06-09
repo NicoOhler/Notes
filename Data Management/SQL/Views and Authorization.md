@@ -4,6 +4,7 @@
 + allows authorization for subset of tuples
 	+ team leader only has access to team members
 	+ ![[Pasted image 20220412154636.png]]
++ performance enhancement through [[Materialized Views]]
 
 ### Authorization
 + query/modification permissions to users may be granted
@@ -11,6 +12,5 @@
 	+ ![[Pasted image 20220412154702.png]]
 + permissions may also be revoked
 	+ ![[Pasted image 20220412154710.png]]
-
 
 [[SQL]]
