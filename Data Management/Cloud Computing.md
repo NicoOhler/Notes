@@ -31,7 +31,7 @@
 
 ### Characeristics and Deployment Models
 + ![[Pasted image 20220609181153.png]]
-+  
++  ![[Pasted image 20220609181549.png]]
 
 
 
