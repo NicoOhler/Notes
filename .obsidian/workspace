@@ -6,24 +6,11 @@
       {
         "id": "20e7aeb213bd90ab",
         "type": "leaf",
-        "dimension": 72.91666666666666,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Data Management/NoSQL/Document Stores.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "fdce5ed6bec51f62",
-        "type": "leaf",
-        "dimension": 27.083333333333332,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Allgemeine Mathematik/Zeichensammlung.md",
-            "mode": "source"
+            "file": "Analysis/Komplexe Analysis/Laplace Transformation.md",
+            "mode": "preview"
           }
         }
       }
@@ -65,7 +52,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324
+    "width": 324,
+    "collapsed": true
   },
   "right": {
     "id": "d1219e90b492538d",
@@ -81,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Management/NoSQL/Document Stores.md",
+                "file": "Analysis/Komplexe Analysis/Laplace Transformation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,6 +100,7 @@
   },
   "active": "20e7aeb213bd90ab",
   "lastOpenFiles": [
+    "Analysis/Komplexe Analysis/Laplace Transformation.md",
     "Data Management/NoSQL/Document Stores.md",
     "Data Management/NoSQL/Key-Value Pairs.md",
     "Data Management/NoSQL/BASE vs ACID.md",
@@ -120,7 +109,6 @@
     "Data Management/NoSQL/NoSQL.md",
     "Data Management/Database APIs/Transactions/Transaction.md",
     "Data Management/SQL/SQL.md",
-    "z_images/Pasted image 20220608113051.png",
-    "z_images/Pasted image 20220608113221.png"
+    "z_images/Pasted image 20220608113051.png"
   ]
 }
