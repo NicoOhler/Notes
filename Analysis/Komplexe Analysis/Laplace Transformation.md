@@ -49,7 +49,7 @@
 	+ ![[Pasted image 20220608150128.png]]
 	+ ![[Pasted image 20220608150811.png]]
 
-### Exkurs Distributionen
+### Exkurs: Distributionen
 + ![[Pasted image 20220608155543.png]]
 + ![[Pasted image 20220608155620.png]]
 + ![[Pasted image 20220608155743.png]]
