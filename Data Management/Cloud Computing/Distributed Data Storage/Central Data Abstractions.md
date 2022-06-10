@@ -7,3 +7,6 @@
 	+ unsorted
 	+ duplicates allowed
 + different physical representations
++ distribution via horizontal partitioning
+
+[[Object Storage]]
