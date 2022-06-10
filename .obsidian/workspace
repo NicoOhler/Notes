@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Data Management/Cloud Computing/Distributed Data Storage/Spark.md",
+            "file": "Data Management/Cloud Computing/Distributed Data Storage/Serverless Computing.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Management/Cloud Computing/Distributed Data Storage/Spark.md",
+                "file": "Data Management/Cloud Computing/Distributed Data Storage/Serverless Computing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +99,7 @@
   },
   "active": "20e7aeb213bd90ab",
   "lastOpenFiles": [
+    "Data Management/Cloud Computing/Distributed Data Storage/Serverless Computing.md",
     "Data Management/Cloud Computing/Distributed Data Storage/Spark.md",
     "Data Management/Cloud Computing/Distributed Data Storage/RDD.md",
     "Data Management/Cloud Computing/Distributed Data Storage/MapReduce.md",
@@ -107,7 +108,6 @@
     "Analysis/Komplexe Analysis/Laplace Transformation.md",
     "Data Management/Cloud Computing/Distributed Data Storage/Object Storage.md",
     "Data Management/Cloud Computing/Distributed Data Storage/Distributed Data Storage.md",
-    "Data Management/Cloud Computing/Cloud Computing.md",
-    "Data Management/Cloud Computing/Data Center.md"
+    "Data Management/Cloud Computing/Cloud Computing.md"
   ]
 }

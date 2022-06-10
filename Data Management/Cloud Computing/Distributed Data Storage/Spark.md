@@ -26,6 +26,15 @@
 ### Lazy Evaluation, Caching and Lineage 
 + ![[Pasted image 20220610120256.png]]
 + example: k-means clustering
-+ 
+	+ ![[Pasted image 20220610120357.png]]
+	+ ![[Pasted image 20220610120727.png]]
+
+### Spark DataFrames and DataSets
++ ![[Pasted image 20220610120811.png]]
++ example
+	+ ![[Pasted image 20220610120833.png]]
+
+### Dask
+![[Pasted image 20220610121102.png]]
 
 
