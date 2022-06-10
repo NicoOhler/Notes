@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Komplexe Analysis/Laplace Transformation.md",
-            "mode": "preview"
+            "file": "Data Management/Cloud Computing/Distributed Data Storage/Distributed Data Storage.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Komplexe Analysis/Laplace Transformation.md",
+                "file": "Data Management/Cloud Computing/Distributed Data Storage/Distributed Data Storage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
   },
   "active": "20e7aeb213bd90ab",
   "lastOpenFiles": [
-    "Analysis/Komplexe Analysis/Laplace Transformation.md",
-    "z_images/Pasted image 20220609185221.png",
+    "Data Management/Cloud Computing/Distributed Data Storage/Distributed Data Storage.md",
+    "Data Management/Cloud Computing/Distributed Data Storage/Object Storage.md",
+    "Data Management/Cloud Computing/Distributed Data Storage/Data Lakes.md",
     "Data Management/Cloud Computing/Containerization.md",
     "Data Management/Cloud Computing/Data Center.md",
+    "Analysis/Komplexe Analysis/Laplace Transformation.md",
+    "z_images/Pasted image 20220609185221.png",
     "Data Management/Database Performance Tuning/Database Performance Tuning.md",
     "Analysis/Komplexe Analysis/Potentialgleichung.md",
-    "Data Management/Data Modeling/Data Models.md",
-    "Data Management/Database Performance Tuning/Background Storage System.md",
-    "Data Management/Database Performance Tuning/Table Partitioning.md",
-    "Data Management/Database Performance Tuning/Index Structures.md"
+    "Data Management/Data Modeling/Data Models.md"
   ]
 }
