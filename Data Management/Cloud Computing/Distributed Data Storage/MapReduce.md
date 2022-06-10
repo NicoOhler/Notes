@@ -12,3 +12,9 @@
 
 ### Execution Model
 ![[Pasted image 20220610112256.png]]
+
+### Criticism
++ performance
+	+ high latency
++ low level [[API]]
++ many different systems
