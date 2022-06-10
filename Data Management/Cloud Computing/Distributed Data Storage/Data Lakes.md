@@ -12,3 +12,5 @@
 	+ integrity constraints
 	+ validation
 + missing meta data and data catalog for search
+
+[[Distributed Data Storage]]

@@ -1,2 +1,2 @@
 # Distributed Data Storage
-[[Cloud]]
+[[Cloud Computing]]

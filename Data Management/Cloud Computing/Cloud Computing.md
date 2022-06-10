@@ -1,7 +1,7 @@
 # Cloud Computing
 ### Definition
 + remote on-demand servers to host, store, manage and process data
-	+ stored in [[Data Center]] instead of own locally hosted servers
+	+ stored as [[Distributed Data Storage]] in [[Data Center]] instead of own locally hosted servers
 
 ### Service Models
 ![[Pasted image 20220609180054.png]]
