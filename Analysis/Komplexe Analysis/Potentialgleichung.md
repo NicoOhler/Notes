@@ -16,6 +16,9 @@
 + Gradientenfeld gegeben ==> v(x,y) als Integral
 	+ ![[Pasted image 20220516132026.png]]
 	+ Integrabilitätsbedingung prüfen ==> wegunabhängig
+		+ $u_{xx}=u_{yy}$
+	+ $u_x=v_y$
+	+ $u_y=-v_x$
 	+ Beispiel WTF?
 		+ ![[Pasted image 20220516132229.png]]
 		+ ![[Pasted image 20220516132238.png]]
