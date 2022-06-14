@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Integralrechnung/Integralrechnung.md",
+            "file": "Analysis/Komplexe Analysis/Anwendungen der Residuenrechnung.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Integralrechnung/Integralrechnung.md",
+                "file": "Analysis/Komplexe Analysis/Anwendungen der Residuenrechnung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
   },
   "active": "20e7aeb213bd90ab",
   "lastOpenFiles": [
+    "Analysis/Komplexe Analysis/Anwendungen der Residuenrechnung.md",
+    "Analysis/Komplexe Analysis/Komplexe Analysis.md",
+    "Analysis/Komplexe Analysis/Komplexe Zahlen.md",
     "Analysis/Integralrechnung/Integralrechnung.md",
     "Analysis/Komplexe Analysis/Potentialgleichung.md",
     "z_images/Pasted image 20220610104735.png",
     "Data Management/Cloud Computing/Distributed Data Storage/RDD.md",
     "Data Management/Cloud Computing/Distributed Data Storage/Spark.md",
     "Data Management/Cloud Computing/Distributed Data Storage/MapReduce.md",
-    "Data Management/Cloud Computing/Distributed Data Storage/Serverless Computing.md",
-    "Data Management/Cloud Computing/Distributed Data Storage/Hadoop Distributed File System.md",
-    "Data Management/Cloud Computing/Distributed Data Storage/Central Data Abstractions.md",
-    "Analysis/Komplexe Analysis/Laplace Transformation.md"
+    "Data Management/Cloud Computing/Distributed Data Storage/Serverless Computing.md"
   ]
 }
