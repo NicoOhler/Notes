@@ -9,6 +9,17 @@
 		+ ![[Pasted image 20220615172715.png]]
 		+ $\lambda$ [[Eigenwerte]] von A
 		+ ![[Pasted image 20220615172925.png]]
-	+ Beispiel:
-		+ ![[Pasted image 20220615173003.png]]
+	+ Beispiele:
+		+ reelle Eigenwerte
+			+ ![[Pasted image 20220615173003.png]]
+			+ ![[Pasted image 20220615173435.png]]
+			+ jede Anfangsbedingung lösbar durch Wahl von $\mu_1,\mu_2$
+		+ komplexe Eigenwerte
+			+ zweite Eigenwert komplex konjugiert
+			+ ![[Pasted image 20220615173912.png]]
+			+ ![[Pasted image 20220615173935.png]]
+			+ ![[Pasted image 20220615173956.png]]
+		+ doppelter Eigenwert
 		+ 
+
+[[Differentialgleichungen]]
