@@ -20,6 +20,7 @@
 			+ ![[Pasted image 20220615173935.png]]
 			+ ![[Pasted image 20220615173956.png]]
 		+ doppelter Eigenwert
-		+ 
+			+ ![[Pasted image 20220615174102.png]]
+			+ ![[Pasted image 20220615174922.png]]
 
 [[Differentialgleichungen]]
