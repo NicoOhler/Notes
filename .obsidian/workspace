@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NRLA/Eigenwerte/Eigenwerte.md",
+            "file": "Analysis/Systeme von DGL und Stabilität/Systeme von DGL und Stabilität.md",
             "mode": "preview"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NRLA/Eigenwerte/Eigenwerte.md",
+                "file": "Analysis/Systeme von DGL und Stabilität/Systeme von DGL und Stabilität.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,8 +100,8 @@
   },
   "active": "20e7aeb213bd90ab",
   "lastOpenFiles": [
-    "NRLA/Eigenwerte/Eigenwerte.md",
     "Analysis/Systeme von DGL und Stabilität/Systeme von DGL und Stabilität.md",
+    "NRLA/Eigenwerte/Eigenwerte.md",
     "Analysis/Komplexe Analysis/Anwendungen der Residuenrechnung.md",
     "Analysis/Komplexe Analysis/Komplexe Analysis.md",
     "Analysis/Komplexe Analysis/Komplexe Zahlen.md",
