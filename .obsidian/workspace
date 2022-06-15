@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Systeme von DGL und Stabilität/Systeme von DGL und Stabilität.md",
+            "file": "NRLA/Eigenwerte/Eigenwerte.md",
             "mode": "preview"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "eigenvek",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Systeme von DGL und Stabilität/Systeme von DGL und Stabilität.md",
+                "file": "NRLA/Eigenwerte/Eigenwerte.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +100,7 @@
   },
   "active": "20e7aeb213bd90ab",
   "lastOpenFiles": [
+    "NRLA/Eigenwerte/Eigenwerte.md",
     "Analysis/Systeme von DGL und Stabilität/Systeme von DGL und Stabilität.md",
     "Analysis/Komplexe Analysis/Anwendungen der Residuenrechnung.md",
     "Analysis/Komplexe Analysis/Komplexe Analysis.md",
@@ -108,7 +109,6 @@
     "Analysis/Komplexe Analysis/Potentialgleichung.md",
     "z_images/Pasted image 20220610104735.png",
     "Data Management/Cloud Computing/Distributed Data Storage/RDD.md",
-    "Data Management/Cloud Computing/Distributed Data Storage/Spark.md",
-    "Data Management/Cloud Computing/Distributed Data Storage/MapReduce.md"
+    "Data Management/Cloud Computing/Distributed Data Storage/Spark.md"
   ]
 }
