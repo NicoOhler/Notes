@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Analysis/Systeme von DGL und Stabilität/Systeme von DGL und Stabilität.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "algebraisch",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
