@@ -35,14 +35,13 @@
 
 ### Similarity
 + useful for
-	+ recommendation
-	+ information retrieval
-	+ classification
+	+ [[Recommender Systems]]
+	+ [[Information Retrieval]]
+	+ [[Classification]]
 	+ clustering
 + many types of simillarity measures
 + cosine similarity
-	+ measures similarity
-		+ angle between two vectors
+	+ similarity = angle between two vectors
 		+ length independent
 			+ normalized vectors
 		+ direction dependent
