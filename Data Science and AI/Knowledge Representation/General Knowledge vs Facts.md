@@ -13,6 +13,4 @@
 + set of facts
 	+ database
 	
-
- 
 [[Knowledge Representation]]

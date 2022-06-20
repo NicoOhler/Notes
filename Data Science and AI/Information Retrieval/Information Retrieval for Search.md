@@ -20,29 +20,10 @@
 		+ each vector element represents a different topic
 		+ each document has value corresponding to each topic
 			+ different ways to generate this value
-			+ e.g. TFIDF
+			+ e.g. [[TFIDF]]
+	+ hides some words with [[Natural Language Processing]]
 	+ weird example
 		+ ![[Pasted image 20220425140706.png]]
-
-### TFIDF
-+ term frequency-inverse document-frequency
-+ generates value for each topic of document
-	+ term frequency
-		+ based on how often term occurs in document $d_i$
-		+ normaliced with document length
-		+ $tf_i=$$\frac{\#term\_occurences}{\#terms}$
-	+ inverse document frequency
-		+ based on how many documents contain term
-		+ $idf_i=log_10(\frac{|D|}{\#documents\_containing\_this\_term})$
-	+ TFIDF
-		+ combination of 
-			+ term frequency
-			+ inverse document frequency
-		+ element-wise multiplication of $tf_i$ and $idf$
-+ example
-	+ ![[Pasted image 20220425144131.png]]
-	+ ![[Pasted image 20220425144153.png]]
-
 
 
 	[[Information Retrieval]]
