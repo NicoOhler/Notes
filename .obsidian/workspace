@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Systeme von DGL und Stabilität/Systeme von DGL und Stabilität.md",
+            "file": "Data Science and AI/Rule-Based Systems/Rules-Based System.md",
             "mode": "preview"
           }
         }
@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Systeme von DGL und Stabilität/Systeme von DGL und Stabilität.md",
+                "file": "Data Science and AI/Rule-Based Systems/Rules-Based System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,15 +99,15 @@
   },
   "active": "20e7aeb213bd90ab",
   "lastOpenFiles": [
+    "Data Science and AI/Rule-Based Systems/Rules-Based System.md",
+    "Data Science and AI/Data Science and AI.md",
+    "Data Science and AI/Definition of Intelligence.md",
+    "Data Science and AI/Knowledge Representation/Graphs/Graphs.md",
+    "Data Science and AI/Knowledge Representation/Graphs/Graph Use Cases.md",
+    "z_images/Pasted image 20220615171657.png",
     "Analysis/Systeme von DGL und Stabilität/Systeme von DGL und Stabilität.md",
     "NRLA/Eigenwerte/Eigenwerte.md",
     "Analysis/Komplexe Analysis/Anwendungen der Residuenrechnung.md",
-    "Analysis/Komplexe Analysis/Komplexe Analysis.md",
-    "Analysis/Komplexe Analysis/Komplexe Zahlen.md",
-    "Analysis/Integralrechnung/Integralrechnung.md",
-    "Analysis/Komplexe Analysis/Potentialgleichung.md",
-    "z_images/Pasted image 20220610104735.png",
-    "Data Management/Cloud Computing/Distributed Data Storage/RDD.md",
-    "Data Management/Cloud Computing/Distributed Data Storage/Spark.md"
+    "Analysis/Komplexe Analysis/Komplexe Analysis.md"
   ]
 }
