@@ -1,7 +1,7 @@
 # Vectors as KR
 ### Overview
 + [[Vektor]] as numeric, non-symbolic representation of complex entities
-	+ complex entity becomes a set of finite number
+	+ complex entity becomes a set of finite numbers
 	+ no longer express general knowledge
 		+ hidden within choice of entities and features
 + relevant characteristics have to be chosen
