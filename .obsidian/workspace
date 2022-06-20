@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Data Science and AI/Knowledge Representation/Graphs/Spreading activation.md",
+            "file": "Data Science and AI/Information Retrieval/Information Retrieval for Search.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Science and AI/Knowledge Representation/Graphs/Spreading activation.md",
+                "file": "Data Science and AI/Information Retrieval/Information Retrieval for Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +99,8 @@
   },
   "active": "20e7aeb213bd90ab",
   "lastOpenFiles": [
+    "Data Science and AI/Information Retrieval/Information Retrieval for Search.md",
+    "Data Science and AI/Information Retrieval/Information Retrieval.md",
     "Data Science and AI/Knowledge Representation/Graphs/Spreading activation.md",
     "Data Science and AI/Knowledge Representation/Graphs/Graph Use Cases.md",
     "Data Science and AI/Knowledge Representation/Graphs/Graphs.md",
@@ -106,8 +108,6 @@
     "Data Science and AI/Knowledge Representation/General Knowledge vs Facts.md",
     "Data Science and AI/Knowledge Representation/Knowledge Representation.md",
     "Data Science and AI/Rule-Based Systems/Rules-Based System.md",
-    "Data Science and AI/Rule-Based Systems/Forward Chaining.md",
-    "Data Science and AI/Rule-Based Systems/Backward Chaining.md",
-    "Data Science and AI/Rule-Based Systems/Components of Rule-Based System.md"
+    "Data Science and AI/Rule-Based Systems/Forward Chaining.md"
   ]
 }

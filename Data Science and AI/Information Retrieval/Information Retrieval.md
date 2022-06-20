@@ -12,10 +12,9 @@
 	+ offline evaluation and adaptation of algorithms
 	+ online machine learning
 + usage:
-	+ recommendation systems
+	+ [[Recommender Systems]]]
 	+ search engines
 	+ basically all over the web
-
 
 ###  Formula
 + r=f(q,D)

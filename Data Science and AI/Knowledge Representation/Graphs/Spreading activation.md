@@ -11,7 +11,7 @@
 + activation threshold
 	+ if AV above threshold 
 	+ spread to adjacent nodes
-	+ those spread even furthe if AV above threshold again
+	+ those spread even further if AV above threshold again
 + decay value D
 	+  the further away from origin
 	+  the more it decays/less likely to spread
