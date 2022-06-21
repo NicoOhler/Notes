@@ -7,7 +7,7 @@
 
 ### Cost Models
 + ![[Pasted image 20220512140034.png]]
-	+ do not consider skew and correlation
+	+ do not consider skew and [[Correlation]]
 
 ### Query Types
 + nodes: tables

@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Data Science and AI/Machine Learning/Machine Learning.md",
-            "mode": "preview"
+            "file": "Data Management/SQL/Subqueries.md",
+            "mode": "source"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "semant",
+                "query": "correlation",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Science and AI/Machine Learning/Machine Learning.md",
+                "file": "Data Management/SQL/Subqueries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +100,15 @@
   },
   "active": "20e7aeb213bd90ab",
   "lastOpenFiles": [
-    "Data Science and AI/Machine Learning/Machine Learning.md",
-    "Data Science and AI/Machine Learning/Classification.md",
+    "Data Management/SQL/Subqueries.md",
+    "Data Management/Database Performance Tuning/Query Optimization/Plan Optimization.md",
+    "Data Science and AI/Knowledge Representation/Vectors as KR.md",
     "Data Science and AI/Machine Learning/Correlation.md",
+    "Data Science and AI/Machine Learning/Perceptron.md",
+    "Data Science and AI/Machine Learning/Machine Learning.md",
+    "Data Science and AI/Machine Learning/Artificial Neural Networks.md",
+    "Data Science and AI/Machine Learning/Classification.md",
     "Data Science and AI/Information Retrieval/Recommender Systems/Item Based CF.md",
-    "Data Science and AI/Information Retrieval/Recommender Systems/User Based CF.md",
-    "Data Science and AI/Information Retrieval/Recommender Systems/Collaborative Filtering.md",
-    "Data Science and AI/Information Retrieval/Recommender Systems/Recommender Systems.md",
-    "Data Science and AI/Information Retrieval/Information Retrieval for Search.md",
-    "Data Science and AI/Information Retrieval/Natural Language Processing.md",
-    "Data Science and AI/Information Retrieval/Information Retrieval.md"
+    "Data Science and AI/Information Retrieval/Recommender Systems/User Based CF.md"
   ]
 }

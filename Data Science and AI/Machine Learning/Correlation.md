@@ -39,7 +39,7 @@
 	+ keep part of data for testing afterwards
 + optimisation criterion
 	+ method of least squares
-	+ see NRLA script
+	+ see [[NRLA]] script
 	+ ![[Pasted image 20220523102714.png]]
 	+ ![[Pasted image 20220523102749.png]]
 	+ ![[Pasted image 20220523102804.png]]

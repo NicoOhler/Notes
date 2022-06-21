@@ -5,6 +5,7 @@
 	+ change in brain structure
 + for machines: 
 	+ change in parameters of represented knowledge
+		+ [[Artificial Neural Networks]]
 	+ structure of KR/formalism changes
 
 ### Feedback to Use for Learning
@@ -16,7 +17,7 @@
 	+ rewards or punishments
 + supervised learning	
 	+ example input/output pairs given
-	+ e.g. classification
+	+ e.g. [[Classification]]
 	+ people are bad at specifying rules but good at giving examples
 
 [[Data Science and AI]]

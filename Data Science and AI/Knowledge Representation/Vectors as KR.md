@@ -26,7 +26,7 @@
 + what are meaningful sub-groups?
 	+ clustering
 + is there a correlation between entity characteristics?
-	+ correlation
+	+ [[Correlation]]
 + does a characteristic cause another one?
 	+ causation
 + is there a more compact representation?
