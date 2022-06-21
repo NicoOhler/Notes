@@ -12,7 +12,7 @@
 		+ what questions do we want to ask?
 + vector operations
 	+ identify useful operations in a given use case
-	+ vector operattions can be used to reason over knowledge
+	+ vector operations can be used to reason over knowledge
 + vector representation is easy after feature engineering is done
 	+ depending on computational complexity
 	+ can be created automatically
@@ -31,7 +31,7 @@
 	+ causation
 + is there a more compact representation?
 	+ factor analysis
-	+ Which variables carry most information?
+	+ which variables carry most information?
 
 ### Similarity
 + useful for

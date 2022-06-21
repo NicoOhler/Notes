@@ -3,10 +3,11 @@
 + assign a relevance score to documents based on a query
 + ranks documents by relevance
 	+ further filtering possible
+	+ each document is [[Vectors as KR]]
+		+ relevant if simillar to query
 + different from [[Data Retrieval]]
 	+ hybrid approach possible
 + heavily reliant on user feedback
-	+ unlike [[Data Retrieval]]
 	+ query refining
 		+ user unhappy with results ==>  user changes query
 	+ offline evaluation and adaptation of algorithms
