@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Data Management/SQL/Subqueries.md",
-            "mode": "source"
+            "file": "Data Science and AI/Machine Learning/Correlation.md",
+            "mode": "preview"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "correlation",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Management/SQL/Subqueries.md",
+                "file": "Data Science and AI/Machine Learning/Correlation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,10 +100,10 @@
   },
   "active": "20e7aeb213bd90ab",
   "lastOpenFiles": [
+    "Data Science and AI/Machine Learning/Correlation.md",
     "Data Management/SQL/Subqueries.md",
     "Data Management/Database Performance Tuning/Query Optimization/Plan Optimization.md",
     "Data Science and AI/Knowledge Representation/Vectors as KR.md",
-    "Data Science and AI/Machine Learning/Correlation.md",
     "Data Science and AI/Machine Learning/Perceptron.md",
     "Data Science and AI/Machine Learning/Machine Learning.md",
     "Data Science and AI/Machine Learning/Artificial Neural Networks.md",
