@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Data Science and AI/Machine Learning/Machine Learning.md",
+            "file": "Data Science and AI/Knowledge Representation/Graphs/Spreading activation.md",
             "mode": "preview"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "eigenvek",
+                "query": "semant",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Science and AI/Machine Learning/Machine Learning.md",
+                "file": "Data Science and AI/Knowledge Representation/Graphs/Spreading activation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
   },
   "active": "20e7aeb213bd90ab",
   "lastOpenFiles": [
+    "Data Science and AI/Knowledge Representation/Graphs/Spreading activation.md",
+    "Data Science and AI/Knowledge Representation/General Knowledge vs Facts.md",
+    "Data Science and AI/Knowledge Representation/Graphs/Semantic Network.md",
+    "Data Science and AI/Knowledge Representation/Knowledge Representation.md",
+    "Data Science and AI/Knowledge Representation/Graphs/Graphs.md",
     "Data Science and AI/Machine Learning/Machine Learning.md",
     "Data Science and AI/Information Retrieval/Recommender Systems/Item Based CF.md",
     "Data Science and AI/Information Retrieval/Recommender Systems/Collaborative Filtering.md",
     "Data Science and AI/Information Retrieval/Recommender Systems/User Based CF.md",
-    "Data Science and AI/Information Retrieval/Recommender Systems/Recommender Systems.md",
-    "Data Science and AI/Information Retrieval/Natural Language Processing.md",
-    "Data Science and AI/Information Retrieval/Data Retrieval.md",
-    "Data Science and AI/Information Retrieval/Information Retrieval.md",
-    "Data Science and AI/Information Retrieval/Information Retrieval for Search.md",
-    "Data Science and AI/Knowledge Representation/General Knowledge vs Facts.md"
+    "Data Science and AI/Information Retrieval/Recommender Systems/Recommender Systems.md"
   ]
 }
