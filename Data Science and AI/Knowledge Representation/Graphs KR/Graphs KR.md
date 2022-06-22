@@ -26,6 +26,7 @@
 		+ number of incoming connections
 	+ closeness centrality
 		+ the closer to all other nodes the more central
+		+ ![[Pasted image 20220622174312.png]]
 
 
 [[Knowledge Representation]]
