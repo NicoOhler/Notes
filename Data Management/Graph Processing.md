@@ -1,6 +1,6 @@
 # Graph Processing
 ### Terminology
-+ for further details see [[Graphs]]
++ for further details see [[Graphs KR]]
 + recap:
 	+ ![[Pasted image 20220609170310.png]]
 	+ ![[Pasted image 20220609170349.png]]

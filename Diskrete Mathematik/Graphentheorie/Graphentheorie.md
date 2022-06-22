@@ -43,4 +43,4 @@
 	+ Knoten mit Eingangsgrad 0 heißt Quelle
 	+ ![[Pasted image 20220508153515.png]]
 
-[[Diskrete Mathematik]] [[Graphs]]
+[[Diskrete Mathematik]] [[Graphs KR]]

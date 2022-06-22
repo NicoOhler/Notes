@@ -10,7 +10,7 @@
 + [[Document Stores]]
 	+ [[XML]]
 	+ [[JSON]]
-+ [[Graphs]] 
++ [[Graphs KR]] 
 	+ [[Graph Processing]]
 + [[Time Series]]
 + Matrix/Tensor

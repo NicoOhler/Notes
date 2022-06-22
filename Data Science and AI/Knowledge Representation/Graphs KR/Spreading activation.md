@@ -21,4 +21,4 @@
 	+ $AV(j,t2)=AV(j,t1) + AV(i,t1)*A(i,j)*D$
 
 
-[[Graphs]]
+[[Graphs KR]]

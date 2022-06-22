@@ -1,7 +1,7 @@
 # Semantic Network
 ### Semantic Network as [[Knowledge Representation]]
 + natural type of KR
-+ labelled directed [[Graphs]]
++ labelled directed [[Graphs KR]]
 + informal
 	+ represent any relationships between concepts
 + formal
