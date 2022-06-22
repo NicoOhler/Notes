@@ -17,7 +17,7 @@
 	+ split up
 		+ e.g. on whitespace
 	+ detect common phrases
-	+ remove common words
+	+ remove common/stop words
 		+ e.g. a, an, and, the, it, ...
 	+ stem tokens to word roots
 		+ e.g. computational ==> comput

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Data Science and AI/Information Retrieval/Information Retrieval.md",
+            "file": "Data Science and AI/Information Retrieval/Natural Language Processing.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Science and AI/Information Retrieval/Information Retrieval.md",
+                "file": "Data Science and AI/Information Retrieval/Natural Language Processing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
   },
   "active": "20e7aeb213bd90ab",
   "lastOpenFiles": [
+    "Data Science and AI/Information Retrieval/Natural Language Processing.md",
+    "Data Science and AI/Information Retrieval/Information Retrieval for Search.md",
+    "Data Science and AI/Information Retrieval/Data Retrieval.md",
     "Data Science and AI/Information Retrieval/Information Retrieval.md",
     "Data Science and AI/Knowledge Representation/Vectors as KR.md",
     "Data Science and AI/Knowledge Representation/Graphs KR/Spreading activation.md",
     "Data Science and AI/Knowledge Representation/Graphs KR/Graphs KR.md",
     "Data Science and AI/Knowledge Representation/Graphs/Graph Use Cases.md",
     "Data Science and AI/Knowledge Representation/Graphs KR/Semantic Network.md",
-    "Data Science and AI/Knowledge Representation/General Knowledge vs Facts.md",
-    "Data Science and AI/Knowledge Representation/Knowledge Representation.md",
-    "Data Science and AI/Rule-Based Systems/Rules-Based System.md",
-    "Data Science and AI/Intelligence.md"
+    "Data Science and AI/Knowledge Representation/General Knowledge vs Facts.md"
   ]
 }

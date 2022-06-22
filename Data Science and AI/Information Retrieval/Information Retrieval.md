@@ -13,7 +13,7 @@
 	+ offline evaluation and adaptation of algorithms
 	+ online machine learning
 + usage:
-	+ [[Recommender Systems]]]
+	+ [[Recommender Systems]]
 	+ search engines
 	+ basically all over the web
 
