@@ -19,7 +19,7 @@
 + rationale Funktionen
 	+ $R(x)=\frac{p(x)}{q(x)}$, für die gilt
 		+ p, q Polynome
-		+ $deg(p)<deg(q)-2$
+		+ $deg(p)<=deg(q)-2$
 		+ q hat keine reellen Nullstellen
 	+ ![[Pasted image 20220608113244.png]]
 		+ Summe der Residuen von Polen $z_0$ mit $Im(z_0)>0$
