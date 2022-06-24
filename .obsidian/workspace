@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Komplexe Analysis/Singularität.md",
+            "file": "Analysis/Komplexe Analysis/Laplace Transformation.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Komplexe Analysis/Singularität.md",
+                "file": "Analysis/Komplexe Analysis/Laplace Transformation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,10 +99,10 @@
   },
   "active": "20e7aeb213bd90ab",
   "lastOpenFiles": [
+    "Analysis/Komplexe Analysis/Laplace Transformation.md",
+    "Analysis/Komplexe Analysis/Potentialgleichung.md",
     "Analysis/Komplexe Analysis/Singularität.md",
     "Analysis/Komplexe Analysis/Residuensatz.md",
-    "Analysis/Komplexe Analysis/Potentialgleichung.md",
-    "Analysis/Komplexe Analysis/Laplace Transformation.md",
     "Analysis/Komplexe Analysis/Komplexe Zahlen.md",
     "Analysis/Komplexe Analysis/Komplexe Kurvenintegrale.md",
     "Analysis/Komplexe Analysis/Komplexe Analysis.md",
