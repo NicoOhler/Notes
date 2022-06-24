@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Systeme von DGL und Stabilität/Systeme von DGL und Stabilität.md",
+            "file": "Analysis/Komplexe Analysis/Residuensatz.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Systeme von DGL und Stabilität/Systeme von DGL und Stabilität.md",
+                "file": "Analysis/Komplexe Analysis/Residuensatz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +99,8 @@
   },
   "active": "20e7aeb213bd90ab",
   "lastOpenFiles": [
+    "Analysis/Komplexe Analysis/Residuensatz.md",
+    "Analysis/Komplexe Analysis/Anwendungen der Residuenrechnung.md",
     "Analysis/Systeme von DGL und Stabilität/Systeme von DGL und Stabilität.md",
     "Data Science and AI/Knowledge Representation/Vectors as KR.md",
     "Data Science and AI/Knowledge Representation/Graphs KR/Graphs KR.md",
@@ -106,8 +108,6 @@
     "Data Science and AI/Machine Learning/Machine Learning.md",
     "Data Science and AI/Machine Learning/Artificial Neural Networks.md",
     "Data Science and AI/Information Retrieval/Recommender Systems/Recommender Systems.md",
-    "Data Science and AI/Information Retrieval/Recommender Systems/Item Based CF.md",
-    "Data Science and AI/Information Retrieval/Recommender Systems/User Based CF.md",
-    "Data Science and AI/Information Retrieval/Recommender Systems/Collaborative Filtering.md"
+    "Data Science and AI/Information Retrieval/Recommender Systems/Item Based CF.md"
   ]
 }
