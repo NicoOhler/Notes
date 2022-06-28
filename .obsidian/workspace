@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Diskrete Mathematik/Kryptographie/Diffie-Hellman-Schlüsselvereinbarung.md",
-            "mode": "preview"
+            "file": "Diskrete Mathematik/Klausurstoff.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diskrete Mathematik/Kryptographie/Diffie-Hellman-Schlüsselvereinbarung.md",
+                "file": "Diskrete Mathematik/Klausurstoff.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +99,7 @@
   },
   "active": "20e7aeb213bd90ab",
   "lastOpenFiles": [
+    "Diskrete Mathematik/Klausurstoff.md",
     "Diskrete Mathematik/Kryptographie/Diffie-Hellman-Schlüsselvereinbarung.md",
     "Diskrete Mathematik/Kryptographie/Satz von Euler-Fermat.md",
     "Diskrete Mathematik/Kryptographie/Kryptographie.md",
@@ -107,7 +108,6 @@
     "Diskrete Mathematik/Graphentheorie/Bäume & Spannbäume.md",
     "Analysis/Komplexe Analysis/Laplace Transformation.md",
     "Analysis/Komplexe Analysis/Residuensatz.md",
-    "Analysis/Komplexe Analysis/Anwendungen der Residuenrechnung.md",
-    "Analysis/Komplexe Analysis/Komplexe Kurvenintegrale.md"
+    "Analysis/Komplexe Analysis/Anwendungen der Residuenrechnung.md"
   ]
 }
