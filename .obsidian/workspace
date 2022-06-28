@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analysis/Komplexe Analysis/Laplace Transformation.md",
+            "file": "Diskrete Mathematik/Kryptographie/Diffie-Hellman-Schlüsselvereinbarung.md",
             "mode": "preview"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "primfak",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Komplexe Analysis/Laplace Transformation.md",
+                "file": "Diskrete Mathematik/Kryptographie/Diffie-Hellman-Schlüsselvereinbarung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
   },
   "active": "20e7aeb213bd90ab",
   "lastOpenFiles": [
+    "Diskrete Mathematik/Kryptographie/Diffie-Hellman-Schlüsselvereinbarung.md",
+    "Diskrete Mathematik/Kryptographie/Satz von Euler-Fermat.md",
+    "Diskrete Mathematik/Kryptographie/Kryptographie.md",
+    "Diskrete Mathematik/Gruppen.md",
+    "Diskrete Mathematik/Relationen.md",
+    "Diskrete Mathematik/Graphentheorie/Bäume & Spannbäume.md",
     "Analysis/Komplexe Analysis/Laplace Transformation.md",
     "Analysis/Komplexe Analysis/Residuensatz.md",
     "Analysis/Komplexe Analysis/Anwendungen der Residuenrechnung.md",
-    "Analysis/Komplexe Analysis/Komplexe Kurvenintegrale.md",
-    "Analysis/Komplexe Analysis/Potentialgleichung.md",
-    "Analysis/Komplexe Analysis/Komplexe Zahlen.md",
-    "Analysis/Komplexe Analysis/Singularität.md",
-    "Analysis/Komplexe Analysis/Komplexe Analysis.md",
-    "Analysis/Systeme von DGL und Stabilität/Systeme von DGL und Stabilität.md",
-    "Data Science and AI/Knowledge Representation/Vectors as KR.md"
+    "Analysis/Komplexe Analysis/Komplexe Kurvenintegrale.md"
   ]
 }
