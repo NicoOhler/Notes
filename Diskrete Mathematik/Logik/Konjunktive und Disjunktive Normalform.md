@@ -25,6 +25,4 @@
 	+ ![[Pasted image 20220401153212.png]]
 
 
-
-
 [[Aussagenlogische Formeln]]
