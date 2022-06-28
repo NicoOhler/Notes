@@ -1,4 +1,4 @@
-# Diffie-Helmann-Schlüsselvereinbarung
+# Diffie-Helman-Schlüsselvereinbarung
 + Verfahren um Schlüssel zur Ver/Entschlüsselung über unsicheren Kanal zu versenden
 + Verfahren
 	+ $k,p∈ℕ$
