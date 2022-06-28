@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Diskrete Mathematik/Kongruenzen/Chinesische Restsatz.md",
+            "file": "Diskrete Mathematik/Kryptographie/Satz von Euler-Fermat.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diskrete Mathematik/Kongruenzen/Chinesische Restsatz.md",
+                "file": "Diskrete Mathematik/Kryptographie/Satz von Euler-Fermat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,11 +99,11 @@
   },
   "active": "20e7aeb213bd90ab",
   "lastOpenFiles": [
+    "Diskrete Mathematik/Kryptographie/Satz von Euler-Fermat.md",
     "Diskrete Mathematik/Kongruenzen/Chinesische Restsatz.md",
     "Diskrete Mathematik/Kongruenzen/Kongruenzen und Partitionen.md",
     "Diskrete Mathematik/Klausurstoff.md",
     "Diskrete Mathematik/Kryptographie/Diffie-Hellman-Schlüsselvereinbarung.md",
-    "Diskrete Mathematik/Kryptographie/Satz von Euler-Fermat.md",
     "Diskrete Mathematik/Kryptographie/Kryptographie.md",
     "Diskrete Mathematik/Gruppen.md",
     "Diskrete Mathematik/Relationen.md",
