@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Diskrete Mathematik/Logik/Konjunktive und Disjunktive Normalform.md",
-            "mode": "source"
+            "file": "Diskrete Mathematik/Graphentheorie/Färbungen.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diskrete Mathematik/Logik/Konjunktive und Disjunktive Normalform.md",
+                "file": "Diskrete Mathematik/Graphentheorie/Färbungen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
   },
   "active": "20e7aeb213bd90ab",
   "lastOpenFiles": [
+    "Diskrete Mathematik/Graphentheorie/Färbungen.md",
+    "Diskrete Mathematik/Graphentheorie/Bäume & Spannbäume.md",
+    "Diskrete Mathematik/Graphentheorie/Graphenmatrizen.md",
+    "Diskrete Mathematik/Graphentheorie/Graphentheorie.md",
+    "Diskrete Mathematik/Graphentheorie/Planare Graphen.md",
+    "Diskrete Mathematik/Graphentheorie/Spannbaumalgorithmen.md",
+    "Diskrete Mathematik/Graphentheorie/Wege und Kreise.md",
+    "Diskrete Mathematik/Graphentheorie/Matching.md",
     "Diskrete Mathematik/Logik/Konjunktive und Disjunktive Normalform.md",
-    "Diskrete Mathematik/Kryptographie/RSA-Verfahren.md",
-    "Diskrete Mathematik/Kryptographie/Diffie-Hellman-Schlüsselvereinbarung.md",
-    "Diskrete Mathematik/Kryptographie/Kryptographie.md",
-    "Diskrete Mathematik/Klausurstoff.md",
-    "Diskrete Mathematik/Relationen.md",
-    "Diskrete Mathematik/Kryptographie/Satz von Euler-Fermat.md",
-    "Diskrete Mathematik/Kongruenzen/Chinesische Restsatz.md",
-    "Diskrete Mathematik/Kongruenzen/Kongruenzen und Partitionen.md",
-    "Diskrete Mathematik/Gruppen.md"
+    "Diskrete Mathematik/Kryptographie/RSA-Verfahren.md"
   ]
 }
