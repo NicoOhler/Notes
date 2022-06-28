@@ -14,12 +14,16 @@ Teilbarkeit, Euklid
 	kgV(m,n)
 		algo
 	euklid
+		tabelle a b  q r
+			a(n+2)=a(n)-q(n+2)\*a(n+1)
+			a\*m+b\*n=ggT
+Logik
 		
-	
-		
-		
-Beweise
 Primzahlen
+	einzige Teiler von p sind 1,p
+	jede n aus N >=2 teilbar durch mind 1 primzahl
+	primfaktorzerlegung
+		p|a\*b ==> p|a oder p|b
 Äquivalenzrelationen
 
 Gruppen
