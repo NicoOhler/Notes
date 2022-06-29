@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Diskrete Mathematik/Graphentheorie/Graphenmatrizen.md",
+            "file": "Diskrete Mathematik/Kryptographie/RSA-Verfahren.md",
             "mode": "preview"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "adj",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diskrete Mathematik/Graphentheorie/Graphenmatrizen.md",
+                "file": "Diskrete Mathematik/Kryptographie/RSA-Verfahren.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +99,7 @@
   },
   "active": "20e7aeb213bd90ab",
   "lastOpenFiles": [
+    "Diskrete Mathematik/Kryptographie/RSA-Verfahren.md",
     "Diskrete Mathematik/Graphentheorie/Graphenmatrizen.md",
     "Diskrete Mathematik/Graphentheorie/Graphentheorie.md",
     "Diskrete Mathematik/Graphentheorie/Matching.md",
@@ -108,7 +108,6 @@
     "Diskrete Mathematik/Graphentheorie/Planare Graphen.md",
     "Diskrete Mathematik/Graphentheorie/Spannbaumalgorithmen.md",
     "Diskrete Mathematik/Graphentheorie/Wege und Kreise.md",
-    "Diskrete Mathematik/Logik/Konjunktive und Disjunktive Normalform.md",
-    "Diskrete Mathematik/Kryptographie/RSA-Verfahren.md"
+    "Diskrete Mathematik/Logik/Konjunktive und Disjunktive Normalform.md"
   ]
 }
