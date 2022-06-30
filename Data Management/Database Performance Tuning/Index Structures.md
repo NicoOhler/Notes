@@ -19,7 +19,7 @@
 + ![[Pasted image 20220505111741.png]]
 + allows specifying uniqueness, order, indexing method
 + postgreSQL methods
-	+ [[Binary Search and Tree]]
+	+ [[Binary Search and BTree]]
 	+ hash
 	+ gist
 	+ gin

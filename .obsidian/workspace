@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Data Management/Database Performance Tuning/Query Optimization/Plan Operators.md",
+            "file": "Data Management/Database Performance Tuning/Binary Search and BTree.md",
             "mode": "preview"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hash join",
+                "query": "tree",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Management/Database Performance Tuning/Query Optimization/Plan Operators.md",
+                "file": "Data Management/Database Performance Tuning/Binary Search and BTree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,15 +100,15 @@
   },
   "active": "20e7aeb213bd90ab",
   "lastOpenFiles": [
+    "Data Management/Database Performance Tuning/Binary Search and BTree.md",
+    "Data Management/Database APIs/Transactions/ACID.md",
+    "Data Management/Database APIs/Transactions/Transaction Isolation Level.md",
+    "Data Management/Database APIs/Transactions/Transaction.md",
     "Data Management/Database Performance Tuning/Query Optimization/Plan Operators.md",
     "Data Management/Relational Algebra/Physical Operators.md",
     "Allgemeine Mathematik/Mengenlehre(Set theory).md",
     "Allgemeine Mathematik/Zeichensammlung.md",
     "Allgemeine Mathematik/Logische Verknüpfungen.md",
-    "Allgemeine Mathematik/Allgemeine Mathematik.md",
-    "Data Management/Relational Algebra/Relational Terminology.md",
-    "Data Management/Data Modeling/ERM/Specifics/Weak Entity.md",
-    "Data Management/Data Modeling/Normalization.md",
-    "Data Management/Data Modeling/ERM/Chen Notation.md"
+    "Allgemeine Mathematik/Allgemeine Mathematik.md"
   ]
 }

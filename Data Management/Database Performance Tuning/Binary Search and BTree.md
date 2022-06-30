@@ -1,4 +1,4 @@
-# Binary Search and Tree
+# Binary Search and BTree
 ### Binary Search
 + pos = binarySearch(data,key=23)
 + find key position within sorted data
@@ -9,7 +9,7 @@
 	+ interpolation search: probe  expexted pos in key range
 		+ e.g. search for "Bastian" in telephone book, dont start in the middle but rather at the beginning
 
-### Binary Tree
+### BTree
 + self balancing tree
 + individual nodes stored as pages
 	+ [[Background Storage System]]
