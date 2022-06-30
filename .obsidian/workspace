@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Data Management/Relational Algebra/Physical Operators.md",
+            "file": "Data Management/Database Performance Tuning/Binary Search and Tree.md",
             "mode": "preview"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hash joi",
+                "query": "tree",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Management/Relational Algebra/Physical Operators.md",
+                "file": "Data Management/Database Performance Tuning/Binary Search and Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +100,7 @@
   },
   "active": "20e7aeb213bd90ab",
   "lastOpenFiles": [
+    "Data Management/Database Performance Tuning/Binary Search and Tree.md",
     "Data Management/Relational Algebra/Physical Operators.md",
     "Data Management/Relational Algebra/Basic Operators.md",
     "Data Management/Relational Algebra/Derived Operators.md",
@@ -108,7 +109,6 @@
     "Data Management/Relational Algebra/Tuple Calculus.md",
     "Data Management/SQL/Basic SQL Concepts.md",
     "Data Management/SQL/Database Catalog.md",
-    "Data Management/SQL/Grouping and Aggregation.md",
-    "Data Management/SQL/SQL.md"
+    "Data Management/SQL/Grouping and Aggregation.md"
   ]
 }
