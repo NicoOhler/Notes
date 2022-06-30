@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Allgemeine Mathematik/Mengenlehre(Set theory).md",
+            "file": "Data Management/Database Performance Tuning/Query Optimization/Plan Operators.md",
             "mode": "preview"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "compo",
+                "query": "hash join",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Allgemeine Mathematik/Mengenlehre(Set theory).md",
+                "file": "Data Management/Database Performance Tuning/Query Optimization/Plan Operators.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +100,8 @@
   },
   "active": "20e7aeb213bd90ab",
   "lastOpenFiles": [
+    "Data Management/Database Performance Tuning/Query Optimization/Plan Operators.md",
+    "Data Management/Relational Algebra/Physical Operators.md",
     "Allgemeine Mathematik/Mengenlehre(Set theory).md",
     "Allgemeine Mathematik/Zeichensammlung.md",
     "Allgemeine Mathematik/Logische Verknüpfungen.md",
@@ -106,8 +109,6 @@
     "Data Management/Relational Algebra/Relational Terminology.md",
     "Data Management/Data Modeling/ERM/Specifics/Weak Entity.md",
     "Data Management/Data Modeling/Normalization.md",
-    "Data Management/Data Modeling/ERM/Chen Notation.md",
-    "Data Management/Data Modeling/ERM/Modified Chen Notation.md",
-    "Data Management/Database APIs/Transactions/Locking and Concurrency Control.md"
+    "Data Management/Data Modeling/ERM/Chen Notation.md"
   ]
 }
