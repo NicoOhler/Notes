@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Diskrete Mathematik/Kryptographie/RSA-Verfahren.md",
+            "file": "Data Management/Data Modeling/ERM/(min,max)-Notation.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diskrete Mathematik/Kryptographie/RSA-Verfahren.md",
+                "file": "Data Management/Data Modeling/ERM/(min,max)-Notation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +99,7 @@
   },
   "active": "20e7aeb213bd90ab",
   "lastOpenFiles": [
+    "Data Management/Data Modeling/ERM/(min,max)-Notation.md",
     "Diskrete Mathematik/Kryptographie/RSA-Verfahren.md",
     "Diskrete Mathematik/Graphentheorie/Graphenmatrizen.md",
     "Diskrete Mathematik/Graphentheorie/Graphentheorie.md",
@@ -107,7 +108,6 @@
     "Diskrete Mathematik/Graphentheorie/Bäume & Spannbäume.md",
     "Diskrete Mathematik/Graphentheorie/Planare Graphen.md",
     "Diskrete Mathematik/Graphentheorie/Spannbaumalgorithmen.md",
-    "Diskrete Mathematik/Graphentheorie/Wege und Kreise.md",
-    "Diskrete Mathematik/Logik/Konjunktive und Disjunktive Normalform.md"
+    "Diskrete Mathematik/Graphentheorie/Wege und Kreise.md"
   ]
 }
