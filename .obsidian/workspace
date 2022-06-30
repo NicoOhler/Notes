@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Data Management/Relational Algebra/Derived Operators.md",
+            "file": "Data Management/Relational Algebra/Basic Operators.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Management/Relational Algebra/Derived Operators.md",
+                "file": "Data Management/Relational Algebra/Basic Operators.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,12 +99,12 @@
   },
   "active": "20e7aeb213bd90ab",
   "lastOpenFiles": [
+    "Data Management/Relational Algebra/Basic Operators.md",
     "Data Management/Relational Algebra/Derived Operators.md",
     "Data Management/Relational Algebra/Physical Operators.md",
     "Data Management/Relational Algebra/Relational Algebra.md",
     "Data Management/Relational Algebra/Relational Terminology.md",
     "Data Management/Relational Algebra/Tuple Calculus.md",
-    "Data Management/Relational Algebra/Basic Operators.md",
     "Data Management/SQL/Basic SQL Concepts.md",
     "Data Management/SQL/Database Catalog.md",
     "Data Management/SQL/Grouping and Aggregation.md",
