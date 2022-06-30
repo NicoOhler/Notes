@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Data Management/Data Modeling/Normalization.md",
+            "file": "Allgemeine Mathematik/Mengenlehre(Set theory).md",
             "mode": "preview"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "normali",
+                "query": "compo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Management/Data Modeling/Normalization.md",
+                "file": "Allgemeine Mathematik/Mengenlehre(Set theory).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,15 +99,15 @@
   },
   "active": "20e7aeb213bd90ab",
   "lastOpenFiles": [
+    "Allgemeine Mathematik/Mengenlehre(Set theory).md",
+    "Allgemeine Mathematik/Zeichensammlung.md",
+    "Allgemeine Mathematik/Logische Verknüpfungen.md",
+    "Allgemeine Mathematik/Allgemeine Mathematik.md",
+    "Data Management/Relational Algebra/Relational Terminology.md",
+    "Data Management/Data Modeling/ERM/Specifics/Weak Entity.md",
     "Data Management/Data Modeling/Normalization.md",
     "Data Management/Data Modeling/ERM/Chen Notation.md",
     "Data Management/Data Modeling/ERM/Modified Chen Notation.md",
-    "Data Management/Database APIs/Transactions/Locking and Concurrency Control.md",
-    "Data Management/Database Performance Tuning/Binary Search and Tree.md",
-    "Data Management/Relational Algebra/Physical Operators.md",
-    "Data Management/Relational Algebra/Basic Operators.md",
-    "Data Management/Relational Algebra/Derived Operators.md",
-    "Data Management/Relational Algebra/Relational Algebra.md",
-    "Data Management/Relational Algebra/Relational Terminology.md"
+    "Data Management/Database APIs/Transactions/Locking and Concurrency Control.md"
   ]
 }

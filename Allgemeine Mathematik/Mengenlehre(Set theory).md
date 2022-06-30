@@ -13,7 +13,7 @@
 	+ M∪N: Vereinigungsmenge von M und N (sprich: M vereinigt N)
 		+ a∈M∪N wenn a∈M oder a∈N
 	+ M∩N: Schnittmenge von M und N (sprich: M geschnitten N)
-		+  a∈M∪N wenn a∈M und a∈N
+		+  a∈M∩N wenn a∈M und a∈N
 	+  M\N: Differenz Menge von M und N
 		+  a∈M\N wenn a∈M und b∉N
 	+  M⊆N: N ist Teilmenge von M
