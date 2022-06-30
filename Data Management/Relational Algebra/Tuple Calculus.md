@@ -9,8 +9,8 @@
 
 ### Characteristics Calculus Expression
 +  ![[Pasted image 20220406155853.png]]
-		+ left side relational algebra
-		+ right side tuple calculus
+	+ left side relational algebra
+	+ right side tuple calculus
 + Quantifiers
 + does not specifiy operation order
 + consists of variables, constants, comparisons, quantifier...
