@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Diskrete Mathematik/Kombinatorik/Kombinatorik.md",
+            "file": "Diskrete Mathematik/Relationen.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diskrete Mathematik/Kombinatorik/Kombinatorik.md",
+                "file": "Diskrete Mathematik/Relationen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,13 +99,13 @@
   },
   "active": "20e7aeb213bd90ab",
   "lastOpenFiles": [
+    "Diskrete Mathematik/Relationen.md",
+    "Diskrete Mathematik/Kombinatorik/Quicksort.md",
+    "Diskrete Mathematik/Kombinatorik/Nicht Lineare Rekursion.md",
     "Diskrete Mathematik/Kombinatorik/Kombinatorik.md",
     "Diskrete Mathematik/Kombinatorik/Lineare Rekursion.md",
-    "Diskrete Mathematik/Kombinatorik/Nicht Lineare Rekursion.md",
     "Diskrete Mathematik/Kombinatorik/Binomische Lehrsatz.md",
-    "Diskrete Mathematik/Kombinatorik/Quicksort.md",
     "Diskrete Mathematik/Gruppen.md",
-    "Diskrete Mathematik/Relationen.md",
     "Diskrete Mathematik/Logik/Substitutionen in Prädikatenlogik.md",
     "Diskrete Mathematik/Logik/Prämissen.md",
     "Diskrete Mathematik/Logik/Äquivalenz.md"
