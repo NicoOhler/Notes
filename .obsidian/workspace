@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Diskrete Mathematik/Gruppen.md",
+            "file": "Diskrete Mathematik/Kombinatorik/Binomische Lehrsatz.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diskrete Mathematik/Gruppen.md",
+                "file": "Diskrete Mathematik/Kombinatorik/Binomische Lehrsatz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +99,7 @@
   },
   "active": "20e7aeb213bd90ab",
   "lastOpenFiles": [
+    "Diskrete Mathematik/Kombinatorik/Binomische Lehrsatz.md",
     "Diskrete Mathematik/Gruppen.md",
     "Diskrete Mathematik/Relationen.md",
     "Diskrete Mathematik/Logik/Substitutionen in Prädikatenlogik.md",
@@ -107,7 +108,6 @@
     "Diskrete Mathematik/Diskrete Mathematik.md",
     "Data Management/Database Performance Tuning/Binary Search and BTree.md",
     "Data Management/Database APIs/Transactions/ACID.md",
-    "Data Management/Database APIs/Transactions/Transaction Isolation Level.md",
-    "Data Management/Database APIs/Transactions/Transaction.md"
+    "Data Management/Database APIs/Transactions/Transaction Isolation Level.md"
   ]
 }
