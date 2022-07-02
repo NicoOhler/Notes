@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Allgemeine Mathematik/Logische Verknüpfungen.md",
+            "file": "Diskrete Mathematik/Graphentheorie/Planare Graphen.md",
             "mode": "preview"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tree",
+                "query": "planar",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Allgemeine Mathematik/Logische Verknüpfungen.md",
+                "file": "Diskrete Mathematik/Graphentheorie/Planare Graphen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +100,7 @@
   },
   "active": "20e7aeb213bd90ab",
   "lastOpenFiles": [
+    "Diskrete Mathematik/Graphentheorie/Planare Graphen.md",
     "Allgemeine Mathematik/Logische Verknüpfungen.md",
     "Diskrete Mathematik/Relationen.md",
     "Diskrete Mathematik/Kombinatorik/Quicksort.md",
@@ -107,7 +109,6 @@
     "Diskrete Mathematik/Kombinatorik/Lineare Rekursion.md",
     "Diskrete Mathematik/Kombinatorik/Binomische Lehrsatz.md",
     "Diskrete Mathematik/Gruppen.md",
-    "Diskrete Mathematik/Logik/Substitutionen in Prädikatenlogik.md",
-    "Diskrete Mathematik/Logik/Prämissen.md"
+    "Diskrete Mathematik/Logik/Substitutionen in Prädikatenlogik.md"
   ]
 }
