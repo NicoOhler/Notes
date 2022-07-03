@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Diskrete Mathematik/Graphentheorie/Planare Graphen.md",
+            "file": "Diskrete Mathematik/Graphentheorie/Matching.md",
             "mode": "preview"
           }
         }
@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diskrete Mathematik/Graphentheorie/Planare Graphen.md",
+                "file": "Diskrete Mathematik/Graphentheorie/Matching.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,15 +99,15 @@
   },
   "active": "20e7aeb213bd90ab",
   "lastOpenFiles": [
+    "Diskrete Mathematik/Graphentheorie/Matching.md",
+    "Diskrete Mathematik/Graphentheorie/Graphentheorie.md",
+    "Diskrete Mathematik/Graphentheorie/Graphenmatrizen.md",
     "Diskrete Mathematik/Graphentheorie/Planare Graphen.md",
     "Allgemeine Mathematik/Logische Verknüpfungen.md",
     "Diskrete Mathematik/Relationen.md",
     "Diskrete Mathematik/Kombinatorik/Quicksort.md",
     "Diskrete Mathematik/Kombinatorik/Nicht Lineare Rekursion.md",
     "Diskrete Mathematik/Kombinatorik/Kombinatorik.md",
-    "Diskrete Mathematik/Kombinatorik/Lineare Rekursion.md",
-    "Diskrete Mathematik/Kombinatorik/Binomische Lehrsatz.md",
-    "Diskrete Mathematik/Gruppen.md",
-    "Diskrete Mathematik/Logik/Substitutionen in Prädikatenlogik.md"
+    "Diskrete Mathematik/Kombinatorik/Lineare Rekursion.md"
   ]
 }
