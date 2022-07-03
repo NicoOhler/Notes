@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Data Management/Time Series.md",
+            "file": "Data Management/Data Modeling/Normalization.md",
             "mode": "preview"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "stream",
+                "query": "normaliz",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Management/Time Series.md",
+                "file": "Data Management/Data Modeling/Normalization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +100,8 @@
   },
   "active": "20e7aeb213bd90ab",
   "lastOpenFiles": [
+    "Data Management/Data Modeling/Normalization.md",
+    "Diskrete Mathematik/Logik/Konjunktive und Disjunktive Normalform.md",
     "Data Management/Time Series.md",
     "Diskrete Mathematik/Graphentheorie/Bäume & Spannbäume.md",
     "Diskrete Mathematik/Graphentheorie/Spannbaumalgorithmen.md",
@@ -107,8 +109,6 @@
     "Diskrete Mathematik/Graphentheorie/Matching.md",
     "Diskrete Mathematik/Graphentheorie/Färbungen.md",
     "Diskrete Mathematik/Graphentheorie/Graphenmatrizen.md",
-    "Diskrete Mathematik/Graphentheorie/Graphentheorie.md",
-    "Allgemeine Mathematik/Logische Verknüpfungen.md",
-    "Diskrete Mathematik/Relationen.md"
+    "Diskrete Mathematik/Graphentheorie/Graphentheorie.md"
   ]
 }
