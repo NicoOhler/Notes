@@ -5,7 +5,7 @@
 	+ either fully executed or not
 	+ if TX fails ==> no changes are made - UNDO
 + consistent
-	+ end of transaction has all constrains satisfied
+	+ end of transaction has all constraints satisfied
 + isolation
 	+ multiple concurrent transaction seem to execute sequentially
 + durability
