@@ -35,7 +35,7 @@
 	+ $E(T)⊆E(G)$
 	+ ![[Pasted image 20220512170337.png]]
 + Laplace-Matrix L(G)
-	+ n×n Matrix mit bis zu n Eigenwerten $λ_1,λ_2,.--,λ_{n-1}$
+	+ n×n Matrix mit bis zu n Eigenwerten $λ_1,λ_2,...,λ_{n-1}$
 		+ $∀0≤i≤n-1: λ_i≥0$
 		+ kleinste λ = 0
 		+ ![[Pasted image 20220512173159.png]]
