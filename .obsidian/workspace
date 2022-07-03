@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Allgemeine Mathematik/Mengenlehre(Set theory).md",
+            "file": "Data Management/Cloud Computing/Distributed Data Storage/RDD.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Allgemeine Mathematik/Mengenlehre(Set theory).md",
+                "file": "Data Management/Cloud Computing/Distributed Data Storage/RDD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +99,7 @@
   },
   "active": "20e7aeb213bd90ab",
   "lastOpenFiles": [
+    "Data Management/Cloud Computing/Distributed Data Storage/RDD.md",
     "Allgemeine Mathematik/Mengenlehre(Set theory).md",
     "Allgemeine Mathematik/Zeichensammlung.md",
     "Allgemeine Mathematik/Logische Verknüpfungen.md",
@@ -107,7 +108,6 @@
     "Data Management/Data Modeling/Normalization.md",
     "Diskrete Mathematik/Logik/Konjunktive und Disjunktive Normalform.md",
     "Data Management/Time Series.md",
-    "Diskrete Mathematik/Graphentheorie/Bäume & Spannbäume.md",
-    "Diskrete Mathematik/Graphentheorie/Spannbaumalgorithmen.md"
+    "Diskrete Mathematik/Graphentheorie/Bäume & Spannbäume.md"
   ]
 }
