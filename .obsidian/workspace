@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Diskrete Mathematik/Graphentheorie/Spannbaumalgorithmen.md",
+            "file": "Diskrete Mathematik/Graphentheorie/Bäume & Spannbäume.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diskrete Mathematik/Graphentheorie/Spannbaumalgorithmen.md",
+                "file": "Diskrete Mathematik/Graphentheorie/Bäume & Spannbäume.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,9 +99,9 @@
   },
   "active": "20e7aeb213bd90ab",
   "lastOpenFiles": [
+    "Diskrete Mathematik/Graphentheorie/Bäume & Spannbäume.md",
     "Diskrete Mathematik/Graphentheorie/Spannbaumalgorithmen.md",
     "Diskrete Mathematik/Graphentheorie/Planare Graphen.md",
-    "Diskrete Mathematik/Graphentheorie/Bäume & Spannbäume.md",
     "Diskrete Mathematik/Graphentheorie/Matching.md",
     "Diskrete Mathematik/Graphentheorie/Färbungen.md",
     "Diskrete Mathematik/Graphentheorie/Graphenmatrizen.md",
