@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Data Management/Data Modeling/Normalization.md",
+            "file": "Allgemeine Mathematik/Mengenlehre(Set theory).md",
             "mode": "preview"
           }
         }
@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Management/Data Modeling/Normalization.md",
+                "file": "Allgemeine Mathematik/Mengenlehre(Set theory).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +99,7 @@
   },
   "active": "20e7aeb213bd90ab",
   "lastOpenFiles": [
+    "Allgemeine Mathematik/Mengenlehre(Set theory).md",
     "Data Management/Data Modeling/Normalization.md",
     "Diskrete Mathematik/Logik/Konjunktive und Disjunktive Normalform.md",
     "Data Management/Time Series.md",
@@ -108,7 +108,6 @@
     "Diskrete Mathematik/Graphentheorie/Planare Graphen.md",
     "Diskrete Mathematik/Graphentheorie/Matching.md",
     "Diskrete Mathematik/Graphentheorie/Färbungen.md",
-    "Diskrete Mathematik/Graphentheorie/Graphenmatrizen.md",
-    "Diskrete Mathematik/Graphentheorie/Graphentheorie.md"
+    "Diskrete Mathematik/Graphentheorie/Graphenmatrizen.md"
   ]
 }
