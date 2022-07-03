@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Data Management/Database APIs/Transactions/ACID.md",
+            "file": "Allgemeine Mathematik/Mengenlehre(Set theory).md",
             "mode": "preview"
           }
         }
@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Management/Database APIs/Transactions/ACID.md",
+                "file": "Allgemeine Mathematik/Mengenlehre(Set theory).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,15 +99,15 @@
   },
   "active": "20e7aeb213bd90ab",
   "lastOpenFiles": [
+    "Allgemeine Mathematik/Mengenlehre(Set theory).md",
+    "Allgemeine Mathematik/Zeichensammlung.md",
+    "Allgemeine Mathematik/Logische Verknüpfungen.md",
     "Data Management/Database APIs/Transactions/ACID.md",
     "Data Management/Database Performance Tuning/Binary Search and BTree.md",
-    "Allgemeine Mathematik/Mengenlehre(Set theory).md",
     "Data Management/Data Modeling/Normalization.md",
     "Diskrete Mathematik/Logik/Konjunktive und Disjunktive Normalform.md",
     "Data Management/Time Series.md",
     "Diskrete Mathematik/Graphentheorie/Bäume & Spannbäume.md",
-    "Diskrete Mathematik/Graphentheorie/Spannbaumalgorithmen.md",
-    "Diskrete Mathematik/Graphentheorie/Planare Graphen.md",
-    "Diskrete Mathematik/Graphentheorie/Matching.md"
+    "Diskrete Mathematik/Graphentheorie/Spannbaumalgorithmen.md"
   ]
 }
