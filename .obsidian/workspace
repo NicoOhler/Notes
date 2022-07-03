@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Diskrete Mathematik/Graphentheorie/Bäume & Spannbäume.md",
+            "file": "Data Management/Time Series.md",
             "mode": "preview"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "planar",
+                "query": "stream",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diskrete Mathematik/Graphentheorie/Bäume & Spannbäume.md",
+                "file": "Data Management/Time Series.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +100,7 @@
   },
   "active": "20e7aeb213bd90ab",
   "lastOpenFiles": [
+    "Data Management/Time Series.md",
     "Diskrete Mathematik/Graphentheorie/Bäume & Spannbäume.md",
     "Diskrete Mathematik/Graphentheorie/Spannbaumalgorithmen.md",
     "Diskrete Mathematik/Graphentheorie/Planare Graphen.md",
@@ -107,7 +109,6 @@
     "Diskrete Mathematik/Graphentheorie/Graphenmatrizen.md",
     "Diskrete Mathematik/Graphentheorie/Graphentheorie.md",
     "Allgemeine Mathematik/Logische Verknüpfungen.md",
-    "Diskrete Mathematik/Relationen.md",
-    "Diskrete Mathematik/Kombinatorik/Quicksort.md"
+    "Diskrete Mathematik/Relationen.md"
   ]
 }
