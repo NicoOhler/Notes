@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Diskrete Mathematik/Relationen.md",
+            "file": "Diskrete Mathematik/Kombinatorik/Lineare Rekursion.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diskrete Mathematik/Relationen.md",
+                "file": "Diskrete Mathematik/Kombinatorik/Lineare Rekursion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +99,8 @@
   },
   "active": "20e7aeb213bd90ab",
   "lastOpenFiles": [
+    "Diskrete Mathematik/Kombinatorik/Lineare Rekursion.md",
+    "Diskrete Mathematik/Kombinatorik/Nicht Lineare Rekursion.md",
     "Diskrete Mathematik/Relationen.md",
     "Diskrete Mathematik/Gruppen.md",
     "Diskrete Mathematik/Klausurstoff.md",
@@ -106,8 +108,6 @@
     "Diskrete Mathematik/Kryptographie/Diffie-Hellman-Schlüsselvereinbarung.md",
     "Diskrete Mathematik/Kryptographie/RSA-Verfahren.md",
     "NRLA/Matrizen/Matrix.md",
-    "NRLA/Eigenwerte/Diagonalisierung.md",
-    "NRLA/Vektoren/Allgemeine Vektorräume.md",
-    "Diskrete Mathematik/Kongruenzen/Kongruenzen und Partitionen.md"
+    "NRLA/Eigenwerte/Diagonalisierung.md"
   ]
 }
