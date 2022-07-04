@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Data Management/Cloud Computing/Distributed Data Storage/RDD.md",
-            "mode": "preview"
+            "file": "Diskrete Mathematik/Graphentheorie/Spannbaumalgorithmen.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Management/Cloud Computing/Distributed Data Storage/RDD.md",
+                "file": "Diskrete Mathematik/Graphentheorie/Spannbaumalgorithmen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +99,7 @@
   },
   "active": "20e7aeb213bd90ab",
   "lastOpenFiles": [
+    "Diskrete Mathematik/Graphentheorie/Spannbaumalgorithmen.md",
     "Data Management/Cloud Computing/Distributed Data Storage/RDD.md",
     "Allgemeine Mathematik/Mengenlehre(Set theory).md",
     "Allgemeine Mathematik/Zeichensammlung.md",
@@ -107,7 +108,6 @@
     "Data Management/Database Performance Tuning/Binary Search and BTree.md",
     "Data Management/Data Modeling/Normalization.md",
     "Diskrete Mathematik/Logik/Konjunktive und Disjunktive Normalform.md",
-    "Data Management/Time Series.md",
-    "Diskrete Mathematik/Graphentheorie/Bäume & Spannbäume.md"
+    "Data Management/Time Series.md"
   ]
 }
