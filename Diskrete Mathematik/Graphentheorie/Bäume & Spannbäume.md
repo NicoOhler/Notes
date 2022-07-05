@@ -1,7 +1,7 @@
 # Bäume & Spannbäume
 ### Bäume
 + Graph ohne Kreis heißt Wald
-+ Grap heißt Baum, wenn
++ Graph heißt Baum, wenn
 	+ zusammenhängend
 	+ ohne Kreis <==> $|E|=|v|-1$
 + für je zwei Knoten, gibt es genau einen Pfad
