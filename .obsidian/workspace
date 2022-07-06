@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Data Management/Cloud Computing/Distributed Data Storage/RDD.md",
+            "file": "Data Management/Database APIs/Transactions/Locking and Concurrency Control.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Management/Cloud Computing/Distributed Data Storage/RDD.md",
+                "file": "Data Management/Database APIs/Transactions/Locking and Concurrency Control.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +99,8 @@
   },
   "active": "20e7aeb213bd90ab",
   "lastOpenFiles": [
+    "Data Management/Database APIs/Transactions/Locking and Concurrency Control.md",
+    "Data Management/Database APIs/Transactions/Logging and Recovery.md",
     "Data Management/Cloud Computing/Distributed Data Storage/RDD.md",
     "Data Management/NoSQL/BASE.md",
     "Data Management/NoSQL/NoSQL.md",
@@ -106,8 +108,6 @@
     "Data Management/Database APIs/Transactions/ACID.md",
     "Data Management/Relational Algebra/Physical Operators.md",
     "Diskrete Mathematik/Graphentheorie/Planare Graphen.md",
-    "Diskrete Mathematik/Graphentheorie/Spannbaumalgorithmen.md",
-    "Diskrete Mathematik/Graphentheorie/Wege und Kreise.md",
-    "Diskrete Mathematik/Graphentheorie/Bäume & Spannbäume.md"
+    "Diskrete Mathematik/Graphentheorie/Spannbaumalgorithmen.md"
   ]
 }
