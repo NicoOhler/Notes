@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Data Management/Database APIs/Transactions/ACID.md",
+            "file": "Data Management/NoSQL/BASE.md",
             "mode": "preview"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hash ",
+                "query": "lsm",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Management/Database APIs/Transactions/ACID.md",
+                "file": "Data Management/NoSQL/BASE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,15 +100,15 @@
   },
   "active": "20e7aeb213bd90ab",
   "lastOpenFiles": [
+    "Data Management/NoSQL/BASE.md",
+    "Data Management/NoSQL/NoSQL.md",
+    "Data Management/NoSQL/Document Stores.md",
     "Data Management/Database APIs/Transactions/ACID.md",
     "Data Management/Relational Algebra/Physical Operators.md",
     "Diskrete Mathematik/Graphentheorie/Planare Graphen.md",
     "Diskrete Mathematik/Graphentheorie/Spannbaumalgorithmen.md",
     "Diskrete Mathematik/Graphentheorie/Wege und Kreise.md",
     "Diskrete Mathematik/Graphentheorie/Bäume & Spannbäume.md",
-    "Diskrete Mathematik/Kombinatorik/Kombinatorik.md",
-    "Diskrete Mathematik/Kombinatorik/Lineare Rekursion.md",
-    "Diskrete Mathematik/Kombinatorik/Nicht Lineare Rekursion.md",
-    "Diskrete Mathematik/Relationen.md"
+    "Diskrete Mathematik/Kombinatorik/Kombinatorik.md"
   ]
 }
