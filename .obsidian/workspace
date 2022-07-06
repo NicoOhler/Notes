@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Data Management/Relational Algebra/Physical Operators.md",
+            "file": "Data Management/Database APIs/Transactions/ACID.md",
             "mode": "preview"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Management/Relational Algebra/Physical Operators.md",
+                "file": "Data Management/Database APIs/Transactions/ACID.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,8 +100,8 @@
   },
   "active": "20e7aeb213bd90ab",
   "lastOpenFiles": [
-    "Data Management/Relational Algebra/Physical Operators.md",
     "Data Management/Database APIs/Transactions/ACID.md",
+    "Data Management/Relational Algebra/Physical Operators.md",
     "Diskrete Mathematik/Graphentheorie/Planare Graphen.md",
     "Diskrete Mathematik/Graphentheorie/Spannbaumalgorithmen.md",
     "Diskrete Mathematik/Graphentheorie/Wege und Kreise.md",
