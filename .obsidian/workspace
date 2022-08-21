@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "20e7aeb213bd90ab",
+        "id": "013cf0be6f49d312",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Data Management/Database APIs/Transactions/Transaction Isolation Level.md",
-            "mode": "preview"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Management/Database APIs/Transactions/Transaction Isolation Level.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +93,7 @@
     "width": 322,
     "collapsed": true
   },
-  "active": "20e7aeb213bd90ab",
+  "active": "013cf0be6f49d312",
   "lastOpenFiles": [
     "Data Management/Database APIs/Transactions/Transaction Isolation Level.md",
     "Data Management/Database APIs/Transactions/Logging and Recovery.md",
