@@ -15,8 +15,18 @@
 ### Proposition
 + Multinomialverteilung
 + ![[Pasted image 20221004161704.png]]
+	+ $p_i=\frac{N_i}{N}$
++ Binomialverteilung
+	+ Spezialfall mit L=2
+	+ ![[Pasted image 20221004162222.png]]
+	+ ![[Pasted image 20221004162239.png]]
 
 ### Beispiele  
-+ 
++ Würfel
+	+ ![[Pasted image 20221004162411.png]]
+	+ ![[Pasted image 20221004162637.png]]
++ Flugbuchung
+	+ ![[Pasted image 20221004162406.png]]
+	+ 
 
 [[Laplace-Experimente]]
