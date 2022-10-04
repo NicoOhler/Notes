@@ -11,4 +11,5 @@
 		+ Wahrscheinlichkeitsmaß
 
 ### Beispiele
-+ 
++ ![[Pasted image 20221004153415.png]]
++ ![[Pasted image 20221004153403.png]]
