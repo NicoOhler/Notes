@@ -6,10 +6,24 @@
       {
         "id": "83d5c4ac0e022191",
         "type": "leaf",
+        "dimension": 77.4390243902439,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Wahrscheinlichkeitstheorie/Wahrscheinlichkeitsräume/Wahrscheinlichkeiten.md",
+            "file": "Wahrscheinlichkeitstheorie/Laplace-Experimente/Laplace-Experimente.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "91e88dba6ce4bd2d",
+        "type": "leaf",
+        "dimension": 22.5609756097561,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Allgemeine Mathematik/Zeichensammlung.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wahrscheinlichkeitstheorie/Wahrscheinlichkeitsräume/Wahrscheinlichkeiten.md",
+                "file": "Wahrscheinlichkeitstheorie/Laplace-Experimente/Laplace-Experimente.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +115,15 @@
   },
   "active": "83d5c4ac0e022191",
   "lastOpenFiles": [
-    "Wahrscheinlichkeitstheorie/Wahrscheinlichkeitsräume/Wahrscheinlichkeitsräume.md",
-    "Allgemeine Mathematik/Zeichensammlung.md",
-    "Wahrscheinlichkeitstheorie/Wahrscheinlichkeitsräume/Wahrscheinlichkeiten.md",
-    "Wahrscheinlichkeitstheorie/Wahrscheinlichkeitstheorie.md",
-    "Wahrscheinlichkeitstheorie/Bedingte Wahrscheinlichkeiten.md",
-    "z_images/Pasted image 20221004085228.png",
-    "Wahrscheinlichkeitstheorie/Wahrscheinlichkeitsräume/Ereignisse.md",
+    "Wahrscheinlichkeitstheorie/Wahrscheinlichkeitsräume/Wahrscheinlichkeit.md",
+    "Wahrscheinlichkeitstheorie/Laplace-Experimente/Laplace-Experimente.md",
     "Wahrscheinlichkeitstheorie/Wahrscheinlichkeitsräume/Stichprobenraum.md",
-    "Wahrscheinlichkeitstheorie/Momente.md",
-    "z_images/Pasted image 20221004084351.png"
+    "Wahrscheinlichkeitstheorie/Wahrscheinlichkeitsräume/Ereignisse.md",
+    "Allgemeine Mathematik/Zeichensammlung.md",
+    "z_images/Pasted image 20221004104720.png",
+    "Wahrscheinlichkeitstheorie/Untitled.md",
+    "Wahrscheinlichkeitstheorie/Unabhängigkeit/Unabhängikeit.md",
+    "Wahrscheinlichkeitstheorie/Wahrscheinlichkeitsräume/Wahrscheinlichkeitsräume.md",
+    "Wahrscheinlichkeitstheorie/Wahrscheinlichkeitstheorie.md"
   ]
 }

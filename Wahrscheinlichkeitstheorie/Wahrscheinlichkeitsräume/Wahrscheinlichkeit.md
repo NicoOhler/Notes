@@ -1,4 +1,4 @@
-# Wahrscheinlichkeiten
+# Wahrscheinlichkeit
 ### Definition
 + ![[Pasted image 20221004100727.png]]
 
