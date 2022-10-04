@@ -11,6 +11,8 @@
 	+ A tritt ein, wenn ω ∈ A
 + Oft besteht Interesse an Eigenschaften anstatt des konkreten ω
 	+ ![[Pasted image 20221004085228.png]]
++ Ereigniss kombinieren möglich
+	+ ![[Pasted image 20221004094136.png]]
 + Beispiele
 	+ Roulette
 		+ ![[Pasted image 20221004090235.png]]
@@ -18,4 +20,8 @@
 	+ Bridge
 		+ ![[Pasted image 20221004090731.png]]
 		+ ohne Zurücklegen
-		+ 
+		+ ![[Pasted image 20221004093328.png]]
+	+ Würfeln
+		+ ![[Pasted image 20221004094004.png]]
+	+ Bridge mit kombinierten Ereignissen
+		+ ![[Pasted image 20221004094305.png]]
