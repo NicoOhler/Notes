@@ -25,3 +25,6 @@
 		+ ![[Pasted image 20221004094004.png]]
 	+ Bridge mit kombinierten Ereignissen
 		+ ![[Pasted image 20221004094305.png]]
+		+ ![[Pasted image 20221004094939.png]]
+	+ Bridge mit kombinierten Ereignissen
+		+ ![[Pasted image 20221004095017.png]]
