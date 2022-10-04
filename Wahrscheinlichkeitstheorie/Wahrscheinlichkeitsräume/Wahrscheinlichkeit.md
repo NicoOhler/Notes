@@ -11,8 +11,9 @@
 ### Wahrscheinlichkeitsmaß
 + Abbildung P: $A'->[0,1]$ 
 	+ erfüllt folgende Voraussetzungen
-		+ Normierung: P(Ω)=1
-		+ Additivität
+		+ Normierung N
+			+ P(Ω)=1
+		+ Additivität A
 			+ ![[Pasted image 20221004102611.png]]
 			+ Summe aller Wahrscheinlichkeiten = Wahrscheinlichkeit, dass eines der Ereignisse eintritt
 + Tripel (Ω, A', P) - Wahrscheinlichkeitsraum
