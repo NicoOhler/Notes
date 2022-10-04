@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Wahrscheinlichkeitstheorie/Laplace-Experimente/Urnenmodell.md",
+            "file": "Wahrscheinlichkeitstheorie/Laplace-Experimente/Urnenmodell ohne Zurücklegen.md",
             "mode": "source",
             "source": false
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Allgemeine Mathematik/Zeichensammlung.md",
+                "file": "Wahrscheinlichkeitstheorie/Laplace-Experimente/Urnenmodell ohne Zurücklegen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,10 +113,10 @@
     "width": 322,
     "collapsed": true
   },
-  "active": "91e88dba6ce4bd2d",
+  "active": "83d5c4ac0e022191",
   "lastOpenFiles": [
-    "Wahrscheinlichkeitstheorie/Laplace-Experimente/Urnenmodell.md",
     "Allgemeine Mathematik/Zeichensammlung.md",
+    "Wahrscheinlichkeitstheorie/Laplace-Experimente/Urnenmodell ohne Zurücklegen.md",
     "Wahrscheinlichkeitstheorie/Laplace-Experimente/Laplace-Experimente.md",
     "Wahrscheinlichkeitstheorie/Wahrscheinlichkeitsräume/Stichprobenraum.md",
     "Wahrscheinlichkeitstheorie/Wahrscheinlichkeitsräume/Wahrscheinlichkeit.md",
