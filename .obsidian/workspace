@@ -7,8 +7,12 @@
         "id": "013cf0be6f49d312",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Data Management/NoSQL/BASE.md",
+            "mode": "preview",
+            "source": false
+          }
         }
       }
     ],
@@ -36,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "cap",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Data Management/NoSQL/BASE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,7 +87,8 @@
               "type": "markdown",
               "state": {
                 "file": "Allgemeine Mathematik/Zeichensammlung.md",
-                "mode": "source"
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -95,11 +101,11 @@
   },
   "active": "013cf0be6f49d312",
   "lastOpenFiles": [
+    "Data Management/NoSQL/BASE.md",
     "Data Management/Database APIs/Transactions/Transaction Isolation Level.md",
     "Data Management/Database APIs/Transactions/Logging and Recovery.md",
     "Data Management/Database APIs/Transactions/Locking and Concurrency Control.md",
     "Data Management/Cloud Computing/Distributed Data Storage/RDD.md",
-    "Data Management/NoSQL/BASE.md",
     "Data Management/NoSQL/NoSQL.md",
     "Data Management/NoSQL/Document Stores.md",
     "Data Management/Database APIs/Transactions/ACID.md",
