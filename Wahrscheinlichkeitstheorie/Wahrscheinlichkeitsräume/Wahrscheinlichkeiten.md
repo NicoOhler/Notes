@@ -19,4 +19,6 @@
 + Frequentistische Interpretation
 	+ Experiment wird unendlich oft wiederhold
 	+ ![[Pasted image 20221004103951.png]]
-	+ 
+
+### Axiome von Kolmogorov
+![[Pasted image 20221004104720.png]]
