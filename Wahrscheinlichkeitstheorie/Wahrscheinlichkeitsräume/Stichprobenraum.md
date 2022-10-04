@@ -11,6 +11,11 @@
 	+ A tritt ein, wenn ω ∈ A
 + Oft besteht Interesse an Eigenschaften anstatt des konkreten ω
 	+ ![[Pasted image 20221004085228.png]]
-+ Beispiel
-	+ ![[Pasted image 20221004090235.png]]
-	+ 
++ Beispiele
+	+ Roulette
+		+ ![[Pasted image 20221004090235.png]]
+		+ ![[Pasted image 20221004090625.png]]
+	+ Bridge
+		+ ![[Pasted image 20221004090731.png]]
+		+ ohne Zurücklegen
+		+ 
