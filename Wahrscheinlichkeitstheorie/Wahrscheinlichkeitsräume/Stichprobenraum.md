@@ -7,7 +7,10 @@
 + ![[Pasted image 20221004084351.png]]
 
 ### Ereignisse
+ + Ereignis A ⊆ Ω
+	+ A tritt ein, wenn ω ∈ A
 + Oft besteht Interesse an Eigenschaften anstatt des konkreten ω
 	+ ![[Pasted image 20221004085228.png]]
-+ Ereignis A 
-	+ A 
++ Beispiel
+	+ ![[Pasted image 20221004090235.png]]
+	+ 

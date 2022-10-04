@@ -8,7 +8,7 @@
 	+ ∀ ∃ ∄
 + Mengenoperator
 	+	∅	∈	∉	∪ 
-	+	⋈	∩	\ ÷	⊆	⊄
+	+	⋈	∩	\ ÷	⊆	⊄ 
 +	Zahlenmengen
 	+	ℕ	ℤ	ℚ	ℝ	ℂ
 +	Logik
