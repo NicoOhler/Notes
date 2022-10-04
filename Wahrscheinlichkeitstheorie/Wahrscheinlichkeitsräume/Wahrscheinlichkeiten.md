@@ -16,4 +16,7 @@
 			+ ![[Pasted image 20221004102611.png]]
 			+ Summe aller Wahrscheinlichkeiten = Wahrscheinlichkeit, dass eines der Ereignisse eintritt
 + Tripel (Ω, A', P) - Wahrscheinlichkeitsraum
-+ Frequentis
++ Frequentistische Interpretation
+	+ Experiment wird unendlich oft wiederhold
+	+ ![[Pasted image 20221004103951.png]]
+	+ 
