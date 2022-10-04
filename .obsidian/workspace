@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "013cf0be6f49d312",
+        "id": "2cd2bd8eecbac9f5",
         "type": "leaf",
-        "dimension": 61.92411924119241,
+        "dimension": 71.27371273712737,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Wahrscheinlichkeitsrechnung/Wahrscheinlichkeitsräume/Stichprobenraum.md",
+            "file": "Wahrscheinlichkeitstheorie/Wahrscheinlichkeitsräume/Stichprobenraum.md",
             "mode": "source",
             "source": false
           }
@@ -19,7 +19,7 @@
       {
         "id": "83d5c4ac0e022191",
         "type": "leaf",
-        "dimension": 38.07588075880759,
+        "dimension": 28.72628726287263,
         "state": {
           "type": "markdown",
           "state": {
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Allgemeine Mathematik/Zeichensammlung.md",
+                "file": "Wahrscheinlichkeitstheorie/Wahrscheinlichkeitsräume/Stichprobenraum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,17 +114,17 @@
     "width": 322,
     "collapsed": true
   },
-  "active": "83d5c4ac0e022191",
+  "active": "2cd2bd8eecbac9f5",
   "lastOpenFiles": [
-    "Wahrscheinlichkeitsrechnung/Wahrscheinlichkeitsräume/Stichprobenraum.md",
-    "Allgemeine Mathematik/Zeichensammlung.md",
-    "Wahrscheinlichkeitsrechnung/Wahrscheinlichkeitsrechnung.md",
-    "Wahrscheinlichkeitsrechnung/Wahrscheinlichkeitsräume/Wahrscheinlichkeitsraum.md",
-    "Wahrscheinlichkeitsrechnung/Wahrscheinlichkeitsräume/Ereignisse.md",
-    "Diskrete Mathematik/Graphentheorie/Wege und Kreise.md",
-    "Data Management/NoSQL/BASE.md",
-    "Data Management/Database APIs/Transactions/Transaction Isolation Level.md",
-    "Data Management/Database APIs/Transactions/Logging and Recovery.md",
-    "Data Management/Database APIs/Transactions/Locking and Concurrency Control.md"
+    "Wahrscheinlichkeitstheorie/Wahrscheinlichkeitsräume/Wahrscheinlichkeitsräume.md",
+    "Wahrscheinlichkeitstheorie/Bedingte Wahrscheinlichkeiten.md",
+    "Wahrscheinlichkeitstheorie/Wahrscheinlichkeitstheorie.md",
+    "Wahrscheinlichkeitstheorie/Momente.md",
+    "z_images/Pasted image 20221004084351.png",
+    "Wahrscheinlichkeitstheorie/Unabhängikeit.md",
+    "Wahrscheinlichkeitstheorie/Konvergenz von Zufallsvariablen.md",
+    "Wahrscheinlichkeitstheorie/Zufallsvektoren.md",
+    "Wahrscheinlichkeitstheorie/Zufallsvariablen.md",
+    "Wahrscheinlichkeitstheorie/Zentrale Grenzwertsatz.md"
   ]
 }

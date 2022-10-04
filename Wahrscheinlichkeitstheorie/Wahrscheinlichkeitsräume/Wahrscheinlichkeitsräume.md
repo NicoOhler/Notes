@@ -3,4 +3,4 @@
 + [[Ereignisse]]
 + Wahrscheinlichkeiten
 
-[[Wahrscheinlichkeitsrechnung]]
+[[Wahrscheinlichkeitstheorie]]
