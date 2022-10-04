@@ -1,6 +1,6 @@
 # Wahrscheinlichkeitsraum
 + [[Stichprobenraum]]
 + [[Ereignisse]]
-+ Wahrscheinlichkeiten
++ [[Wahrscheinlichkeiten]]
 
 [[Wahrscheinlichkeitstheorie]]

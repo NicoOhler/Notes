@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "2cd2bd8eecbac9f5",
+        "id": "9b7a2143a69f5678",
         "type": "leaf",
-        "dimension": 71.27371273712737,
+        "dimension": 63.41463414634146,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Wahrscheinlichkeitstheorie/Wahrscheinlichkeitsräume/Wahrscheinlichkeitsräume.md",
+            "file": "Wahrscheinlichkeitstheorie/Wahrscheinlichkeitsräume/Wahrscheinlichkeiten.md",
             "mode": "source",
             "source": false
           }
@@ -19,7 +19,7 @@
       {
         "id": "83d5c4ac0e022191",
         "type": "leaf",
-        "dimension": 28.72628726287263,
+        "dimension": 36.58536585365854,
         "state": {
           "type": "markdown",
           "state": {
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wahrscheinlichkeitstheorie/Wahrscheinlichkeitsräume/Wahrscheinlichkeitsräume.md",
+                "file": "Wahrscheinlichkeitstheorie/Wahrscheinlichkeitsräume/Wahrscheinlichkeiten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,17 +113,17 @@
     "width": 322,
     "collapsed": true
   },
-  "active": "2cd2bd8eecbac9f5",
+  "active": "9b7a2143a69f5678",
   "lastOpenFiles": [
+    "Wahrscheinlichkeitstheorie/Wahrscheinlichkeitstheorie.md",
+    "Wahrscheinlichkeitstheorie/Wahrscheinlichkeitsräume/Wahrscheinlichkeiten.md",
+    "Wahrscheinlichkeitstheorie/Wahrscheinlichkeitsräume/Wahrscheinlichkeitsräume.md",
+    "Wahrscheinlichkeitstheorie/Bedingte Wahrscheinlichkeiten.md",
+    "z_images/Pasted image 20221004085228.png",
     "Wahrscheinlichkeitstheorie/Wahrscheinlichkeitsräume/Ereignisse.md",
     "Wahrscheinlichkeitstheorie/Wahrscheinlichkeitsräume/Stichprobenraum.md",
     "Allgemeine Mathematik/Zeichensammlung.md",
-    "Wahrscheinlichkeitstheorie/Wahrscheinlichkeitsräume/Wahrscheinlichkeitsräume.md",
-    "Wahrscheinlichkeitstheorie/Bedingte Wahrscheinlichkeiten.md",
-    "Wahrscheinlichkeitstheorie/Wahrscheinlichkeitstheorie.md",
     "Wahrscheinlichkeitstheorie/Momente.md",
-    "z_images/Pasted image 20221004084351.png",
-    "Wahrscheinlichkeitstheorie/Unabhängikeit.md",
-    "Wahrscheinlichkeitstheorie/Konvergenz von Zufallsvariablen.md"
+    "z_images/Pasted image 20221004084351.png"
   ]
 }
