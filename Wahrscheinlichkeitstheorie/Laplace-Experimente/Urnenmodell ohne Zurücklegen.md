@@ -9,10 +9,14 @@
 + $Ω=\{\{j_1,...,j_n\}⊆\{1,...,N\}\}$
 	+ $|Ω|=\binom{N}{n}$
 + $A=P(Ω)$
-+ $P(\{j_1,...,j_n\})=\frac{1}[\binom{N}{n}$
++ $P(\{j_1,...,j_n\})=\frac{1}{\binom{N}{n}}$
 	+ $P(A)=\frac{|A|}{\binom{N}{n}}$
 
 ### Beispiele  
 + Lotto
 	+ ![[Pasted image 20221004155732.png]]
-	+ 
+	+ ![[Pasted image 20221004160202.png]]
++ Fragenkatalog
+	+ ![[Pasted image 20221004160235.png]]
+	+ ![[Pasted image 20221004160638.png]]
++ 
