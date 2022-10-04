@@ -28,3 +28,8 @@
 		+ ![[Pasted image 20221004094939.png]]
 	+ Bridge mit kombinierten Ereignissen
 		+ ![[Pasted image 20221004095017.png]]
+		+ ![[Pasted image 20221004095436.png]]
+	+ Münzwurf
+		+ ![[Pasted image 20221004095509.png]]
+		+ ![[Pasted image 20221004100208.png]]
+		+ 

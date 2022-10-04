@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Wahrscheinlichkeitstheorie/Wahrscheinlichkeitsräume/Stichprobenraum.md",
+            "file": "Wahrscheinlichkeitstheorie/Wahrscheinlichkeitsräume/Wahrscheinlichkeitsräume.md",
             "mode": "source",
             "source": false
           }
@@ -67,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324,
-    "collapsed": true
+    "width": 324
   },
   "right": {
     "id": "d1219e90b492538d",
@@ -84,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wahrscheinlichkeitstheorie/Wahrscheinlichkeitsräume/Stichprobenraum.md",
+                "file": "Wahrscheinlichkeitstheorie/Wahrscheinlichkeitsräume/Wahrscheinlichkeitsräume.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,15 +115,15 @@
   },
   "active": "2cd2bd8eecbac9f5",
   "lastOpenFiles": [
-    "Allgemeine Mathematik/Zeichensammlung.md",
+    "Wahrscheinlichkeitstheorie/Wahrscheinlichkeitsräume/Ereignisse.md",
     "Wahrscheinlichkeitstheorie/Wahrscheinlichkeitsräume/Stichprobenraum.md",
+    "Allgemeine Mathematik/Zeichensammlung.md",
     "Wahrscheinlichkeitstheorie/Wahrscheinlichkeitsräume/Wahrscheinlichkeitsräume.md",
     "Wahrscheinlichkeitstheorie/Bedingte Wahrscheinlichkeiten.md",
     "Wahrscheinlichkeitstheorie/Wahrscheinlichkeitstheorie.md",
     "Wahrscheinlichkeitstheorie/Momente.md",
     "z_images/Pasted image 20221004084351.png",
     "Wahrscheinlichkeitstheorie/Unabhängikeit.md",
-    "Wahrscheinlichkeitstheorie/Konvergenz von Zufallsvariablen.md",
-    "Wahrscheinlichkeitstheorie/Zufallsvektoren.md"
+    "Wahrscheinlichkeitstheorie/Konvergenz von Zufallsvariablen.md"
   ]
 }
