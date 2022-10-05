@@ -1,4 +1,7 @@
 # Wahrscheinlichkeitsverteilungen
+### Überblick
++ ![[Pasted image 20221005143729.png]]
+
 ### Multinomialverteilung
 + verwendet im [[Urnenmodell mit Zurücklegen]]
 + ![[Pasted image 20221004161704.png]]
@@ -23,3 +26,6 @@
 + Herleitung
 	+ ![[Pasted image 20221005132456.png]]
 + ![[Pasted image 20221005133749.png]]
+
+### Poisson Verteilung
++ Grenzfall der Binomialverteilung

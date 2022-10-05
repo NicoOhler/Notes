@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Wahrscheinlichkeitstheorie/Laplace-Experimente/Diskrete Wahrscheinlichkeitsräume.md",
+            "file": "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Wahrscheinlichkeitsverteilungen.md",
             "mode": "source",
             "source": false
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wahrscheinlichkeitstheorie/Laplace-Experimente/Diskrete Wahrscheinlichkeitsräume.md",
+                "file": "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Wahrscheinlichkeitsverteilungen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,15 +115,15 @@
   },
   "active": "83d5c4ac0e022191",
   "lastOpenFiles": [
-    "Wahrscheinlichkeitstheorie/Laplace-Experimente/Urnenmodell ohne Zurücklegen.md",
-    "Wahrscheinlichkeitstheorie/Laplace-Experimente/Wahrscheinlichkeitsverteilungen.md",
     "Wahrscheinlichkeitstheorie/Laplace-Experimente/Laplace-Experimente.md",
+    "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Wahrscheinlichkeitsverteilungen.md",
+    "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Diskrete Verteillungen.md",
+    "z_images/Pasted image 20221004151935.png",
+    "Wahrscheinlichkeitstheorie/Laplace-Experimente/Diskrete Wahrscheinlichkeitsräume.md",
+    "Wahrscheinlichkeitstheorie/Laplace-Experimente/Urnenmodell ohne Zurücklegen.md",
     "Wahrscheinlichkeitstheorie/Laplace-Experimente/Urnenmodell mit Zurücklegen.md",
     "Wahrscheinlichkeitstheorie/Wahrscheinlichkeitsräume/Wahrscheinlichkeitsräume.md",
-    "Wahrscheinlichkeitstheorie/Laplace-Experimente/Diskrete Wahrscheinlichkeitsräume.md",
     "Allgemeine Mathematik/Zeichensammlung.md",
-    "Analysis/Funktionen/Winkelfunktionen.md",
-    "Data Management/Cloud Computing/Distributed Data Storage/Serverless Computing.md",
-    "Wahrscheinlichkeitstheorie/Laplace-Experimente/Hypergeometrische und Binomialverteilung.md"
+    "Analysis/Funktionen/Winkelfunktionen.md"
   ]
 }

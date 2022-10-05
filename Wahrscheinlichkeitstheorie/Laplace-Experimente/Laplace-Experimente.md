@@ -18,4 +18,4 @@
 + [[Urnenmodell mit Zurücklegen]]
 + [[Urnenmodell ohne Zurücklegen]]
 + [[Wahrscheinlichkeitsverteilungen]]
-+ [[Diskrete Verteillungen]]
++ [[Diskrete Wahrscheinlichkeitsräume]]
