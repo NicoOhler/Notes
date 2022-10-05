@@ -8,12 +8,8 @@
         "type": "leaf",
         "dimension": 63.18407960199005,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Wahrscheinlichkeitstheorie/Laplace-Experimente/Diskrete Wahrscheinlichkeitsräume.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       },
       {
@@ -83,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wahrscheinlichkeitstheorie/Laplace-Experimente/Diskrete Wahrscheinlichkeitsräume.md",
+                "file": "Allgemeine Mathematik/Zeichensammlung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,8 +111,8 @@
   },
   "active": "83d5c4ac0e022191",
   "lastOpenFiles": [
-    "Allgemeine Mathematik/Zeichensammlung.md",
     "Wahrscheinlichkeitstheorie/Laplace-Experimente/Diskrete Wahrscheinlichkeitsräume.md",
+    "Allgemeine Mathematik/Zeichensammlung.md",
     "Wahrscheinlichkeitstheorie/Laplace-Experimente/Wahrscheinlichkeitsverteilungen.md",
     "Wahrscheinlichkeitstheorie/Laplace-Experimente/Hypergeometrische und Binomialverteilung.md",
     "Wahrscheinlichkeitstheorie/Laplace-Experimente/Urnenmodell ohne Zurücklegen.md",
