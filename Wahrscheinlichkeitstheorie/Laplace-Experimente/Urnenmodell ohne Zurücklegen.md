@@ -11,9 +11,9 @@
 + $A=P(Ω)$
 + $P(\{j_1,...,j_n\})=\frac{1}{\binom{N}{n}}$
 	+ $P(A)=\frac{|A|}{\binom{N}{n}}$
-+ [[Hyper]]
-### Proposition 
-+ Hypergeometrische Verteilung
+
+### Berechnung
++ mittels hypergeometrischer Verteilung
 + ![[Pasted image 20221004161550.png]] 
 
 ### Beispiele  
