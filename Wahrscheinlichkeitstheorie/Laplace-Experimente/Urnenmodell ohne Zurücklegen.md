@@ -11,7 +11,7 @@
 + $A=P(Ω)$
 + $P(\{j_1,...,j_n\})=\frac{1}{\binom{N}{n}}$
 	+ $P(A)=\frac{|A|}{\binom{N}{n}}$
-	
++ [[Hyper]]
 ### Proposition 
 + Hypergeometrische Verteilung
 + ![[Pasted image 20221004161550.png]] 
@@ -24,4 +24,4 @@
 	+ ![[Pasted image 20221004160235.png]]
 	+ ![[Pasted image 20221004160638.png]]
 
-[[Laplace-Experimente]] [[Binomische Lehrsatz]]
+[[Laplace-Experimente]] [[Binomische Lehrsatz]] [[Hypergeometrische und Binomialverteilung]]

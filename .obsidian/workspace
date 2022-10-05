@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Wahrscheinlichkeitstheorie/Laplace-Experimente/Zusammenhang zwischen Hypergeometrische und Binomialverteilung.md",
+            "file": "Wahrscheinlichkeitstheorie/Laplace-Experimente/Urnenmodell ohne Zurücklegen.md",
             "mode": "source",
             "source": false
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wahrscheinlichkeitstheorie/Laplace-Experimente/Zusammenhang zwischen Hypergeometrische und Binomialverteilung.md",
+                "file": "Wahrscheinlichkeitstheorie/Laplace-Experimente/Urnenmodell ohne Zurücklegen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,15 +115,15 @@
   },
   "active": "83d5c4ac0e022191",
   "lastOpenFiles": [
-    "Wahrscheinlichkeitstheorie/Laplace-Experimente/Diskrete Wahrscheinlichkeitsräume.md",
     "Wahrscheinlichkeitstheorie/Laplace-Experimente/Urnenmodell mit Zurücklegen.md",
-    "Wahrscheinlichkeitstheorie/Laplace-Experimente/Urnenmodell ohne Zurücklegen.md",
     "Wahrscheinlichkeitstheorie/Laplace-Experimente/Laplace-Experimente.md",
+    "Wahrscheinlichkeitstheorie/Laplace-Experimente/Hypergeometrische und Binomialverteilung.md",
+    "Wahrscheinlichkeitstheorie/Laplace-Experimente/Diskrete Wahrscheinlichkeitsräume.md",
+    "Wahrscheinlichkeitstheorie/Laplace-Experimente/Urnenmodell ohne Zurücklegen.md",
     "Wahrscheinlichkeitstheorie/Wahrscheinlichkeitsräume/Wahrscheinlichkeitsräume.md",
     "Allgemeine Mathematik/Zeichensammlung.md",
     "Diskrete Mathematik/Kombinatorik/Binomische Lehrsatz.md",
     "Wahrscheinlichkeitstheorie/Wahrscheinlichkeitsräume/Wahrscheinlichkeit.md",
-    "Wahrscheinlichkeitstheorie/Wahrscheinlichkeitsräume/Ereignisse.md",
-    "Wahrscheinlichkeitstheorie/Wahrscheinlichkeitsräume/Stichprobenraum.md"
+    "Wahrscheinlichkeitstheorie/Wahrscheinlichkeitsräume/Ereignisse.md"
   ]
 }
