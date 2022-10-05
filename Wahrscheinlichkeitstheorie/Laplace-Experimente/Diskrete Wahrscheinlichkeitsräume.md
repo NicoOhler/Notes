@@ -22,7 +22,7 @@
 	+ jede Wahrscheinlichkeit positiv 
 	+ Summe der Wahrscheinlichkeiten = 1
 + Wahrscheinlichkeitsmaß
-	+ ![[Pasted image 20221005134321.png]]
+	+ ![[Pasted image 20221005140344.png]]
 	+ (Ω,P(Ω),P) definiert Wahrscheinlichkeitsraum
-	+  Probability Mass Function (PMF)
-		+ Folge der Wahrscheinlichkeiten $p_k$ 
++ Beispiel
+	+ ![[Pasted image 20221005140437.png]]

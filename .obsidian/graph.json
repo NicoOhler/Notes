@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:NRLA",
@@ -57,10 +57,17 @@
       }
     },
     {
-      "query": "",
+      "query": "path:\"Wahrscheinlichkeitstheorie\"",
       "color": {
         "a": 1,
         "rgb": 11621088
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 14701233
       }
     }
   ],
@@ -74,6 +81,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.18796564267779142,
+  "scale": 0.28675227279470805,
   "close": false
 }

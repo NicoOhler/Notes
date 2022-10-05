@@ -61,7 +61,7 @@
 		+ {$x∈ℝ|sin(x)=y$} = {$arcsin(y)+2kπ,(2k+1)π-arcsin(y)|k∈ℤ$}
 
 ### TODO Polarkoordinaten
-+ #VO 23 bis min 18
++ VO 23 bis min 18
 
 ### Tangens und Cotangens
  + $tan(x)=\frac{sin(x)}{cos(x)}$
