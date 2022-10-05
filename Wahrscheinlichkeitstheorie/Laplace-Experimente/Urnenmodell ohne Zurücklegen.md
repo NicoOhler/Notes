@@ -24,4 +24,4 @@
 	+ ![[Pasted image 20221004160235.png]]
 	+ ![[Pasted image 20221004160638.png]]
 
-[[Laplace-Experimente]]
+[[Laplace-Experimente]] [[Binomische Lehrsatz]]
