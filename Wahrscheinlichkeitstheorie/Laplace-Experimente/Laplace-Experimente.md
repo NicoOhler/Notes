@@ -17,5 +17,4 @@
 ### Themengebiete
 + [[Urnenmodell mit Zurücklegen]]
 + [[Urnenmodell ohne Zurücklegen]]
-+ [[Wahrscheinlichkeitsverteilungen]]
 + [[Diskrete Wahrscheinlichkeitsräume]]

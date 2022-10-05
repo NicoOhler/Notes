@@ -1,6 +1,7 @@
 # Poisson Verteilung
 ### Definition
-+ Grenzfall der [[Binomialverteilung]]
++ ![[Pasted image 20221005145259.png]]
++ [[Binomialverteilung]] konvergiert gegen Poisson Verteilung für seltene Ereignisse
 	+ n sehr groß
 	+ p sehr klein
 
@@ -9,9 +10,9 @@
 
  
 ### Beispiele
-	+ Lotto
-		+ ![[Pasted image 20221005145112.png]]
-		+ 
-	+ Fußball
-		+ ![[Pasted image 20221005145117.png]]
-		+
++ Lotto
+	+ ![[Pasted image 20221005145112.png]]
+	+ ![[Pasted image 20221005150222.png]]
++ Fußball
+	+ ![[Pasted image 20221005145117.png]]
+	+ 

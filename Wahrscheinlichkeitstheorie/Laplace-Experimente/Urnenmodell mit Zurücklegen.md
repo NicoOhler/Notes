@@ -13,10 +13,11 @@
 	+ $P(A)=|A|×N^{-n}$
 
 ### Berechnung
-+ mittels Multinomialverteilung
++ mittels [[Multinomialverteilung]]
 + ![[Pasted image 20221004161704.png]]
 	+ $p_i=\frac{N_i}{N}$
-+ Spezialfall Binomialverteilung bei L=2
++ Spezialfall:
+	+ [[Binomialverteilung]] bei L=2
 	+ ![[Pasted image 20221004162222.png]]
 	+ ![[Pasted image 20221004162239.png]]
 
