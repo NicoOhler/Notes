@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Wahrscheinlichkeitstheorie/Laplace-Experimente/Urnenmodell ohne Zurücklegen.md",
+            "file": "Wahrscheinlichkeitstheorie/Wahrscheinlichkeitsräume/Wahrscheinlichkeit.md",
             "mode": "source",
             "source": false
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wahrscheinlichkeitstheorie/Laplace-Experimente/Urnenmodell ohne Zurücklegen.md",
+                "file": "Wahrscheinlichkeitstheorie/Wahrscheinlichkeitsräume/Wahrscheinlichkeit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,15 +115,15 @@
   },
   "active": "83d5c4ac0e022191",
   "lastOpenFiles": [
-    "Wahrscheinlichkeitstheorie/Laplace-Experimente/Urnenmodell mit Zurücklegen.md",
-    "Wahrscheinlichkeitstheorie/Laplace-Experimente/Urnenmodell ohne Zurücklegen.md",
-    "Wahrscheinlichkeitstheorie/Laplace-Experimente/Laplace-Experimente.md",
-    "Allgemeine Mathematik/Zeichensammlung.md",
+    "Wahrscheinlichkeitstheorie/Wahrscheinlichkeitsräume/Wahrscheinlichkeitsräume.md",
+    "Wahrscheinlichkeitstheorie/Wahrscheinlichkeitsräume/Ereignisse.md",
     "Wahrscheinlichkeitstheorie/Wahrscheinlichkeitsräume/Stichprobenraum.md",
     "Wahrscheinlichkeitstheorie/Wahrscheinlichkeitsräume/Wahrscheinlichkeit.md",
-    "Wahrscheinlichkeitstheorie/Wahrscheinlichkeitsräume/Ereignisse.md",
+    "Wahrscheinlichkeitstheorie/Laplace-Experimente/Urnenmodell ohne Zurücklegen.md",
+    "Wahrscheinlichkeitstheorie/Laplace-Experimente/Urnenmodell mit Zurücklegen.md",
+    "Wahrscheinlichkeitstheorie/Laplace-Experimente/Laplace-Experimente.md",
+    "Allgemeine Mathematik/Zeichensammlung.md",
     "z_images/Pasted image 20221004104720.png",
-    "Wahrscheinlichkeitstheorie/Untitled.md",
-    "Wahrscheinlichkeitstheorie/Unabhängigkeit/Unabhängikeit.md"
+    "Wahrscheinlichkeitstheorie/Untitled.md"
   ]
 }
