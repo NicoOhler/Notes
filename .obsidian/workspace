@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Poisson Verteilung.md",
+            "file": "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Geometrische Verteilung.md",
             "mode": "source",
             "source": false
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Poisson Verteilung.md",
+                "file": "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Geometrische Verteilung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,15 +115,15 @@
   },
   "active": "83d5c4ac0e022191",
   "lastOpenFiles": [
-    "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Diskrete Verteillungen.md",
-    "Wahrscheinlichkeitstheorie/Laplace-Experimente/Laplace-Experimente.md",
-    "Wahrscheinlichkeitstheorie/Laplace-Experimente/Urnenmodell ohne Zurücklegen.md",
-    "Wahrscheinlichkeitstheorie/Laplace-Experimente/Urnenmodell mit Zurücklegen.md",
-    "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Wahrscheinlichkeitsverteilungen.md",
-    "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Poisson Verteilung.md",
     "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Zusammenhang zwischen hypergeometrischer und Binomialverteilung.md",
-    "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Hypergeometrische Verteilung.md",
+    "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Poisson Verteilung.md",
     "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Multinomialverteilung.md",
-    "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Binomialverteilung.md"
+    "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Hypergeometrische Verteilung.md",
+    "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Diskrete Verteillungen.md",
+    "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Binomialverteilung.md",
+    "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Geometrische Verteilung.md",
+    "Allgemeine Mathematik/Zeichensammlung.md",
+    "Wahrscheinlichkeitstheorie/Laplace-Experimente/Laplace-Experimente.md",
+    "Wahrscheinlichkeitstheorie/Laplace-Experimente/Urnenmodell ohne Zurücklegen.md"
   ]
 }

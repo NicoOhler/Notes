@@ -1,0 +1,3 @@
+# Geometrische Verteilung
+### Definition
++ 

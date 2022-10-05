@@ -4,3 +4,4 @@
 + [[Hypergeometrische Verteilung]]
 + [[Multinomialverteilung]]
 + [[Poisson Verteilung]]
++ [[Geometrische Verteilung]]
