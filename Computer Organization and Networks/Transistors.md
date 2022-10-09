@@ -9,4 +9,5 @@
 + similar to switches
 	+ ![[Pasted image 20221009154554.png]]
 + combine multiple transistors for computational logic and storage
+	+ [[Logic Gates]]
 

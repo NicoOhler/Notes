@@ -1,7 +1,7 @@
 # Logic Gates
 ### Logic Gates
 + smallest functional unit
-	+ combination of [[Transistors]]
+	+ combination of [[Transistors]] for [[Logische Verknüpfungen]]
 + input and outputs resembled by voltage
 	+ comparable to [[Funktionen]]
 + ![[Pasted image 20221009154930.png]]
@@ -15,3 +15,5 @@
 		+ ![[Pasted image 20221009155339.png]]
 	+ NOR
 		+ ![[Pasted image 20221009160726.png]]
+
+### Common functions

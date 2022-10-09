@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Allgemeine Mathematik/Zeichensammlung.md",
+                "file": "Computer Organization and Networks/Logic Gates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,13 +113,13 @@
     "width": 322,
     "collapsed": true
   },
-  "active": "91e88dba6ce4bd2d",
+  "active": "93bcbcd2ea7ed8cf",
   "lastOpenFiles": [
+    "Computer Organization and Networks/Transistors.md",
     "Computer Organization and Networks/Logic Gates.md",
+    "Allgemeine Mathematik/Zeichensammlung.md",
     "Analysis/Funktionen/Funktionen.md",
     "Computer Organization and Networks/Computer Organization and Networks.md",
-    "Computer Organization and Networks/Transistors.md",
-    "Allgemeine Mathematik/Zeichensammlung.md",
     "z_images/Pasted image 20221009160726.png",
     "z_images/Pasted image 20221009155339.png",
     "z_images/Pasted image 20221005155609.png",
