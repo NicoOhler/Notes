@@ -8,11 +8,9 @@
         "type": "leaf",
         "dimension": 63.18407960199005,
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "Computer Organization and Networks/Transistors.md",
-            "mode": "source",
-            "source": false
+            "file": "z_images/Pasted image 20221009160726.png"
           }
         }
       },
@@ -83,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Organization and Networks/Transistors.md",
+                "file": "z_images/Pasted image 20221009160726.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,10 +111,10 @@
     "width": 322,
     "collapsed": true
   },
-  "active": "83d5c4ac0e022191",
+  "active": "097b9a58ea336072",
   "lastOpenFiles": [
-    "Computer Organization and Networks/Computer Organization and Networks.md",
     "Computer Organization and Networks/Transistors.md",
+    "Computer Organization and Networks/Computer Organization and Networks.md",
     "Allgemeine Mathematik/Zeichensammlung.md",
     "z_images/Pasted image 20221009155339.png",
     "z_images/Pasted image 20221005155609.png",
