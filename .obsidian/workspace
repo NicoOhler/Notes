@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Organization and Networks/Computer Organization and Networks.md",
+            "file": "Computer Organization and Networks/Transistors.md",
             "mode": "source",
             "source": false
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Organization and Networks/Computer Organization and Networks.md",
+                "file": "Computer Organization and Networks/Transistors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +115,7 @@
   },
   "active": "83d5c4ac0e022191",
   "lastOpenFiles": [
+    "Computer Organization and Networks/Computer Organization and Networks.md",
     "Computer Organization and Networks/Transistors.md",
     "z_images/Pasted image 20221005155609.png",
     "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Geometrische Verteilung.md",
@@ -123,7 +124,6 @@
     "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Zusammenhang zwischen hypergeometrischer und Binomialverteilung.md",
     "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Poisson Verteilung.md",
     "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Multinomialverteilung.md",
-    "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Hypergeometrische Verteilung.md",
-    "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Binomialverteilung.md"
+    "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Hypergeometrische Verteilung.md"
   ]
 }
