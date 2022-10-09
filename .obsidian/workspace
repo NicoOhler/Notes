@@ -4,20 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "83d5c4ac0e022191",
+        "id": "93bcbcd2ea7ed8cf",
         "type": "leaf",
-        "dimension": 63.18407960199005,
+        "dimension": 66.23263888888889,
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "z_images/Pasted image 20221009160726.png"
+            "file": "Computer Organization and Networks/Logic Gates.md",
+            "mode": "source",
+            "source": false
           }
         }
       },
       {
         "id": "91e88dba6ce4bd2d",
         "type": "leaf",
-        "dimension": 36.81592039800995,
+        "dimension": 33.76736111111111,
         "state": {
           "type": "markdown",
           "state": {
@@ -65,7 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324
+    "width": 292.5
   },
   "right": {
     "id": "d1219e90b492538d",
@@ -81,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "z_images/Pasted image 20221009160726.png",
+                "file": "Allgemeine Mathematik/Zeichensammlung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,17 +113,17 @@
     "width": 322,
     "collapsed": true
   },
-  "active": "097b9a58ea336072",
+  "active": "91e88dba6ce4bd2d",
   "lastOpenFiles": [
-    "Computer Organization and Networks/Transistors.md",
+    "Computer Organization and Networks/Logic Gates.md",
+    "Analysis/Funktionen/Funktionen.md",
     "Computer Organization and Networks/Computer Organization and Networks.md",
+    "Computer Organization and Networks/Transistors.md",
     "Allgemeine Mathematik/Zeichensammlung.md",
+    "z_images/Pasted image 20221009160726.png",
     "z_images/Pasted image 20221009155339.png",
     "z_images/Pasted image 20221005155609.png",
     "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Geometrische Verteilung.md",
-    "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Diskrete Verteillungen.md",
-    "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Zusammenhang zwischen hypergeometrischer und Binomialverteilung.md",
-    "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Poisson Verteilung.md",
-    "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Multinomialverteilung.md"
+    "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Diskrete Verteillungen.md"
   ]
 }
