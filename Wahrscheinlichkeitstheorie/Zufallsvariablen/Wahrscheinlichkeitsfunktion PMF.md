@@ -19,6 +19,7 @@
 	+ ![[Pasted image 20221013064408.png]]
 + Kurzform geometrische Verteilung
 	+ ![[Pasted image 20221013064053.png]]
-	+ 
+	+ ![[Pasted image 20221013064530.png]]
 + Kurzform Poisson Verteilung
-	+ 
+	+ ![[Pasted image 20221013064558.png]]
+	+ ![[Pasted image 20221013064729.png]]
