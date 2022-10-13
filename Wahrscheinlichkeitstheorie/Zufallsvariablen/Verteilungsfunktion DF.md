@@ -18,6 +18,9 @@
 + $F^X$ ist Treppenfunktion
 	+ konstant auf $[x_{k-1},x_k)$
 
+### Parametrische DF
++ ![[Pasted image 20221013084312.png]]
+
 ### Beispiele
 + Würfeln
 	+ ![[Pasted image 20221013080659.png]]
@@ -29,4 +32,8 @@
 	+ ![[Pasted image 20221013081142.png]]
 	+ ![[Pasted image 20221013081305.png]]
 + Ampel
-	+ 
+	+ ![[Pasted image 20221013083453.png]]
+	+ Bergwerk, stetige Gleichverteilung
+		+ ![[Pasted image 20221013083518.png]]
+		+ ![[Pasted image 20221013084018.png]]
+	
