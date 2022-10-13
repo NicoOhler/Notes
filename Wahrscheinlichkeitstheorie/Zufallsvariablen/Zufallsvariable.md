@@ -8,6 +8,7 @@
 	+ erzeugt Ereignisse - Urbild von Ereignissen
 		+ ![[Pasted image 20221013061951.png]]
 + diskret, wenn X nur abzählbar viele Werte annimmt
++ stetig, wenn nicht abzählbar
 
 ### Beispiele
 + Würfeln

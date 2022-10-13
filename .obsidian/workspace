@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Wahrscheinlichkeitstheorie/Zufallsvariablen/Wahrscheinlichkeitsfunktion PMF.md",
+            "file": "Wahrscheinlichkeitstheorie/Zufallsvariablen/Verteilungsfunktion CDF.md",
             "mode": "source",
             "source": false
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wahrscheinlichkeitstheorie/Zufallsvariablen/Wahrscheinlichkeitsfunktion PMF.md",
+                "file": "Wahrscheinlichkeitstheorie/Zufallsvariablen/Verteilungsfunktion CDF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,14 +116,14 @@
   "active": "93bcbcd2ea7ed8cf",
   "lastOpenFiles": [
     "Allgemeine Mathematik/Zeichensammlung.md",
-    "Wahrscheinlichkeitstheorie/Zufallsvariablen/Wahrscheinlichkeitsfunktion PMF.md",
+    "Wahrscheinlichkeitstheorie/Zufallsvariablen/Verteilungsfunktion CDF.md",
     "Wahrscheinlichkeitstheorie/Zufallsvariablen/Zufallsvariable.md",
+    "Wahrscheinlichkeitstheorie/Zufallsvariablen/Wahrscheinlichkeitsfunktion PMF.md",
     "z_images/Pasted image 20221013061951.png",
     "Computer Organization and Networks/Logic Gates.md",
     "Computer Organization and Networks/Transistors.md",
     "Analysis/Funktionen/Funktionen.md",
     "Computer Organization and Networks/Computer Organization and Networks.md",
-    "z_images/Pasted image 20221009160726.png",
-    "z_images/Pasted image 20221009155339.png"
+    "z_images/Pasted image 20221009160726.png"
   ]
 }
