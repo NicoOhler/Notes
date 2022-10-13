@@ -20,6 +20,12 @@
 
 ### Parametrische DF
 + ![[Pasted image 20221013084312.png]]
++ naiver Ansatz
+	+ funktioniert nicht
+	+ ![[Pasted image 20221013084515.png]]
++ Alternative
+	+ ![[Pasted image 20221013084851.png]]
+	+ ![[Pasted image 20221013085032.png]]
 
 ### Beispiele
 + Würfeln

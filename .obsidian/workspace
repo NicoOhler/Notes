@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Wahrscheinlichkeitstheorie/Zufallsvariablen/Verteilungsfunktion DF.md",
+            "file": "Wahrscheinlichkeitstheorie/Zufallsvariablen/Dichtefunktionen PDF.md",
             "mode": "source",
             "source": false
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wahrscheinlichkeitstheorie/Zufallsvariablen/Verteilungsfunktion DF.md",
+                "file": "Wahrscheinlichkeitstheorie/Zufallsvariablen/Dichtefunktionen PDF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,15 +115,15 @@
   },
   "active": "93bcbcd2ea7ed8cf",
   "lastOpenFiles": [
-    "Wahrscheinlichkeitstheorie/Zufallsvariablen/Wahrscheinlichkeitsfunktion PMF.md",
-    "Wahrscheinlichkeitstheorie/Zufallsvariablen/Verteilungsfunktion DF.md",
     "Allgemeine Mathematik/Zeichensammlung.md",
+    "Wahrscheinlichkeitstheorie/Zufallsvariablen/Dichtefunktionen PDF.md",
+    "Wahrscheinlichkeitstheorie/Zufallsvariablen/Verteilungsfunktion DF.md",
+    "Wahrscheinlichkeitstheorie/Zufallsvariablen/Wahrscheinlichkeitsfunktion PMF.md",
     "Wahrscheinlichkeitstheorie/Zufallsvariablen/Zufallsvariable.md",
     "z_images/Pasted image 20221013061951.png",
     "Computer Organization and Networks/Logic Gates.md",
     "Computer Organization and Networks/Transistors.md",
     "Analysis/Funktionen/Funktionen.md",
-    "Computer Organization and Networks/Computer Organization and Networks.md",
-    "z_images/Pasted image 20221009160726.png"
+    "Computer Organization and Networks/Computer Organization and Networks.md"
   ]
 }
