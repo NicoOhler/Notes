@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Organization and Networks/Logic Gates.md",
+            "file": "Wahrscheinlichkeitstheorie/Zufallsvariablen/Zufallsvariablen.md",
             "mode": "source",
             "source": false
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Organization and Networks/Logic Gates.md",
+                "file": "Wahrscheinlichkeitstheorie/Zufallsvariablen/Zufallsvariablen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,15 +115,15 @@
   },
   "active": "93bcbcd2ea7ed8cf",
   "lastOpenFiles": [
-    "Computer Organization and Networks/Transistors.md",
-    "Computer Organization and Networks/Logic Gates.md",
     "Allgemeine Mathematik/Zeichensammlung.md",
+    "Wahrscheinlichkeitstheorie/Zufallsvariablen/Zufallsvariablen.md",
+    "Computer Organization and Networks/Logic Gates.md",
+    "Computer Organization and Networks/Transistors.md",
     "Analysis/Funktionen/Funktionen.md",
     "Computer Organization and Networks/Computer Organization and Networks.md",
     "z_images/Pasted image 20221009160726.png",
     "z_images/Pasted image 20221009155339.png",
     "z_images/Pasted image 20221005155609.png",
-    "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Geometrische Verteilung.md",
-    "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Diskrete Verteillungen.md"
+    "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Geometrische Verteilung.md"
   ]
 }
