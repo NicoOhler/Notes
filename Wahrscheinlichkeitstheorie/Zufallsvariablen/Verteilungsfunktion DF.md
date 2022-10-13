@@ -1,10 +1,11 @@
 # Verteilungsfunktion DF
 ### Distribution Function DF
-+ Funktion, welche folgende Eigenschaften erfüllt
++ Funktion F, welche folgende Eigenschaften erfüllt
 	+ monoton steigend
 	+ rechtsstetig
 	+ ![[Pasted image 20221013082126.png]]
-+ 
++ Außerdem gilt
+	+ ![[Pasted image 20221013082613.png]]
 
 ### Cumulative Distribution Function CDF
 + $F^X(x)=P(X$≤x) mit $x∈ℝ$
@@ -27,3 +28,5 @@
 + Binomialverteilung
 	+ ![[Pasted image 20221013081142.png]]
 	+ ![[Pasted image 20221013081305.png]]
++ Ampel
+	+ 
