@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Binomialverteilung.md",
+            "file": "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Hypergeometrische Verteilung.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Binomialverteilung.md",
+                "file": "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Hypergeometrische Verteilung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +101,7 @@
   },
   "active": "93bcbcd2ea7ed8cf",
   "lastOpenFiles": [
+    "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Binomialverteilung.md",
     "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Diskrete Verteillungen.md",
     "Wahrscheinlichkeitstheorie/Laplace-Experimente/Diskrete Wahrscheinlichkeitsräume.md",
     "Wahrscheinlichkeitstheorie/Laplace-Experimente/Urnenmodell mit Zurücklegen.md",
@@ -109,7 +110,6 @@
     "z_images/Pasted image 20221013081003.png",
     "z_images/Pasted image 20211025165019.png",
     "z_images/Pasted image 20221013095620.png",
-    "Wahrscheinlichkeitstheorie/Zufallsvariablen/Dichtefunktionen PDF.md",
-    "Allgemeine Mathematik/Zeichensammlung.md"
+    "Wahrscheinlichkeitstheorie/Zufallsvariablen/Dichtefunktionen PDF.md"
   ]
 }
