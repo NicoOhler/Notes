@@ -6,24 +6,10 @@
       {
         "id": "93bcbcd2ea7ed8cf",
         "type": "leaf",
-        "dimension": 66.23263888888889,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Wahrscheinlichkeitstheorie/Zufallsvariablen/Dichtefunktionen PDF.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "91e88dba6ce4bd2d",
-        "type": "leaf",
-        "dimension": 33.76736111111111,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Allgemeine Mathematik/Zeichensammlung.md",
+            "file": "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Binomialverteilung.md",
             "mode": "source",
             "source": false
           }
@@ -83,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wahrscheinlichkeitstheorie/Zufallsvariablen/Dichtefunktionen PDF.md",
+                "file": "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Binomialverteilung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,15 +101,15 @@
   },
   "active": "93bcbcd2ea7ed8cf",
   "lastOpenFiles": [
-    "Allgemeine Mathematik/Zeichensammlung.md",
+    "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Diskrete Verteillungen.md",
+    "Wahrscheinlichkeitstheorie/Laplace-Experimente/Diskrete Wahrscheinlichkeitsräume.md",
+    "Wahrscheinlichkeitstheorie/Laplace-Experimente/Urnenmodell mit Zurücklegen.md",
+    "Wahrscheinlichkeitstheorie/Laplace-Experimente/Laplace-Experimente.md",
+    "Wahrscheinlichkeitstheorie/Wahrscheinlichkeitstheorie.md",
+    "z_images/Pasted image 20221013081003.png",
+    "z_images/Pasted image 20211025165019.png",
+    "z_images/Pasted image 20221013095620.png",
     "Wahrscheinlichkeitstheorie/Zufallsvariablen/Dichtefunktionen PDF.md",
-    "Wahrscheinlichkeitstheorie/Zufallsvariablen/Verteilungsfunktion DF.md",
-    "Wahrscheinlichkeitstheorie/Zufallsvariablen/Wahrscheinlichkeitsfunktion PMF.md",
-    "Wahrscheinlichkeitstheorie/Zufallsvariablen/Zufallsvariable.md",
-    "z_images/Pasted image 20221013061951.png",
-    "Computer Organization and Networks/Logic Gates.md",
-    "Computer Organization and Networks/Transistors.md",
-    "Analysis/Funktionen/Funktionen.md",
-    "Computer Organization and Networks/Computer Organization and Networks.md"
+    "Allgemeine Mathematik/Zeichensammlung.md"
   ]
 }
