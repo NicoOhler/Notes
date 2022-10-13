@@ -7,7 +7,7 @@
 + [[Wahrscheinlichkeitsräume]]
 + [[Laplace-Experimente]]
 + [[Diskrete Verteillungen]]
-+ [[Zufallsvariablen]]
++ [[Zufallsvariable]]
 + [[Zufallsvektoren]]
 + [[Momente]]
 + [[Bedingte Wahrscheinlichkeiten]]
