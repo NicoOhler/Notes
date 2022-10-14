@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Organization and Networks/Describing Circuits.md",
+            "file": "Computer Organization and Networks/Circuits.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Organization and Networks/Describing Circuits.md",
+                "file": "Computer Organization and Networks/Circuits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +101,15 @@
   },
   "active": "ec375aa0b793d526",
   "lastOpenFiles": [
-    "Computer Organization and Networks/Boolean Algebra.md",
+    "Computer Organization and Networks/Computer Organization and Networks.md",
     "Computer Organization and Networks/Logic Gates.md",
+    "Computer Organization and Networks/Describing Circuits.md",
+    "Computer Organization and Networks/Circuits.md",
+    "Computer Organization and Networks/Boolean Algebra.md",
     "Computer Organization and Networks/Transistors.md",
     "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Poisson Verteilung.md",
     "Diskrete Mathematik/Kombinatorik/Kombinatorik.md",
     "Diskrete Mathematik/Kombinatorik/Binomische Lehrsatz.md",
-    "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Diskrete Verteillungen.md",
-    "Wahrscheinlichkeitstheorie/Wahrscheinlichkeitstheorie.md",
-    "Wahrscheinlichkeitstheorie/Laplace-Experimente/Laplace-Experimente.md",
-    "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Binomialverteilung.md"
+    "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Diskrete Verteillungen.md"
   ]
 }
