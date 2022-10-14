@@ -21,4 +21,6 @@
 	+ ![[Pasted image 20221014125943.png]]
 	+ ![[Pasted image 20221014125957.png]]
 
-### Multiplikation
+### Multiplication with the base
++ left shift
+
