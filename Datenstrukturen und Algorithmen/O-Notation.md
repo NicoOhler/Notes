@@ -1,3 +1,13 @@
 # O-Notation
 ### Definition
-+ Menge 
++ Menge von Funktionen für die gilt
+	+ ![[Pasted image 20221014151558.png]]
+	+ ![[Pasted image 20221014151550.png]]
+		+ ab $n_0$ gibt es für alle $n≥n_0$ eine reelle Zahl c, sodass $f(n)≤c*g(n)$
+		+ Funktion hat höchstens diese Komplexität
++ Notation
+	+ ![[Pasted image 20221014152044.png]]
+	+ g(n) ist asymptotische ober Schranke für f(n)
++ dient zur 
+
+### Beweisführung
