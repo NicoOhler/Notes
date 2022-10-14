@@ -17,3 +17,7 @@
 	+ ![[Pasted image 20221014152708.png]]
 	+ ![[Pasted image 20221014152806.png]]
 	+ ![[Pasted image 20221014152814.png]]
+
+### Rechenregeln
+![[Pasted image 20221014153623.png]]
+![[Pasted image 20221014153634.png]]
