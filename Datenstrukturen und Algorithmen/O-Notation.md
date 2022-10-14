@@ -1,0 +1,3 @@
+# O-Notation
+### Definition
++ Menge 
