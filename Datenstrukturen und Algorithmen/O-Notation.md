@@ -8,6 +8,12 @@
 + Notation
 	+ ![[Pasted image 20221014152044.png]]
 	+ g(n) ist asymptotische ober Schranke für f(n)
-+ dient zur 
 
 ### Beweisführung
++ ![[Pasted image 20221014152532.png]]
++ Beispiele
+	+ ![[Pasted image 20221014152607.png]]
+	+ ![[Pasted image 20221014152622.png]]
+	+ ![[Pasted image 20221014152708.png]]
+	+ ![[Pasted image 20221014152806.png]]
+	+ ![[Pasted image 20221014152814.png]]
