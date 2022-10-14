@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Organization and Networks/Circuits.md",
+            "file": "Computer Organization and Networks/Binary Numbers.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Organization and Networks/Circuits.md",
+                "file": "Computer Organization and Networks/Binary Numbers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,8 +101,8 @@
   },
   "active": "ec375aa0b793d526",
   "lastOpenFiles": [
-    "Computer Organization and Networks/Transistors.md",
     "Computer Organization and Networks/Circuits.md",
+    "Computer Organization and Networks/Transistors.md",
     "Computer Organization and Networks/Computer Organization and Networks.md",
     "Computer Organization and Networks/Logic Gates.md",
     "Computer Organization and Networks/Describing Circuits.md",
