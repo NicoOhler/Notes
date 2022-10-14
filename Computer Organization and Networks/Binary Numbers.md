@@ -21,6 +21,12 @@
 	+ ![[Pasted image 20221014125943.png]]
 	+ ![[Pasted image 20221014125957.png]]
 
-### Multiplication with the base
-+ left shift
-
+### Multiplication and Division by the base
++ multiplication by left shift
++ division
+	+ Arithmetic Shift Right
+		+ shift right
+		+ prior MSB as new MSB
+	+ Logic Shift Right
+		+ shift right
+		+ 0 as new MSB 

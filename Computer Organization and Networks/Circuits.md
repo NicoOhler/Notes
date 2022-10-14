@@ -3,7 +3,7 @@
 + Combination of [[Logic Gates]] with a specific layout on a chip
 
 ### Circuit Description Options
-+ boolean functions
++ boolean functions using [[Boolean Algebra]]
 + truth tables
 + circuit netlist
 	+ connected logic gates

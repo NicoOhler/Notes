@@ -1,3 +1,0 @@
-# Describing Circuits
-### Options
-+ 
