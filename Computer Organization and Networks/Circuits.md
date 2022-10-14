@@ -24,5 +24,9 @@
 + existing hardware configured to correspond to a given circuit
 + tradeoff between hardware and software
 	+ more efficient but more expensive than software
-	+ less efficient but less expensive than software
+	+ less efficient but less expensive than hardware
 + ![[Pasted image 20221014101850.png]]
+
+### Logic Synthesis
++ process of mapping abstract circuit description to circuit netlist
++ ![[Pasted image 20221014102444.png]]
