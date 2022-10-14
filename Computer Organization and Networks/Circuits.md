@@ -30,3 +30,4 @@
 ### Logic Synthesis
 + process of mapping abstract circuit description to circuit netlist
 + ![[Pasted image 20221014102444.png]]
+
