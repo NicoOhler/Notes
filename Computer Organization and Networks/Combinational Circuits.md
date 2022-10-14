@@ -31,3 +31,15 @@
 + process of mapping abstract circuit description to circuit netlist
 + ![[Pasted image 20221014102444.png]]
 
+### Addition of [[Binary Numbers]]
++ adder (sum of two bits)
+	+ three inputs
+		+ two digits to add
+		+ carry over
+	+ two outputs
+		+ digit of sum
+		+ carry over
++ n-bit addition
+	+ cascading these adders
+	+ ![[Pasted image 20221014141349.png]]
+
