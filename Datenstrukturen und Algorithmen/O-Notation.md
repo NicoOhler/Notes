@@ -21,3 +21,7 @@
 ### Rechenregeln
 ![[Pasted image 20221014153623.png]]
 ![[Pasted image 20221014153634.png]]
+
+### Ω-Notation
++ asymptotische untere Schranke
++ ![[Pasted image 20221015152357.png]]

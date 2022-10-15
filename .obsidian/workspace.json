@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Datenstrukturen und Algorithmen/O-Notation.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -112,9 +112,9 @@
   },
   "active": "5c639fae05c29252",
   "lastOpenFiles": [
-    "Diskrete Mathematik/Kombinatorik/Binomische Lehrsatz.md",
     "Datenstrukturen und Algorithmen/Θ-Notation.md",
     "Datenstrukturen und Algorithmen/O-Notation.md",
+    "Diskrete Mathematik/Kombinatorik/Binomische Lehrsatz.md",
     "Analysis/Folgen und Reihen/Potenzreihen.md",
     "Analysis/Folgen und Reihen/Cauchy-Kriterium.md",
     "Analysis/Folgen und Reihen/Satz von Bolzano-Weierstraß.md",
