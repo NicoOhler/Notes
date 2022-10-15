@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Datenstrukturen und Algorithmen/O-Notation.md",
+                "file": "Analysis/Folgen und Reihen/Potenzreihen.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Datenstrukturen und Algorithmen/O-Notation.md",
+                "file": "Analysis/Folgen und Reihen/Potenzreihen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,15 +112,15 @@
   },
   "active": "5c639fae05c29252",
   "lastOpenFiles": [
-    "Analysis/Analysis.md",
-    "Analysis/Funktionen/Exponentialfunktion.md",
+    "Analysis/Folgen und Reihen/Cauchy-Kriterium.md",
+    "Analysis/Folgen und Reihen/Satz von Bolzano-Weierstraß.md",
+    "Analysis/Folgen und Reihen/Supremum und Infimum.md",
+    "Analysis/Folgen und Reihen/Sandwich Theorem.md",
+    "Analysis/Folgen und Reihen/Reihen und Folgen.md",
+    "Analysis/Folgen und Reihen/Potenzreihen.md",
+    "Analysis/Folgen und Reihen/Monotonie.md",
     "Datenstrukturen und Algorithmen/O-Notation.md",
-    "Datenstrukturen und Algorithmen/Θ-Notation.md",
-    "z_images/Pasted image 20221014153344.png",
-    "Datenstrukturen und Algorithmen/Laufzeitanalyse.md",
-    "Datenstrukturen und Algorithmen/Datenstrukturen und Algorithmen.md",
-    "Allgemeine Mathematik/Zeichensammlung.md",
-    "z_images/Pasted image 20221014153024.png",
-    "Allgemeine Mathematik/Allgemeine Mathematik.md"
+    "Analysis/Analysis.md",
+    "Analysis/Funktionen/Exponentialfunktion.md"
   ]
 }
