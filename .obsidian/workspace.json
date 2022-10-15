@@ -1,0 +1,157 @@
+{
+  "main": {
+    "id": "43f50e0355cef38d",
+    "type": "split",
+    "children": [
+      {
+        "id": "3207584f040a39d3",
+        "type": "tabs",
+        "dimension": 77.1766694843618,
+        "children": [
+          {
+            "id": "5c639fae05c29252",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Datenstrukturen und Algorithmen/Laufzeitanalyse.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1166efe8cef3081c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.0"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "9dfaa2df43b329b7",
+        "type": "tabs",
+        "dimension": 22.823330515638208,
+        "children": [
+          {
+            "id": "c9c7e637e66bb4bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Allgemeine Mathematik/Zeichensammlung.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3dcb2a47d5910cae",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f8c8c23e5b6687c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "097b9a58ea336072",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "67d43403474fe91c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 255.5
+  },
+  "right": {
+    "id": "d1219e90b492538d",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e6994f72503dd96",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c5aae94aad54a600",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Datenstrukturen und Algorithmen/Laufzeitanalyse.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "031c33c23df6bb75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Allgemeine Mathematik/Zeichensammlung.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 322,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "1166efe8cef3081c",
+  "lastOpenFiles": [
+    "Datenstrukturen und Algorithmen/O-Notation.md",
+    "Datenstrukturen und Algorithmen/Θ-Notation.md",
+    "Datenstrukturen und Algorithmen/Datenstrukturen und Algorithmen.md",
+    "Allgemeine Mathematik/Zeichensammlung.md",
+    "z_images/Pasted image 20221014153024.png",
+    "Allgemeine Mathematik/Allgemeine Mathematik.md",
+    "z_images/Pasted image 20221014141349.png",
+    "z_images/Pasted image 20221014143700.png",
+    "Computer Organization and Networks/Sequential Circuits.md",
+    "Computer Organization and Networks/Boolean Algebra.md"
+  ]
+}
