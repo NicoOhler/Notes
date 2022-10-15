@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Analysis/Funktionen/Exponentialfunktion.md",
+                "file": "Datenstrukturen und Algorithmen/O-Notation.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Funktionen/Exponentialfunktion.md",
+                "file": "Datenstrukturen und Algorithmen/O-Notation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +113,7 @@
   "active": "5c639fae05c29252",
   "lastOpenFiles": [
     "Analysis/Analysis.md",
+    "Analysis/Funktionen/Exponentialfunktion.md",
     "Datenstrukturen und Algorithmen/O-Notation.md",
     "Datenstrukturen und Algorithmen/Θ-Notation.md",
     "z_images/Pasted image 20221014153344.png",
@@ -120,7 +121,6 @@
     "Datenstrukturen und Algorithmen/Datenstrukturen und Algorithmen.md",
     "Allgemeine Mathematik/Zeichensammlung.md",
     "z_images/Pasted image 20221014153024.png",
-    "Allgemeine Mathematik/Allgemeine Mathematik.md",
-    "z_images/Pasted image 20221014141349.png"
+    "Allgemeine Mathematik/Allgemeine Mathematik.md"
   ]
 }
