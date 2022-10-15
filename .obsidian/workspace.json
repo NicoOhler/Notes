@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Datenstrukturen und Algorithmen/Θ-Notation.md",
-                "mode": "source",
+                "file": "Datenstrukturen und Algorithmen/O-Notation.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Datenstrukturen und Algorithmen/Θ-Notation.md",
+                "file": "Datenstrukturen und Algorithmen/O-Notation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,6 +112,7 @@
   },
   "active": "5c639fae05c29252",
   "lastOpenFiles": [
+    "Datenstrukturen und Algorithmen/Θ-Notation.md",
     "Datenstrukturen und Algorithmen/O-Notation.md",
     "Analysis/Folgen und Reihen/Potenzreihen.md",
     "Analysis/Folgen und Reihen/Cauchy-Kriterium.md",
@@ -120,7 +121,6 @@
     "Analysis/Folgen und Reihen/Sandwich Theorem.md",
     "Analysis/Folgen und Reihen/Reihen und Folgen.md",
     "Analysis/Folgen und Reihen/Monotonie.md",
-    "Analysis/Analysis.md",
-    "Analysis/Funktionen/Exponentialfunktion.md"
+    "Analysis/Analysis.md"
   ]
 }
