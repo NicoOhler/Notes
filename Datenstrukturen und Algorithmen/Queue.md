@@ -15,3 +15,5 @@
 + Elemente von S1 wenn Auslesen/Löschen gefordert nach S2 pushen
 + Elemente von S2 wenn Einfügen gefordert nach S1 pushen
 + ![[Pasted image 20221016142927.png]]
++ Algorithmus/Funktionen
++ ![[Pasted image 20221016221724.png]]

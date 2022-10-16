@@ -44,9 +44,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6b46f5fbecec00b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Datenstrukturen und Algorithmen/Algorithmen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -104,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Datenstrukturen und Algorithmen/Queue.md",
+                "file": "Datenstrukturen und Algorithmen/Algorithmen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,14 +149,14 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "fc41300eea2e2d60",
+  "active": "6b46f5fbecec00b5",
   "lastOpenFiles": [
+    "Datenstrukturen und Algorithmen/Queue.md",
     "Datenstrukturen und Algorithmen/Infix - Postfix Notationen.md",
     "z_images/Pasted image 20221016133104.png",
     "Datenstrukturen und Algorithmen/Datenstrukturen/Stack.md",
     "Allgemeine Mathematik/Zeichensammlung.md",
     "Datenstrukturen und Algorithmen/Datenstrukturen/Linked List.md",
-    "Datenstrukturen und Algorithmen/Queue.md",
     "Datenstrukturen und Algorithmen/Datenstrukturen/Array.md",
     "Datenstrukturen und Algorithmen/Laufzeitanalyse/Θ-Notation.md",
     "Datenstrukturen und Algorithmen/Datenstrukturen und Algorithmen.md",
