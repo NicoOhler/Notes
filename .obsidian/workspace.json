@@ -8,36 +8,36 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3c6a33b56920ca1f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Datenstrukturen und Algorithmen/Datenstrukturen und Algorithmen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "5c9ab0536e1201d0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Datenstrukturen und Algorithmen/Datenstrukturen/Array.md",
+                "file": "Datenstrukturen und Algorithmen/Datenstrukturen/Linked List.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b9a8eda6a5f71712",
+            "id": "7bfece07580ca4af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Datenstrukturen und Algorithmen/Datenstrukturen/Untitled.md",
+                "file": "Datenstrukturen und Algorithmen/Datenstrukturen/Stack.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3f453a04da8175c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Datenstrukturen und Algorithmen/Queue.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Datenstrukturen und Algorithmen/Datenstrukturen/Untitled.md",
+                "file": "Datenstrukturen und Algorithmen/Queue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,17 +135,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "b9a8eda6a5f71712",
+  "active": "3f453a04da8175c8",
   "lastOpenFiles": [
+    "Datenstrukturen und Algorithmen/Datenstrukturen/Stack.md",
+    "Datenstrukturen und Algorithmen/Queue.md",
+    "Datenstrukturen und Algorithmen/Datenstrukturen/Linked List.md",
     "Datenstrukturen und Algorithmen/Datenstrukturen/Array.md",
     "Datenstrukturen und Algorithmen/Laufzeitanalyse/Θ-Notation.md",
     "Datenstrukturen und Algorithmen/Datenstrukturen und Algorithmen.md",
     "Datenstrukturen und Algorithmen/Laufzeitanalyse/O-Notation.md",
     "Datenstrukturen und Algorithmen/Laufzeitanalyse/Laufzeitanalyse.md",
-    "Datenstrukturen und Algorithmen/Untitled.md",
     "Analysis/Differentialrechnung/Differentialrechnung.md",
-    "Analysis/Differentialrechnung/Anwendungen der  Differentialrechnung.md",
-    "Diskrete Mathematik/Kombinatorik/Binomische Lehrsatz.md",
-    "Analysis/Folgen und Reihen/Potenzreihen.md"
+    "Analysis/Differentialrechnung/Anwendungen der  Differentialrechnung.md"
   ]
 }
