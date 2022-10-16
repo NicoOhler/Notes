@@ -39,24 +39,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Datenstrukturen und Algorithmen/Queue.md",
+                "file": "Datenstrukturen und Algorithmen/Algorithmen.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "6b46f5fbecec00b5",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "z_images/Pasted image 20221016222846.png"
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -114,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "z_images/Pasted image 20221016222846.png",
+                "file": "Datenstrukturen und Algorithmen/Algorithmen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,17 +137,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "097b9a58ea336072",
+  "active": "fc41300eea2e2d60",
   "lastOpenFiles": [
-    "Datenstrukturen und Algorithmen/Algorithmen.md",
     "Datenstrukturen und Algorithmen/Queue.md",
+    "z_images/Pasted image 20221016222846.png",
+    "Datenstrukturen und Algorithmen/Algorithmen.md",
     "Datenstrukturen und Algorithmen/Infix - Postfix Notationen.md",
     "z_images/Pasted image 20221016133104.png",
     "Datenstrukturen und Algorithmen/Datenstrukturen/Stack.md",
     "Allgemeine Mathematik/Zeichensammlung.md",
     "Datenstrukturen und Algorithmen/Datenstrukturen/Linked List.md",
     "Datenstrukturen und Algorithmen/Datenstrukturen/Array.md",
-    "Datenstrukturen und Algorithmen/Laufzeitanalyse/Θ-Notation.md",
-    "Datenstrukturen und Algorithmen/Datenstrukturen und Algorithmen.md"
+    "Datenstrukturen und Algorithmen/Laufzeitanalyse/Θ-Notation.md"
   ]
 }
