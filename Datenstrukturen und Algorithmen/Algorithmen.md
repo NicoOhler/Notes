@@ -22,4 +22,4 @@
 	+ ![[Pasted image 20221016222846.png]]
 	+ ![[Pasted image 20221016225242.png]]
 + Optimierung durch Speichern von Zwischenergebnissen möglich
-	+ 
+	+ ![[Pasted image 20221016225606.png]]
