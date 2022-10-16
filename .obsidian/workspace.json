@@ -57,8 +57,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -111,7 +110,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "3c6a33b56920ca1f",
+  "active": "097b9a58ea336072",
   "lastOpenFiles": [
     "Analysis/Differentialrechnung/Anwendungen der  Differentialrechnung.md",
     "Datenstrukturen und Algorithmen/O-Notation.md",
