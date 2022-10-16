@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Datenstrukturen und Algorithmen/Infix - Postfix Notation.md",
+                "file": "Datenstrukturen und Algorithmen/Queue.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Datenstrukturen und Algorithmen/Infix - Postfix Notation.md",
+                "file": "Datenstrukturen und Algorithmen/Queue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,6 +139,8 @@
   },
   "active": "fc41300eea2e2d60",
   "lastOpenFiles": [
+    "Datenstrukturen und Algorithmen/Infix - Postfix Notationen.md",
+    "z_images/Pasted image 20221016133104.png",
     "Datenstrukturen und Algorithmen/Datenstrukturen/Stack.md",
     "Allgemeine Mathematik/Zeichensammlung.md",
     "Datenstrukturen und Algorithmen/Datenstrukturen/Linked List.md",
@@ -146,8 +148,6 @@
     "Datenstrukturen und Algorithmen/Datenstrukturen/Array.md",
     "Datenstrukturen und Algorithmen/Laufzeitanalyse/Θ-Notation.md",
     "Datenstrukturen und Algorithmen/Datenstrukturen und Algorithmen.md",
-    "Datenstrukturen und Algorithmen/Laufzeitanalyse/O-Notation.md",
-    "Datenstrukturen und Algorithmen/Laufzeitanalyse/Laufzeitanalyse.md",
-    "Analysis/Differentialrechnung/Differentialrechnung.md"
+    "Datenstrukturen und Algorithmen/Laufzeitanalyse/O-Notation.md"
   ]
 }
