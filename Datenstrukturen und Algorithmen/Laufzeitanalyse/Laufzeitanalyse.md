@@ -1,4 +1,3 @@
-# Laufzeitanalyse
 ### Laufzeit 
 + Zählen elementarer Schritte
 	+ Zuweisung

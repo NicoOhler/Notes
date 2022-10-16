@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Analysis/Differentialrechnung/Differentialrechnung.md",
+                "file": "Datenstrukturen und Algorithmen/Datenstrukturen und Algorithmen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5c9ab0536e1201d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Datenstrukturen und Algorithmen/Datenstrukturen/Array.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b9a8eda6a5f71712",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Datenstrukturen und Algorithmen/Datenstrukturen/Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -77,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Differentialrechnung/Differentialrechnung.md",
+                "file": "Datenstrukturen und Algorithmen/Datenstrukturen/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,17 +135,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "097b9a58ea336072",
+  "active": "b9a8eda6a5f71712",
   "lastOpenFiles": [
-    "Analysis/Differentialrechnung/Anwendungen der  Differentialrechnung.md",
-    "Datenstrukturen und Algorithmen/O-Notation.md",
-    "Datenstrukturen und Algorithmen/Θ-Notation.md",
+    "Datenstrukturen und Algorithmen/Datenstrukturen/Array.md",
+    "Datenstrukturen und Algorithmen/Laufzeitanalyse/Θ-Notation.md",
     "Datenstrukturen und Algorithmen/Datenstrukturen und Algorithmen.md",
-    "Datenstrukturen und Algorithmen/Laufzeitanalyse.md",
+    "Datenstrukturen und Algorithmen/Laufzeitanalyse/O-Notation.md",
+    "Datenstrukturen und Algorithmen/Laufzeitanalyse/Laufzeitanalyse.md",
+    "Datenstrukturen und Algorithmen/Untitled.md",
+    "Analysis/Differentialrechnung/Differentialrechnung.md",
+    "Analysis/Differentialrechnung/Anwendungen der  Differentialrechnung.md",
     "Diskrete Mathematik/Kombinatorik/Binomische Lehrsatz.md",
-    "Analysis/Folgen und Reihen/Potenzreihen.md",
-    "Analysis/Folgen und Reihen/Cauchy-Kriterium.md",
-    "Analysis/Folgen und Reihen/Satz von Bolzano-Weierstraß.md",
-    "Analysis/Folgen und Reihen/Supremum und Infimum.md"
+    "Analysis/Folgen und Reihen/Potenzreihen.md"
   ]
 }

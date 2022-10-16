@@ -1,4 +1,3 @@
-# O-Notation
 ### Definition
 + Menge von Funktionen für die gilt
 	+ ![[Pasted image 20221014151558.png]]
