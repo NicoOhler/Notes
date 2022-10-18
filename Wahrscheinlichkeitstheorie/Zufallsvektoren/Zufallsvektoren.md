@@ -20,3 +20,10 @@
 + ![[Pasted image 20221018154111.png]]
 + Randverteilung für Zufallsvektor (X,Y)
 	+ ![[Pasted image 20221018154611.png]]
++ Beispiele
+	+ ![[Pasted image 20221018154901.png]]
+	+ ![[Pasted image 20221018155105.png]]
+	+ ![[Pasted image 20221018155321.png]]
+	+ ![[Pasted image 20221018155432.png]]
+	+ ![[Pasted image 20221018155443.png]]
+	+ 
