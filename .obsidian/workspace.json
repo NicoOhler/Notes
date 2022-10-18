@@ -6,6 +6,7 @@
       {
         "id": "3207584f040a39d3",
         "type": "tabs",
+        "dimension": 67.22520107238606,
         "children": [
           {
             "id": "3d0cd11fd505c6a9",
@@ -27,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wahrscheinlichkeitstheorie/Zufallsvariablen/Zufallsvariable.md",
+                "file": "Wahrscheinlichkeitstheorie/Zufallsvektoren/Zufallsvektoren.md",
                 "mode": "source",
                 "source": false
               }
@@ -35,6 +36,25 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "e7b1132a5300fa18",
+        "type": "tabs",
+        "dimension": 32.77479892761394,
+        "children": [
+          {
+            "id": "de1268a63f446271",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Allgemeine Mathematik/Zeichensammlung.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -76,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255.5
+    "width": 255.5,
+    "collapsed": true
   },
   "right": {
     "id": "d1219e90b492538d",
@@ -92,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wahrscheinlichkeitstheorie/Zufallsvariablen/Zufallsvariable.md",
+                "file": "Wahrscheinlichkeitstheorie/Zufallsvektoren/Zufallsvektoren.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,14 +149,14 @@
   "active": "f08466703482deaa",
   "lastOpenFiles": [
     "Wahrscheinlichkeitstheorie/Zufallsvariablen/Dichtefunktionen PDF.md",
+    "Wahrscheinlichkeitstheorie/Zufallsvektoren/Zufallsvektoren.md",
+    "Wahrscheinlichkeitstheorie/Wahrscheinlichkeitsräume/Stichprobenraum.md",
+    "Allgemeine Mathematik/Zeichensammlung.md",
+    "Wahrscheinlichkeitstheorie/Zufallsvariablen/Zufallsvariable.md",
     "Wahrscheinlichkeitstheorie/Zufallsvariablen/Verteilungsfunktion DF.md",
     "Wahrscheinlichkeitstheorie/Zufallsvariablen/Wahrscheinlichkeitsfunktion PMF.md",
-    "Wahrscheinlichkeitstheorie/Zufallsvariablen/Zufallsvariable.md",
     "z_images/Pasted image 20221016230604.png",
-    "Allgemeine Mathematik/Zeichensammlung.md",
     "Datenstrukturen und Algorithmen/Hauptsatz der Laufzeitfunktionen.md",
-    "Datenstrukturen und Algorithmen/Algorithmen.md",
-    "Datenstrukturen und Algorithmen/Divide & Conquer.md",
-    "Datenstrukturen und Algorithmen/Datenstrukturen/Stack.md"
+    "Datenstrukturen und Algorithmen/Algorithmen.md"
   ]
 }
