@@ -22,31 +22,19 @@
             }
           },
           {
-            "id": "fc41300eea2e2d60",
+            "id": "f08466703482deaa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Datenstrukturen und Algorithmen/Algorithmen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "007e204b8d93cdc1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Datenstrukturen und Algorithmen/Hauptsatz der Laufzeitfunktionen.md",
+                "file": "Wahrscheinlichkeitstheorie/Zufallsvariablen/Zufallsvariable.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255.5,
-    "collapsed": true
+    "width": 255.5
   },
   "right": {
     "id": "d1219e90b492538d",
@@ -105,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Datenstrukturen und Algorithmen/Hauptsatz der Laufzeitfunktionen.md",
+                "file": "Wahrscheinlichkeitstheorie/Zufallsvariablen/Zufallsvariable.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,17 +125,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "007e204b8d93cdc1",
+  "active": "f08466703482deaa",
   "lastOpenFiles": [
+    "Wahrscheinlichkeitstheorie/Zufallsvariablen/Dichtefunktionen PDF.md",
+    "Wahrscheinlichkeitstheorie/Zufallsvariablen/Verteilungsfunktion DF.md",
+    "Wahrscheinlichkeitstheorie/Zufallsvariablen/Wahrscheinlichkeitsfunktion PMF.md",
+    "Wahrscheinlichkeitstheorie/Zufallsvariablen/Zufallsvariable.md",
+    "z_images/Pasted image 20221016230604.png",
     "Allgemeine Mathematik/Zeichensammlung.md",
-    "Datenstrukturen und Algorithmen/Algorithmen.md",
     "Datenstrukturen und Algorithmen/Hauptsatz der Laufzeitfunktionen.md",
+    "Datenstrukturen und Algorithmen/Algorithmen.md",
     "Datenstrukturen und Algorithmen/Divide & Conquer.md",
-    "Datenstrukturen und Algorithmen/Datenstrukturen/Stack.md",
-    "Datenstrukturen und Algorithmen/Queue.md",
-    "z_images/Pasted image 20221016222846.png",
-    "Datenstrukturen und Algorithmen/Infix - Postfix Notationen.md",
-    "z_images/Pasted image 20221016133104.png",
-    "Datenstrukturen und Algorithmen/Datenstrukturen/Linked List.md"
+    "Datenstrukturen und Algorithmen/Datenstrukturen/Stack.md"
   ]
 }
