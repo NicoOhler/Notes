@@ -8,3 +8,7 @@
 ### Beispiele
 + ![[Pasted image 20221018152431.png]]
 + ![[Pasted image 20221018152600.png]]
+
+### Marginale und gemeinsame Verteilung
++ ![[Pasted image 20221018153229.png]]
++ 
