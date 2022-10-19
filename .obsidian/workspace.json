@@ -22,31 +22,19 @@
             }
           },
           {
-            "id": "d6e0930ee9363878",
+            "id": "46adfbde568b1c44",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Iterative Algorithmen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ea8926d00b628064",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Greedy Algorithmen.md",
+                "file": "Datenstrukturen und Algorithmen/Arten von Algorithmen/Iterative Algorithmen.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Greedy Algorithmen.md",
+                "file": "Datenstrukturen und Algorithmen/Arten von Algorithmen/Iterative Algorithmen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,17 +125,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "ea8926d00b628064",
+  "active": "097b9a58ea336072",
   "lastOpenFiles": [
-    "Iterative Algorithmen.md",
+    "Datenstrukturen und Algorithmen/Arten von Algorithmen/Dynamische Programmierung.md",
     "Datenstrukturen und Algorithmen/Arten von Algorithmen/Arten von Algorithmen.md",
-    "Greedy Algorithmen.md",
+    "Datenstrukturen und Algorithmen/Arten von Algorithmen/Iterative Algorithmen.md",
+    "Datenstrukturen und Algorithmen/Arten von Algorithmen/Hauptsatz der Laufzeitfunktionen.md",
+    "Datenstrukturen und Algorithmen/Arten von Algorithmen/Greedy Algorithmen.md",
     "Rekursive Algorithmen.md",
     "Datenstrukturen und Algorithmen/Arten von Algorithmen/Divide & Conquer.md",
-    "Datenstrukturen und Algorithmen/Arten von Algorithmen/Hauptsatz der Laufzeitfunktionen.md",
     "Datenstrukturen und Algorithmen/Arten von Algorithmen/Untitled.md",
     "Allgemeine Mathematik/Zeichensammlung.md",
-    "Datenstrukturen und Algorithmen/Arten von Algorithmen/Algorithmen.md",
-    "Datenstrukturen und Algorithmen/Datenstrukturen und Algorithmen.md"
+    "Datenstrukturen und Algorithmen/Arten von Algorithmen/Algorithmen.md"
   ]
 }

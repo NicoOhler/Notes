@@ -12,3 +12,4 @@
 
 ### Traveling Salesman Problem
 ![[Pasted image 20221019170853.png]]
+![[Pasted image 20221019171251.png]]

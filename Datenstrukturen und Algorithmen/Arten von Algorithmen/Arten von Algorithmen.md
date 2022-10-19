@@ -3,4 +3,4 @@
 + [[Rekursive Algorithmen]]
 + [[Divide & Conquer]]
 + [[Greedy Algorithmen]]
-+ [[Iterative Algorithmen]]
++ [[Dynamische Programmierung]]
