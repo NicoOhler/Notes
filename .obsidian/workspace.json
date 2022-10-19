@@ -22,12 +22,12 @@
             }
           },
           {
-            "id": "de1268a63f446271",
+            "id": "d6e0930ee9363878",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wahrscheinlichkeitstheorie/Zufallsvektoren/Zufallsvektoren.md",
+                "file": "Rekursive Algorithmen.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wahrscheinlichkeitstheorie/Zufallsvektoren/Zufallsvektoren.md",
+                "file": "Rekursive Algorithmen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,17 +125,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "de1268a63f446271",
+  "active": "d6e0930ee9363878",
   "lastOpenFiles": [
-    "Analysis/Integralrechnung/Bestimmte Integrale.md",
-    "Wahrscheinlichkeitstheorie/Zufallsvektoren/Zufallsvektoren.md",
-    "Wahrscheinlichkeitstheorie/Zufallsvariablen/Dichtefunktionen PDF.md",
+    "Datenstrukturen und Algorithmen/Arten von Algorithmen/Arten von Algorithmen.md",
+    "Datenstrukturen und Algorithmen/Arten von Algorithmen/Divide & Conquer.md",
     "Allgemeine Mathematik/Zeichensammlung.md",
-    "Wahrscheinlichkeitstheorie/Zufallsvariablen/Wahrscheinlichkeitsfunktion PMF.md",
-    "Wahrscheinlichkeitstheorie/Zufallsvariablen/Verteilungsfunktion DF.md",
-    "Wahrscheinlichkeitstheorie/Zufallsvariablen/Zufallsvariable.md",
-    "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Geometrische Verteilung.md",
-    "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Binomialverteilung.md",
-    "Wahrscheinlichkeitstheorie/Laplace-Experimente/Laplace-Experimente.md"
+    "Datenstrukturen und Algorithmen/Arten von Algorithmen/Algorithmen.md",
+    "Rekursive Algorithmen.md",
+    "Iterative Algorithmen.md",
+    "Datenstrukturen und Algorithmen/Arten von Algorithmen/Hauptsatz der Laufzeitfunktionen.md",
+    "Datenstrukturen und Algorithmen/Datenstrukturen und Algorithmen.md",
+    "Datenstrukturen und Algorithmen/Untitled.md",
+    "Wahrscheinlichkeitstheorie/Zufallsvektoren/Zufallsvektoren.md"
   ]
 }
