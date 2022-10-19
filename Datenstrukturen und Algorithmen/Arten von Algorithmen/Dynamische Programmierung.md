@@ -7,4 +7,6 @@
 
 ### Manhattan Tourist Problem
 + ![[Pasted image 20221019171832.png]]
-+ 
++ ![[Pasted image 20221019172501.png]]
++ ![[Pasted image 20221019172442.png]]
++ ![[Pasted image 20221019172636.png]]

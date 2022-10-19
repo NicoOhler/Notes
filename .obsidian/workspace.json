@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Datenstrukturen und Algorithmen/Arten von Algorithmen/Iterative Algorithmen.md",
+                "file": "Datenstrukturen und Algorithmen/Arten von Algorithmen/Dynamische Programmierung.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Datenstrukturen und Algorithmen/Arten von Algorithmen/Iterative Algorithmen.md",
+                "file": "Datenstrukturen und Algorithmen/Arten von Algorithmen/Dynamische Programmierung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,11 +125,11 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "097b9a58ea336072",
+  "active": "46adfbde568b1c44",
   "lastOpenFiles": [
+    "Datenstrukturen und Algorithmen/Arten von Algorithmen/Iterative Algorithmen.md",
     "Datenstrukturen und Algorithmen/Arten von Algorithmen/Dynamische Programmierung.md",
     "Datenstrukturen und Algorithmen/Arten von Algorithmen/Arten von Algorithmen.md",
-    "Datenstrukturen und Algorithmen/Arten von Algorithmen/Iterative Algorithmen.md",
     "Datenstrukturen und Algorithmen/Arten von Algorithmen/Hauptsatz der Laufzeitfunktionen.md",
     "Datenstrukturen und Algorithmen/Arten von Algorithmen/Greedy Algorithmen.md",
     "Rekursive Algorithmen.md",
