@@ -11,7 +11,7 @@
 +	Zahlenmengen
 	+	ℕ	ℤ	ℚ	ℝ	ℂ
 +	Logik
-	+ ∧ ∨ ¬ ↔ →
+	+ ∧ ∨ ¬ ↔ ← →
 	+ T ⊥
 +	△▽
 + Griechische Alphabet
