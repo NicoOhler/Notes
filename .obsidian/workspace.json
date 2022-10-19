@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Binomialverteilung.md",
+                "file": "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Geometrische Verteilung.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Binomialverteilung.md",
+                "file": "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Geometrische Verteilung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,15 +127,15 @@
   },
   "active": "de1268a63f446271",
   "lastOpenFiles": [
-    "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Poisson Verteilung.md",
-    "Allgemeine Mathematik/Zeichensammlung.md",
-    "z_images/Pasted image 20221018151028.png",
-    "Wahrscheinlichkeitstheorie/Wahrscheinlichkeitstheorie.md",
+    "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Binomialverteilung.md",
+    "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Geometrische Verteilung.md",
+    "Wahrscheinlichkeitstheorie/Laplace-Experimente/Laplace-Experimente.md",
+    "Wahrscheinlichkeitstheorie/Laplace-Experimente/Urnenmodell mit Zurücklegen.md",
+    "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Diskrete Verteillungen.md",
     "Wahrscheinlichkeitstheorie/Zufallsvariablen/Zufallsvariable.md",
     "Wahrscheinlichkeitstheorie/Zufallsvektoren/Zufallsvektoren.md",
-    "Wahrscheinlichkeitstheorie/Zufallsvariablen/Dichtefunktionen PDF.md",
-    "Wahrscheinlichkeitstheorie/Wahrscheinlichkeitsräume/Stichprobenraum.md",
     "Wahrscheinlichkeitstheorie/Zufallsvariablen/Verteilungsfunktion DF.md",
-    "Wahrscheinlichkeitstheorie/Zufallsvariablen/Wahrscheinlichkeitsfunktion PMF.md"
+    "Wahrscheinlichkeitstheorie/Zufallsvariablen/Wahrscheinlichkeitsfunktion PMF.md",
+    "Wahrscheinlichkeitstheorie/Zufallsvariablen/Dichtefunktionen PDF.md"
   ]
 }
