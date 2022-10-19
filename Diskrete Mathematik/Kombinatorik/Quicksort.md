@@ -1,6 +1,6 @@
 # Quicksort
 ### Übersicht
-+ Sortieralgorithmus
++ [[Sortierverfahren]]
 + gegeben Array von unterschiedlichen Elementen
 + Divide and Conquer
 	+ in zwei Subarrays aufteilen
