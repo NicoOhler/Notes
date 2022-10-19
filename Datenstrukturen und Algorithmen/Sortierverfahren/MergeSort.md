@@ -16,4 +16,14 @@
 
 ### Laufzeit
 + unabhängig von Input
-+ gleich für 
++ gleich für [[Best-Worst-Average Case]]
++ ![[Pasted image 20221019202935.png]]
++ ![[Pasted image 20221019203222.png]]
+
+### Vergleich mit InsertionSort
++ ![[Pasted image 20221019203253.png]]
++ in-place
+	+ kein zusätzlicher Speicher notwendig
+	+ Ausnahme: Daten zu sortieren
++ adaptiv
+	+ schneller, wenn wenig zu Sortieren
