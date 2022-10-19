@@ -15,4 +15,5 @@
 + ![[Pasted image 20221019201319.png]]
 
 ### Laufzeit
-+ unabhängin
++ unabhängig von Input
++ gleich für 
