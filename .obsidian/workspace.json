@@ -27,14 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rekursive Algorithmen.md",
+                "file": "Iterative Algorithmen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ea8926d00b628064",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Greedy Algorithmen.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -92,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rekursive Algorithmen.md",
+                "file": "Greedy Algorithmen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,17 +137,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "d6e0930ee9363878",
+  "active": "ea8926d00b628064",
   "lastOpenFiles": [
+    "Iterative Algorithmen.md",
     "Datenstrukturen und Algorithmen/Arten von Algorithmen/Arten von Algorithmen.md",
+    "Greedy Algorithmen.md",
+    "Rekursive Algorithmen.md",
     "Datenstrukturen und Algorithmen/Arten von Algorithmen/Divide & Conquer.md",
+    "Datenstrukturen und Algorithmen/Arten von Algorithmen/Hauptsatz der Laufzeitfunktionen.md",
+    "Datenstrukturen und Algorithmen/Arten von Algorithmen/Untitled.md",
     "Allgemeine Mathematik/Zeichensammlung.md",
     "Datenstrukturen und Algorithmen/Arten von Algorithmen/Algorithmen.md",
-    "Rekursive Algorithmen.md",
-    "Iterative Algorithmen.md",
-    "Datenstrukturen und Algorithmen/Arten von Algorithmen/Hauptsatz der Laufzeitfunktionen.md",
-    "Datenstrukturen und Algorithmen/Datenstrukturen und Algorithmen.md",
-    "Datenstrukturen und Algorithmen/Untitled.md",
-    "Wahrscheinlichkeitstheorie/Zufallsvektoren/Zufallsvektoren.md"
+    "Datenstrukturen und Algorithmen/Datenstrukturen und Algorithmen.md"
   ]
 }

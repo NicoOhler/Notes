@@ -2,5 +2,5 @@
 + [[Iterative Algorithmen]]
 + [[Rekursive Algorithmen]]
 + [[Divide & Conquer]]
-+ [[Iterative Algorithmen]]
++ [[Greedy Algorithmen]]
 + [[Iterative Algorithmen]]
