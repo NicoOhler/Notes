@@ -33,7 +33,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -91,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Allgemeine Mathematik/Zeichensammlung.md",
+                "file": "Datenstrukturen und Algorithmen/Sortierverfahren/MergeSort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,17 +125,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "3d0cd11fd505c6a9",
+  "active": "7aa166a86e4392ba",
   "lastOpenFiles": [
-    "Datenstrukturen und Algorithmen/Sortierverfahren/MergeSort.md",
     "Allgemeine Mathematik/Zeichensammlung.md",
-    "Datenstrukturen und Algorithmen/Laufzeitanalyse/Θ-Notation.md",
-    "Datenstrukturen und Algorithmen/Laufzeitanalyse/Best-Worst-Average Case.md",
-    "Datenstrukturen und Algorithmen/Laufzeitanalyse/Laufzeitanalyse.md",
-    "Datenstrukturen und Algorithmen/Laufzeitanalyse/O-Notation.md",
+    "Datenstrukturen und Algorithmen/Sortierverfahren/MergeSort.md",
+    "Datenstrukturen und Algorithmen/Datenstrukturen und Algorithmen.md",
+    "Datenstrukturen und Algorithmen/Arten von Algorithmen/Rekursive Algorithmen.md",
+    "Datenstrukturen und Algorithmen/Arten von Algorithmen/Iterative Algorithmen.md",
     "Datenstrukturen und Algorithmen/Arten von Algorithmen/Hauptsatz der Laufzeitfunktionen.md",
     "Datenstrukturen und Algorithmen/Arten von Algorithmen/Dynamische Programmierung.md",
     "Datenstrukturen und Algorithmen/Arten von Algorithmen/Greedy Algorithmen.md",
-    "Datenstrukturen und Algorithmen/Sortierverfahren/Sortierverfahren.md"
+    "Datenstrukturen und Algorithmen/Arten von Algorithmen/Arten von Algorithmen.md",
+    "Datenstrukturen und Algorithmen/Laufzeitanalyse/Θ-Notation.md"
   ]
 }
