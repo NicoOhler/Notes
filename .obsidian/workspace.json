@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Datenstrukturen und Algorithmen/Sortierverfahren/MergeSort.md",
+                "file": "Allgemeine Mathematik/Zeichensammlung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,10 +124,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "7aa166a86e4392ba",
+  "active": "3d0cd11fd505c6a9",
   "lastOpenFiles": [
-    "Allgemeine Mathematik/Zeichensammlung.md",
     "Datenstrukturen und Algorithmen/Sortierverfahren/MergeSort.md",
+    "Allgemeine Mathematik/Zeichensammlung.md",
     "Datenstrukturen und Algorithmen/Laufzeitanalyse/Θ-Notation.md",
     "Datenstrukturen und Algorithmen/Laufzeitanalyse/Best-Worst-Average Case.md",
     "Datenstrukturen und Algorithmen/Laufzeitanalyse/Laufzeitanalyse.md",
