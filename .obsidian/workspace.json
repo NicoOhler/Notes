@@ -127,6 +127,8 @@
   },
   "active": "7aa166a86e4392ba",
   "lastOpenFiles": [
+    "Allgemeine Mathematik/Zeichensammlung.md",
+    "Datenstrukturen und Algorithmen/Arten von Algorithmen/Hauptsatz der Laufzeitfunktionen.md",
     "Datenstrukturen und Algorithmen/Arten von Algorithmen/Greedy Algorithmen.md",
     "Datenstrukturen und Algorithmen/Arten von Algorithmen/Dynamische Programmierung.md",
     "Datenstrukturen und Algorithmen/Arten von Algorithmen/Divide & Conquer.md",
@@ -134,8 +136,6 @@
     "Datenstrukturen und Algorithmen/Arten von Algorithmen/Rekursive Algorithmen.md",
     "Datenstrukturen und Algorithmen/Arten von Algorithmen/Iterative Algorithmen.md",
     "Datenstrukturen und Algorithmen/Laufzeitanalyse/O-Notation.md",
-    "Datenstrukturen und Algorithmen/Laufzeitanalyse/Θ-Notation.md",
-    "Datenstrukturen und Algorithmen/Sortierverfahren/MergeSort.md",
-    "Allgemeine Mathematik/Zeichensammlung.md"
+    "Datenstrukturen und Algorithmen/Laufzeitanalyse/Θ-Notation.md"
   ]
 }
