@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Datenstrukturen und Algorithmen/Arten von Algorithmen/Rekursive Algorithmen.md",
+                "file": "Datenstrukturen und Algorithmen/Arten von Algorithmen/Hauptsatz der Laufzeitfunktionen.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Datenstrukturen und Algorithmen/Arten von Algorithmen/Rekursive Algorithmen.md",
+                "file": "Datenstrukturen und Algorithmen/Arten von Algorithmen/Hauptsatz der Laufzeitfunktionen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,15 +127,15 @@
   },
   "active": "7aa166a86e4392ba",
   "lastOpenFiles": [
-    "Datenstrukturen und Algorithmen/Arten von Algorithmen/Iterative Algorithmen.md",
     "Datenstrukturen und Algorithmen/Arten von Algorithmen/Greedy Algorithmen.md",
-    "Datenstrukturen und Algorithmen/Arten von Algorithmen/Rekursive Algorithmen.md",
-    "Datenstrukturen und Algorithmen/Arten von Algorithmen/Arten von Algorithmen.md",
     "Datenstrukturen und Algorithmen/Arten von Algorithmen/Dynamische Programmierung.md",
+    "Datenstrukturen und Algorithmen/Arten von Algorithmen/Divide & Conquer.md",
+    "Datenstrukturen und Algorithmen/Arten von Algorithmen/Arten von Algorithmen.md",
+    "Datenstrukturen und Algorithmen/Arten von Algorithmen/Rekursive Algorithmen.md",
+    "Datenstrukturen und Algorithmen/Arten von Algorithmen/Iterative Algorithmen.md",
     "Datenstrukturen und Algorithmen/Laufzeitanalyse/O-Notation.md",
     "Datenstrukturen und Algorithmen/Laufzeitanalyse/Θ-Notation.md",
     "Datenstrukturen und Algorithmen/Sortierverfahren/MergeSort.md",
-    "Allgemeine Mathematik/Zeichensammlung.md",
-    "Datenstrukturen und Algorithmen/Datenstrukturen und Algorithmen.md"
+    "Allgemeine Mathematik/Zeichensammlung.md"
   ]
 }
