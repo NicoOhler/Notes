@@ -6,3 +6,4 @@
 
 ### Sortierung nach Zugriffswahrscheinlichkeit
 + ![[Pasted image 20221028170232.png]]
++ Anpassung mittels [[Selbstanordnende Felder]] möglich

@@ -2,9 +2,9 @@
 + statische, kleine Menge - Feld
 	+ unsortiert
 		+ [[Sequentielle Suche]]
-		+ selbstanordnende Felder
+		+ [[Selbstanordnende Felder]]
 	+ sortiert
-		+ Binärsuche
-		+ Interpolationssuche
-		+ Quadratische Binärsuche
-		+ Fastsearch
+		+ [[Binärsuche]]
+		+ [[Interpolationssuche]]
+		+ [[Quadratische Binärsuche]]
+		+ [[Fastsearch]]
