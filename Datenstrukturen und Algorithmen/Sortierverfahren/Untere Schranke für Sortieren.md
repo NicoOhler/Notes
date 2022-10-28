@@ -3,6 +3,7 @@
 	+ $c*n*log(n)$
 	+ $O(n*log(n))$
 + jedoch nur für vergleichsbasierte Sortierverfahren
++ ![[Pasted image 20221028161926.png]]
 
 ### [[Entscheidungsbaum]] von vergleichsbasierten Sortierverfahren
 + ![[Pasted image 20221028160542.png]]
