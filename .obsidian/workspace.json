@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Datenstrukturen und Algorithmen/Sortierverfahren/Quicksort.md",
+                "file": "Datenstrukturen und Algorithmen/Sortierverfahren/MergeSort.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Datenstrukturen und Algorithmen/Sortierverfahren/Quicksort.md",
+                "file": "Datenstrukturen und Algorithmen/Sortierverfahren/MergeSort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,8 +136,8 @@
   },
   "active": "5c2927f877610369",
   "lastOpenFiles": [
-    "Datenstrukturen und Algorithmen/Sortierverfahren/MergeSort.md",
     "Datenstrukturen und Algorithmen/Sortierverfahren/Quicksort.md",
+    "Datenstrukturen und Algorithmen/Sortierverfahren/MergeSort.md",
     "Allgemeine Mathematik/Zeichensammlung.md",
     "z_images/Pasted image 20221019203253.png",
     "z_images/Pasted image 20221019203222.png",
