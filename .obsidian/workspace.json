@@ -32,9 +32,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1859d12e3369922f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.3"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,10 +132,7 @@
     "width": 322,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "7aa166a86e4392ba",
+  "active": "1859d12e3369922f",
   "lastOpenFiles": [
     "Allgemeine Mathematik/Zeichensammlung.md",
     "Datenstrukturen und Algorithmen/Arten von Algorithmen/Hauptsatz der Laufzeitfunktionen.md",
