@@ -12,3 +12,13 @@
 ### Verfahren
 + Streuphase
 	+ n aufteilen in Fächer/Buckets
+	+ 1 Fach für jeden möglichen Wert
+		+ 10 für dezimal
+		+ 2 für binär
++ Sammelphase
+	+ Fächer zusammenfügen
+	+ sortiert nach i-ter Stelle
++ wiederholen bis alle Stellen durchlaufen
++ führende Nullen für  Zahlen mit zu wenig Stellen
++ ![[Pasted image 20221028162653.png]]
++ ![[Pasted image 20221028162857.png]]
