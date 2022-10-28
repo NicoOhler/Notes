@@ -2,6 +2,6 @@
 + InsertionSort
 	+ siehe [[Laufzeitanalyse]]
 + [[MergeSort]]
-+ [[Quicksort]]
++ [[Diskrete Mathematik/Kombinatorik/Quicksort]]
 + [[RadixSort]]
 + [[HeapSort]]

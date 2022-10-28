@@ -27,14 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Datenstrukturen und Algorithmen/Arten von Algorithmen/Hauptsatz der Laufzeitfunktionen.md",
+                "file": "Datenstrukturen und Algorithmen/Sortierverfahren/MergeSort.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5c2927f877610369",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Datenstrukturen und Algorithmen/Sortierverfahren/Quicksort.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -92,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Datenstrukturen und Algorithmen/Arten von Algorithmen/Hauptsatz der Laufzeitfunktionen.md",
+                "file": "Datenstrukturen und Algorithmen/Sortierverfahren/Quicksort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,17 +134,17 @@
     "width": 322,
     "collapsed": true
   },
-  "active": "7aa166a86e4392ba",
+  "active": "5c2927f877610369",
   "lastOpenFiles": [
+    "Datenstrukturen und Algorithmen/Sortierverfahren/MergeSort.md",
+    "Datenstrukturen und Algorithmen/Sortierverfahren/Quicksort.md",
     "Allgemeine Mathematik/Zeichensammlung.md",
+    "z_images/Pasted image 20221019203253.png",
+    "z_images/Pasted image 20221019203222.png",
     "Datenstrukturen und Algorithmen/Arten von Algorithmen/Hauptsatz der Laufzeitfunktionen.md",
     "Datenstrukturen und Algorithmen/Arten von Algorithmen/Greedy Algorithmen.md",
     "Datenstrukturen und Algorithmen/Arten von Algorithmen/Dynamische Programmierung.md",
     "Datenstrukturen und Algorithmen/Arten von Algorithmen/Divide & Conquer.md",
-    "Datenstrukturen und Algorithmen/Arten von Algorithmen/Arten von Algorithmen.md",
-    "Datenstrukturen und Algorithmen/Arten von Algorithmen/Rekursive Algorithmen.md",
-    "Datenstrukturen und Algorithmen/Arten von Algorithmen/Iterative Algorithmen.md",
-    "Datenstrukturen und Algorithmen/Laufzeitanalyse/O-Notation.md",
-    "Datenstrukturen und Algorithmen/Laufzeitanalyse/Θ-Notation.md"
+    "Datenstrukturen und Algorithmen/Arten von Algorithmen/Arten von Algorithmen.md"
   ]
 }
