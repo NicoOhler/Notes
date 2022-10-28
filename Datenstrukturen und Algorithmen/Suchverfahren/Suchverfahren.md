@@ -8,3 +8,6 @@
 		+ [[Interpolationssuche]]
 		+ [[Quadratische Binärsuche]]
 		+ [[Fastsearch]]
+
+### Laufzeitverhalten
++ 
