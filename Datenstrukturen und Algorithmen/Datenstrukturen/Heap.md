@@ -25,3 +25,4 @@
 	+ ![[Pasted image 20221029182046.png]]
 	+ Laufzeit
 		+ ![[Pasted image 20221029182332.png]]
+		+ ![[Pasted image 20221029182846.png]]
