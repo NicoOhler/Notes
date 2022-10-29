@@ -14,7 +14,14 @@
 	+ $h=\lfloor log_2(n)\rfloor$
 
 ### Heapify
-+ Aufbau einer Halde mittels Verhalde-Prozedur (Heapify)
-+ ![[Pasted image 20221029181517.png]]
-+ Algorithmus
-	+
++ Verhalde-Prozedur
+	+ ![[Pasted image 20221029181517.png]]
+	+ ![[Pasted image 20221029181546.png]]
++ Aufbau einer Halde mittel Heapify
+	+ gegeben lineares Feld in beliebiger Reihenfolge
+	+ Blätter (einzelnes Element) sind triviale Halden
+	+ Verhalde auf Eltern der Blätter (vorletzte Schicht) anwenden
+	+ Wiederholen für alle Knoten bis zur Wurzel
+	+ ![[Pasted image 20221029182046.png]]
+	+ Laufzeit
+		+ ![[Pasted image 20221029182332.png]]
