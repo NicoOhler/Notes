@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Datenstrukturen und Algorithmen/Suchverfahren/Suchverfahren.md",
+                "file": "Datenstrukturen und Algorithmen/Sortierverfahren/RadixSort.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Datenstrukturen und Algorithmen/Suchverfahren/Suchverfahren.md",
+                "file": "Datenstrukturen und Algorithmen/Sortierverfahren/RadixSort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,11 +136,11 @@
   },
   "active": "c0e828194187d0e5",
   "lastOpenFiles": [
+    "Datenstrukturen und Algorithmen/Suchverfahren/Suchverfahren.md",
     "Fastsearch.md",
     "Quadratische Binärsuche.md",
     "Interpolationssuche.md",
     "Binärsuche.md",
-    "Datenstrukturen und Algorithmen/Suchverfahren/Suchverfahren.md",
     "Sequentielle Suche.md",
     "Datenstrukturen und Algorithmen/Suchverfahren/Selbstanordnende Felder.md",
     "Allgemeine Mathematik/Zeichensammlung.md",
