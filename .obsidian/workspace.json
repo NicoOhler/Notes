@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Datenstrukturen und Algorithmen/Sortierverfahren/HeapSort.md",
+                "file": "Datenstrukturen und Algorithmen/Sortierverfahren/Vergleich von Sortierverfahren.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Datenstrukturen und Algorithmen/Sortierverfahren/HeapSort.md",
+                "file": "Datenstrukturen und Algorithmen/Sortierverfahren/Vergleich von Sortierverfahren.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,9 +136,9 @@
   },
   "active": "db1fae097e4efdfe",
   "lastOpenFiles": [
+    "Datenstrukturen und Algorithmen/Sortierverfahren/HeapSort.md",
     "Datenstrukturen und Algorithmen/Datenstrukturen/Heap.md",
     "Datenstrukturen und Algorithmen/Sortierverfahren/MergeSort.md",
-    "Datenstrukturen und Algorithmen/Sortierverfahren/HeapSort.md",
     "Datenstrukturen und Algorithmen/Sortierverfahren/Sortierverfahren.md",
     "Diskrete Mathematik/Graphentheorie/Bäume & Spannbäume.md",
     "Allgemeine Mathematik/Zeichensammlung.md",
