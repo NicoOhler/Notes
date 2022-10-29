@@ -16,7 +16,7 @@
 	+ Höhe von x $h(x)=d(x_0,x)$
 + Binärbaum
 	+ jeder Knoten hat maximal 2 Nachfolger
-	+ $h=log_2(n)$
+	+ $h=\lfloor log_2(n)\rfloor$
 
 ### Path Finder
 + Input: Baum T, Knoten x,y

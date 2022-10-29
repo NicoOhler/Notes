@@ -11,3 +11,10 @@
 	+ vollständiger Baum
 		+ letzte Ebene evtl. nicht komplett
 	+ jeder Teilbaum wieder Halde
+	+ $h=\lfloor log_2(n)\rfloor$
+
+### Heapify
++ Aufbau einer Halde mittels Verhalde-Prozedur (Heapify)
++ ![[Pasted image 20221029181517.png]]
++ Algorithmus
+	+
