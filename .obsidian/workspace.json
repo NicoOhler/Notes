@@ -22,30 +22,6 @@
             }
           },
           {
-            "id": "c0e828194187d0e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Datenstrukturen und Algorithmen/Sortierverfahren/RadixSort.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a2cec0e54c9aef6c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Quadratische Binärsuche.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "db1fae097e4efdfe",
             "type": "leaf",
             "state": {
@@ -58,7 +34,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -148,15 +124,15 @@
   },
   "active": "db1fae097e4efdfe",
   "lastOpenFiles": [
-    "Quadratische Binärsuche.md",
-    "Datenstrukturen und Algorithmen/Sortierverfahren/RadixSort.md",
-    "Datenstrukturen und Algorithmen/Suchverfahren/Suchverfahren.md",
-    "Fastsearch.md",
-    "Interpolationssuche.md",
-    "Binärsuche.md",
-    "Sequentielle Suche.md",
-    "Datenstrukturen und Algorithmen/Suchverfahren/Selbstanordnende Felder.md",
+    "Diskrete Mathematik/Graphentheorie/Bäume & Spannbäume.md",
+    "Datenstrukturen und Algorithmen/Datenstrukturen/Heap.md",
     "Allgemeine Mathematik/Zeichensammlung.md",
-    "Datenstrukturen und Algorithmen/Sortierverfahren/Sortierverfahren.md"
+    "Datenstrukturen und Algorithmen/Sortierverfahren/RadixSort.md",
+    "Datenstrukturen und Algorithmen/Suchverfahren/Quadratische Binärsuche.md",
+    "z_images/Pasted image 20221028153656.png",
+    "Datenstrukturen und Algorithmen/Suchverfahren/Sequentielle Suche.md",
+    "Datenstrukturen und Algorithmen/Datenstrukturen/Binärbaum.md",
+    "Datenstrukturen und Algorithmen/Suchverfahren/Suchverfahren.md",
+    "Datenstrukturen und Algorithmen/Suchverfahren/Fastsearch.md"
   ]
 }

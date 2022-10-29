@@ -4,4 +4,10 @@
 + ![[Pasted image 20221029175226.png]]
 + nicht automatisch absteigend sortiert
 + Darstellung als Graph/Binärbaum
-	+ ![[Pasted image 20221029175432.png]]
+	+ siehe [[Bäume & Spannbäume]]
+	+ ![[Pasted image 20221029175629.png]]
++ Eigenschaften
+	+ $A[0]$ ist Maximum (Wurzel) 
+	+ vollständiger Baum
+		+ letzte Ebene evtl. nicht komplett
+	+ jeder Teilbaum wieder Halde

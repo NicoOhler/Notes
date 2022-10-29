@@ -14,6 +14,9 @@
 		+ ![[Pasted image 20220512165341.png]]
 		+ Blätter Nachfolger ohne Nachfolger
 	+ Höhe von x $h(x)=d(x_0,x)$
++ Binärbaum
+	+ jeder Knoten hat maximal 2 Nachfolger
+	+ $h=log_2(n)$
 
 ### Path Finder
 + Input: Baum T, Knoten x,y
