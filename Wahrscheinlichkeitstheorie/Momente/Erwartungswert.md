@@ -4,7 +4,10 @@
 + ![[Pasted image 20221030134259.png]]
 
 ### Beispiele
-+ Roulette - auf Farbe setzen
++ Roulette - Setzen auf Farbe
 	+ ![[Pasted image 20221030134853.png]]
-+ 
+	+ ![[Pasted image 20221030135304.png]]
++ Roulette- Setzen auf Zahl
 	+ ![[Pasted image 20221030135233.png]]
+	+ ![[Pasted image 20221030135416.png]]
++ ![[Pasted image 20221030135821.png]]
