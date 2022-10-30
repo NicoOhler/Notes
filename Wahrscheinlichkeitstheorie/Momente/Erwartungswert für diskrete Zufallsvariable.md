@@ -28,4 +28,7 @@
 + E(Y) Binomialverteilung
 	+ ![[Pasted image 20221030151749.png]]
 	+ ![[Pasted image 20221030152119.png]]
-+ 
++ Hotelzimmer
+	+ ![[Pasted image 20221030152338.png]]
+	+ ![[Pasted image 20221030152925.png]]
+	+ ![[Pasted image 20221030153226.png]]
