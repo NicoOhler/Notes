@@ -19,4 +19,13 @@
 + Roulette- Setzen auf Zahl
 	+ ![[Pasted image 20221030135233.png]]
 	+ ![[Pasted image 20221030135416.png]]
++ E(Y) [[Binomialverteilung]]
+	+ ![[Pasted image 20221030151601.png]]
+	+ ![[Pasted image 20221030151532.png]]
++ E(Y) [[Gleichverteilung]]
+	+ ![[Pasted image 20221030151723.png]]
+	+ ![[Pasted image 20221030151934.png]]
++ E(Y) Binomialverteilung
+	+ ![[Pasted image 20221030151749.png]]
+	+ ![[Pasted image 20221030152119.png]]
 + 
