@@ -12,5 +12,6 @@
 ### Beispiele
 + Bus
 	+ ![[Pasted image 20221030162852.png]]
+	+ ![[Pasted image 20221030163247.png]]
 	+ 
 + 
