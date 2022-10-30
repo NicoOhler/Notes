@@ -14,4 +14,4 @@
 + [[Diskrete Verteillungen]]
 	+ ![[Pasted image 20221030140432.png]]
 	+ ![[Pasted image 20221030140933.png]]
-	+ 
+	+ ![[Pasted image 20221030141609.png]]
