@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wahrscheinlichkeitstheorie/Momente/Erwartungswert.md",
+                "file": "Wahrscheinlichkeitstheorie/Momente/Erwartungswert für diskrete Zufallsvariable.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wahrscheinlichkeitstheorie/Momente/Erwartungswert.md",
+                "file": "Wahrscheinlichkeitstheorie/Momente/Erwartungswert für diskrete Zufallsvariable.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,14 +137,14 @@
   "active": "71c3a77649b96769",
   "lastOpenFiles": [
     "Wahrscheinlichkeitstheorie/Momente/Momente.md",
+    "Allgemeine Mathematik/Zeichensammlung.md",
+    "Wahrscheinlichkeitstheorie/Momente/Erwartungswert für diskrete Zufallsvariable.md",
     "Wahrscheinlichkeitstheorie/Zufallsvariablen/Zufallsvariable.md",
     "Wahrscheinlichkeitstheorie/Zufallsvektoren/Zufallsvektoren.md",
     "Allgemeine Mathematik/Quantoren.md",
     "Allgemeine Mathematik/Mengenlehre.md",
     "z_images/Pasted image 20221029181517.png",
-    "Allgemeine Mathematik/Zeichensammlung.md",
     "Datenstrukturen und Algorithmen/Sortierverfahren/HeapSort.md",
-    "Datenstrukturen und Algorithmen/Sortierverfahren/Vergleich von Sortierverfahren.md",
-    "Datenstrukturen und Algorithmen/Datenstrukturen/Queue.md"
+    "Datenstrukturen und Algorithmen/Sortierverfahren/Vergleich von Sortierverfahren.md"
   ]
 }
