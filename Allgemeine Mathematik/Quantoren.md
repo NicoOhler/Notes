@@ -7,4 +7,4 @@
 	>Für jede reelle Zahl x gibt es eine natürliche Zahl für die gilt x > n 
 	>∀xℝ ∃ n∈ℕ: x>n
 
-[[Allgemeine Mathematik]] [[Mengenlehre(Set theory)]]
+[[Allgemeine Mathematik]] [[Mengenlehre]]

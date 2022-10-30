@@ -22,12 +22,12 @@
             }
           },
           {
-            "id": "db1fae097e4efdfe",
+            "id": "561b9d43b2c07160",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Datenstrukturen und Algorithmen/Sortierverfahren/HeapSort.md",
+                "file": "Wahrscheinlichkeitstheorie/Momente/Momente.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Datenstrukturen und Algorithmen/Sortierverfahren/HeapSort.md",
+                "file": "Wahrscheinlichkeitstheorie/Momente/Momente.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,17 +122,17 @@
     "width": 322,
     "collapsed": true
   },
-  "active": "db1fae097e4efdfe",
+  "active": "561b9d43b2c07160",
   "lastOpenFiles": [
+    "Wahrscheinlichkeitstheorie/Zufallsvektoren/Zufallsvektoren.md",
+    "Allgemeine Mathematik/Quantoren.md",
+    "Allgemeine Mathematik/Mengenlehre.md",
+    "z_images/Pasted image 20221029181517.png",
+    "Allgemeine Mathematik/Zeichensammlung.md",
+    "Datenstrukturen und Algorithmen/Sortierverfahren/HeapSort.md",
     "Datenstrukturen und Algorithmen/Sortierverfahren/Vergleich von Sortierverfahren.md",
     "Datenstrukturen und Algorithmen/Datenstrukturen/Queue.md",
     "Datenstrukturen und Algorithmen/Sortierverfahren/MergeSort.md",
-    "Datenstrukturen und Algorithmen/Sortierverfahren/HeapSort.md",
-    "Datenstrukturen und Algorithmen/Datenstrukturen/Heap.md",
-    "Datenstrukturen und Algorithmen/Sortierverfahren/Sortierverfahren.md",
-    "Diskrete Mathematik/Graphentheorie/Bäume & Spannbäume.md",
-    "Allgemeine Mathematik/Zeichensammlung.md",
-    "Datenstrukturen und Algorithmen/Sortierverfahren/RadixSort.md",
-    "Datenstrukturen und Algorithmen/Suchverfahren/Quadratische Binärsuche.md"
+    "Datenstrukturen und Algorithmen/Datenstrukturen/Heap.md"
   ]
 }
