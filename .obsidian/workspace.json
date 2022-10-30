@@ -22,42 +22,6 @@
             }
           },
           {
-            "id": "561b9d43b2c07160",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wahrscheinlichkeitstheorie/Momente/Momente.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "71c3a77649b96769",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wahrscheinlichkeitstheorie/Momente/Erwartungswert für diskrete ZV.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "61e6490e16c95f03",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wahrscheinlichkeitstheorie/Momente/Erwartungswert von linearen Funktionen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "80d257a97ed582ea",
             "type": "leaf",
             "state": {
@@ -70,7 +34,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"

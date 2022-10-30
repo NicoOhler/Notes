@@ -6,4 +6,11 @@
 
 ### Definition
 + ![[Pasted image 20221030162040.png]]
++ ![[Pasted image 20221030162242.png]]
++ ![[Pasted image 20221030162831.png]]
+
+### Beispiele
++ Bus
+	+ ![[Pasted image 20221030162852.png]]
+	+ 
 + 
