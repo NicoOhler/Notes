@@ -20,3 +20,7 @@
 	+ ![[Pasted image 20221030164628.png]]
 	+ ![[Pasted image 20221030165423.png]]
 	+ ![[Pasted image 20221030165620.png]]
++ Normalverteilung
+	+ ![[Pasted image 20221030215821.png]]
+	+  ![[Pasted image 20221030215840.png]]
+	+ ![[Pasted image 20221030215849.png]]
