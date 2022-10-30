@@ -13,5 +13,9 @@
 + Bus
 	+ ![[Pasted image 20221030162852.png]]
 	+ ![[Pasted image 20221030163247.png]]
++ Glühbirne
+	+ ![[Pasted image 20221030164638.png]]
+	+ ![[Pasted image 20221030165047.png]]
++ Seilriss
+	+ ![[Pasted image 20221030164628.png]]
 	+ 
-+ 
