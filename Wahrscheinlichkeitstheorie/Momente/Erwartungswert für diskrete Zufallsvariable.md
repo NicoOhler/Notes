@@ -31,4 +31,4 @@
 + Hotelzimmer
 	+ ![[Pasted image 20221030152338.png]]
 	+ ![[Pasted image 20221030152925.png]]
-	+ ![[Pasted image 20221030153226.png]]
+	+ ![[Pasted image 20221030153342.png]]
