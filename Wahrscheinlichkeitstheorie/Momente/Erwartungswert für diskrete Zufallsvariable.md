@@ -32,3 +32,6 @@
 	+ ![[Pasted image 20221030152338.png]]
 	+ ![[Pasted image 20221030152925.png]]
 	+ ![[Pasted image 20221030153342.png]]
+
+### Erwartungswert von linearen Funktionen
++ ![[Pasted image 20221030155005.png]]
