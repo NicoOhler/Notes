@@ -9,7 +9,7 @@
 + [[Diskrete Verteillungen]]
 + [[Zufallsvariable]]
 + [[Zufallsvektoren]]
-+ [[Momente]]
++ [[Moment]]
 + [[Bedingte Wahrscheinlichkeiten]]
 + [[Unabhängikeit]]
 + [[Konvergenz von Zufallsvariablen]]

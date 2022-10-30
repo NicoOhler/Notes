@@ -34,6 +34,18 @@
             }
           },
           {
+            "id": "e07102a334da4e9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wahrscheinlichkeitstheorie/Momente/Moment.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "6a68983943002d57",
             "type": "leaf",
             "state": {
@@ -104,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wahrscheinlichkeitstheorie/Momente/Varianz.md",
+                "file": "Wahrscheinlichkeitstheorie/Momente/Moment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,17 +146,17 @@
     "width": 322,
     "collapsed": true
   },
-  "active": "6a68983943002d57",
+  "active": "e07102a334da4e9c",
   "lastOpenFiles": [
-    "Wahrscheinlichkeitstheorie/Momente/Erwartungswert/Erwartungswert.md",
-    "Wahrscheinlichkeitstheorie/Momente/Varianz.md",
     "Wahrscheinlichkeitstheorie/Momente/Erwartungswert/Erwartungswert von linearen Funktionen.md",
+    "Wahrscheinlichkeitstheorie/Momente/Varianz.md",
+    "Wahrscheinlichkeitstheorie/Momente/Moment.md",
+    "z_images/Pasted image 20221030215849.png",
+    "z_images/Pasted image 20221030215840.png",
+    "Wahrscheinlichkeitstheorie/Momente/Erwartungswert/Erwartungswert.md",
     "Wahrscheinlichkeitstheorie/Momente/Erwartungswert/Erwartungswert für allgemeine ZV.md",
     "Wahrscheinlichkeitstheorie/Momente/Erwartungswert/Erwartungswert für diskrete ZV.md",
-    "Wahrscheinlichkeitstheorie/Momente/Momente.md",
     "Allgemeine Mathematik/Zeichensammlung.md",
-    "Wahrscheinlichkeitstheorie/Zufallsvariablen/Zufallsvariable.md",
-    "Wahrscheinlichkeitstheorie/Zufallsvektoren/Zufallsvektoren.md",
-    "Allgemeine Mathematik/Quantoren.md"
+    "Wahrscheinlichkeitstheorie/Zufallsvariablen/Zufallsvariable.md"
   ]
 }
