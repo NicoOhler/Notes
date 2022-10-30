@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wahrscheinlichkeitstheorie/Momente/Erwartungswert für diskrete Zufallsvariable.md",
+                "file": "Wahrscheinlichkeitstheorie/Momente/Erwartungswert für diskrete ZV.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,9 +56,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "80d257a97ed582ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wahrscheinlichkeitstheorie/Momente/Erwartungswert für allgemeine ZV.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -116,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wahrscheinlichkeitstheorie/Momente/Erwartungswert von linearen Funktionen.md",
+                "file": "Wahrscheinlichkeitstheorie/Momente/Erwartungswert für allgemeine ZV.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,9 +158,10 @@
     "width": 322,
     "collapsed": true
   },
-  "active": "61e6490e16c95f03",
+  "active": "80d257a97ed582ea",
   "lastOpenFiles": [
-    "Wahrscheinlichkeitstheorie/Momente/Erwartungswert für diskrete Zufallsvariable.md",
+    "Wahrscheinlichkeitstheorie/Momente/Erwartungswert für diskrete ZV.md",
+    "Wahrscheinlichkeitstheorie/Momente/Erwartungswert für allgemeine ZV.md",
     "Wahrscheinlichkeitstheorie/Momente/Erwartungswert von linearen Funktionen.md",
     "Wahrscheinlichkeitstheorie/Momente/Momente.md",
     "Allgemeine Mathematik/Zeichensammlung.md",
@@ -156,7 +169,6 @@
     "Wahrscheinlichkeitstheorie/Zufallsvektoren/Zufallsvektoren.md",
     "Allgemeine Mathematik/Quantoren.md",
     "Allgemeine Mathematik/Mengenlehre.md",
-    "z_images/Pasted image 20221029181517.png",
-    "Datenstrukturen und Algorithmen/Sortierverfahren/HeapSort.md"
+    "z_images/Pasted image 20221029181517.png"
   ]
 }

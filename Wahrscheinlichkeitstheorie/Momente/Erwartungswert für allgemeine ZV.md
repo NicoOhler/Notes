@@ -1,0 +1,9 @@
+### Motivation
++ Erwartungswert für stetige ZV bestimmen
++ Approximation von Folge diskreter ZV $X_{(n)}$
++ $X_{(n)}=\frac{\lfloor n*X \rfloor}{n}$
+	+ ![[Pasted image 20221030161903.png]]
+
+### Definition
++ ![[Pasted image 20221030162040.png]]
++ 
