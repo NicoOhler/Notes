@@ -34,18 +34,6 @@
             }
           },
           {
-            "id": "e07102a334da4e9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wahrscheinlichkeitstheorie/Momente/Moment.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6a68983943002d57",
             "type": "leaf",
             "state": {
@@ -116,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wahrscheinlichkeitstheorie/Momente/Moment.md",
+                "file": "Wahrscheinlichkeitstheorie/Momente/Varianz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,11 +134,11 @@
     "width": 322,
     "collapsed": true
   },
-  "active": "e07102a334da4e9c",
+  "active": "6a68983943002d57",
   "lastOpenFiles": [
     "Wahrscheinlichkeitstheorie/Momente/Erwartungswert/Erwartungswert von linearen Funktionen.md",
-    "Wahrscheinlichkeitstheorie/Momente/Varianz.md",
     "Wahrscheinlichkeitstheorie/Momente/Moment.md",
+    "Wahrscheinlichkeitstheorie/Momente/Varianz.md",
     "z_images/Pasted image 20221030215849.png",
     "z_images/Pasted image 20221030215840.png",
     "Wahrscheinlichkeitstheorie/Momente/Erwartungswert/Erwartungswert.md",
