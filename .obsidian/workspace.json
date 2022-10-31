@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Organization and Networks/Computer Organization and Networks.md",
+                "file": "Computer Organization and Networks/State Machines.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Organization and Networks/Computer Organization and Networks.md",
+                "file": "Computer Organization and Networks/State Machines.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,15 +124,15 @@
   },
   "active": "33444f8bc945fc87",
   "lastOpenFiles": [
+    "Computer Organization and Networks/Clock Frequency.md",
     "Computer Organization and Networks/State Machines.md",
+    "Computer Organization and Networks/Computer Organization and Networks.md",
+    "Computer Organization and Networks/Sequential Circuits and Registers.md",
+    "Allgemeine Mathematik/Zeichensammlung.md",
     "Computer Organization and Networks/Combinational Circuits.md",
     "z_images/Pasted image 20221031160611.png",
-    "Computer Organization and Networks/Clock Frequency.md",
     "Wahrscheinlichkeitstheorie/Zufallsvariablen/Wahrscheinlichkeitsfunktion PMF.md",
-    "Computer Organization and Networks/Register.md",
     "Wahrscheinlichkeitstheorie/Momente/Varianz.md",
-    "Wahrscheinlichkeitstheorie/Momente/Erwartungswert/Erwartungswert.md",
-    "Wahrscheinlichkeitstheorie/Momente/Erwartungswert/Erwartungswert für diskrete ZV.md",
-    "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Geometrische Verteilung.md"
+    "Wahrscheinlichkeitstheorie/Momente/Erwartungswert/Erwartungswert.md"
   ]
 }

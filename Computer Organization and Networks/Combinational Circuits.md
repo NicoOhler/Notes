@@ -1,5 +1,5 @@
 ### Definition
-+ Combination of [[Logic Gates]] and [[Register]] with a specific layout on a chip
++ Combination of [[Logic Gates]] and [[Sequential Circuits and Registers]] with a specific layout on a chip
 
 ### Circuit Description Options
 + boolean functions using [[Boolean Algebra]]

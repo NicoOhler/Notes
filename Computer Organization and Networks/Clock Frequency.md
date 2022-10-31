@@ -9,3 +9,9 @@
 	+ might produce more heat
 	+ slowdown might lead to uncompleted computations
 	+ processor crashes
+
+### Clock cycles
++ time divided in discrete slices
++ clock period
+	+ time between two rising clock edges
++ ![[Pasted image 20221031163122.png]]
