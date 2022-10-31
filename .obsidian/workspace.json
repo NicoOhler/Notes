@@ -34,6 +34,18 @@
             }
           },
           {
+            "id": "33444f8bc945fc87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Organization and Networks/Sequential Circuits.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "6a68983943002d57",
             "type": "leaf",
             "state": {
@@ -46,7 +58,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -104,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wahrscheinlichkeitstheorie/Momente/Varianz.md",
+                "file": "Computer Organization and Networks/Sequential Circuits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,17 +146,17 @@
     "width": 322,
     "collapsed": true
   },
-  "active": "80d257a97ed582ea",
+  "active": "33444f8bc945fc87",
   "lastOpenFiles": [
+    "Computer Organization and Networks/State Machines.md",
+    "Wahrscheinlichkeitstheorie/Momente/Varianz.md",
     "Wahrscheinlichkeitstheorie/Momente/Erwartungswert/Erwartungswert.md",
     "Wahrscheinlichkeitstheorie/Momente/Erwartungswert/Erwartungswert für diskrete ZV.md",
-    "Wahrscheinlichkeitstheorie/Momente/Varianz.md",
     "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Geometrische Verteilung.md",
     "Wahrscheinlichkeitstheorie/Zufallsvariablen/Verteilungsfunktion DF.md",
     "Wahrscheinlichkeitstheorie/Momente/Erwartungswert/Erwartungswert von linearen Funktionen.md",
     "Wahrscheinlichkeitstheorie/Momente/Erwartungswert/Erwartungswert für allgemeine ZV.md",
     "Wahrscheinlichkeitstheorie/Zufallsvariablen/Wahrscheinlichkeitsfunktion PMF.md",
-    "Wahrscheinlichkeitstheorie/Zufallsvektoren/Zufallsvektoren.md",
-    "Wahrscheinlichkeitstheorie/Zufallsvariablen/Dichtefunktionen PDF.md"
+    "Wahrscheinlichkeitstheorie/Zufallsvektoren/Zufallsvektoren.md"
   ]
 }
