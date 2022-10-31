@@ -36,3 +36,7 @@
 	+ ![[Pasted image 20221031165747.png]]
 + hardware implementation
 	+ ![[Pasted image 20221031165853.png]]
+
+### SystemVerilog Implementation
++ ![[Pasted image 20221031165957.png]]
++ 
