@@ -27,26 +27,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Organization and Networks/State Machines.md",
+                "file": "Computer Organization and Networks/State Machines/State Machines.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d9a3c1e289d5477a",
+            "id": "6c87835d7fdc39bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Organization and Networks/Untitled.md",
+                "file": "Computer Organization and Networks/State Machines/State Machines.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "be3e5a34837461e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Organization and Networks/Circuits/Combinational Circuits.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bc6a17e1b9a085d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Organization and Networks/State Machines/Algorithmic State Machines.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -104,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Organization and Networks/Untitled.md",
+                "file": "Computer Organization and Networks/State Machines/Algorithmic State Machines.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,17 +158,17 @@
     "width": 322,
     "collapsed": true
   },
-  "active": "d9a3c1e289d5477a",
+  "active": "bc6a17e1b9a085d2",
   "lastOpenFiles": [
-    "Computer Organization and Networks/State Machines.md",
+    "Computer Organization and Networks/Circuits/Combinational Circuits.md",
+    "Computer Organization and Networks/Circuits/Sequential Circuits and Registers.md",
+    "Computer Organization and Networks/Transistors.md",
+    "Computer Organization and Networks/Logic Gates.md",
+    "Computer Organization and Networks/State Machines/Types of State Machines.md",
+    "Computer Organization and Networks/Circuits/Clock Frequency.md",
+    "Computer Organization and Networks/State Machines/State Machines.md",
     "Untitled.md",
-    "z_images/Pasted image 20221031163122.png",
-    "Computer Organization and Networks/Clock Frequency.md",
-    "Computer Organization and Networks/Computer Organization and Networks.md",
-    "Computer Organization and Networks/Sequential Circuits and Registers.md",
-    "Allgemeine Mathematik/Zeichensammlung.md",
-    "Computer Organization and Networks/Combinational Circuits.md",
-    "z_images/Pasted image 20221031160611.png",
-    "Wahrscheinlichkeitstheorie/Zufallsvariablen/Wahrscheinlichkeitsfunktion PMF.md"
+    "z_images/Pasted image 20221031164908.png",
+    "z_images/Pasted image 20221031163122.png"
   ]
 }

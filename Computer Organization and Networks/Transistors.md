@@ -1,4 +1,3 @@
-# Transistors
 ### Overview
 +  PMOS
 	+ conducting if A connected to GND

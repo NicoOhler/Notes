@@ -1,4 +1,3 @@
-# Logic Gates
 ### Logic Gates
 + smallest functional unit
 	+ combination of [[Transistors]] for [[Logische Verknüpfungen]]
