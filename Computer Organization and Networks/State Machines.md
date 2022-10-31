@@ -20,4 +20,19 @@
 	+ ![[Pasted image 20221031164130.png]]
 
 ### Mapping State Diagram to Hardware
-+ 
++ ![[Pasted image 20221031164948.png]]
++ state encoding
+	+ ![[Pasted image 20221031165128.png]]
++ state transition table
+	+ next state logic
+		+ ![[Pasted image 20221031165355.png]]
+		+ ![[Pasted image 20221031165437.png]]
+	+ ![[Pasted image 20221031165242.png]]
++ output function
+	+ 2, 3, 4 => 3 bit output
+	+ ![[Pasted image 20221031165526.png]]
+	+ ![[Pasted image 20221031165618.png]]
++ structural diagram of FSM
+	+ ![[Pasted image 20221031165747.png]]
++ hardware implementation
+	+ ![[Pasted image 20221031165853.png]]
