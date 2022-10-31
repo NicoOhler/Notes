@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Geometrische Verteilung.md",
+                "file": "Wahrscheinlichkeitstheorie/Momente/Erwartungswert/Erwartungswert für diskrete ZV.md",
                 "mode": "source",
                 "source": false
               }
@@ -39,14 +39,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wahrscheinlichkeitstheorie/Zufallsvariablen/Dichtefunktionen PDF.md",
+                "file": "Wahrscheinlichkeitstheorie/Zufallsvariablen/Wahrscheinlichkeitsfunktion PMF.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wahrscheinlichkeitstheorie/Zufallsvariablen/Dichtefunktionen PDF.md",
+                "file": "Wahrscheinlichkeitstheorie/Momente/Erwartungswert/Erwartungswert für diskrete ZV.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,17 +134,17 @@
     "width": 322,
     "collapsed": true
   },
-  "active": "6a68983943002d57",
+  "active": "80d257a97ed582ea",
   "lastOpenFiles": [
-    "Wahrscheinlichkeitstheorie/Zufallsvariablen/Verteilungsfunktion DF.md",
-    "Wahrscheinlichkeitstheorie/Zufallsvariablen/Wahrscheinlichkeitsfunktion PMF.md",
-    "Wahrscheinlichkeitstheorie/Zufallsvariablen/Dichtefunktionen PDF.md",
-    "Wahrscheinlichkeitstheorie/Momente/Erwartungswert/Erwartungswert für allgemeine ZV.md",
     "Wahrscheinlichkeitstheorie/Momente/Erwartungswert/Erwartungswert.md",
     "Wahrscheinlichkeitstheorie/Momente/Erwartungswert/Erwartungswert von linearen Funktionen.md",
-    "Wahrscheinlichkeitstheorie/Momente/Erwartungswert/Erwartungswert für diskrete ZV.md",
+    "Wahrscheinlichkeitstheorie/Momente/Erwartungswert/Erwartungswert für allgemeine ZV.md",
     "Wahrscheinlichkeitstheorie/Momente/Varianz.md",
+    "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Geometrische Verteilung.md",
+    "Wahrscheinlichkeitstheorie/Zufallsvariablen/Wahrscheinlichkeitsfunktion PMF.md",
+    "Wahrscheinlichkeitstheorie/Zufallsvariablen/Verteilungsfunktion DF.md",
     "Wahrscheinlichkeitstheorie/Zufallsvektoren/Zufallsvektoren.md",
-    "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Geometrische Verteilung.md"
+    "Wahrscheinlichkeitstheorie/Zufallsvariablen/Dichtefunktionen PDF.md",
+    "Wahrscheinlichkeitstheorie/Momente/Erwartungswert/Erwartungswert für diskrete ZV.md"
   ]
 }
