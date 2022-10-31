@@ -5,7 +5,7 @@
 	+ Mealy machines
 		+ ![[Pasted image 20221031180114.png]]
 
-### 
+### Register Operations 
 + Data Path
 	+ provides functional units and actions
 	+ each action triggered via control signal
