@@ -6,3 +6,25 @@
 ### Von Neumann Model
 + architecture with following components
 	+ ![[Pasted image 20221101163042.png]]
++ CPU connected via bus system to memory and I/O
+	+ ![[Pasted image 20221101163214.png]]
++ Hardvard Architecture Variation
+	+ Memory split into Data and Instruction Memory
+
+### Arithmetic Logic Unit
++ ALUs are [[Combinational Circuits]] performing calculation operations
++ basic properties
+	+ ![[Pasted image 20221101163430.png]]
+
+### Register File
++ contatins m n-bit registers
++ write one n-bit value per clock cycle
+	+ register selected via $R_W$
+	+ does not write if low
++ read two registers per clock cycle
+	+ provided at outputs A and B
+	+ registers selected via $R_A$ and $R_B$
++ basically memory with
+	+ one write port
+	+ two read ports
++ ![[Pasted image 20221101163955.png]]
