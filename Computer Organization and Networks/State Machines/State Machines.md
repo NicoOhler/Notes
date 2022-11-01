@@ -38,4 +38,3 @@
 
 ### SystemVerilog Implementation
 + ![[Pasted image 20221031165957.png]]
-
