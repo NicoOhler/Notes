@@ -35,7 +35,7 @@
 + combines ALU and register file
 	+ ![[Pasted image 20221101164640.png]]
 + instruction register
-	+ stores instruction to execute
+	+ stores instruction to execute and parameters
 	+ mapped to control signals by instruction encoder
 	+ ![[Pasted image 20221101164537.png]]
 

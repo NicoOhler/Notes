@@ -22,18 +22,6 @@
             }
           },
           {
-            "id": "7a5b5f186138efed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Organization and Networks/State Machines/Von Neumann Model.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "5b87f86696cd3dcc",
             "type": "leaf",
             "state": {
@@ -44,21 +32,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "57453af292420deb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Instruction Set Architecture.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -148,9 +124,9 @@
   },
   "active": "5b87f86696cd3dcc",
   "lastOpenFiles": [
+    "Instruction Set Architecture.md",
     "Computer Organization and Networks/State Machines/Von Neumann Model.md",
     "Computer Organization and Networks/State Machines/RISC-V.md",
-    "Instruction Set Architecture.md",
     "z_images/Pasted image 20221101164310.png",
     "Computer Organization and Networks/State Machines/State Machines.md",
     "Computer Organization and Networks/State Machines/Algorithmic State Machines.md",
