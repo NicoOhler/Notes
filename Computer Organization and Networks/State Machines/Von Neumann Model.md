@@ -28,3 +28,22 @@
 	+ one write port
 	+ two read ports
 + ![[Pasted image 20221101163955.png]]
++ register file with 32 registers
+	+ ![[Pasted image 20221101164143.png]]
+
+### Processing Unit
++ combines ALU and register file
+	+ ![[Pasted image 20221101164640.png]]
++ instruction register
+	+ stores instruction to execute
+	+ mapped to control signals by instruction encoder
+	+ ![[Pasted image 20221101164537.png]]
+
+### Instruction Set Architecture
++ set of all instructions on a given computer architecture
++ represented as
+	+ machine language
+		+ ![[Pasted image 20221101164958.png]]
+	+ assembly language
+		+ somewhat human readable instruction representation
++ interface between hardware and software
