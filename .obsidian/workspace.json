@@ -27,38 +27,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Organization and Networks/State Machines/Von Neumann Model.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dbd84405864c2211",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Computer Organization and Networks/State Machines/Memory.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "38eadca9f9488b56",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Organization and Networks/Computer Organization and Networks.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,17 +122,17 @@
     "width": 322,
     "collapsed": true
   },
-  "active": "dbd84405864c2211",
+  "active": "5b87f86696cd3dcc",
   "lastOpenFiles": [
     "Computer Organization and Networks/State Machines/Von Neumann Model.md",
-    "Computer Organization and Networks/State Machines/Memory.md",
-    "Computer Organization and Networks/Computer Organization and Networks.md",
+    "Computer Organization and Networks/State Machines/State Machines.md",
     "Computer Organization and Networks/State Machines/RISC-V.md",
+    "Computer Organization and Networks/State Machines/Types of State Machines.md",
+    "Computer Organization and Networks/State Machines/Algorithmic State Machines.md",
+    "Computer Organization and Networks/Computer Organization and Networks.md",
+    "Computer Organization and Networks/State Machines/Memory.md",
     "Instruction Set Architecture.md",
     "z_images/Pasted image 20221101164310.png",
-    "Computer Organization and Networks/State Machines/State Machines.md",
-    "Computer Organization and Networks/State Machines/Algorithmic State Machines.md",
-    "Computer Organization and Networks/Circuits/Combinational Circuits.md",
-    "Computer Organization and Networks/Circuits/Sequential Circuits and Registers.md"
+    "Computer Organization and Networks/Circuits/Combinational Circuits.md"
   ]
 }

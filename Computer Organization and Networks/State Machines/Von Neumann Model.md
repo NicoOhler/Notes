@@ -33,10 +33,9 @@
 
 ### Processing Unit
 + combines ALU and register file
-	+ ![[Pasted image 20221101164640.png]]
+	+ ![[Pasted image 20221101183415.png]]
 + instruction register
 	+ stores instruction to execute and parameters
 	+ mapped to control signals by instruction encoder
 	+ ![[Pasted image 20221101164537.png]]
 
-+ 

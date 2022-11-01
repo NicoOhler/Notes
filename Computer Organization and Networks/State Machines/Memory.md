@@ -19,3 +19,6 @@
 
 ### Basic Idea of Memory Design
 + ![[Pasted image 20221101182413.png]]
++ DRAM
+	+ ![[Pasted image 20221101182610.png]]
+	+ ![[Pasted image 20221101182701.png]]
