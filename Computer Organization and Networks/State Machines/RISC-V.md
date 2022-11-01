@@ -19,6 +19,9 @@
 		+ perform arithmetic and logic operations based on two input registers
 		+ ![[Pasted image 20221101171954.png]]
 		+ ![[Pasted image 20221101172026.png]]
-	+ 
+	+ I-Type
+		+ 
 	+ S-Type
+		+ 
 	+ U-Type
+		+ 
