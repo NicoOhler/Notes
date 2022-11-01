@@ -39,8 +39,4 @@
 	+ mapped to control signals by instruction encoder
 	+ ![[Pasted image 20221101164537.png]]
 
-### Memory
-+ ![[Pasted image 20221101181333.png]]
-+ Endianes
-	+ li
- 
++ 
