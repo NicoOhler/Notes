@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Datenstrukturen und Algorithmen/Datenstrukturen/Heap.md",
+                "file": "Data Management/Database Performance Tuning/Binary Search and BTree.md",
                 "mode": "source",
                 "source": false
               }
@@ -75,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "differe",
+                "query": "btree",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +84,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -104,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Datenstrukturen und Algorithmen/Datenstrukturen/Heap.md",
+                "file": "Data Management/Database Performance Tuning/Binary Search and BTree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,10 +137,10 @@
   },
   "active": "927292d287e6fa03",
   "lastOpenFiles": [
+    "Datenstrukturen und Algorithmen/Datenstrukturen/Heap.md",
     "Datenstrukturen und Algorithmen/Sortierverfahren/HeapSort.md",
     "Datenstrukturen und Algorithmen/Sortierverfahren/MergeSort.md",
     "Datenstrukturen und Algorithmen/Sortierverfahren/Quicksort.md",
-    "Datenstrukturen und Algorithmen/Datenstrukturen/Heap.md",
     "Datenstrukturen und Algorithmen/Sortierverfahren/RadixSort.md",
     "Computer Organization and Networks/Processor Programming.md",
     "z_images/Pasted image 20221101183657.png",
