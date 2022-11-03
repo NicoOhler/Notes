@@ -45,8 +45,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Management/Database Performance Tuning/Binary Search and BTree.md",
+                "file": "Allgemeine Mathematik/Zeichensammlung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,8 +134,9 @@
     "width": 322,
     "collapsed": true
   },
-  "active": "927292d287e6fa03",
+  "active": "3d0cd11fd505c6a9",
   "lastOpenFiles": [
+    "Data Management/Database Performance Tuning/Binary Search and BTree.md",
     "Datenstrukturen und Algorithmen/Datenstrukturen/Heap.md",
     "Datenstrukturen und Algorithmen/Sortierverfahren/HeapSort.md",
     "Datenstrukturen und Algorithmen/Sortierverfahren/MergeSort.md",
@@ -145,7 +145,6 @@
     "Computer Organization and Networks/Processor Programming.md",
     "z_images/Pasted image 20221101183657.png",
     "Computer Organization and Networks/Instruction Set Architecture.md",
-    "Computer Organization and Networks/State Machines/RISC-V.md",
-    "Computer Organization and Networks/State Machines/Von Neumann Model.md"
+    "Computer Organization and Networks/State Machines/RISC-V.md"
   ]
 }
