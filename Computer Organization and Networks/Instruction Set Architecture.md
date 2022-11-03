@@ -17,3 +17,7 @@
 		+ for academic purposes only
 + open vs closed instruction sets
 	+ most ISAs covered by patents
+
+### Instruction [[Memory]]
++ conditional branches
+	+ ![[Pasted image 20221101183657.png]]
