@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Science and AI/Information Retrieval/Natural Language Processing.md",
+                "file": "Data Science and AI/Information Retrieval/Information Retrieval.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Science and AI/Information Retrieval/Natural Language Processing.md",
+                "file": "Data Science and AI/Information Retrieval/Information Retrieval.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,15 +124,15 @@
   },
   "active": "2b8cb6cf92499834",
   "lastOpenFiles": [
+    "Data Science and AI/Information Retrieval/Natural Language Processing.md",
+    "Data Science and AI/Information Retrieval/Information Retrieval.md",
+    "Data Science and AI/Information Retrieval/Information Retrieval for Search.md",
+    "Data Science and AI/Information Retrieval/Recommender Systems/Recommender Systems.md",
+    "Data Science and AI/Information Retrieval/Recommender Systems/Collaborative Filtering.md",
+    "Data Science and AI/Information Retrieval/Recommender Systems/Item Based CF.md",
+    "Data Science and AI/Information Retrieval/Data Retrieval.md",
     "Allgemeine Mathematik/Zeichensammlung.md",
     "Data Management/Database Performance Tuning/Binary Search and BTree.md",
-    "Datenstrukturen und Algorithmen/Datenstrukturen/Heap.md",
-    "Datenstrukturen und Algorithmen/Sortierverfahren/HeapSort.md",
-    "Datenstrukturen und Algorithmen/Sortierverfahren/MergeSort.md",
-    "Datenstrukturen und Algorithmen/Sortierverfahren/Quicksort.md",
-    "Datenstrukturen und Algorithmen/Sortierverfahren/RadixSort.md",
-    "Computer Organization and Networks/Processor Programming.md",
-    "z_images/Pasted image 20221101183657.png",
-    "Computer Organization and Networks/Instruction Set Architecture.md"
+    "Datenstrukturen und Algorithmen/Datenstrukturen/Heap.md"
   ]
 }
