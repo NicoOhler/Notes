@@ -20,7 +20,7 @@
 	+ remove common/stop words
 		+ e.g. a, an, and, the, it, ...
 	+ stem tokens to word roots
-		+ e.g. computational ==> comput
+		+ e.g. computational ==> compute
 + challenges
 	+ semantic information
 		+ synonyms

@@ -22,31 +22,19 @@
             }
           },
           {
-            "id": "927292d287e6fa03",
+            "id": "2b8cb6cf92499834",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Management/Database Performance Tuning/Binary Search and BTree.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "252fa139003010fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Datenstrukturen und Algorithmen/Datenstrukturen/Heap.md",
+                "file": "Data Science and AI/Information Retrieval/Natural Language Processing.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -84,8 +72,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -105,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Datenstrukturen und Algorithmen/Datenstrukturen/Heap.md",
+                "file": "Data Science and AI/Information Retrieval/Natural Language Processing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,12 +122,12 @@
     "width": 322,
     "collapsed": true
   },
-  "active": "252fa139003010fb",
+  "active": "2b8cb6cf92499834",
   "lastOpenFiles": [
     "Allgemeine Mathematik/Zeichensammlung.md",
+    "Data Management/Database Performance Tuning/Binary Search and BTree.md",
     "Datenstrukturen und Algorithmen/Datenstrukturen/Heap.md",
     "Datenstrukturen und Algorithmen/Sortierverfahren/HeapSort.md",
-    "Data Management/Database Performance Tuning/Binary Search and BTree.md",
     "Datenstrukturen und Algorithmen/Sortierverfahren/MergeSort.md",
     "Datenstrukturen und Algorithmen/Sortierverfahren/Quicksort.md",
     "Datenstrukturen und Algorithmen/Sortierverfahren/RadixSort.md",
