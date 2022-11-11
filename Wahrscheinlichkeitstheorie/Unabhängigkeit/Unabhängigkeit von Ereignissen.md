@@ -4,10 +4,7 @@
 + verallgemeinert auf mehr als 2 [[Ereignisse]]
 	+ ![[Pasted image 20221111210811.png]]
 + ![[Pasted image 20221111210848.png]]
-
-### Beispiele
-+ Roulette
++ Beispiel
 	+ ![[Pasted image 20221111210901.png]]
 	+ ![[Pasted image 20221111211508.png]]
-	+ 
-+ 
+	+ ![[Pasted image 20221111211522.png]]
