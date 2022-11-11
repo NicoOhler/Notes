@@ -11,7 +11,7 @@
 + [[Zufallsvektoren]]
 + [[Moment]]
 + [[Bedingte Wahrscheinlichkeiten]]
-+ [[Unabhängikeit]]
++ [[Unabhängigkeit von Ereignissen]]
 + [[Konvergenz von Zufallsvariablen]]
 + [[Zentrale Grenzwertsatz]]
 

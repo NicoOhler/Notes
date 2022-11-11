@@ -51,7 +51,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wahrscheinlichkeitstheorie/Bedingte Wahrscheinlichkeiten/Modelle höherer Ordnung.md",
+                "file": "Wahrscheinlichkeitstheorie/Unabhängigkeit von Ereignissen/Unabhängigkeit von Ereignissen.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wahrscheinlichkeitstheorie/Bedingte Wahrscheinlichkeiten/Modelle höherer Ordnung.md",
+                "file": "Wahrscheinlichkeitstheorie/Unabhängigkeit von Ereignissen/Unabhängigkeit von Ereignissen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,8 +146,9 @@
     "width": 322,
     "collapsed": true
   },
-  "active": "4dfd985572cfe043",
+  "active": "097b9a58ea336072",
   "lastOpenFiles": [
+    "Wahrscheinlichkeitstheorie/Bedingte Wahrscheinlichkeiten/Modelle höherer Ordnung.md",
     "Wahrscheinlichkeitstheorie/Bedingte Wahrscheinlichkeiten/Satz von Bayes.md",
     "Wahrscheinlichkeitstheorie/Bedingte Wahrscheinlichkeiten/Gesetz der totalen Wahrscheinlichkeiten.md",
     "z_images/Pasted image 20221111182044.png",
@@ -156,7 +157,6 @@
     "Wahrscheinlichkeitstheorie/Momente/Kovarianz und Korrelation.md",
     "Wahrscheinlichkeitstheorie/Laplace-Experimente/Laplace-Experimente.md",
     "Wahrscheinlichkeitstheorie/Momente/Gesetz der großen Zahlen.md",
-    "NRLA/Unitäre Räume/Schwarzsche Ungleichung.md",
-    "NRLA/Unitäre Räume/Orthonormieren nach GRAM-SCHMIDT.md"
+    "NRLA/Unitäre Räume/Schwarzsche Ungleichung.md"
   ]
 }
