@@ -12,3 +12,4 @@
 	+ ![[Pasted image 20221111181950.png]]
 + Ziegenproblem
 	+ ![[Pasted image 20221111182044.png]]
+	+ ![[Pasted image 20221111182805.png]]
