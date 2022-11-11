@@ -22,30 +22,6 @@
             }
           },
           {
-            "id": "df0b7c1d80317ef4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wahrscheinlichkeitstheorie/Bedingte Wahrscheinlichkeiten/Gesetz der totalen Wahrscheinlichkeiten.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "60cd3d442e935571",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wahrscheinlichkeitstheorie/Bedingte Wahrscheinlichkeiten/Satz von Bayes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "4dfd985572cfe043",
             "type": "leaf",
             "state": {
@@ -58,7 +34,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,17 +122,17 @@
     "width": 322,
     "collapsed": true
   },
-  "active": "097b9a58ea336072",
+  "active": "4dfd985572cfe043",
   "lastOpenFiles": [
-    "Wahrscheinlichkeitstheorie/Bedingte Wahrscheinlichkeiten/Modelle höherer Ordnung.md",
-    "Wahrscheinlichkeitstheorie/Bedingte Wahrscheinlichkeiten/Satz von Bayes.md",
-    "Wahrscheinlichkeitstheorie/Bedingte Wahrscheinlichkeiten/Gesetz der totalen Wahrscheinlichkeiten.md",
-    "z_images/Pasted image 20221111182044.png",
     "Allgemeine Mathematik/Zeichensammlung.md",
     "Wahrscheinlichkeitstheorie/Bedingte Wahrscheinlichkeiten/Bedingte Wahrscheinlichkeiten.md",
+    "Wahrscheinlichkeitstheorie/Bedingte Wahrscheinlichkeiten/Gesetz der totalen Wahrscheinlichkeiten.md",
+    "Wahrscheinlichkeitstheorie/Bedingte Wahrscheinlichkeiten/Satz von Bayes.md",
+    "Wahrscheinlichkeitstheorie/Unabhängigkeit von Ereignissen/Unabhängigkeit von Ereignissen.md",
+    "Wahrscheinlichkeitstheorie/Bedingte Wahrscheinlichkeiten/Modelle höherer Ordnung.md",
+    "z_images/Pasted image 20221111182044.png",
     "Wahrscheinlichkeitstheorie/Momente/Kovarianz und Korrelation.md",
     "Wahrscheinlichkeitstheorie/Laplace-Experimente/Laplace-Experimente.md",
-    "Wahrscheinlichkeitstheorie/Momente/Gesetz der großen Zahlen.md",
-    "NRLA/Unitäre Räume/Schwarzsche Ungleichung.md"
+    "Wahrscheinlichkeitstheorie/Momente/Gesetz der großen Zahlen.md"
   ]
 }
