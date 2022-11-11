@@ -44,9 +44,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4dfd985572cfe043",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wahrscheinlichkeitstheorie/Bedingte Wahrscheinlichkeiten/Modelle höherer Ordnung.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -104,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wahrscheinlichkeitstheorie/Bedingte Wahrscheinlichkeiten/Satz von Bayes.md",
+                "file": "Wahrscheinlichkeitstheorie/Bedingte Wahrscheinlichkeiten/Modelle höherer Ordnung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,8 +146,9 @@
     "width": 322,
     "collapsed": true
   },
-  "active": "60cd3d442e935571",
+  "active": "4dfd985572cfe043",
   "lastOpenFiles": [
+    "Wahrscheinlichkeitstheorie/Bedingte Wahrscheinlichkeiten/Satz von Bayes.md",
     "Wahrscheinlichkeitstheorie/Bedingte Wahrscheinlichkeiten/Gesetz der totalen Wahrscheinlichkeiten.md",
     "z_images/Pasted image 20221111182044.png",
     "Allgemeine Mathematik/Zeichensammlung.md",
@@ -144,7 +157,6 @@
     "Wahrscheinlichkeitstheorie/Laplace-Experimente/Laplace-Experimente.md",
     "Wahrscheinlichkeitstheorie/Momente/Gesetz der großen Zahlen.md",
     "NRLA/Unitäre Räume/Schwarzsche Ungleichung.md",
-    "NRLA/Unitäre Räume/Orthonormieren nach GRAM-SCHMIDT.md",
-    "Wahrscheinlichkeitstheorie/Momente/Varianz.md"
+    "NRLA/Unitäre Räume/Orthonormieren nach GRAM-SCHMIDT.md"
   ]
 }
