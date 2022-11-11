@@ -32,9 +32,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "60e24b4fb9720ef5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wahrscheinlichkeitstheorie/Momente/Gesetz der großen Zahlen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -72,8 +84,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -93,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wahrscheinlichkeitstheorie/Momente/Kovarianz und Korrelation.md",
+                "file": "Wahrscheinlichkeitstheorie/Momente/Gesetz der großen Zahlen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,10 +134,10 @@
     "width": 322,
     "collapsed": true
   },
-  "active": "8c069aac39a1629b",
+  "active": "60e24b4fb9720ef5",
   "lastOpenFiles": [
-    "NRLA/Unitäre Räume/Schwarzsche Ungleichung.md",
     "Wahrscheinlichkeitstheorie/Momente/Kovarianz und Korrelation.md",
+    "NRLA/Unitäre Räume/Schwarzsche Ungleichung.md",
     "NRLA/Unitäre Räume/Orthonormieren nach GRAM-SCHMIDT.md",
     "Wahrscheinlichkeitstheorie/Momente/Varianz.md",
     "Wahrscheinlichkeitstheorie/Momente/Moment.md",
