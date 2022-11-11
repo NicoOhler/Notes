@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Science and AI/Knowledge Representation/TFIDF.md",
+                "file": "Data Science and AI/Knowledge Representation/Vectors as KR.md",
                 "mode": "source",
                 "source": false
               }
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "schwarz",
+                "query": "cosine",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -72,7 +72,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -92,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Science and AI/Knowledge Representation/TFIDF.md",
+                "file": "Data Science and AI/Knowledge Representation/Vectors as KR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,6 +125,8 @@
   },
   "active": "4dfd985572cfe043",
   "lastOpenFiles": [
+    "Data Science and AI/Information Retrieval/Recommender Systems/Item Based CF.md",
+    "Data Science and AI/Knowledge Representation/TFIDF.md",
     "Data Science and AI/Information Retrieval/Natural Language Processing.md",
     "Data Science and AI/Information Retrieval/Information Retrieval for Search.md",
     "Data Science and AI/Information Retrieval/Information Retrieval.md",
@@ -131,8 +134,6 @@
     "Wahrscheinlichkeitstheorie/Unabhängigkeit/Unabhängigkeit von Ereignissen.md",
     "Wahrscheinlichkeitstheorie/Bedingte Wahrscheinlichkeiten/Modelle höherer Ordnung.md",
     "z_images/Pasted image 20221111211735.png",
-    "Allgemeine Mathematik/Zeichensammlung.md",
-    "Wahrscheinlichkeitstheorie/Bedingte Wahrscheinlichkeiten/Bedingte Wahrscheinlichkeiten.md",
-    "Wahrscheinlichkeitstheorie/Bedingte Wahrscheinlichkeiten/Gesetz der totalen Wahrscheinlichkeiten.md"
+    "Allgemeine Mathematik/Zeichensammlung.md"
   ]
 }
