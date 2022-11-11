@@ -4,4 +4,4 @@
 
 ### Beispiele
 + ![[Pasted image 20221111184140.png]]
-+ ![[Pasted image 20221111185017.png]]
++ ![[Pasted image 20221111185201.png]]
