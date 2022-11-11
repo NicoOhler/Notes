@@ -17,4 +17,6 @@
 + ![[Pasted image 20221111171805.png]]
 + Eigenschaften
 	+ ![[Pasted image 20221111171845.png]]
-	+ 
++ Herleitungen
+	+ ![[Pasted image 20221111172123.png]]
+	+ ![[Pasted image 20221111172130.png]]
