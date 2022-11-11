@@ -22,30 +22,6 @@
             }
           },
           {
-            "id": "8c069aac39a1629b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wahrscheinlichkeitstheorie/Momente/Kovarianz und Korrelation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "60e24b4fb9720ef5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wahrscheinlichkeitstheorie/Bedingte Wahrscheinlichkeiten/Bedingte Wahrscheinlichkeiten.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "df0b7c1d80317ef4",
             "type": "leaf",
             "state": {
@@ -58,7 +34,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -148,15 +124,15 @@
   },
   "active": "df0b7c1d80317ef4",
   "lastOpenFiles": [
+    "Allgemeine Mathematik/Zeichensammlung.md",
     "Wahrscheinlichkeitstheorie/Bedingte Wahrscheinlichkeiten/Bedingte Wahrscheinlichkeiten.md",
+    "Wahrscheinlichkeitstheorie/Bedingte Wahrscheinlichkeiten/Gesetz der totalen Wahrscheinlichkeiten.md",
+    "Wahrscheinlichkeitstheorie/Momente/Kovarianz und Korrelation.md",
     "Wahrscheinlichkeitstheorie/Laplace-Experimente/Laplace-Experimente.md",
     "Wahrscheinlichkeitstheorie/Momente/Gesetz der großen Zahlen.md",
-    "Wahrscheinlichkeitstheorie/Momente/Kovarianz und Korrelation.md",
     "NRLA/Unitäre Räume/Schwarzsche Ungleichung.md",
     "NRLA/Unitäre Räume/Orthonormieren nach GRAM-SCHMIDT.md",
     "Wahrscheinlichkeitstheorie/Momente/Varianz.md",
-    "Wahrscheinlichkeitstheorie/Momente/Moment.md",
-    "Wahrscheinlichkeitstheorie/Wahrscheinlichkeitstheorie.md",
-    "Data Science and AI/Information Retrieval/Information Retrieval.md"
+    "Wahrscheinlichkeitstheorie/Momente/Moment.md"
   ]
 }
