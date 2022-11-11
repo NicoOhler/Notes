@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wahrscheinlichkeitstheorie/Momente/Gesetz der großen Zahlen.md",
+                "file": "Wahrscheinlichkeitstheorie/Bedingte Wahrscheinlichkeiten/Bedingte Wahrscheinlichkeiten.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wahrscheinlichkeitstheorie/Momente/Gesetz der großen Zahlen.md",
+                "file": "Wahrscheinlichkeitstheorie/Bedingte Wahrscheinlichkeiten/Bedingte Wahrscheinlichkeiten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,15 +136,15 @@
   },
   "active": "60e24b4fb9720ef5",
   "lastOpenFiles": [
+    "Wahrscheinlichkeitstheorie/Laplace-Experimente/Laplace-Experimente.md",
+    "Wahrscheinlichkeitstheorie/Bedingte Wahrscheinlichkeiten/Bedingte Wahrscheinlichkeiten.md",
+    "Wahrscheinlichkeitstheorie/Momente/Gesetz der großen Zahlen.md",
     "Wahrscheinlichkeitstheorie/Momente/Kovarianz und Korrelation.md",
     "NRLA/Unitäre Räume/Schwarzsche Ungleichung.md",
     "NRLA/Unitäre Räume/Orthonormieren nach GRAM-SCHMIDT.md",
     "Wahrscheinlichkeitstheorie/Momente/Varianz.md",
     "Wahrscheinlichkeitstheorie/Momente/Moment.md",
     "Wahrscheinlichkeitstheorie/Wahrscheinlichkeitstheorie.md",
-    "Data Science and AI/Information Retrieval/Information Retrieval.md",
-    "Data Science and AI/Information Retrieval/Natural Language Processing.md",
-    "Data Science and AI/Information Retrieval/Information Retrieval for Search.md",
-    "Data Science and AI/Information Retrieval/Recommender Systems/Recommender Systems.md"
+    "Data Science and AI/Information Retrieval/Information Retrieval.md"
   ]
 }
