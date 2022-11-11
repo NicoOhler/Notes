@@ -27,14 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Science and AI/Information Retrieval/Information Retrieval.md",
+                "file": "Wahrscheinlichkeitstheorie/Momente/Varianz.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8c069aac39a1629b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wahrscheinlichkeitstheorie/Momente/Kovarianz und Korrelation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -92,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Science and AI/Information Retrieval/Information Retrieval.md",
+                "file": "Wahrscheinlichkeitstheorie/Momente/Kovarianz und Korrelation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,17 +134,17 @@
     "width": 322,
     "collapsed": true
   },
-  "active": "2b8cb6cf92499834",
+  "active": "8c069aac39a1629b",
   "lastOpenFiles": [
-    "Data Science and AI/Information Retrieval/Natural Language Processing.md",
+    "Wahrscheinlichkeitstheorie/Momente/Varianz.md",
+    "Wahrscheinlichkeitstheorie/Momente/Kovarianz und Korrelation.md",
+    "Wahrscheinlichkeitstheorie/Momente/Moment.md",
+    "Wahrscheinlichkeitstheorie/Wahrscheinlichkeitstheorie.md",
     "Data Science and AI/Information Retrieval/Information Retrieval.md",
+    "Data Science and AI/Information Retrieval/Natural Language Processing.md",
     "Data Science and AI/Information Retrieval/Information Retrieval for Search.md",
     "Data Science and AI/Information Retrieval/Recommender Systems/Recommender Systems.md",
     "Data Science and AI/Information Retrieval/Recommender Systems/Collaborative Filtering.md",
-    "Data Science and AI/Information Retrieval/Recommender Systems/Item Based CF.md",
-    "Data Science and AI/Information Retrieval/Data Retrieval.md",
-    "Allgemeine Mathematik/Zeichensammlung.md",
-    "Data Management/Database Performance Tuning/Binary Search and BTree.md",
-    "Datenstrukturen und Algorithmen/Datenstrukturen/Heap.md"
+    "Data Science and AI/Information Retrieval/Recommender Systems/Item Based CF.md"
   ]
 }
