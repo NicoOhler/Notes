@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wahrscheinlichkeitstheorie/Unabhängigkeit/Unabhängigkeit von Zufallsvariablen.md",
+                "file": "Data Science and AI/Knowledge Representation/TFIDF.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wahrscheinlichkeitstheorie/Unabhängigkeit/Unabhängigkeit von Zufallsvariablen.md",
+                "file": "Data Science and AI/Knowledge Representation/TFIDF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,15 +124,15 @@
   },
   "active": "4dfd985572cfe043",
   "lastOpenFiles": [
+    "Data Science and AI/Information Retrieval/Natural Language Processing.md",
+    "Data Science and AI/Information Retrieval/Information Retrieval for Search.md",
+    "Data Science and AI/Information Retrieval/Information Retrieval.md",
+    "Wahrscheinlichkeitstheorie/Unabhängigkeit/Unabhängigkeit von Zufallsvariablen.md",
     "Wahrscheinlichkeitstheorie/Unabhängigkeit/Unabhängigkeit von Ereignissen.md",
     "Wahrscheinlichkeitstheorie/Bedingte Wahrscheinlichkeiten/Modelle höherer Ordnung.md",
     "z_images/Pasted image 20221111211735.png",
-    "Wahrscheinlichkeitstheorie/Unabhängigkeit/Unabhängigkeit von Zufallsvariablen.md",
     "Allgemeine Mathematik/Zeichensammlung.md",
     "Wahrscheinlichkeitstheorie/Bedingte Wahrscheinlichkeiten/Bedingte Wahrscheinlichkeiten.md",
-    "Wahrscheinlichkeitstheorie/Bedingte Wahrscheinlichkeiten/Gesetz der totalen Wahrscheinlichkeiten.md",
-    "Wahrscheinlichkeitstheorie/Bedingte Wahrscheinlichkeiten/Satz von Bayes.md",
-    "z_images/Pasted image 20221111182044.png",
-    "Wahrscheinlichkeitstheorie/Momente/Kovarianz und Korrelation.md"
+    "Wahrscheinlichkeitstheorie/Bedingte Wahrscheinlichkeiten/Gesetz der totalen Wahrscheinlichkeiten.md"
   ]
 }
