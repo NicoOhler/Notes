@@ -22,18 +22,6 @@
             }
           },
           {
-            "id": "2b8cb6cf92499834",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wahrscheinlichkeitstheorie/Momente/Varianz.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "8c069aac39a1629b",
             "type": "leaf",
             "state": {
@@ -46,7 +34,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -75,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "btree",
+                "query": "schwarz",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +72,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -136,15 +125,15 @@
   },
   "active": "8c069aac39a1629b",
   "lastOpenFiles": [
-    "Wahrscheinlichkeitstheorie/Momente/Varianz.md",
+    "NRLA/Unitäre Räume/Schwarzsche Ungleichung.md",
     "Wahrscheinlichkeitstheorie/Momente/Kovarianz und Korrelation.md",
+    "NRLA/Unitäre Räume/Orthonormieren nach GRAM-SCHMIDT.md",
+    "Wahrscheinlichkeitstheorie/Momente/Varianz.md",
     "Wahrscheinlichkeitstheorie/Momente/Moment.md",
     "Wahrscheinlichkeitstheorie/Wahrscheinlichkeitstheorie.md",
     "Data Science and AI/Information Retrieval/Information Retrieval.md",
     "Data Science and AI/Information Retrieval/Natural Language Processing.md",
     "Data Science and AI/Information Retrieval/Information Retrieval for Search.md",
-    "Data Science and AI/Information Retrieval/Recommender Systems/Recommender Systems.md",
-    "Data Science and AI/Information Retrieval/Recommender Systems/Collaborative Filtering.md",
-    "Data Science and AI/Information Retrieval/Recommender Systems/Item Based CF.md"
+    "Data Science and AI/Information Retrieval/Recommender Systems/Recommender Systems.md"
   ]
 }

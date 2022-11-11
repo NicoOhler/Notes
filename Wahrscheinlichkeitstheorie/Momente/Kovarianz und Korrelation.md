@@ -6,5 +6,11 @@
 + $Var(X)=Cov(X,X)$
 
 ### Korrelation
-+ Korrelation zwischen Zufallsvariablen X und Y
++ Maß der Abhängigkeit zwischen Zufallsvariablen X und Y
++ Korrelation zwischen X und Y
 	+ ![[Pasted image 20221111165419.png]]
+
+### Beispiele
++ Korrelation
+	+ ![[Pasted image 20221111170906.png]]
+	+ 
