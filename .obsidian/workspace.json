@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pipelining.md",
+                "file": "Computer Organization and Networks/Processor/Pipelining.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pipelining.md",
+                "file": "Computer Organization and Networks/Processor/Pipelining.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,12 +124,12 @@
   },
   "active": "7c6b244263bdd580",
   "lastOpenFiles": [
-    "Allgemeine Mathematik/Zeichensammlung.md",
-    "CS Basics/Boolean Algebra.md",
+    "Computer Organization and Networks/Processor/Multicycle Datapath.md",
     "Computer Organization and Networks/Processor/Processor Programming.md",
     "Computer Organization and Networks/Processor/Single Cycle Datapath.md",
-    "Pipelining.md",
-    "Computer Organization and Networks/Processor/Multicycle Datapath.md",
+    "Computer Organization and Networks/Processor/Pipelining.md",
+    "Allgemeine Mathematik/Zeichensammlung.md",
+    "CS Basics/Boolean Algebra.md",
     "Computer Organization and Networks/Transistors.md",
     "Computer Organization and Networks/Logic Gates.md",
     "Computer Organization and Networks/Computer Organization and Networks.md",
