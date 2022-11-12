@@ -22,12 +22,12 @@
             }
           },
           {
-            "id": "7c6b244263bdd580",
+            "id": "88161fca02cb663e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Organization and Networks/Processor/Pipelining.md",
+                "file": "NRLA/Vektoren/Vektor.md",
                 "mode": "source",
                 "source": false
               }
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "kombin",
+                "query": "norm",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -72,7 +72,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -92,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Organization and Networks/Processor/Pipelining.md",
+                "file": "NRLA/Vektoren/Vektor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,17 +123,17 @@
     "width": 322,
     "collapsed": true
   },
-  "active": "7c6b244263bdd580",
+  "active": "67d43403474fe91c",
   "lastOpenFiles": [
+    "NRLA/Vektoren/Vektor.md",
+    "Analysis/Vektoranalysis/Oberflächenintegral.md",
+    "Allgemeine Mathematik/Zeichensammlung.md",
+    "z_images/Pasted image 20221112181908.png",
     "Computer Organization and Networks/Processor/Pipelining.md",
     "Computer Organization and Networks/Processor/Multicycle Datapath.md",
     "Computer Organization and Networks/Processor/Processor Programming.md",
     "Computer Organization and Networks/Processor/Single Cycle Datapath.md",
-    "Allgemeine Mathematik/Zeichensammlung.md",
     "CS Basics/Boolean Algebra.md",
-    "Computer Organization and Networks/Transistors.md",
-    "Computer Organization and Networks/Logic Gates.md",
-    "Computer Organization and Networks/Computer Organization and Networks.md",
-    "CS Basics/Binary Numbers.md"
+    "Computer Organization and Networks/Transistors.md"
   ]
 }
