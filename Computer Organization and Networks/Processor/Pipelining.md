@@ -25,6 +25,13 @@
 + ![[Pasted image 20221112181239.png]]
 
 ### RAW Dependence Handling
-+ sometimes ressource needed by instruction only available later on
++ sometimes result needed by instruction not calculated yet
 	+ e.g. 2nd instruction needs value from first
+	+ which has not finished yet
 	+ ![[Pasted image 20221112181748.png]]
++ stall
+	+ wait until data value available
+	+ ![[Pasted image 20221112181908.png]]
++ dependence detection
+	+ scoreboarding
+		+ 
