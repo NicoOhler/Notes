@@ -6,6 +6,8 @@
 	+ assembly line of instructions
 + divide instruction processing into distinct stages
 	+ different instruction executed each stage
+	+ requires additional registers between each stage
+	+ ![[Pasted image 20221112175053.png]]
 
 ### Example
 + four independent ADDs
@@ -17,4 +19,5 @@
 
 ### Ideal Pipelining
 + ![[Pasted image 20221112165539.png]]
-+ 
+
+### 
