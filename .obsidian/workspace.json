@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wahrscheinlichkeitstheorie/Bedingte Wahrscheinlichkeiten/Bedingte Wahrscheinlichkeiten.md",
+                "file": "Wahrscheinlichkeitstheorie/Bedingte Wahrscheinlichkeiten/Modelle höherer Ordnung.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,8 +96,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -117,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wahrscheinlichkeitstheorie/Bedingte Wahrscheinlichkeiten/Bedingte Wahrscheinlichkeiten.md",
+                "file": "Wahrscheinlichkeitstheorie/Bedingte Wahrscheinlichkeiten/Modelle höherer Ordnung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,15 +148,15 @@
   },
   "active": "4dfd985572cfe043",
   "lastOpenFiles": [
+    "Wahrscheinlichkeitstheorie/Bedingte Wahrscheinlichkeiten/Satz von Bayes.md",
+    "Wahrscheinlichkeitstheorie/Bedingte Wahrscheinlichkeiten/Modelle höherer Ordnung.md",
+    "Wahrscheinlichkeitstheorie/Bedingte Wahrscheinlichkeiten/Gesetz der totalen Wahrscheinlichkeiten.md",
+    "Wahrscheinlichkeitstheorie/Bedingte Wahrscheinlichkeiten/Bedingte Wahrscheinlichkeiten.md",
     "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Geometrische Verteilung.md",
     "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Hypergeometrische Verteilung.md",
     "Diskrete Mathematik/Kombinatorik/Kombinatorik.md",
-    "Wahrscheinlichkeitstheorie/Bedingte Wahrscheinlichkeiten/Bedingte Wahrscheinlichkeiten.md",
     "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Diskrete Verteillungen.md",
     "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Zusammenhang zwischen hypergeometrischer und Binomialverteilung.md",
-    "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Poisson Verteilung.md",
-    "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Binomialverteilung.md",
-    "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Multinomialverteilung.md",
-    "Data Science and AI/Knowledge Representation/Vectors as KR.md"
+    "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Poisson Verteilung.md"
   ]
 }
