@@ -20,4 +20,11 @@
 ### Ideal Pipelining
 + ![[Pasted image 20221112165539.png]]
 
-### 
+### Control Signals
++ signals piped through and used when needed
++ ![[Pasted image 20221112181239.png]]
+
+### RAW Dependence Handling
++ sometimes ressource needed by instruction only available later on
+	+ e.g. 2nd instruction needs value from first
+	+ ![[Pasted image 20221112181748.png]]
