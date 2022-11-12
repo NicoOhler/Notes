@@ -22,12 +22,12 @@
             }
           },
           {
-            "id": "2907a06cd3110342",
+            "id": "7c6b244263bdd580",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Organization and Networks/Processor Programming.md",
+                "file": "Pipelining.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Organization and Networks/Processor Programming.md",
+                "file": "Pipelining.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,17 +122,17 @@
     "width": 322,
     "collapsed": true
   },
-  "active": "2907a06cd3110342",
+  "active": "7c6b244263bdd580",
   "lastOpenFiles": [
-    "Computer Organization and Networks/State Machines/RISC-V.md",
-    "Computer Organization and Networks/Instruction Set Architecture.md",
-    "Computer Organization and Networks/Processor Programming.md",
     "Allgemeine Mathematik/Zeichensammlung.md",
-    "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Geometrische Verteilung.md",
-    "Wahrscheinlichkeitstheorie/Momente/Kovarianz und Korrelation.md",
-    "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Binomialverteilung.md",
-    "Wahrscheinlichkeitstheorie/Momente/Varianz.md",
-    "Wahrscheinlichkeitstheorie/Laplace-Experimente/Urnenmodell ohne Zurücklegen.md",
-    "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Hypergeometrische Verteilung.md"
+    "CS Basics/Boolean Algebra.md",
+    "Computer Organization and Networks/Processor/Processor Programming.md",
+    "Computer Organization and Networks/Processor/Single Cycle Datapath.md",
+    "Pipelining.md",
+    "Computer Organization and Networks/Processor/Multicycle Datapath.md",
+    "Computer Organization and Networks/Transistors.md",
+    "Computer Organization and Networks/Logic Gates.md",
+    "Computer Organization and Networks/Computer Organization and Networks.md",
+    "CS Basics/Binary Numbers.md"
   ]
 }
