@@ -27,14 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Science and AI/Knowledge Representation/Vectors as KR.md",
+                "file": "Wahrscheinlichkeitstheorie/Bedingte Wahrscheinlichkeiten/Bedingte Wahrscheinlichkeiten.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1f6dd933f71c0a2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Hypergeometrische Verteilung.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -72,8 +84,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -93,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Science and AI/Knowledge Representation/Vectors as KR.md",
+                "file": "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Hypergeometrische Verteilung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,17 +134,17 @@
     "width": 322,
     "collapsed": true
   },
-  "active": "4dfd985572cfe043",
+  "active": "1f6dd933f71c0a2d",
   "lastOpenFiles": [
-    "Data Science and AI/Information Retrieval/Recommender Systems/Item Based CF.md",
-    "Data Science and AI/Knowledge Representation/TFIDF.md",
-    "Data Science and AI/Information Retrieval/Natural Language Processing.md",
-    "Data Science and AI/Information Retrieval/Information Retrieval for Search.md",
-    "Data Science and AI/Information Retrieval/Information Retrieval.md",
-    "Wahrscheinlichkeitstheorie/Unabhängigkeit/Unabhängigkeit von Zufallsvariablen.md",
-    "Wahrscheinlichkeitstheorie/Unabhängigkeit/Unabhängigkeit von Ereignissen.md",
-    "Wahrscheinlichkeitstheorie/Bedingte Wahrscheinlichkeiten/Modelle höherer Ordnung.md",
-    "z_images/Pasted image 20221111211735.png",
-    "Allgemeine Mathematik/Zeichensammlung.md"
+    "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Diskrete Verteillungen.md",
+    "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Binomialverteilung.md",
+    "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Zusammenhang zwischen hypergeometrischer und Binomialverteilung.md",
+    "Wahrscheinlichkeitstheorie/Bedingte Wahrscheinlichkeiten/Bedingte Wahrscheinlichkeiten.md",
+    "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Multinomialverteilung.md",
+    "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Poisson Verteilung.md",
+    "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Hypergeometrische Verteilung.md",
+    "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Geometrische Verteilung.md",
+    "Data Science and AI/Knowledge Representation/Vectors as KR.md",
+    "Data Science and AI/Information Retrieval/Recommender Systems/Item Based CF.md"
   ]
 }
