@@ -51,7 +51,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Hypergeometrische Verteilung.md",
+                "file": "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Binomialverteilung.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wahrscheinlichkeitstheorie/Momente/Kovarianz und Korrelation.md",
+                "file": "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Binomialverteilung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,8 +158,9 @@
     "width": 322,
     "collapsed": true
   },
-  "active": "4dfd985572cfe043",
+  "active": "1f6dd933f71c0a2d",
   "lastOpenFiles": [
+    "Wahrscheinlichkeitstheorie/Laplace-Experimente/Urnenmodell ohne Zurücklegen.md",
     "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Hypergeometrische Verteilung.md",
     "Wahrscheinlichkeitstheorie/Momente/Kovarianz und Korrelation.md",
     "Wahrscheinlichkeitstheorie/Momente/Varianz.md",
@@ -168,7 +169,6 @@
     "Wahrscheinlichkeitstheorie/Bedingte Wahrscheinlichkeiten/Satz von Bayes.md",
     "Wahrscheinlichkeitstheorie/Bedingte Wahrscheinlichkeiten/Modelle höherer Ordnung.md",
     "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Poisson Verteilung.md",
-    "Wahrscheinlichkeitstheorie/Unabhängigkeit/Unabhängigkeit von Zufallsvariablen.md",
-    "Wahrscheinlichkeitstheorie/Unabhängigkeit/Unabhängigkeit von Ereignissen.md"
+    "Wahrscheinlichkeitstheorie/Unabhängigkeit/Unabhängigkeit von Zufallsvariablen.md"
   ]
 }
