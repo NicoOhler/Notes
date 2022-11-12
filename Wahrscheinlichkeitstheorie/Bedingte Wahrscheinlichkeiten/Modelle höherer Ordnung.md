@@ -1,4 +1,4 @@
-### Multiplikationsregel
+ ### Multiplikationsregel
 + ![[Pasted image 20221111190203.png]]
 + Beispiele
 	+ Bridge
