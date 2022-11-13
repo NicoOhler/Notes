@@ -40,4 +40,5 @@
 		+ instruction in decode stage needs to check if all source registers are valid
 	+ data forwarding/bypassing
 		+ forward result to dependent instruction as soon as available
-		+ ![[Pasted image 20221113104231.png]]
+		+ hazard unit detects dependencis between instructions
+		+ ![[Pasted image 20221113104357.png]]
