@@ -25,6 +25,7 @@
 + ![[Pasted image 20221112181239.png]]
 
 ### RAW Dependence Handling
++ RAW - read after write
 + sometimes result needed by instruction not calculated yet
 	+ e.g. 2nd instruction needs value from first
 	+ which has not finished yet
@@ -34,4 +35,9 @@
 	+ ![[Pasted image 20221112181908.png]]
 + dependence detection
 	+ scoreboarding
-		+ 
+		+ each registers has valid bit
+		+ instruction writing to register resets valid bit
+		+ instruction in decode stage needs to check if all source registers are valid
+	+ data forwarding/bypassing
+		+ forward result to dependent instruction as soon as available
+		+ ![[Pasted image 20221113104231.png]]

@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NRLA/Vektoren/Vektor.md",
+                "file": "Computer Organization and Networks/Processor/Pipelining.md",
                 "mode": "source",
                 "source": false
               }
@@ -72,8 +72,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -93,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Allgemeine Mathematik/Zeichensammlung.md",
+                "file": "Computer Organization and Networks/Processor/Pipelining.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,16 +122,16 @@
     "width": 322,
     "collapsed": true
   },
-  "active": "67d43403474fe91c",
+  "active": "88161fca02cb663e",
   "lastOpenFiles": [
+    "Computer Organization and Networks/Processor/Single Cycle Datapath.md",
     "NRLA/Vektoren/Vektor.md",
-    "Analysis/Vektoranalysis/Oberflächenintegral.md",
     "Allgemeine Mathematik/Zeichensammlung.md",
+    "Analysis/Vektoranalysis/Oberflächenintegral.md",
     "z_images/Pasted image 20221112181908.png",
     "Computer Organization and Networks/Processor/Pipelining.md",
     "Computer Organization and Networks/Processor/Multicycle Datapath.md",
     "Computer Organization and Networks/Processor/Processor Programming.md",
-    "Computer Organization and Networks/Processor/Single Cycle Datapath.md",
     "CS Basics/Boolean Algebra.md",
     "Computer Organization and Networks/Transistors.md"
   ]
