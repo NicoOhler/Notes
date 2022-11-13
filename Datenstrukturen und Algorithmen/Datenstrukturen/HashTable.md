@@ -26,8 +26,15 @@
 	+ Daten in verkettete Liste speichern bei Kollision
 	+ ![[Pasted image 20221113111059.png]]
 	+ Laufzeiten
-		+ worst case $O=(1+n)$ für Suchen, Löschen
+		+ worst case $Θ(n)$ für Suchen, Löschen
+			+ sehr unwahrscheinlich
+			+ ![[Pasted image 20221113111441.png]]
 		+ ![[Pasted image 20221113111156.png]]
++ Offene Adressierung
+	+ Werte direkt in Tabelle speichern
+		+ ![[Pasted image 20221113112247.png]]
+	+ Bei Kollision wird neue Adresse berechnet bis freie gefunden
+	+ ![[Pasted image 20221113112344.png]]
 
 ### Hashfunktion
 + Ziel: Werte gleich auf Feld zu verteilen
