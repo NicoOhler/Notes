@@ -5,7 +5,7 @@
 	+ search
 	+ remove
 + Idee
-	+ nicht Inhalt suchen
+	+ Inhalt nicht suchen
 	+ Adresse berechnen in $O(1)$
 
 ### Definition
@@ -34,7 +34,15 @@
 	+ Werte direkt in Tabelle speichern
 		+ ![[Pasted image 20221113112247.png]]
 	+ Bei Kollision wird neue Adresse berechnet bis freie gefunden
-	+ ![[Pasted image 20221113112344.png]]
+		+ ![[Pasted image 20221113112344.png]]
+	+ Näherungen
+		+ ![[Pasted image 20221113112524.png]]
+	+ Löschproblem
+		+ ![[Pasted image 20221113113048.png]]
+		+ Lösung
+			+ ![[Pasted image 20221113113114.png]]
+	+ Operationen
+		+ ![[Pasted image 20221113113151.png]]
 
 ### Hashfunktion
 + Ziel: Werte gleich auf Feld zu verteilen
@@ -61,3 +69,6 @@
 	+ Multiplikation mit m abrunden
 	+ ![[Pasted image 20221113110623.png]]
 	+ unabhängig vom m
+
+### Laufzeiten
++ ![[Pasted image 20221113113249.png]]
