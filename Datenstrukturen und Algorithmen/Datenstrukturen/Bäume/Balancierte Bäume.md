@@ -5,4 +5,7 @@
 	+ ![[Pasted image 20221114142510.png]]
 + Lösung umstrukturieren
 	+ sehr aufwendig
-	+ 
+
+### Selbstbalancierte Bäume
++ ![[Pasted image 20221114142714.png]]
++ 
