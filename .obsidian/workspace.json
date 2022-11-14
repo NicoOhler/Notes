@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "257ed42bb0beef10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Datenstrukturen und Algorithmen/Datenstrukturen/Dynamische Arrays.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "3547afb3bae4a78a",
             "type": "leaf",
             "state": {
@@ -56,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -114,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "z_images/Pasted image 20221114153350.png",
+                "file": "Datenstrukturen und Algorithmen/Datenstrukturen/Dynamische Arrays.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,17 +156,17 @@
     "width": 322,
     "collapsed": true
   },
-  "active": "097b9a58ea336072",
+  "active": "257ed42bb0beef10",
   "lastOpenFiles": [
+    "Datenstrukturen und Algorithmen/Datenstrukturen/Array.md",
+    "Datenstrukturen und Algorithmen/Datenstrukturen/Dynamische Arrays.md",
+    "Datenstrukturen und Algorithmen/Sortierverfahren/Untitled.md",
+    "z_images/Pasted image 20221114153350.png",
     "Datenstrukturen und Algorithmen/Sortierverfahren/BSort.md",
     "Datenstrukturen und Algorithmen/Sortierverfahren/HeapSort.md",
     "Datenstrukturen und Algorithmen/Sortierverfahren/MergeSort.md",
     "Datenstrukturen und Algorithmen/Sortierverfahren/Sortierverfahren.md",
     "Datenstrukturen und Algorithmen/Sortierverfahren/RadixSort.md",
-    "Datenstrukturen und Algorithmen/Sortierverfahren/Vergleich von Sortierverfahren.md",
-    "Datenstrukturen und Algorithmen/Datenstrukturen/Bäume/Bäume (Datenstruktur).md",
-    "Datenstrukturen und Algorithmen/Datenstrukturen/Bäume/2-4 Bäume.md",
-    "z_images/Pasted image 20221114153814.png",
-    "z_images/Pasted image 20221114143244.png"
+    "Datenstrukturen und Algorithmen/Sortierverfahren/Vergleich von Sortierverfahren.md"
   ]
 }
