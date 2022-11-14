@@ -44,9 +44,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1596c3e3540c5a97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Datenstrukturen und Algorithmen/Datenstrukturen/Bäume/Sortierte Binärbäume.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -104,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Datenstrukturen und Algorithmen/Datenstrukturen/Bäume/Binärbäume.md",
+                "file": "Datenstrukturen und Algorithmen/Datenstrukturen/Bäume/Sortierte Binärbäume.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,10 +146,10 @@
     "width": 322,
     "collapsed": true
   },
-  "active": "82a2ce30e6d8ba6b",
+  "active": "1596c3e3540c5a97",
   "lastOpenFiles": [
-    "Datenstrukturen und Algorithmen/Datenstrukturen/Bäume/Bäume (Datenstruktur).md",
     "Datenstrukturen und Algorithmen/Datenstrukturen/Bäume/Binärbäume.md",
+    "Datenstrukturen und Algorithmen/Datenstrukturen/Bäume/Bäume (Datenstruktur).md",
     "Computer Organization and Networks/Processor/Single Cycle Datapath.md",
     "Computer Organization and Networks/State Machines/Types of State Machines.md",
     "Computer Organization and Networks/State Machines/State Machines.md",
