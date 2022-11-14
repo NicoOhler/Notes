@@ -22,12 +22,12 @@
             }
           },
           {
-            "id": "6f1b7921559f6143",
+            "id": "a2fbadee4f53fa61",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Organization and Networks/Processor/Memory.md",
+                "file": "Datenstrukturen und Algorithmen/Datenstrukturen/Binärbäume.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Organization and Networks/Processor/Memory.md",
+                "file": "Datenstrukturen und Algorithmen/Datenstrukturen/Binärbäume.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,17 +122,17 @@
     "width": 322,
     "collapsed": true
   },
-  "active": "6f1b7921559f6143",
+  "active": "a2fbadee4f53fa61",
   "lastOpenFiles": [
-    "Computer Organization and Networks/Processor/Instruction Set Architecture.md",
-    "Computer Organization and Networks/Processor/Processor Programming.md",
-    "Computer Organization and Networks/Processor/Pipelining.md",
-    "Computer Organization and Networks/State Machines/Algorithmic State Machines.md",
+    "Computer Organization and Networks/Processor/Single Cycle Datapath.md",
     "Computer Organization and Networks/State Machines/Types of State Machines.md",
-    "Wahrscheinlichkeitstheorie/Zentrale Grenzwertsatz CLT.md",
-    "z_images/Pasted image 20221114115003.png",
-    "z_images/Pasted image 20221114113305.png",
-    "Wahrscheinlichkeitstheorie/Wahrscheinlichkeitstheorie.md",
-    "Wahrscheinlichkeitstheorie/Zufallsvektoren.md"
+    "Computer Organization and Networks/State Machines/State Machines.md",
+    "Computer Organization and Networks/State Machines/Algorithmic State Machines.md",
+    "Computer Organization and Networks/Computer Organization and Networks.md",
+    "Computer Organization and Networks/Processor/Pipelining.md",
+    "Computer Organization and Networks/Processor/Multicycle Datapath.md",
+    "Computer Organization and Networks/Processor/RISC-V.md",
+    "Computer Organization and Networks/Processor/Processor Programming.md",
+    "Computer Organization and Networks/Processor/Memory.md"
   ]
 }
