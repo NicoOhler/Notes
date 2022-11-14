@@ -34,24 +34,24 @@
             }
           },
           {
-            "id": "82a2ce30e6d8ba6b",
+            "id": "3547afb3bae4a78a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Datenstrukturen und Algorithmen/Datenstrukturen/Bäume/Binärbäume.md",
+                "file": "Datenstrukturen und Algorithmen/Datenstrukturen/Bäume/2-4 Bäume.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1596c3e3540c5a97",
+            "id": "d8cc05901a250df3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Datenstrukturen und Algorithmen/Datenstrukturen/Bäume/Sortierte Binärbäume.md",
+                "file": "Datenstrukturen und Algorithmen/Datenstrukturen/Bäume/Balancierte Bäume.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Datenstrukturen und Algorithmen/Datenstrukturen/Bäume/Sortierte Binärbäume.md",
+                "file": "Datenstrukturen und Algorithmen/Datenstrukturen/Bäume/Balancierte Bäume.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,17 +146,17 @@
     "width": 322,
     "collapsed": true
   },
-  "active": "1596c3e3540c5a97",
+  "active": "d8cc05901a250df3",
   "lastOpenFiles": [
-    "z_images/Pasted image 20221114133915.png",
-    "Datenstrukturen und Algorithmen/Datenstrukturen/Bäume/Sortierte Binärbäume.md",
-    "Datenstrukturen und Algorithmen/Datenstrukturen/Bäume/Binärbäume.md",
     "Datenstrukturen und Algorithmen/Datenstrukturen/Bäume/Bäume (Datenstruktur).md",
+    "Datenstrukturen und Algorithmen/Datenstrukturen/Bäume/Sortierte Binärbäume.md",
+    "Datenstrukturen und Algorithmen/Datenstrukturen/Bäume/Balancierte Bäume.md",
+    "Datenstrukturen und Algorithmen/Datenstrukturen/Bäume/Binärbäume.md",
+    "Datenstrukturen und Algorithmen/Datenstrukturen/Bäume/2-4 Bäume.md",
+    "z_images/Pasted image 20221114133915.png",
     "Computer Organization and Networks/Processor/Single Cycle Datapath.md",
     "Computer Organization and Networks/State Machines/Types of State Machines.md",
     "Computer Organization and Networks/State Machines/State Machines.md",
-    "Computer Organization and Networks/State Machines/Algorithmic State Machines.md",
-    "Computer Organization and Networks/Computer Organization and Networks.md",
-    "Computer Organization and Networks/Processor/Pipelining.md"
+    "Computer Organization and Networks/State Machines/Algorithmic State Machines.md"
   ]
 }

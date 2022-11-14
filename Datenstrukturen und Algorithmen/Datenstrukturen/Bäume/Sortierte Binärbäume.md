@@ -1,6 +1,7 @@
 ### Definition
 + [[Binärbäume]], welche in symmetrischer Reihenfolge sortiert sind
 	+ ![[Pasted image 20221114135404.png]]
++ ![[Pasted image 20221114142100.png]]
 
 ### Operationen
 + ![[Pasted image 20221114135714.png]]
