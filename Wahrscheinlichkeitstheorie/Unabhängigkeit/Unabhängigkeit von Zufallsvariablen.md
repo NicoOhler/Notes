@@ -4,6 +4,8 @@
 	+ ![[Pasted image 20221114095640.png]]
 	+ ![[Pasted image 20221114095646.png]]
 + ![[Pasted image 20221114095721.png]]
++  [[Erwartungswert]] von unabhängigen ZV
+	+ ![[Pasted image 20221114100836.png]]
 
 
 ### Beispiele
@@ -19,6 +21,6 @@
 + [[Binomialverteilung]] hergeleitet
 	+ ![[Pasted image 20221114095823.png]]
 	+ ![[Pasted image 20221114100347.png]]
-+ [[Geometrische Verteilung]]
++ [[Geometrische Verteilung]] hergeleitet
 	+ ![[Pasted image 20221114100415.png]]
-	+ 
+	+ ![[Pasted image 20221114100724.png]]

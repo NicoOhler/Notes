@@ -27,26 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Geometrische Verteilung.md",
+                "file": "Wahrscheinlichkeitstheorie/Unabhängigkeit/Unabhängigkeit von Zufallsvariablen.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4c0db2779f21607b",
+            "id": "8ea6681c4f52e25a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diskrete Mathematik/Kombinatorik/Kombinatorik.md",
+                "file": "Wahrscheinlichkeitstheorie/Konvergenz von Zufallszahlen/Konvergenz von Zufallsvariablen.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -84,8 +84,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -105,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Geometrische Verteilung.md",
+                "file": "Wahrscheinlichkeitstheorie/Konvergenz von Zufallszahlen/Konvergenz von Zufallsvariablen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,17 +134,17 @@
     "width": 322,
     "collapsed": true
   },
-  "active": "6f1b7921559f6143",
+  "active": "8ea6681c4f52e25a",
   "lastOpenFiles": [
+    "Wahrscheinlichkeitstheorie/Unabhängigkeit/Momenterzeugende Funktion.md",
     "Wahrscheinlichkeitstheorie/Unabhängigkeit/Unabhängigkeit von Zufallsvariablen.md",
+    "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Geometrische Verteilung.md",
     "Diskrete Mathematik/Kombinatorik/Kombinatorik.md",
     "Wahrscheinlichkeitstheorie/Wahrscheinlichkeitstheorie.md",
     "Wahrscheinlichkeitstheorie/Unabhängigkeit/Unabhängigkeit von Ereignissen.md",
     "Allgemeine Mathematik/Zeichensammlung.md",
     "Datenstrukturen und Algorithmen/Datenstrukturen/HashTable.md",
     "Datenstrukturen und Algorithmen/Datenstrukturen/Heap.md",
-    "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Binomialverteilung.md",
-    "z_images/Pasted image 20221113112524.png",
-    "Computer Organization and Networks/Processor/Pipelining.md"
+    "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Binomialverteilung.md"
   ]
 }
