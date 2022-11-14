@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wahrscheinlichkeitstheorie/Zentrale Grenzwertsatz CLT.md",
+                "file": "Computer Organization and Networks/Processor/Processor Programming.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wahrscheinlichkeitstheorie/Zentrale Grenzwertsatz CLT.md",
+                "file": "Computer Organization and Networks/Processor/Processor Programming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,15 +124,15 @@
   },
   "active": "6f1b7921559f6143",
   "lastOpenFiles": [
-    "Pasted image 20221114115003.png",
+    "Computer Organization and Networks/Processor/Pipelining.md",
+    "Computer Organization and Networks/State Machines/Algorithmic State Machines.md",
+    "Computer Organization and Networks/State Machines/Types of State Machines.md",
     "Wahrscheinlichkeitstheorie/Zentrale Grenzwertsatz CLT.md",
+    "z_images/Pasted image 20221114115003.png",
     "z_images/Pasted image 20221114113305.png",
     "Wahrscheinlichkeitstheorie/Wahrscheinlichkeitstheorie.md",
     "Wahrscheinlichkeitstheorie/Zufallsvektoren.md",
     "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Diskrete Verteillungen.md",
-    "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Normalverteilung.md",
-    "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Binomialverteilung.md",
-    "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Geometrische Verteilung.md",
-    "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Hypergeometrische Verteilung.md"
+    "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Normalverteilung.md"
   ]
 }
