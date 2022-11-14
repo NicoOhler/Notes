@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wahrscheinlichkeitstheorie/Konvergenz von Zufallszahlen/Konvergenz in Verteilung.md",
+                "file": "Wahrscheinlichkeitstheorie/Zentrale Grenzwertsatz/Zentrale Grenzwertsatz CLT.md",
                 "mode": "source",
                 "source": false
               }
@@ -76,7 +76,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255.5
+    "width": 255.5,
+    "collapsed": true
   },
   "right": {
     "id": "d1219e90b492538d",
@@ -92,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wahrscheinlichkeitstheorie/Konvergenz von Zufallszahlen/Konvergenz in Verteilung.md",
+                "file": "Wahrscheinlichkeitstheorie/Zentrale Grenzwertsatz/Zentrale Grenzwertsatz CLT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,8 +123,9 @@
     "width": 322,
     "collapsed": true
   },
-  "active": "097b9a58ea336072",
+  "active": "6f1b7921559f6143",
   "lastOpenFiles": [
+    "Wahrscheinlichkeitstheorie/Konvergenz von Zufallszahlen/Konvergenz in Verteilung.md",
     "Wahrscheinlichkeitstheorie/Konvergenz von Zufallszahlen/Konvergenz von Zufallsvariablen.md",
     "Wahrscheinlichkeitstheorie/Konvergenz von Zufallszahlen/Konvergenz in Wahrscheinlichkeit.md",
     "Wahrscheinlichkeitstheorie/Konvergenz von Zufallszahlen/Gesetz der großen Zahlen.md",
@@ -132,7 +134,6 @@
     "z_images/Pasted image 20221114095721.png",
     "Wahrscheinlichkeitstheorie/Unabhängigkeit/Momenterzeugende Funktion.md",
     "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Geometrische Verteilung.md",
-    "Diskrete Mathematik/Kombinatorik/Kombinatorik.md",
-    "Wahrscheinlichkeitstheorie/Wahrscheinlichkeitstheorie.md"
+    "Diskrete Mathematik/Kombinatorik/Kombinatorik.md"
   ]
 }

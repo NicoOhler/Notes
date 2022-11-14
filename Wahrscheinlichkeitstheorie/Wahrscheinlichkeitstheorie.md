@@ -13,7 +13,7 @@
 + [[Bedingte Wahrscheinlichkeiten]]
 + [[Unabhängigkeit von Ereignissen]]
 + [[Konvergenz von Zufallsvariablen]]
-+ [[Zentrale Grenzwertsatz]]
++ [[Zentrale Grenzwertsatz CLT]]
 
 
 [[Allgemeine Mathematik]]
