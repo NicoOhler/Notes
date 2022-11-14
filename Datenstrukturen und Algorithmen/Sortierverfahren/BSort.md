@@ -5,4 +5,9 @@
 + Grundidee
 	+ Einfügen in verkehrter Reihenfolge
 	+ innere Knoten speichern Maximum des Teilbaums
++ Baumsortieren
+	+ allgemein beim Einfügen von $a_i$
+		+ ![[Pasted image 20221114155251.png]]
+		+ ![[Pasted image 20221114155356.png]]
+	+  ![[Pasted image 20221114155835.png]]
 	+ 
