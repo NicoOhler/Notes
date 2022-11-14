@@ -27,14 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Datenstrukturen und Algorithmen/Datenstrukturen/Binärbäume.md",
+                "file": "Datenstrukturen und Algorithmen/Datenstrukturen/Bäume/Bäume (Datenstruktur).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "82a2ce30e6d8ba6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Datenstrukturen und Algorithmen/Datenstrukturen/Bäume/Binärbäume.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -92,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Datenstrukturen und Algorithmen/Datenstrukturen/Binärbäume.md",
+                "file": "Datenstrukturen und Algorithmen/Datenstrukturen/Bäume/Binärbäume.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,8 +134,10 @@
     "width": 322,
     "collapsed": true
   },
-  "active": "a2fbadee4f53fa61",
+  "active": "82a2ce30e6d8ba6b",
   "lastOpenFiles": [
+    "Datenstrukturen und Algorithmen/Datenstrukturen/Bäume/Bäume (Datenstruktur).md",
+    "Datenstrukturen und Algorithmen/Datenstrukturen/Bäume/Binärbäume.md",
     "Computer Organization and Networks/Processor/Single Cycle Datapath.md",
     "Computer Organization and Networks/State Machines/Types of State Machines.md",
     "Computer Organization and Networks/State Machines/State Machines.md",
@@ -131,8 +145,6 @@
     "Computer Organization and Networks/Computer Organization and Networks.md",
     "Computer Organization and Networks/Processor/Pipelining.md",
     "Computer Organization and Networks/Processor/Multicycle Datapath.md",
-    "Computer Organization and Networks/Processor/RISC-V.md",
-    "Computer Organization and Networks/Processor/Processor Programming.md",
-    "Computer Organization and Networks/Processor/Memory.md"
+    "Computer Organization and Networks/Processor/RISC-V.md"
   ]
 }
