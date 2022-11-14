@@ -37,11 +37,9 @@
             "id": "6f50db355702230a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Datenstrukturen und Algorithmen/Sortierverfahren/BSort.md",
-                "mode": "source",
-                "source": false
+                "file": "z_images/Pasted image 20221114153350.png"
               }
             }
           },
@@ -116,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Datenstrukturen und Algorithmen/Sortierverfahren/BSort.md",
+                "file": "z_images/Pasted image 20221114153350.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,17 +144,17 @@
     "width": 322,
     "collapsed": true
   },
-  "active": "6f50db355702230a",
+  "active": "097b9a58ea336072",
   "lastOpenFiles": [
+    "Datenstrukturen und Algorithmen/Sortierverfahren/BSort.md",
     "Datenstrukturen und Algorithmen/Sortierverfahren/HeapSort.md",
     "Datenstrukturen und Algorithmen/Sortierverfahren/MergeSort.md",
     "Datenstrukturen und Algorithmen/Sortierverfahren/Sortierverfahren.md",
     "Datenstrukturen und Algorithmen/Sortierverfahren/RadixSort.md",
-    "Datenstrukturen und Algorithmen/Sortierverfahren/BSort.md",
     "Datenstrukturen und Algorithmen/Sortierverfahren/Vergleich von Sortierverfahren.md",
     "Datenstrukturen und Algorithmen/Datenstrukturen/Bäume/Bäume (Datenstruktur).md",
     "Datenstrukturen und Algorithmen/Datenstrukturen/Bäume/2-4 Bäume.md",
-    "Pasted image 20221114153814.png",
+    "z_images/Pasted image 20221114153814.png",
     "z_images/Pasted image 20221114143244.png"
   ]
 }
