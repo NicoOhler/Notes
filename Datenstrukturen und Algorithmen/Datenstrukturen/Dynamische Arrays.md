@@ -28,4 +28,6 @@
 + Einfügen und Löschen haben potentiell schlechte Laufzeit $Ω(n)$
 	+ wenn erweitert/geschrumpft wird
 	+ ![[Pasted image 20221114163623.png]]
-	+ seltene schlechte Laufzeit wird auf häufige  
+	+ seltene schlechte Laufzeit wird auf häufige gute Laufzeit aufgeteilt
+		+ n-mal Einfügen und einmal erweitern in $O(n)$
+		+ $n*O(1)+O(n)=O(2n)=O(n)$
