@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Organization and Networks/Processor/Processor Programming.md",
+                "file": "Computer Organization and Networks/Processor/Memory.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Organization and Networks/Processor/Processor Programming.md",
+                "file": "Computer Organization and Networks/Processor/Memory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,6 +124,8 @@
   },
   "active": "6f1b7921559f6143",
   "lastOpenFiles": [
+    "Computer Organization and Networks/Processor/Instruction Set Architecture.md",
+    "Computer Organization and Networks/Processor/Processor Programming.md",
     "Computer Organization and Networks/Processor/Pipelining.md",
     "Computer Organization and Networks/State Machines/Algorithmic State Machines.md",
     "Computer Organization and Networks/State Machines/Types of State Machines.md",
@@ -131,8 +133,6 @@
     "z_images/Pasted image 20221114115003.png",
     "z_images/Pasted image 20221114113305.png",
     "Wahrscheinlichkeitstheorie/Wahrscheinlichkeitstheorie.md",
-    "Wahrscheinlichkeitstheorie/Zufallsvektoren.md",
-    "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Diskrete Verteillungen.md",
-    "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Normalverteilung.md"
+    "Wahrscheinlichkeitstheorie/Zufallsvektoren.md"
   ]
 }
