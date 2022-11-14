@@ -27,7 +27,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wahrscheinlichkeitstheorie/Unabhängigkeit/Unabhängigkeit von Zufallsvariablen.md",
+                "file": "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Geometrische Verteilung.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4c0db2779f21607b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Diskrete Mathematik/Kombinatorik/Kombinatorik.md",
                 "mode": "source",
                 "source": false
               }
@@ -63,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "norm",
+                "query": "kombin",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -72,7 +84,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -92,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wahrscheinlichkeitstheorie/Unabhängigkeit/Unabhängigkeit von Zufallsvariablen.md",
+                "file": "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Geometrische Verteilung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,15 +137,15 @@
   },
   "active": "6f1b7921559f6143",
   "lastOpenFiles": [
-    "Wahrscheinlichkeitstheorie/Unabhängigkeit/Unabhängigkeit von Ereignissen.md",
     "Wahrscheinlichkeitstheorie/Unabhängigkeit/Unabhängigkeit von Zufallsvariablen.md",
+    "Diskrete Mathematik/Kombinatorik/Kombinatorik.md",
+    "Wahrscheinlichkeitstheorie/Wahrscheinlichkeitstheorie.md",
+    "Wahrscheinlichkeitstheorie/Unabhängigkeit/Unabhängigkeit von Ereignissen.md",
     "Allgemeine Mathematik/Zeichensammlung.md",
     "Datenstrukturen und Algorithmen/Datenstrukturen/HashTable.md",
     "Datenstrukturen und Algorithmen/Datenstrukturen/Heap.md",
     "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Binomialverteilung.md",
     "z_images/Pasted image 20221113112524.png",
-    "Computer Organization and Networks/Processor/Pipelining.md",
-    "Computer Organization and Networks/Processor/Single Cycle Datapath.md",
-    "NRLA/Vektoren/Vektor.md"
+    "Computer Organization and Networks/Processor/Pipelining.md"
   ]
 }

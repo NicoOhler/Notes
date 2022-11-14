@@ -1,7 +1,8 @@
-# Geometrische Verteilung
 ### Definition
 + Motivation 
 	+ ![[Pasted image 20221005151313.png]]
++ [[Urnenmodell mit Zurücklegen]]
+	+ 
 + PMF $p_k=P(A_k))(1-p)^{k-1}*p$ für $1≤k≤n$
 	+ $P((A_1∪...∪A_n)^C)=(1-p)^n$
 + Stichprobenraum $Ω=\{(ω_1,...,ω_n)∈\{1,...,N\}^n\}$

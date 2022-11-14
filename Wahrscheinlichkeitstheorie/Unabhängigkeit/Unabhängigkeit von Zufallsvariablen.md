@@ -1,7 +1,9 @@
 ### Definition
 + ![[Pasted image 20221111211620.png]]
 + [[Zufallsvariable]] sind unabhängig, wenn
-	+ 
+	+ ![[Pasted image 20221114095640.png]]
+	+ ![[Pasted image 20221114095646.png]]
++ ![[Pasted image 20221114095721.png]]
 
 
 ### Beispiele
@@ -12,3 +14,11 @@
 	+ ![[Pasted image 20221114094943.png]]
 	+ ![[Pasted image 20221114095521.png]]
 	+ ![[Pasted image 20221114095540.png]]
+
+### Alternative Herleitung für [[Diskrete Verteillungen]]
++ [[Binomialverteilung]] hergeleitet
+	+ ![[Pasted image 20221114095823.png]]
+	+ ![[Pasted image 20221114100347.png]]
++ [[Geometrische Verteilung]]
+	+ ![[Pasted image 20221114100415.png]]
+	+ 
