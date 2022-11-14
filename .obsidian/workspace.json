@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Diskrete Verteillungen.md",
+                "file": "Wahrscheinlichkeitstheorie/Zentrale Grenzwertsatz/Zentrale Grenzwertsatz CLT.md",
                 "mode": "source",
                 "source": false
               }
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "kombin",
+                "query": "normalvert",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Diskrete Verteillungen.md",
+                "file": "Wahrscheinlichkeitstheorie/Zentrale Grenzwertsatz/Zentrale Grenzwertsatz CLT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,15 +124,15 @@
   },
   "active": "6f1b7921559f6143",
   "lastOpenFiles": [
-    "Wahrscheinlichkeitstheorie/Zentrale Grenzwertsatz/Zentrale Grenzwertsatz CLT.md",
-    "Wahrscheinlichkeitstheorie/Konvergenz von Zufallszahlen/Konvergenz in Verteilung.md",
-    "Wahrscheinlichkeitstheorie/Konvergenz von Zufallszahlen/Konvergenz von Zufallsvariablen.md",
-    "Wahrscheinlichkeitstheorie/Konvergenz von Zufallszahlen/Konvergenz in Wahrscheinlichkeit.md",
-    "Wahrscheinlichkeitstheorie/Konvergenz von Zufallszahlen/Gesetz der großen Zahlen.md",
-    "Wahrscheinlichkeitstheorie/Unabhängigkeit/Unabhängigkeit von Zufallsvariablen.md",
-    "Wahrscheinlichkeitstheorie/Konvergenz von Zufallszahlen/Konvergenz im quadratischen Mittel.md",
-    "z_images/Pasted image 20221114095721.png",
-    "Wahrscheinlichkeitstheorie/Unabhängigkeit/Momenterzeugende Funktion.md",
-    "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Geometrische Verteilung.md"
+    "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Diskrete Verteillungen.md",
+    "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Normalverteilung.md",
+    "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Binomialverteilung.md",
+    "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Geometrische Verteilung.md",
+    "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Hypergeometrische Verteilung.md",
+    "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Multinomialverteilung.md",
+    "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Poisson Verteilung.md",
+    "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Zusammenhang zwischen hypergeometrischer und Binomialverteilung.md",
+    "Wahrscheinlichkeitstheorie/Zufallsvariablen/Dichtefunktionen PDF.md",
+    "Wahrscheinlichkeitstheorie/Zentrale Grenzwertsatz/Zentrale Grenzwertsatz CLT.md"
   ]
 }

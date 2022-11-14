@@ -5,3 +5,4 @@
 + [[Multinomialverteilung]]
 + [[Poisson Verteilung]]
 + [[Geometrische Verteilung]]
++ [[Normalverteilung]]
