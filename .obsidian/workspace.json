@@ -22,28 +22,6 @@
             }
           },
           {
-            "id": "a2fbadee4f53fa61",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Datenstrukturen und Algorithmen/Sortierverfahren/Vergleich von Sortierverfahren.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6f50db355702230a",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "z_images/Pasted image 20221114153350.png"
-              }
-            }
-          },
-          {
             "id": "257ed42bb0beef10",
             "type": "leaf",
             "state": {
@@ -54,21 +32,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "3547afb3bae4a78a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Datenstrukturen und Algorithmen/Datenstrukturen/Bäume/2-4 Bäume.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -158,15 +124,15 @@
   },
   "active": "257ed42bb0beef10",
   "lastOpenFiles": [
-    "Datenstrukturen und Algorithmen/Datenstrukturen/Array.md",
-    "Datenstrukturen und Algorithmen/Datenstrukturen/Dynamische Arrays.md",
-    "Datenstrukturen und Algorithmen/Sortierverfahren/Untitled.md",
+    "Allgemeine Mathematik/Zeichensammlung.md",
+    "Datenstrukturen und Algorithmen/Sortierverfahren/Vergleich von Sortierverfahren.md",
     "z_images/Pasted image 20221114153350.png",
+    "Datenstrukturen und Algorithmen/Datenstrukturen/Dynamische Arrays.md",
+    "Datenstrukturen und Algorithmen/Datenstrukturen/Bäume/2-4 Bäume.md",
+    "Datenstrukturen und Algorithmen/Datenstrukturen/Array.md",
+    "Datenstrukturen und Algorithmen/Sortierverfahren/Untitled.md",
     "Datenstrukturen und Algorithmen/Sortierverfahren/BSort.md",
     "Datenstrukturen und Algorithmen/Sortierverfahren/HeapSort.md",
-    "Datenstrukturen und Algorithmen/Sortierverfahren/MergeSort.md",
-    "Datenstrukturen und Algorithmen/Sortierverfahren/Sortierverfahren.md",
-    "Datenstrukturen und Algorithmen/Sortierverfahren/RadixSort.md",
-    "Datenstrukturen und Algorithmen/Sortierverfahren/Vergleich von Sortierverfahren.md"
+    "Datenstrukturen und Algorithmen/Sortierverfahren/MergeSort.md"
   ]
 }
