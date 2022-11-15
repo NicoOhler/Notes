@@ -22,24 +22,12 @@
             }
           },
           {
-            "id": "e9f3b1eca7d3c491",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Datenstrukturen und Algorithmen/Laufzeitanalyse/Amortisierte Analyse.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2326431ac85f3c49",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Datenstrukturen und Algorithmen/Datenstrukturen/Dynamische Arrays.md",
+                "file": "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Geometrische Verteilung.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Datenstrukturen und Algorithmen/Laufzeitanalyse/Amortisierte Analyse.md",
+                "file": "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Geometrische Verteilung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,17 +122,17 @@
     "width": 322,
     "collapsed": true
   },
-  "active": "e9f3b1eca7d3c491",
+  "active": "2326431ac85f3c49",
   "lastOpenFiles": [
-    "z_images/Pasted image 20221114170200.png",
-    "Datenstrukturen und Algorithmen/Laufzeitanalyse/Amortisierte Analyse.md",
+    "Wahrscheinlichkeitstheorie/Konvergenz von Zufallszahlen/Gesetz der großen Zahlen.md",
+    "Wahrscheinlichkeitstheorie/Konvergenz von Zufallszahlen/Konvergenz von Zufallsvariablen.md",
+    "Wahrscheinlichkeitstheorie/Konvergenz von Zufallszahlen/Konvergenz in Wahrscheinlichkeit.md",
+    "Wahrscheinlichkeitstheorie/Konvergenz von Zufallszahlen/Konvergenz in Verteilung.md",
+    "Wahrscheinlichkeitstheorie/Konvergenz von Zufallszahlen/Konvergenz im quadratischen Mittel.md",
     "Datenstrukturen und Algorithmen/Datenstrukturen/Dynamische Arrays.md",
-    "Datenstrukturen und Algorithmen/Datenstrukturen/Array.md",
     "Allgemeine Mathematik/Zeichensammlung.md",
-    "Datenstrukturen und Algorithmen/Sortierverfahren/Vergleich von Sortierverfahren.md",
-    "z_images/Pasted image 20221114153350.png",
-    "Datenstrukturen und Algorithmen/Datenstrukturen/Bäume/2-4 Bäume.md",
-    "Datenstrukturen und Algorithmen/Sortierverfahren/Untitled.md",
-    "Datenstrukturen und Algorithmen/Sortierverfahren/BSort.md"
+    "Datenstrukturen und Algorithmen/Laufzeitanalyse/Amortisierte Analyse.md",
+    "z_images/Pasted image 20221114170200.png",
+    "Datenstrukturen und Algorithmen/Datenstrukturen/Array.md"
   ]
 }
