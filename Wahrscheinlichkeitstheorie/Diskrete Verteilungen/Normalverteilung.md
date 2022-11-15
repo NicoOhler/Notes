@@ -5,7 +5,7 @@
 	
 	
 	### Standardnormalverteilung
-	+  Durchschintt $μ=0$
+	+  Durchschnitt $μ=0$
 	+  Standardabweichung² $σ^2=1$
 
 ### Beispiel
