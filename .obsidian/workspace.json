@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exponentialverteilung.md",
+                "file": "Wahrscheinlichkeitstheorie/Zufallsvektoren.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exponentialverteilung.md",
+                "file": "Wahrscheinlichkeitstheorie/Zufallsvektoren.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,6 +160,7 @@
   },
   "active": "2dc1bf203c9b2892",
   "lastOpenFiles": [
+    "Exponentialverteilung.md",
     "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Diskrete Verteillungen.md",
     "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Binomialverteilung.md",
     "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Geometrische Verteilung.md",
@@ -168,7 +169,6 @@
     "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Poisson Verteilung.md",
     "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Zusammenhang zwischen hypergeometrischer und Binomialverteilung.md",
     "Wahrscheinlichkeitstheorie/Laplace-Experimente/Diskrete Wahrscheinlichkeitsräume.md",
-    "Wahrscheinlichkeitstheorie/Laplace-Experimente/Laplace-Experimente.md",
-    "Wahrscheinlichkeitstheorie/Laplace-Experimente/Urnenmodell mit Zurücklegen.md"
+    "Wahrscheinlichkeitstheorie/Laplace-Experimente/Laplace-Experimente.md"
   ]
 }
