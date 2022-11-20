@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Normalverteilung.md",
+                "file": "Wahrscheinlichkeitstheorie/Zentrale Grenzwertsatz CLT.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Normalverteilung.md",
+                "file": "Wahrscheinlichkeitstheorie/Zentrale Grenzwertsatz CLT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,10 +148,10 @@
   },
   "active": "2326431ac85f3c49",
   "lastOpenFiles": [
+    "Wahrscheinlichkeitstheorie/Unabhängigkeit/Unabhängigkeit von Zufallsvariablen.md",
+    "Wahrscheinlichkeitstheorie/Unabhängigkeit/Unabhängigkeit von Ereignissen.md",
     "Wahrscheinlichkeitstheorie/Zentrale Grenzwertsatz CLT.md",
     "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Normalverteilung.md",
-    "Wahrscheinlichkeitstheorie/Unabhängigkeit/Unabhängigkeit von Ereignissen.md",
-    "Wahrscheinlichkeitstheorie/Unabhängigkeit/Unabhängigkeit von Zufallsvariablen.md",
     "Allgemeine Mathematik/Zeichensammlung.md",
     "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Zusammenhang zwischen hypergeometrischer und Binomialverteilung.md",
     "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Binomialverteilung.md",

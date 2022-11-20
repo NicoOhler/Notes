@@ -6,7 +6,8 @@
 	
 	### Standardnormalverteilung
 	+  Durchschnitt $μ=0$
-	+  Standardabweichung² $σ^2=1$
+	+  Standardabweichung $σ=1$
+	+  Varianz $σ^2=1$
 
 ### Beispiel
 + ![[Pasted image 20221013095254.png]]
