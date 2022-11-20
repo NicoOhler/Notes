@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wahrscheinlichkeitstheorie/Zentrale Grenzwertsatz CLT.md",
+                "file": "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Normalverteilung.md",
                 "mode": "source",
                 "source": false
               }
@@ -51,14 +51,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Normalverteilung.md",
+                "file": "Wahrscheinlichkeitstheorie/Unabhängigkeit/Unabhängigkeit von Zufallsvariablen.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wahrscheinlichkeitstheorie/Unabhängigkeit/Unabhängigkeit von Ereignissen.md",
+                "file": "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Normalverteilung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,17 +146,17 @@
     "width": 322,
     "collapsed": true
   },
-  "active": "27db7b60f61442a5",
+  "active": "2326431ac85f3c49",
   "lastOpenFiles": [
     "Wahrscheinlichkeitstheorie/Zentrale Grenzwertsatz CLT.md",
-    "Allgemeine Mathematik/Zeichensammlung.md",
     "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Normalverteilung.md",
+    "Wahrscheinlichkeitstheorie/Unabhängigkeit/Unabhängigkeit von Ereignissen.md",
+    "Wahrscheinlichkeitstheorie/Unabhängigkeit/Unabhängigkeit von Zufallsvariablen.md",
+    "Allgemeine Mathematik/Zeichensammlung.md",
     "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Zusammenhang zwischen hypergeometrischer und Binomialverteilung.md",
     "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Binomialverteilung.md",
     "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Geometrische Verteilung.md",
     "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Multinomialverteilung.md",
-    "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Hypergeometrische Verteilung.md",
-    "Wahrscheinlichkeitstheorie/Konvergenz von Zufallszahlen/Gesetz der großen Zahlen.md",
-    "Wahrscheinlichkeitstheorie/Konvergenz von Zufallszahlen/Konvergenz von Zufallsvariablen.md"
+    "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Hypergeometrische Verteilung.md"
   ]
 }
