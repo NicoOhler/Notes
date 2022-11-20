@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wahrscheinlichkeitstheorie/Konvergenz von Zufallszahlen/Konvergenz im quadratischen Mittel.md",
+                "file": "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Normalverteilung.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wahrscheinlichkeitstheorie/Konvergenz von Zufallszahlen/Konvergenz im quadratischen Mittel.md",
+                "file": "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Normalverteilung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,15 +148,15 @@
   },
   "active": "2326431ac85f3c49",
   "lastOpenFiles": [
-    "Wahrscheinlichkeitstheorie/Konvergenz von Zufallszahlen/Konvergenz in Verteilung.md",
     "Wahrscheinlichkeitstheorie/Zentrale Grenzwertsatz CLT.md",
+    "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Normalverteilung.md",
+    "Wahrscheinlichkeitstheorie/Konvergenz von Zufallszahlen/Konvergenz in Verteilung.md",
+    "Wahrscheinlichkeitstheorie/Konvergenz von Zufallszahlen/Konvergenz im quadratischen Mittel.md",
     "Wahrscheinlichkeitstheorie/Unabhängigkeit/Unabhängigkeit von Zufallsvariablen.md",
     "Wahrscheinlichkeitstheorie/Unabhängigkeit/Unabhängigkeit von Ereignissen.md",
-    "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Normalverteilung.md",
     "Allgemeine Mathematik/Zeichensammlung.md",
     "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Zusammenhang zwischen hypergeometrischer und Binomialverteilung.md",
     "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Binomialverteilung.md",
-    "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Geometrische Verteilung.md",
-    "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Multinomialverteilung.md"
+    "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Geometrische Verteilung.md"
   ]
 }
