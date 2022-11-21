@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wahrscheinlichkeitstheorie/Momente/Erwartungswert/Erwartungswert für diskrete ZV.md",
+                "file": "Wahrscheinlichkeitstheorie/Laplace-Experimente/Urnenmodell ohne Zurücklegen.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wahrscheinlichkeitstheorie/Momente/Erwartungswert/Erwartungswert für diskrete ZV.md",
+                "file": "Wahrscheinlichkeitstheorie/Laplace-Experimente/Urnenmodell ohne Zurücklegen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,15 +160,15 @@
   },
   "active": "2dc1bf203c9b2892",
   "lastOpenFiles": [
+    "Wahrscheinlichkeitstheorie/Laplace-Experimente/Urnenmodell mit Zurücklegen.md",
+    "Wahrscheinlichkeitstheorie/Laplace-Experimente/Urnenmodell ohne Zurücklegen.md",
+    "Wahrscheinlichkeitstheorie/Bedingte Wahrscheinlichkeiten/Bedingte Wahrscheinlichkeiten.md",
+    "Wahrscheinlichkeitstheorie/Momente/Erwartungswert/Erwartungswert für diskrete ZV.md",
     "Wahrscheinlichkeitstheorie/Momente/Erwartungswert/Erwartungswert.md",
     "Wahrscheinlichkeitstheorie/Momente/Erwartungswert/Erwartungswert für allgemeine ZV.md",
-    "Wahrscheinlichkeitstheorie/Momente/Erwartungswert/Erwartungswert für diskrete ZV.md",
     "Wahrscheinlichkeitstheorie/Zufallsvektoren.md",
     "Wahrscheinlichkeitstheorie/Momente/Erwartungswert/Erwartungswert von linearen Funktionen.md",
     "Wahrscheinlichkeitstheorie/Momente/Kovarianz und Korrelation.md",
-    "Wahrscheinlichkeitstheorie/Zufallsvariablen/Verteilungsfunktion DF.md",
-    "Exponentialverteilung.md",
-    "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Diskrete Verteillungen.md",
-    "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Binomialverteilung.md"
+    "Wahrscheinlichkeitstheorie/Zufallsvariablen/Verteilungsfunktion DF.md"
   ]
 }
