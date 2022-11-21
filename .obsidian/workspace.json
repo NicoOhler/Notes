@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wahrscheinlichkeitstheorie/Zentrale Grenzwertsatz CLT.md",
+                "file": "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Normalverteilung.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wahrscheinlichkeitstheorie/Zentrale Grenzwertsatz CLT.md",
+                "file": "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Normalverteilung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,6 +136,7 @@
   },
   "active": "2dc1bf203c9b2892",
   "lastOpenFiles": [
+    "Wahrscheinlichkeitstheorie/Zentrale Grenzwertsatz CLT.md",
     "Wahrscheinlichkeitstheorie/Konvergenz von Zufallszahlen/Konvergenz in Verteilung.md",
     "Wahrscheinlichkeitstheorie/Konvergenz von Zufallszahlen/Konvergenz im quadratischen Mittel.md",
     "Wahrscheinlichkeitstheorie/Konvergenz von Zufallszahlen/Gesetz der großen Zahlen.md",
@@ -144,7 +145,6 @@
     "Wahrscheinlichkeitstheorie/Bedingte Wahrscheinlichkeiten/Bedingte Wahrscheinlichkeiten.md",
     "Wahrscheinlichkeitstheorie/Bedingte Wahrscheinlichkeiten/Gesetz der totalen Wahrscheinlichkeiten.md",
     "Wahrscheinlichkeitstheorie/Laplace-Experimente/Urnenmodell ohne Zurücklegen.md",
-    "Wahrscheinlichkeitstheorie/Laplace-Experimente/Urnenmodell mit Zurücklegen.md",
-    "Wahrscheinlichkeitstheorie/Unabhängigkeit/Unabhängigkeit von Ereignissen.md"
+    "Wahrscheinlichkeitstheorie/Laplace-Experimente/Urnenmodell mit Zurücklegen.md"
   ]
 }
