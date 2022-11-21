@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wahrscheinlichkeitstheorie/Bedingte Wahrscheinlichkeiten/Satz von Bayes.md",
+                "file": "Wahrscheinlichkeitstheorie/Zufallsvariablen/Dichtefunktionen PDF.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wahrscheinlichkeitstheorie/Bedingte Wahrscheinlichkeiten/Satz von Bayes.md",
+                "file": "Wahrscheinlichkeitstheorie/Zufallsvariablen/Dichtefunktionen PDF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,6 +136,7 @@
   },
   "active": "2dc1bf203c9b2892",
   "lastOpenFiles": [
+    "Wahrscheinlichkeitstheorie/Bedingte Wahrscheinlichkeiten/Satz von Bayes.md",
     "Wahrscheinlichkeitstheorie/Bedingte Wahrscheinlichkeiten/Modelle höherer Ordnung.md",
     "Wahrscheinlichkeitstheorie/Momente/Kovarianz und Korrelation.md",
     "Wahrscheinlichkeitstheorie/Momente/Varianz.md",
@@ -144,7 +145,6 @@
     "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Exponentialverteilung.md",
     "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Hypergeometrische Verteilung.md",
     "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Geometrische Verteilung.md",
-    "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Normalverteilung.md",
-    "Wahrscheinlichkeitstheorie/Zentrale Grenzwertsatz CLT.md"
+    "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Normalverteilung.md"
   ]
 }
