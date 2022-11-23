@@ -58,7 +58,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wahrscheinlichkeitstheorie/Zufallsvektoren.md",
+                "file": "Wahrscheinlichkeitstheorie/Zufallsvariablen/Verteilungsfunktion DF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,10 +146,10 @@
     "width": 322,
     "collapsed": true
   },
-  "active": "bffcc769552a5bd8",
+  "active": "2dc1bf203c9b2892",
   "lastOpenFiles": [
-    "Wahrscheinlichkeitstheorie/Wahrscheinlichkeitstheorie.md",
     "Wahrscheinlichkeitstheorie/Zufallsvektoren.md",
+    "Wahrscheinlichkeitstheorie/Wahrscheinlichkeitstheorie.md",
     "Wahrscheinlichkeitstheorie/Zufallsvariablen/Dichtefunktionen PDF.md",
     "Wahrscheinlichkeitstheorie/Zufallsvariablen/Verteilungsfunktion DF.md",
     "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Diskrete Verteillungen.md",
