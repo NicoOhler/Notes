@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Diskrete Verteillungen.md",
+                "file": "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Geometrische Verteilung.md",
                 "mode": "source",
                 "source": false
               }
@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Geometrische Verteilung.md",
+                "file": "Wahrscheinlichkeitstheorie/Zufallsvariablen/Verteilungsfunktion DF.md",
                 "mode": "source",
                 "source": false
               }
@@ -75,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "normalvert",
+                "query": "kurz",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Geometrische Verteilung.md",
+                "file": "Wahrscheinlichkeitstheorie/Zufallsvariablen/Verteilungsfunktion DF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,15 +136,15 @@
   },
   "active": "2dc1bf203c9b2892",
   "lastOpenFiles": [
+    "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Geometrische Verteilung.md",
+    "Wahrscheinlichkeitstheorie/Zufallsvariablen/Verteilungsfunktion DF.md",
+    "Wahrscheinlichkeitstheorie/Zufallsvariablen/Wahrscheinlichkeitsfunktion PMF.md",
+    "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Diskrete Verteillungen.md",
     "Wahrscheinlichkeitstheorie/Wahrscheinlichkeitsräume/Wahrscheinlichkeit.md",
     "Wahrscheinlichkeitstheorie/Wahrscheinlichkeitsräume/Wahrscheinlichkeitsräume.md",
     "Wahrscheinlichkeitstheorie/Wahrscheinlichkeitsräume/Ereignisse.md",
     "Wahrscheinlichkeitstheorie/Wahrscheinlichkeitsräume/Stichprobenraum.md",
     "Diskrete Mathematik/Kongruenzen/Chinesische Restsatz.md",
-    "Diskrete Mathematik/Kongruenzen/Kongruenzen und Partitionen.md",
-    "Wahrscheinlichkeitstheorie/Momente/Varianz.md",
-    "Wahrscheinlichkeitstheorie/Momente/Erwartungswert/Erwartungswert für allgemeine ZV.md",
-    "Wahrscheinlichkeitstheorie/Momente/Erwartungswert/Erwartungswert.md",
-    "Wahrscheinlichkeitstheorie/Zufallsvariablen/Dichtefunktionen PDF.md"
+    "Diskrete Mathematik/Kongruenzen/Kongruenzen und Partitionen.md"
   ]
 }
