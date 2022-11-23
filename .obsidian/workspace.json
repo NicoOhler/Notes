@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wahrscheinlichkeitstheorie/Wahrscheinlichkeitsräume/Wahrscheinlichkeit.md",
+                "file": "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Geometrische Verteilung.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wahrscheinlichkeitstheorie/Wahrscheinlichkeitsräume/Wahrscheinlichkeit.md",
+                "file": "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Geometrische Verteilung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,6 +136,7 @@
   },
   "active": "2dc1bf203c9b2892",
   "lastOpenFiles": [
+    "Wahrscheinlichkeitstheorie/Wahrscheinlichkeitsräume/Wahrscheinlichkeit.md",
     "Wahrscheinlichkeitstheorie/Wahrscheinlichkeitsräume/Wahrscheinlichkeitsräume.md",
     "Wahrscheinlichkeitstheorie/Wahrscheinlichkeitsräume/Ereignisse.md",
     "Wahrscheinlichkeitstheorie/Wahrscheinlichkeitsräume/Stichprobenraum.md",
@@ -144,7 +145,6 @@
     "Wahrscheinlichkeitstheorie/Momente/Varianz.md",
     "Wahrscheinlichkeitstheorie/Momente/Erwartungswert/Erwartungswert für allgemeine ZV.md",
     "Wahrscheinlichkeitstheorie/Momente/Erwartungswert/Erwartungswert.md",
-    "Wahrscheinlichkeitstheorie/Zufallsvariablen/Dichtefunktionen PDF.md",
-    "Wahrscheinlichkeitstheorie/Bedingte Wahrscheinlichkeiten/Satz von Bayes.md"
+    "Wahrscheinlichkeitstheorie/Zufallsvariablen/Dichtefunktionen PDF.md"
   ]
 }
