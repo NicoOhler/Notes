@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wahrscheinlichkeitstheorie/Unabhängigkeit/Unabhängigkeit von Ereignissen.md",
+                "file": "Wahrscheinlichkeitstheorie/Momente/Kovarianz und Korrelation.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "kurz",
+                "query": "momenterz",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -96,7 +96,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -116,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wahrscheinlichkeitstheorie/Unabhängigkeit/Unabhängigkeit von Ereignissen.md",
+                "file": "Wahrscheinlichkeitstheorie/Momente/Kovarianz und Korrelation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,14 +150,14 @@
   "active": "2dc1bf203c9b2892",
   "lastOpenFiles": [
     "Wahrscheinlichkeitstheorie/Unabhängigkeit/Momenterzeugende Funktion.md",
+    "Wahrscheinlichkeitstheorie/Momente/Kovarianz und Korrelation.md",
+    "Wahrscheinlichkeitstheorie/Momente/Moment.md",
+    "Wahrscheinlichkeitstheorie/Unabhängigkeit/Unabhängigkeit von Ereignissen.md",
     "Wahrscheinlichkeitstheorie/Bedingte Wahrscheinlichkeiten/Satz von Bayes.md",
     "Wahrscheinlichkeitstheorie/Zentrale Grenzwertsatz CLT.md",
-    "Wahrscheinlichkeitstheorie/Momente/Kovarianz und Korrelation.md",
     "Wahrscheinlichkeitstheorie/Momente/Erwartungswert/Erwartungswert für allgemeine ZV.md",
     "Wahrscheinlichkeitstheorie/Momente/Erwartungswert/Erwartungswert.md",
     "Wahrscheinlichkeitstheorie/Momente/Erwartungswert/Erwartungswert von linearen Funktionen.md",
-    "Wahrscheinlichkeitstheorie/Momente/Erwartungswert/Erwartungswert für diskrete ZV.md",
-    "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Poisson Verteilung.md",
-    "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Normalverteilung.md"
+    "Wahrscheinlichkeitstheorie/Momente/Erwartungswert/Erwartungswert für diskrete ZV.md"
   ]
 }
