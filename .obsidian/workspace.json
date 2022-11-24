@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Geometrische Verteilung.md",
+                "file": "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Hypergeometrische Verteilung.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Geometrische Verteilung.md",
+                "file": "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Hypergeometrische Verteilung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,6 +148,8 @@
   },
   "active": "2dc1bf203c9b2892",
   "lastOpenFiles": [
+    "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Geometrische Verteilung.md",
+    "Wahrscheinlichkeitstheorie/Laplace-Experimente/Urnenmodell mit Zurücklegen.md",
     "Wahrscheinlichkeitstheorie/Unabhängigkeit/Unabhängigkeit von Zufallsvariablen.md",
     "Wahrscheinlichkeitstheorie/Unabhängigkeit/Unabhängigkeit von Ereignissen.md",
     "Wahrscheinlichkeitstheorie/Unabhängigkeit/Momenterzeugende Funktion.md",
@@ -155,8 +157,6 @@
     "Wahrscheinlichkeitstheorie/Momente/Kovarianz und Korrelation.md",
     "Wahrscheinlichkeitstheorie/Momente/Erwartungswert/Erwartungswert von linearen Funktionen.md",
     "Wahrscheinlichkeitstheorie/Momente/Erwartungswert/Erwartungswert für diskrete ZV.md",
-    "Wahrscheinlichkeitstheorie/Momente/Erwartungswert/Erwartungswert für allgemeine ZV.md",
-    "Wahrscheinlichkeitstheorie/Momente/Erwartungswert/Erwartungswert.md",
-    "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Normalverteilung.md"
+    "Wahrscheinlichkeitstheorie/Momente/Erwartungswert/Erwartungswert für allgemeine ZV.md"
   ]
 }
