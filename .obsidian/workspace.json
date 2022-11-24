@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wahrscheinlichkeitstheorie/Momente/Kovarianz und Korrelation.md",
+                "file": "Wahrscheinlichkeitstheorie/Momente/Erwartungswert/Erwartungswert für allgemeine ZV.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wahrscheinlichkeitstheorie/Momente/Kovarianz und Korrelation.md",
+                "file": "Wahrscheinlichkeitstheorie/Momente/Erwartungswert/Erwartungswert für allgemeine ZV.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,15 +148,15 @@
   },
   "active": "2dc1bf203c9b2892",
   "lastOpenFiles": [
-    "Wahrscheinlichkeitstheorie/Momente/Erwartungswert/Erwartungswert von linearen Funktionen.md",
-    "Wahrscheinlichkeitstheorie/Momente/Erwartungswert/Erwartungswert für allgemeine ZV.md",
     "Wahrscheinlichkeitstheorie/Momente/Erwartungswert/Erwartungswert.md",
+    "Wahrscheinlichkeitstheorie/Momente/Erwartungswert/Erwartungswert von linearen Funktionen.md",
+    "Wahrscheinlichkeitstheorie/Momente/Erwartungswert/Erwartungswert für diskrete ZV.md",
+    "Wahrscheinlichkeitstheorie/Momente/Erwartungswert/Erwartungswert für allgemeine ZV.md",
+    "Wahrscheinlichkeitstheorie/Momente/Kovarianz und Korrelation.md",
     "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Poisson Verteilung.md",
     "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Normalverteilung.md",
     "Wahrscheinlichkeitstheorie/Zentrale Grenzwertsatz CLT.md",
     "Wahrscheinlichkeitstheorie/Zufallsvariablen/Verteilungsfunktion DF.md",
-    "Wahrscheinlichkeitstheorie/Zufallsvektoren.md",
-    "Wahrscheinlichkeitstheorie/Wahrscheinlichkeitstheorie.md",
-    "Wahrscheinlichkeitstheorie/Zufallsvariablen/Dichtefunktionen PDF.md"
+    "Wahrscheinlichkeitstheorie/Zufallsvektoren.md"
   ]
 }
