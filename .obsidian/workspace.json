@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Normalverteilung.md",
+                "file": "Wahrscheinlichkeitstheorie/Unabhängigkeit/Unabhängigkeit von Zufallsvariablen.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Normalverteilung.md",
+                "file": "Wahrscheinlichkeitstheorie/Unabhängigkeit/Unabhängigkeit von Zufallsvariablen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,15 +148,15 @@
   },
   "active": "2dc1bf203c9b2892",
   "lastOpenFiles": [
-    "Wahrscheinlichkeitstheorie/Wahrscheinlichkeitstheorie.md",
-    "Wahrscheinlichkeitstheorie/Zentrale Grenzwertsatz CLT.md",
-    "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Normalverteilung.md",
-    "Wahrscheinlichkeitstheorie/Momente/Kovarianz und Korrelation.md",
-    "Wahrscheinlichkeitstheorie/Unabhängigkeit/Momenterzeugende Funktion.md",
-    "Wahrscheinlichkeitstheorie/Momente/Moment.md",
     "Wahrscheinlichkeitstheorie/Unabhängigkeit/Unabhängigkeit von Ereignissen.md",
-    "Wahrscheinlichkeitstheorie/Bedingte Wahrscheinlichkeiten/Satz von Bayes.md",
+    "Wahrscheinlichkeitstheorie/Unabhängigkeit/Unabhängigkeit von Zufallsvariablen.md",
+    "Wahrscheinlichkeitstheorie/Unabhängigkeit/Momenterzeugende Funktion.md",
+    "Wahrscheinlichkeitstheorie/Momente/Varianz.md",
+    "Wahrscheinlichkeitstheorie/Momente/Kovarianz und Korrelation.md",
+    "Wahrscheinlichkeitstheorie/Momente/Erwartungswert/Erwartungswert von linearen Funktionen.md",
+    "Wahrscheinlichkeitstheorie/Momente/Erwartungswert/Erwartungswert für diskrete ZV.md",
     "Wahrscheinlichkeitstheorie/Momente/Erwartungswert/Erwartungswert für allgemeine ZV.md",
-    "Wahrscheinlichkeitstheorie/Momente/Erwartungswert/Erwartungswert.md"
+    "Wahrscheinlichkeitstheorie/Momente/Erwartungswert/Erwartungswert.md",
+    "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Normalverteilung.md"
   ]
 }
