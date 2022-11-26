@@ -34,7 +34,6 @@
 		+ +x, -y
 		+ -x, +y
 
-
 ### Komplexe Zahlen im Graph
 + X/Y-Diagramm
 	+ x = Re(z)
