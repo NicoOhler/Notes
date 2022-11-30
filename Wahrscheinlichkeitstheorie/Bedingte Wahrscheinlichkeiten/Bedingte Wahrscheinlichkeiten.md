@@ -7,4 +7,8 @@
 
 ### Definition
 + ![[Pasted image 20221111180644.png]]
-+ 
+
+### Übersicht
+[[Satz von Bayes]]
+[[Gesetz der totalen Wahrscheinlichkeiten]]
+[[Modelle höherer Ordnung]]

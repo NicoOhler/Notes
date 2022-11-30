@@ -22,7 +22,7 @@
 + E(Y) [[Binomialverteilung]]
 	+ ![[Pasted image 20221030151601.png]]
 	+ ![[Pasted image 20221030151532.png]]
-+ E(Y) [[Gleichverteilung]]
++ E(Y) Gleichverteilung
 	+ ![[Pasted image 20221030151723.png]]
 	+ ![[Pasted image 20221030151934.png]]
 + E(Y) Binomialverteilung

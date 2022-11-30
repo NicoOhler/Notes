@@ -25,12 +25,24 @@
             "id": "086b63c1ffc6fcc3",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
+            }
+          },
+          {
+            "id": "45305d1b6c737488",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Analysis/Funktionen/Grenzwertbegriff für Funktionen.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -59,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "momenterz",
+                "query": "Gleichverteilung",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,6 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Analysis/Funktionen/Grenzwertbegriff für Funktionen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,17 +130,17 @@
     "width": 322,
     "collapsed": true
   },
-  "active": "086b63c1ffc6fcc3",
+  "active": "45305d1b6c737488",
   "lastOpenFiles": [
-    "Datenstrukturen und Algorithmen/Laufzeitanalyse/Laufzeitanalyse.md",
-    "Datenstrukturen und Algorithmen/Laufzeitanalyse/O-Notation.md",
-    "Datenstrukturen und Algorithmen/Laufzeitanalyse/Θ-Notation.md",
-    "Datenstrukturen und Algorithmen/Datenstrukturen und Algorithmen.md",
-    "Datenstrukturen und Algorithmen/Datenstrukturen/Datenstrukturen.md",
-    "Analysis/Komplexe Analysis/Komplexe Zahlen.md",
-    "Analysis/Komplexe Analysis/Komplexe Analysis.md",
-    "Analysis/Komplexe Analysis/Laplace Transformation.md",
+    "Pasted image 20211202115358.png.md",
+    "Analysis/Funktionen/Grenzwertbegriff für Funktionen.md",
+    "Entscheidungsbaum.md",
+    "Data Management/Cloud Computing/Distributed Data Storage/Serverless Computing.md",
+    "Data Management/Cloud Computing/Distributed Data Storage/Spark.md",
+    "Wahrscheinlichkeitstheorie/Momente/Erwartungswert/Erwartungswert für diskrete ZV.md",
     "Allgemeine Mathematik/Zeichensammlung.md",
-    "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Hypergeometrische Verteilung.md"
+    "Wahrscheinlichkeitstheorie/Zentrale Grenzwertsatz CLT.md",
+    "Konfidenzintervall.md",
+    "Gleichverteilung.md"
   ]
 }

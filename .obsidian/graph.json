@@ -69,6 +69,13 @@
         "a": 1,
         "rgb": 3698688
       }
+    },
+    {
+      "query": "path:\"Computer Organization and Networks\"",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
     }
   ],
   "collapse-display": true,
@@ -81,6 +88,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.2045333600356828,
+  "scale": 0.2045333600356829,
   "close": false
 }

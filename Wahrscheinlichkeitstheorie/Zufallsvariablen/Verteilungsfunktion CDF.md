@@ -12,7 +12,7 @@
 + $P(X∈(a,b])=F(b)-F(a)$
 + ![[Pasted image 20221013075105.png]]
 
-### Zusammenhang zwischen PMF und CDF
+### Zusammenhang [[Wahrscheinlichkeitsfunktion PMF]]  und [[Verteilungsfunktion CDF]]
 + $F^X(x)=\sum_{x_k≤x}p_k$
 + Wenn $∀k:x_{k-1}<k→F^X(x_k)-F^X(x_{k-1})=p_k$
 + $F^X$ ist Treppenfunktion

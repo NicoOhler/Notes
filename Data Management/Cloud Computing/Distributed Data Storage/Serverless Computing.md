@@ -1,4 +1,3 @@
-# Serverless Computing
 ### Definition
 + FaaS: functions-as-a-service
 	+ event-driven
@@ -12,3 +11,4 @@
 ### Example
 ![[Pasted image 20220610121415.png]]
 
+[[Cloud Computing]]

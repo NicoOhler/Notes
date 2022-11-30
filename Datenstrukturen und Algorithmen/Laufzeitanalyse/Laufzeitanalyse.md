@@ -14,3 +14,9 @@
 	+ ![[Pasted image 20221014154640.png]]
 + Ordnung der Laufzeit interessant
 
+### Übersicht
++ [[O-Notation]]
++ [[Θ-Notation]]
++ [[Best-Worst-Average Case]]
++ [[Hauptsatz der Laufzeitfunktionen]]
++ [[Amortisierte Analyse]]
