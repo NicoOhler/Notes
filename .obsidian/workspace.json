@@ -22,27 +22,19 @@
             }
           },
           {
-            "id": "086b63c1ffc6fcc3",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "45305d1b6c737488",
+            "id": "5278675cafef3a71",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Analysis/Funktionen/Grenzwertbegriff für Funktionen.md",
+                "file": "Datenstrukturen und Algorithmen/Laufzeitanalyse/O-Notation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Funktionen/Grenzwertbegriff für Funktionen.md",
+                "file": "Datenstrukturen und Algorithmen/Laufzeitanalyse/O-Notation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,17 +122,17 @@
     "width": 322,
     "collapsed": true
   },
-  "active": "45305d1b6c737488",
+  "active": "5278675cafef3a71",
   "lastOpenFiles": [
-    "Pasted image 20211202115358.png.md",
-    "Analysis/Funktionen/Grenzwertbegriff für Funktionen.md",
-    "Entscheidungsbaum.md",
-    "Data Management/Cloud Computing/Distributed Data Storage/Serverless Computing.md",
-    "Data Management/Cloud Computing/Distributed Data Storage/Spark.md",
-    "Wahrscheinlichkeitstheorie/Momente/Erwartungswert/Erwartungswert für diskrete ZV.md",
+    "Datenstrukturen und Algorithmen/Laufzeitanalyse/Θ-Notation.md",
+    "Datenstrukturen und Algorithmen/Laufzeitanalyse/O-Notation.md",
+    "Datenstrukturen und Algorithmen/Laufzeitanalyse/Laufzeitanalyse.md",
     "Allgemeine Mathematik/Zeichensammlung.md",
-    "Wahrscheinlichkeitstheorie/Zentrale Grenzwertsatz CLT.md",
-    "Konfidenzintervall.md",
-    "Gleichverteilung.md"
+    "Wahrscheinlichkeitstheorie/Laplace-Experimente/Urnenmodell mit Zurücklegen.md",
+    "Datenstrukturen und Algorithmen/Sortierverfahren/Untere Schranke für Sortieren.md",
+    "Entscheidungsbaum.md",
+    "Wahrscheinlichkeitstheorie/Laplace-Experimente/Urnenmodell ohne Zurücklegen.md",
+    "Datenstrukturen und Algorithmen/Datenstrukturen/Bäume/2-4 Bäume.md",
+    "Analysis/Funktionen/Grenzwertbegriff für Funktionen.md"
   ]
 }

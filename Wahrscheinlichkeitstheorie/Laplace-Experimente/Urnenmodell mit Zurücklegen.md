@@ -30,4 +30,4 @@
 	+ ![[Pasted image 20221004163045.png]]
 	+ ![[Pasted image 20221004163157.png]]
 
-[[Laplace-Experimente]] [[Binomische Lehrsatz]] [[Hypergeometrische und Binomialverteilung]]
+[[Laplace-Experimente]] [[Binomische Lehrsatz]] 
