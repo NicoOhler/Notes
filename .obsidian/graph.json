@@ -64,10 +64,10 @@
       }
     },
     {
-      "query": "",
+      "query": "path:\"Datenstrukturen und Algorithmen\"",
       "color": {
         "a": 1,
-        "rgb": 14701233
+        "rgb": 3698688
       }
     }
   ],
@@ -81,6 +81,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.3120272674145458,
+  "scale": 0.2045333600356828,
   "close": false
 }

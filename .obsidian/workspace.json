@@ -25,12 +25,8 @@
             "id": "086b63c1ffc6fcc3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Analysis/Komplexe Analysis/Komplexe Zahlen.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -92,7 +88,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Komplexe Analysis/Komplexe Zahlen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,15 +119,15 @@
   },
   "active": "086b63c1ffc6fcc3",
   "lastOpenFiles": [
-    "Analysis/Komplexe Analysis/Komplexe Analysis.md",
+    "Datenstrukturen und Algorithmen/Laufzeitanalyse/Laufzeitanalyse.md",
+    "Datenstrukturen und Algorithmen/Laufzeitanalyse/O-Notation.md",
+    "Datenstrukturen und Algorithmen/Laufzeitanalyse/Θ-Notation.md",
+    "Datenstrukturen und Algorithmen/Datenstrukturen und Algorithmen.md",
+    "Datenstrukturen und Algorithmen/Datenstrukturen/Datenstrukturen.md",
     "Analysis/Komplexe Analysis/Komplexe Zahlen.md",
+    "Analysis/Komplexe Analysis/Komplexe Analysis.md",
     "Analysis/Komplexe Analysis/Laplace Transformation.md",
     "Allgemeine Mathematik/Zeichensammlung.md",
-    "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Hypergeometrische Verteilung.md",
-    "Wahrscheinlichkeitstheorie/Zufallsvektoren.md",
-    "Wahrscheinlichkeitstheorie/Zufallsvariablen/Wahrscheinlichkeitsfunktion PMF.md",
-    "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Geometrische Verteilung.md",
-    "Wahrscheinlichkeitstheorie/Laplace-Experimente/Urnenmodell mit Zurücklegen.md",
-    "Wahrscheinlichkeitstheorie/Unabhängigkeit/Unabhängigkeit von Zufallsvariablen.md"
+    "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Hypergeometrische Verteilung.md"
   ]
 }
