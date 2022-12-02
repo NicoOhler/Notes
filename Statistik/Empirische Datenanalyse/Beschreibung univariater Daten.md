@@ -32,7 +32,21 @@
 
 ### Schiefe
 + ![[Pasted image 20221202232031.png]]
++ beschreibt (A)Symmetrie
+	+ ![[Pasted image 20221202232228.png]]
 + Normalverteilung 
 	+ Schiefe null, somit symmetrisch
 	+ weicht die empirische Schiefe von null ab
-	+ Annahme der Normalverteilung womöglich falsh
+	+ Annahme der Normalverteilung womöglich falsch
+
+### Wölbung
++ ![[Pasted image 20221202232312.png]]
++ misst Ausprägung der Extrema
+	+ große Wölbung → heavy tails
++ Normalverteilung
+	+ ![[Pasted image 20221202232459.png]]
+
+### Konsistenz
++ unter Annahme des [[Gesetz der großen Zahlen]]
+	+ ![[Pasted image 20221202232547.png]]
++ ![[Pasted image 20221202232602.png]]
