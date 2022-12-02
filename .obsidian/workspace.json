@@ -34,31 +34,7 @@
             }
           },
           {
-            "id": "20dda96f3df8dd3f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Statistik/Empirische Datenanalyse/Stichprobe.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "73776c5ed577ece2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Statistik/Empirische Datenanalyse/Statistiken.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ad197774718f2a06",
+            "id": "eae306e56177ed23",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -68,21 +44,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "eae306e56177ed23",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Statistik/Empirische Datenanalyse/Empirische Datenanalyse.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -170,17 +134,17 @@
     "width": 322,
     "collapsed": true
   },
-  "active": "ad197774718f2a06",
+  "active": "eae306e56177ed23",
   "lastOpenFiles": [
+    "Statistik/Empirische Datenanalyse/Empirische Datenanalyse.md",
+    "Statistik/Empirische Datenanalyse/Explorative Grafiken.md",
+    "Statistik/Empirische Datenanalyse/Stichprobe.md",
+    "Statistik/Empirische Datenanalyse/Statistiken.md",
+    "Statistik/Statistik.md",
+    "z_images/Pasted image 20221202231125.png",
+    "Statistik/Empirische Datenanalyse/Beschreibung univariater Daten.md",
     "z_images/Pasted image 20221202184223.png",
     "z_images/Pasted image 20221202183136.png",
-    "z_images/Pasted image 20221202184110.png",
-    "Statistik/Empirische Datenanalyse/Beschreibung univariater Daten.md",
-    "Statistik/Empirische Datenanalyse/Empirische Datenanalyse.md",
-    "Allgemeine Mathematik/Zeichensammlung.md",
-    "Statistik/Empirische Datenanalyse/Explorative Grafiken.md",
-    "Statistik/Empirische Datenanalyse/Multivariate Daten.md",
-    "Statistik/Empirische Datenanalyse/Statistiken.md",
-    "Statistik/Empirische Datenanalyse/Stichprobe.md"
+    "z_images/Pasted image 20221202184110.png"
   ]
 }

@@ -23,4 +23,16 @@
 
 ### Lokationsmaße
 + ![[Pasted image 20221202231125.png]]
-+ 
++ ![[Pasted image 20221202231335.png]]
++ ![[Pasted image 20221202231342.png]]
+
+### Streuungsmaße
++ ![[Pasted image 20221202231421.png]]
++ ![[Pasted image 20221202231519.png]]
+
+### Schiefe
++ ![[Pasted image 20221202232031.png]]
++ Normalverteilung 
+	+ Schiefe null, somit symmetrisch
+	+ weicht die empirische Schiefe von null ab
+	+ Annahme der Normalverteilung womöglich falsh
