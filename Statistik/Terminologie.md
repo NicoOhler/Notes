@@ -8,3 +8,4 @@
 + Untermenge der Population
 + Elemente nennt man Beobachtungen
 + Beobachtung modelliert mittels [[Zufallsvariable]]
+	+ Ziel: Parameter der ZV bestimmen

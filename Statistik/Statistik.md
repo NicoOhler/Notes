@@ -1,9 +1,3 @@
-### Übersicht
-+ [[Empirische Datenanalyse]]
-+ [[Punkltschätzer]]
-+ [[Hypothesentests]]
-+ [[Lineare Regression]]
-
 ### Arten der Statistik
 + deskriptive Statistik
 	+ beschreibt Daten
@@ -14,4 +8,10 @@
 + Inferenzstatistik
 	+ Rückschlüsse ziehen
 	+ anhand von Stichprobe auf Gesamtpopulation
+
+### Übersicht
++ [[Empirische Datenanalyse]]
++ [[Punkltschätzer]]
++ [[Hypothesentests]]
++ [[Lineare Regression]]
 
