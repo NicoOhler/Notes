@@ -6,6 +6,9 @@
 
 ### Stichprobe (sample)
 + Untermenge der Population
++ Folge von [[Zufallsvariable]]
 + Elemente nennt man Beobachtungen
-+ Beobachtung modelliert mittels [[Zufallsvariable]]
++ Beobachtung modelliert mittels ZV
 	+ Ziel: Parameter der ZV bestimmen
+
+[[Statistik]]

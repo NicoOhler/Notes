@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statistik/Statistik.md",
+                "file": "Statistik/Terminologie.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Statistik/Statistik.md",
+                "file": "Statistik/Terminologie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,9 +148,9 @@
   },
   "active": "20dda96f3df8dd3f",
   "lastOpenFiles": [
-    "Statistik/Terminologie.md",
-    "Statistik/Statistik.md",
     "Statistik/Empirische Datenanalyse/Empirische Datenanalyse.md",
+    "Statistik/Statistik.md",
+    "Statistik/Terminologie.md",
     "Statistik/Punkltschätzer/Punkltschätzer.md",
     "Statistik/Hypothesentests/Hypothesentests.md",
     "Statistik/Lineare Regression/Lineare Regression.md",
