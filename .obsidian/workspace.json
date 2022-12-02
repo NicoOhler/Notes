@@ -39,9 +39,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statistik/Terminologie.md",
+                "file": "Statistik/Empirische Datenanalyse/Stichprobe.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "73776c5ed577ece2",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "z_images/Pasted image 20221202183026.png"
               }
             }
           },
@@ -58,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -116,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Statistik/Terminologie.md",
+                "file": "z_images/Pasted image 20221202183026.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,17 +156,17 @@
     "width": 322,
     "collapsed": true
   },
-  "active": "20dda96f3df8dd3f",
+  "active": "097b9a58ea336072",
   "lastOpenFiles": [
-    "Statistik/Empirische Datenanalyse/Empirische Datenanalyse.md",
+    "Statistik/Empirische Datenanalyse/Statistiken.md",
+    "Statistik/Empirische Datenanalyse/Stichprobe.md",
     "Statistik/Statistik.md",
-    "Statistik/Terminologie.md",
+    "Statistik/Empirische Datenanalyse/Empirische Datenanalyse.md",
+    "z_images/Pasted image 20221202182438.png",
     "Statistik/Punkltschätzer/Punkltschätzer.md",
     "Statistik/Hypothesentests/Hypothesentests.md",
     "Statistik/Lineare Regression/Lineare Regression.md",
     "Allgemeine Mathematik/Zeichensammlung.md",
-    "Datenstrukturen und Algorithmen/Laufzeitanalyse/Laufzeitanalyse.md",
-    "Datenstrukturen und Algorithmen/Datenstrukturen und Algorithmen.md",
-    "Datenstrukturen und Algorithmen/Laufzeitanalyse/Θ-Notation.md"
+    "Datenstrukturen und Algorithmen/Laufzeitanalyse/Laufzeitanalyse.md"
   ]
 }
