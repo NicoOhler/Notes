@@ -8,4 +8,5 @@
 + Perzentile
 	+ ![[Pasted image 20221202183959.png]]
 + Beispiel
-	+ 
+	+ ![[Pasted image 20221202184110.png]]
+	+ ![[Pasted image 20221202184223.png]]
