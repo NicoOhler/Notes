@@ -20,8 +20,45 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "b793cc7ac6df54de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Statistik/Statistik.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "20dda96f3df8dd3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Statistik/Terminologie.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eae306e56177ed23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Statistik/Empirische Datenanalyse/Empirische Datenanalyse.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -79,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Allgemeine Mathematik/Zeichensammlung.md",
+                "file": "Statistik/Terminologie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,17 +146,17 @@
     "width": 322,
     "collapsed": true
   },
-  "active": "3d0cd11fd505c6a9",
+  "active": "20dda96f3df8dd3f",
   "lastOpenFiles": [
+    "Statistik/Statistik.md",
+    "Statistik/Terminologie.md",
+    "Statistik/Empirische Datenanalyse/Empirische Datenanalyse.md",
+    "Statistik/Punkltschätzer/Punkltschätzer.md",
+    "Statistik/Hypothesentests/Hypothesentests.md",
+    "Statistik/Lineare Regression/Lineare Regression.md",
+    "Allgemeine Mathematik/Zeichensammlung.md",
     "Datenstrukturen und Algorithmen/Laufzeitanalyse/Laufzeitanalyse.md",
     "Datenstrukturen und Algorithmen/Datenstrukturen und Algorithmen.md",
-    "Datenstrukturen und Algorithmen/Laufzeitanalyse/Θ-Notation.md",
-    "Datenstrukturen und Algorithmen/Laufzeitanalyse/O-Notation.md",
-    "Datenstrukturen und Algorithmen/Datenstrukturen/HashTable.md",
-    "Allgemeine Mathematik/Zeichensammlung.md",
-    "Wahrscheinlichkeitstheorie/Laplace-Experimente/Urnenmodell mit Zurücklegen.md",
-    "Datenstrukturen und Algorithmen/Sortierverfahren/Untere Schranke für Sortieren.md",
-    "Entscheidungsbaum.md",
-    "Wahrscheinlichkeitstheorie/Laplace-Experimente/Urnenmodell ohne Zurücklegen.md"
+    "Datenstrukturen und Algorithmen/Laufzeitanalyse/Θ-Notation.md"
   ]
 }
