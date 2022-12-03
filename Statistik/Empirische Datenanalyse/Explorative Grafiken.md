@@ -26,5 +26,15 @@
 + ![[Pasted image 20221202234022.png]]
 + Ausreißer
 	+ Punkte außerhalb der Antennen
-	+ viele Ausrei
+	+ viele Ausreißer → womöglich nicht normalverteilt
 + ideal für Vergleich unterschiedener Stichproben
++ liefert schnellen Überblick
+
+### Q-Q-Plot
++ Quantil-Quantil-Plot
++ vergleicht Daten mit Referenzverteilung
+	+ beurteilt Anpassung der Daten an theoretische Verteilung
++ ![[Pasted image 20221202234407.png]]
++ Annahme Normalverteilung
+	+ Q-Q-Plot weist auf Gegenteil hin
+	+ ![[Pasted image 20221202234549.png]]
