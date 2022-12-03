@@ -22,43 +22,7 @@
             }
           },
           {
-            "id": "b793cc7ac6df54de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Statistik/Statistik.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eae306e56177ed23",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Statistik/Empirische Datenanalyse/Beschreibung univariater Daten.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "77d36d8dac601a00",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Datenstrukturen und Algorithmen/Gemoetric Algorithms/Geometric Algorithms.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "810fce5991f0a22d",
+            "id": "17523d7b3b321141",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -68,9 +32,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3143b78f21939986",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Datenstrukturen und Algorithmen/Design Principles/Divide&Conquer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -158,17 +134,17 @@
     "width": 322,
     "collapsed": true
   },
-  "active": "097b9a58ea336072",
+  "active": "17523d7b3b321141",
   "lastOpenFiles": [
-    "Datenstrukturen und Algorithmen/Gemoetric Algorithms/Geometric Algorithms.md",
-    "Statistik/Empirische Datenanalyse/Beschreibung univariater Daten.md",
-    "Statistik/Empirische Datenanalyse/Empirische Datenanalyse.md",
-    "Statistik/Empirische Datenanalyse/Explorative Grafiken.md",
-    "Statistik/Empirische Datenanalyse/Multivariate Daten.md",
-    "z_images/Pasted image 20221202234839.png",
-    "Statistik/Statistik.md",
-    "Allgemeine Mathematik/Zeichensammlung.md",
-    "z_images/Pasted image 20221202233619.png",
-    "Statistik/Empirische Datenanalyse/Stichprobe.md"
+    "Datenstrukturen und Algorithmen/Asymptotic Complexity/Time- and Memory Consumption.md",
+    "Datenstrukturen und Algorithmen/Design Principles/Design Principles.md",
+    "Datenstrukturen und Algorithmen/Design Principles/Divide&Conquer.md",
+    "Datenstrukturen und Algorithmen/Data Structures and Algorithms 2.md",
+    "Datenstrukturen und Algorithmen/Design Principles/Dynamic Programming.md",
+    "Datenstrukturen und Algorithmen/Design Principles/Scanline Principle.md",
+    "Datenstrukturen und Algorithmen/Complexity Theory/Complexity Theory.md",
+    "Datenstrukturen und Algorithmen/Graph algorithms/Graph Algorithms.md",
+    "Datenstrukturen und Algorithmen/Asymptotic Complexity/Asymptotic Complexity.md",
+    "Datenstrukturen und Algorithmen/Gemoetric Algorithms/Geometric Algorithms.md"
   ]
 }

@@ -1,7 +1,7 @@
 ### Eigenschaften
 + Gesamtlösung baut auf Teillösungen eines Problems auf
 + Teilprobleme müssen nicht voneinander unabhängig sein
-	+ anders als bei [[Divide & Conquer]]
+	+ anders als bei [[Datenstrukturen und Algorithmen/Arten von Algorithmen/Divide & Conquer]]
 + Memorization
 	+ Teilergebnisse werden wiederverwendet
 

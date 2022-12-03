@@ -1,5 +1,5 @@
 ### Eigenschaften
-+ [[Divide & Conquer]] Algorithmus
++ [[Datenstrukturen und Algorithmen/Arten von Algorithmen/Divide & Conquer]] Algorithmus
 + in-place
 + Verfahren
 	+ zerlege Feld in zwei Felder

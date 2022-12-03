@@ -1,6 +1,6 @@
 ### Arten
 + [[Iterative Algorithmen]]
 + [[Rekursive Algorithmen]]
-+ [[Divide & Conquer]]
++ [[Datenstrukturen und Algorithmen/Arten von Algorithmen/Divide & Conquer]]
 + [[Greedy Algorithmen]]
 + [[Dynamische Programmierung]]
