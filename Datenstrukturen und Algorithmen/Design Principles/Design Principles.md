@@ -14,3 +14,8 @@
 		+ instead adds next element to previous
 	+ ![[Pasted image 20221203230130.png]]
 	+ ![[Pasted image 20221203230420.png]]
+	+ ![[Pasted image 20221203231150.png]]
++ Multiplication of large integers
+	+ ![[Pasted image 20221203231404.png]]
+	+ ![[Pasted image 20221203231416.png]]
+	+ 
