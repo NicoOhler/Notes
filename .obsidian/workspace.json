@@ -44,9 +44,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "77d36d8dac601a00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Datenstrukturen und Algorithmen/Gemoetric Algorithms/Geometric Algorithms.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "810fce5991f0a22d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Datenstrukturen und Algorithmen/Design Principles/Design Principles.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -104,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Statistik/Empirische Datenanalyse/Beschreibung univariater Daten.md",
+                "file": "Datenstrukturen und Algorithmen/Design Principles/Design Principles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,17 +158,17 @@
     "width": 322,
     "collapsed": true
   },
-  "active": "eae306e56177ed23",
+  "active": "097b9a58ea336072",
   "lastOpenFiles": [
+    "Datenstrukturen und Algorithmen/Gemoetric Algorithms/Geometric Algorithms.md",
+    "Statistik/Empirische Datenanalyse/Beschreibung univariater Daten.md",
     "Statistik/Empirische Datenanalyse/Empirische Datenanalyse.md",
     "Statistik/Empirische Datenanalyse/Explorative Grafiken.md",
-    "Statistik/Empirische Datenanalyse/Beschreibung univariater Daten.md",
     "Statistik/Empirische Datenanalyse/Multivariate Daten.md",
     "z_images/Pasted image 20221202234839.png",
     "Statistik/Statistik.md",
     "Allgemeine Mathematik/Zeichensammlung.md",
     "z_images/Pasted image 20221202233619.png",
-    "Statistik/Empirische Datenanalyse/Stichprobe.md",
-    "Statistik/Empirische Datenanalyse/Statistiken.md"
+    "Statistik/Empirische Datenanalyse/Stichprobe.md"
   ]
 }
