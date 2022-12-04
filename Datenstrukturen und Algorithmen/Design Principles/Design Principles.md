@@ -21,3 +21,7 @@
 	+ ![[Pasted image 20221203231815.png]]
 	+ ![[Pasted image 20221203232301.png]]
 	+ ![[Pasted image 20221203232402.png]]
++ Exponentiation
+	+ ![[Pasted image 20221204101602.png]]
+	+ ![[Pasted image 20221204101851.png]]
+	+ 
