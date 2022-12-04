@@ -33,7 +33,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -91,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Allgemeine Mathematik/Zeichensammlung.md",
+                "file": "Datenstrukturen und Algorithmen/Design Principles/Design Principles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,8 +122,9 @@
     "width": 322,
     "collapsed": true
   },
-  "active": "3d0cd11fd505c6a9",
+  "active": "10348c20cee413fd",
   "lastOpenFiles": [
+    "Allgemeine Mathematik/Zeichensammlung.md",
     "Datenstrukturen und Algorithmen/Design Principles/Design Principles.md",
     "Datenstrukturen und Algorithmen/Data Structures and Algorithms 2.md",
     "Datenstrukturen und Algorithmen/Datenstrukturen und Algorithmen.md",
@@ -131,7 +133,6 @@
     "Datenstrukturen und Algorithmen/Arten von Algorithmen/Rekursive Algorithmen.md",
     "Datenstrukturen und Algorithmen/Arten von Algorithmen/Iterative Algorithmen.md",
     "Datenstrukturen und Algorithmen/Arten von Algorithmen/Arten von Algorithmen.md",
-    "Datenstrukturen und Algorithmen/Asymptotic Complexity/Time- and Memory Consumption.md",
-    "Datenstrukturen und Algorithmen/Asymptotic Complexity/Asymptotic Complexity.md"
+    "Datenstrukturen und Algorithmen/Asymptotic Complexity/Time- and Memory Consumption.md"
   ]
 }
