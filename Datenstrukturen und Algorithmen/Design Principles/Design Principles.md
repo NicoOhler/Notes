@@ -27,4 +27,4 @@
 	+ ![[Pasted image 20221204102339.png]]
 + Matrix Multiplication
 	+ ![[Pasted image 20221204102702.png]]
-	+ 
+	+ ![[Pasted image 20221204103051.png]]
