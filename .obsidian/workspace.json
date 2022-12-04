@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Datenstrukturen und Algorithmen/Design Principles/Design Principles.md",
+                "file": "Datenstrukturen und Algorithmen/Laufzeitanalyse/O-Notation.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Datenstrukturen und Algorithmen/Design Principles/Design Principles.md",
+                "file": "Datenstrukturen und Algorithmen/Laufzeitanalyse/O-Notation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,8 +124,8 @@
   },
   "active": "10348c20cee413fd",
   "lastOpenFiles": [
-    "Allgemeine Mathematik/Zeichensammlung.md",
     "Datenstrukturen und Algorithmen/Design Principles/Design Principles.md",
+    "Allgemeine Mathematik/Zeichensammlung.md",
     "Datenstrukturen und Algorithmen/Data Structures and Algorithms 2.md",
     "Datenstrukturen und Algorithmen/Datenstrukturen und Algorithmen.md",
     "Datenstrukturen und Algorithmen/Arten von Algorithmen/Divide & Conquer.md",
