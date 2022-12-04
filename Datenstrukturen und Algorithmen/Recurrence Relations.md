@@ -12,4 +12,6 @@
 	+ ![[Pasted image 20221204105940.png]]
 
 ### Methods to solve recurrence relations
-+ iterative m
++ [[Iterative Method]]
++ [[Hauptsatz der Laufzeitfunktionen]]
++ [[Substitution Method]]

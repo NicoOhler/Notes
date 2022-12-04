@@ -46,6 +46,18 @@
             }
           },
           {
+            "id": "ccf0bb86886f344f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Datenstrukturen und Algorithmen/Laufzeitanalyse/Hauptsatz der Laufzeitfunktionen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "3143b78f21939986",
             "type": "leaf",
             "state": {
@@ -58,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -116,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Datenstrukturen und Algorithmen/Recurrence Relations.md",
+                "file": "Datenstrukturen und Algorithmen/Laufzeitanalyse/Hauptsatz der Laufzeitfunktionen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,17 +158,17 @@
     "width": 322,
     "collapsed": true
   },
-  "active": "1c0cf9937e235abf",
+  "active": "ccf0bb86886f344f",
   "lastOpenFiles": [
-    "Datenstrukturen und Algorithmen/Laufzeitanalyse/Laufzeitanalyse.md",
     "Datenstrukturen und Algorithmen/Recurrence Relations.md",
+    "Datenstrukturen und Algorithmen/Iterative Method.md",
+    "Datenstrukturen und Algorithmen/Laufzeitanalyse/Hauptsatz der Laufzeitfunktionen.md",
+    "Datenstrukturen und Algorithmen/Laufzeitanalyse/Laufzeitanalyse.md",
     "z_images/Pasted image 20221204105716.png",
     "Datenstrukturen und Algorithmen/Laufzeitanalyse/O-Notation.md",
     "Datenstrukturen und Algorithmen/Laufzeitanalyse/Θ-Notation.md",
     "Datenstrukturen und Algorithmen/Design Principles/Design Principles.md",
     "Datenstrukturen und Algorithmen/Design Principles/Scanline Principle.md",
-    "Datenstrukturen und Algorithmen/Asymptotic Complexity/Time- and Memory Consumption.md",
-    "Datenstrukturen und Algorithmen/Design Principles/Divide&Conquer.md",
-    "Datenstrukturen und Algorithmen/Data Structures and Algorithms 2.md"
+    "Datenstrukturen und Algorithmen/Asymptotic Complexity/Time- and Memory Consumption.md"
   ]
 }
