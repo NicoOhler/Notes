@@ -13,4 +13,5 @@
 + ![[Pasted image 20221204111009.png]]
 
 ### Recursion Tree
-+ 
++ ![[Pasted image 20221204111138.png]]
++ ![[Pasted image 20221204111326.png]]
