@@ -20,3 +20,4 @@
 + [[Best-Worst-Average Case]]
 + [[Hauptsatz der Laufzeitfunktionen]]
 + [[Amortisierte Analyse]]
+
