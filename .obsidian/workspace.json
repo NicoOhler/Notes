@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Datenstrukturen und Algorithmen/Laufzeitanalyse/O-Notation.md",
+                "file": "Datenstrukturen und Algorithmen/Design Principles/Design Principles.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Datenstrukturen und Algorithmen/Laufzeitanalyse/O-Notation.md",
+                "file": "Datenstrukturen und Algorithmen/Design Principles/Design Principles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,6 +124,7 @@
   },
   "active": "10348c20cee413fd",
   "lastOpenFiles": [
+    "Datenstrukturen und Algorithmen/Laufzeitanalyse/O-Notation.md",
     "Datenstrukturen und Algorithmen/Design Principles/Design Principles.md",
     "Allgemeine Mathematik/Zeichensammlung.md",
     "Datenstrukturen und Algorithmen/Data Structures and Algorithms 2.md",
@@ -132,7 +133,6 @@
     "Datenstrukturen und Algorithmen/Arten von Algorithmen/Dynamische Programmierung.md",
     "Datenstrukturen und Algorithmen/Arten von Algorithmen/Rekursive Algorithmen.md",
     "Datenstrukturen und Algorithmen/Arten von Algorithmen/Iterative Algorithmen.md",
-    "Datenstrukturen und Algorithmen/Arten von Algorithmen/Arten von Algorithmen.md",
-    "Datenstrukturen und Algorithmen/Asymptotic Complexity/Time- and Memory Consumption.md"
+    "Datenstrukturen und Algorithmen/Arten von Algorithmen/Arten von Algorithmen.md"
   ]
 }
