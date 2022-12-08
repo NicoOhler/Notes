@@ -23,4 +23,6 @@
 + Normalverteilung 1
 	+ ![[Pasted image 20221208160225.png]]
 + Normalverteilung 2
-	+ 
+	+ ![[Pasted image 20221208160730.png]]
+	+ erste Term vernachlässigbar
+		+ verändert Position des Maximums nicht
