@@ -34,46 +34,12 @@
             }
           },
           {
-            "id": "8162beba59978083",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "z_images/Pasted image 20221208124139.png"
-              }
-            }
-          },
-          {
-            "id": "0912af317bac2c1d",
+            "id": "948f9dfbc53bcbaf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statistik/Hypothesentests/Zweistichproben-t-Test.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3bd84d85b10858d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Statistik/Hypothesentests/Zweistichproben-Gauß-Test.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "80bcfda1c73b2325",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Statistik/Hypothesentests/Gauß-Test.md",
+                "file": "Statistik/Punkltschätzer/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "z_images/Pasted image 20221208124139.png",
+                "file": "Statistik/Punkltschätzer/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,17 +134,17 @@
     "width": 322,
     "collapsed": true
   },
-  "active": "097b9a58ea336072",
+  "active": "948f9dfbc53bcbaf",
   "lastOpenFiles": [
-    "Statistik/Hypothesentests/p-Wert.md",
     "Statistik/Hypothesentests/Hypothesentests.md",
     "Statistik/Hypothesentests/Zweistichproben-t-Test.md",
+    "z_images/Pasted image 20221208124139.png",
+    "Statistik/Hypothesentests/p-Wert.md",
     "Statistik/Hypothesentests/Zweistichproben-Gauß-Test.md",
     "Statistik/Hypothesentests/Gauß-Test.md",
     "z_images/Pasted image 20221208122123.png",
     "Statistik/Hypothesentests/t-Test.md",
     "Allgemeine Mathematik/Zeichensammlung.md",
-    "z_images/Pasted image 20221208122012.png",
-    "Statistik/Hypothesentests/Hypothesen.md"
+    "z_images/Pasted image 20221208122012.png"
   ]
 }
