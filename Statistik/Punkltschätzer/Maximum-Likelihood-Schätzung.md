@@ -26,4 +26,5 @@
 	+ ![[Pasted image 20221208160730.png]]
 	+ erste Term vernachlässigbar
 		+ verändert Position des Maximums nicht
-		+ 
+	+ ![[Pasted image 20221208165817.png]]
+	+ ![[Pasted image 20221208165900.png]]
