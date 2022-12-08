@@ -40,3 +40,7 @@
 + ![[Pasted image 20221208123736.png]]
 + Untersuchung von Hypothesenpaar für $\omega_0∈ℝ$
 	+ ![[Pasted image 20221208123756.png]]
++ Unterscheidung in zwei Fälle
+	+ [[Zweistichproben-Gauß-Test]], wenn Varianzen bekannt
+	+ [[Zweistichproben-t-Test]], wenn Varianzen unbekannt
+
