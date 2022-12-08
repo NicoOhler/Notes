@@ -19,5 +19,25 @@
 	+ $\alpha$ beschränkt Fehler 1. Art
 	+ ![[Pasted image 20221208115645.png]]
 + Beispiele
-	+ ![[Pasted image 20221208115842.png]]
-	+ 
+	+ Medikament
+		+ ![[Pasted image 20221208115842.png]]
+		+ ![[Pasted image 20221208115930.png]]
+		+ ![[Pasted image 20221208120118.png]]
+	+ Münzwurf
+		+ ![[Pasted image 20221208120318.png]]
+
+### Vorgehensweise
++ ![[Pasted image 20221208120346.png]]
+
+### Einstichprobenproblem
++ statistische Tests um Eigenschaften einer [[Stichprobe]] von [[Zufallsvariable]]n zu studieren
++ ![[Pasted image 20221208120550.png]]
+
+### Gauß-Test
++ Varianz $\sigma^2$ bekannt
++ Test von
+	+ ![[Pasted image 20221208120659.png]]
+	+ ![[Pasted image 20221208120724.png]]
++ Es gilt
+	+ ![[Pasted image 20221208120847.png]]
+	+ ![[Pasted image 20221208120900.png]]
