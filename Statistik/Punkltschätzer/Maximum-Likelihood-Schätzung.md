@@ -13,5 +13,14 @@
 		+ ![[Pasted image 20221208154825.png]]
 
 ### Beispiel
-+ ![[Pasted image 20221208155506.png]]
-+ ![[Pasted image 20221208155549.png]]
++ Bernoulli-Verteilung
+	+ ![[Pasted image 20221208155506.png]]
+	+ ![[Pasted image 20221208155549.png]]
+	+ Alternative: Verhalten am Rand analysieren
+		+ ![[Pasted image 20221208155723.png]]
+	+ ![[Pasted image 20221208160029.png]]
+	+ ![[Pasted image 20221208160126.png]]
++ Normalverteilung 1
+	+ ![[Pasted image 20221208160225.png]]
++ Normalverteilung 2
+	+ 
