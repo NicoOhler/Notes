@@ -35,3 +35,8 @@
 + Unterscheidung in zwei Fälle
 	+ [[Gauß-Test]], wenn Varianz $\sigma^2$ bekannt
 	+ [[t-Test]], wenn Varianz $\sigma^2$ unbekannt
+
+### Zweistichprobenproblem
++ ![[Pasted image 20221208123736.png]]
++ Untersuchung von Hypothesenpaar für $\omega_0∈ℝ$
+	+ ![[Pasted image 20221208123756.png]]

@@ -58,7 +58,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Statistik/Hypothesentests/t-Test.md",
+                "file": "Statistik/Hypothesentests/Hypothesentests.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,15 +146,15 @@
     "width": 322,
     "collapsed": true
   },
-  "active": "5bf3901c9395ee7b",
+  "active": "1aa035d9620d66e2",
   "lastOpenFiles": [
-    "Statistik/Hypothesentests/Gauß-Test.md",
-    "Statistik/Hypothesentests/t-Test.md",
-    "z_images/Pasted image 20221208122012.png",
+    "Allgemeine Mathematik/Zeichensammlung.md",
     "Statistik/Hypothesentests/Hypothesentests.md",
+    "Statistik/Hypothesentests/t-Test.md",
+    "Statistik/Hypothesentests/Gauß-Test.md",
+    "z_images/Pasted image 20221208122012.png",
     "Statistik/Hypothesentests/Hypothesen.md",
     "z_images/Pasted image 20221208114118.png",
-    "Allgemeine Mathematik/Zeichensammlung.md",
     "NRLA/Vektoren/Lineare Unabhängigkeit.md",
     "Datenstrukturen und Algorithmen/Laufzeitanalyse/Θ-Notation.md",
     "Datenstrukturen und Algorithmen/Design Principles/Design Principles.md"

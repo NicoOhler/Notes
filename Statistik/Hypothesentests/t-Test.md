@@ -15,6 +15,8 @@
 + ![[Pasted image 20221208122541.png]]
 + ![[Pasted image 20221208122551.png]]
 
-### Beispiel
+### Anwendung
 + ![[Pasted image 20221208122720.png]]
 + ![[Pasted image 20221208122825.png]]
++ R
+	+ ![[Pasted image 20221208123235.png]]
