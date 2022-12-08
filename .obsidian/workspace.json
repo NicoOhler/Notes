@@ -37,9 +37,11 @@
             "id": "fa3a1e24397add2e",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "z_images/Pasted image 20221208160029.png"
+                "file": "Statistik/Punkltschätzer/Maximum-Likelihood-Schätzung.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -102,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "z_images/Pasted image 20221208160029.png",
+                "file": "Statistik/Punkltschätzer/Maximum-Likelihood-Schätzung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,8 +134,9 @@
     "width": 322,
     "collapsed": true
   },
-  "active": "097b9a58ea336072",
+  "active": "fa3a1e24397add2e",
   "lastOpenFiles": [
+    "z_images/Pasted image 20221208160029.png",
     "Statistik/Punkltschätzer/Maximum-Likelihood-Schätzung.md",
     "z_images/Pasted image 20221208153310.png",
     "z_images/Pasted image 20221208155723.png",
@@ -142,7 +145,6 @@
     "Allgemeine Mathematik/Zeichensammlung.md",
     "z_images/Pasted image 20221208152331.png",
     "z_images/Pasted image 20221208152257.png",
-    "Statistik/Hypothesentests/Zweistichproben-t-Test.md",
-    "z_images/Pasted image 20221208124139.png"
+    "Statistik/Hypothesentests/Zweistichproben-t-Test.md"
   ]
 }
