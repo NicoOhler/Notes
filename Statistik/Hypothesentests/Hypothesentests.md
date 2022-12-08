@@ -32,12 +32,6 @@
 ### Einstichprobenproblem
 + statistische Tests um Eigenschaften einer [[Stichprobe]] von [[Zufallsvariable]]n zu studieren
 + ![[Pasted image 20221208120550.png]]
-
-### Gauß-Test
-+ Varianz $\sigma^2$ bekannt
-+ Test von
-	+ ![[Pasted image 20221208120659.png]]
-	+ ![[Pasted image 20221208120724.png]]
-+ Es gilt
-	+ ![[Pasted image 20221208120847.png]]
-	+ ![[Pasted image 20221208120900.png]]
++ Unterscheidung in zwei Fälle
+	+ [[Gauß-Test]], wenn Varianz $\sigma^2$ bekannt
+	+ [[t-Test]], wenn Varianz $\sigma^2$ unbekannt

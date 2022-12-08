@@ -18,3 +18,15 @@
 + Medikament
 	+ ![[Pasted image 20221208114737.png]]
 	+ ![[Pasted image 20221208114751.png]]
+
+### Arten von Hypothesen
++ zweiseitig
+	+ Verletzung in zwei Richtungen möglich
+	+ ![[Pasted image 20221208121702.png]]
+		+ deutlich größer/kleiner
++ einseitig
+	+ Verletzung nur in eine Richtung möglich
+	+ ![[Pasted image 20221208121806.png]]
+		+ deutlich größer
+	+ ![[Pasted image 20221208121850.png]]
+		+ deutlich kleiner
