@@ -18,8 +18,15 @@
 + ![[Pasted image 20221208153313.png]]
 + ![[Pasted image 20221208153331.png]]
 + Linearkombination unabhängiger, normalverteilter Zufallsvariablen ist normalverteilt
+	+ Es folgt
+		+ ![[Pasted image 20221208153748.png]]
+	+ weil
+		+ ![[Pasted image 20221208153732.png]]
+	+ 
 
-### Verteilung $X$
+### Verteilung $\bar{X}$ als Schätzer für $\mu$
++ ![[Pasted image 20221208153643.png]]
++ 
 
 ### Parameterräume
 + ![[Pasted image 20221208152432.png]]
