@@ -22,12 +22,12 @@
             }
           },
           {
-            "id": "10348c20cee413fd",
+            "id": "1aa035d9620d66e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NRLA/Vektoren/Lineare Unabhängigkeit.md",
+                "file": "Statistik/Hypothesentests/Hypothesentests.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NRLA/Vektoren/Lineare Unabhängigkeit.md",
+                "file": "Statistik/Hypothesentests/Hypothesentests.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,17 +122,17 @@
     "width": 322,
     "collapsed": true
   },
-  "active": "10348c20cee413fd",
+  "active": "1aa035d9620d66e2",
   "lastOpenFiles": [
+    "Statistik/Hypothesentests/Hypothesen.md",
+    "z_images/Pasted image 20221208114118.png",
+    "Allgemeine Mathematik/Zeichensammlung.md",
+    "NRLA/Vektoren/Lineare Unabhängigkeit.md",
     "Datenstrukturen und Algorithmen/Laufzeitanalyse/Θ-Notation.md",
     "Datenstrukturen und Algorithmen/Design Principles/Design Principles.md",
     "Datenstrukturen und Algorithmen/Laufzeitanalyse/O-Notation.md",
-    "Allgemeine Mathematik/Zeichensammlung.md",
     "Datenstrukturen und Algorithmen/Data Structures and Algorithms 2.md",
     "Datenstrukturen und Algorithmen/Datenstrukturen und Algorithmen.md",
-    "Datenstrukturen und Algorithmen/Arten von Algorithmen/Divide & Conquer.md",
-    "Datenstrukturen und Algorithmen/Arten von Algorithmen/Dynamische Programmierung.md",
-    "Datenstrukturen und Algorithmen/Arten von Algorithmen/Rekursive Algorithmen.md",
-    "Datenstrukturen und Algorithmen/Arten von Algorithmen/Iterative Algorithmen.md"
+    "Datenstrukturen und Algorithmen/Arten von Algorithmen/Divide & Conquer.md"
   ]
 }
