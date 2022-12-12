@@ -32,6 +32,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e174fe7798566fa7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Statistik/Empirische Datenanalyse/Statistiken.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -63,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "konfiden",
+                "query": "statistik",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -72,7 +84,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -124,15 +137,15 @@
   },
   "active": "1ad781ff508046b3",
   "lastOpenFiles": [
-    "Statistik/Hypothesentests/t-Test.md",
+    "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Normalverteilung.md",
+    "Wahrscheinlichkeitstheorie/Momente/Varianz.md",
+    "Statistik/Punkltschätzer/Schätzer.md",
+    "Statistik/Empirische Datenanalyse/Statistiken.md",
     "Statistik/Hypothesentests/Gauß-Test.md",
+    "Statistik/Hypothesentests/t-Test.md",
     "Statistik/Hypothesentests/p-Wert.md",
     "Statistik/Hypothesentests/Hypothesentests.md",
     "Statistik/Hypothesentests/Hypothesen.md",
-    "Statistik/Punkltschätzer/Maximum-Likelihood-Schätzung.md",
-    "Statistik/Punkltschätzer/Konfidenzintervall.md",
-    "z_images/Pasted image 20221208172356.png",
-    "Allgemeine Mathematik/Zeichensammlung.md",
-    "Wahrscheinlichkeitstheorie/Zentrale Grenzwertsatz CLT.md"
+    "Statistik/Punkltschätzer/Maximum-Likelihood-Schätzung.md"
   ]
 }
