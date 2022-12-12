@@ -27,26 +27,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statistik/Hypothesentests/Gauß-Test.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e174fe7798566fa7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Statistik/Punkltschätzer/Schätzer.md",
+                "file": "Statistik/Punkltschätzer/Maximum-Likelihood-Schätzung.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Statistik/Punkltschätzer/Schätzer.md",
+                "file": "Statistik/Punkltschätzer/Maximum-Likelihood-Schätzung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,17 +122,17 @@
     "width": 322,
     "collapsed": true
   },
-  "active": "e174fe7798566fa7",
+  "active": "1ad781ff508046b3",
   "lastOpenFiles": [
-    "Statistik/Hypothesentests/Hypothesen.md",
     "Statistik/Hypothesentests/Gauß-Test.md",
+    "Statistik/Punkltschätzer/Schätzer.md",
+    "Statistik/Hypothesentests/Hypothesen.md",
     "Statistik/Hypothesentests/Hypothesentests.md",
     "Statistik/Hypothesentests/p-Wert.md",
     "Statistik/Hypothesentests/t-Test.md",
     "Statistik/Hypothesentests/Zweistichproben-t-Test.md",
     "Statistik/Hypothesentests/Zweistichproben-Gauß-Test.md",
     "Statistik/Empirische Datenanalyse/Statistiken.md",
-    "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Normalverteilung.md",
-    "Wahrscheinlichkeitstheorie/Momente/Varianz.md"
+    "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Normalverteilung.md"
   ]
 }
