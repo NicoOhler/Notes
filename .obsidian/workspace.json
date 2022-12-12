@@ -39,14 +39,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statistik/Empirische Datenanalyse/Statistiken.md",
+                "file": "Statistik/Punkltschätzer/Schätzer.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -84,8 +84,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -105,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Statistik/Hypothesentests/Gauß-Test.md",
+                "file": "Statistik/Punkltschätzer/Schätzer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,17 +134,17 @@
     "width": 322,
     "collapsed": true
   },
-  "active": "1ad781ff508046b3",
+  "active": "e174fe7798566fa7",
   "lastOpenFiles": [
-    "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Normalverteilung.md",
-    "Wahrscheinlichkeitstheorie/Momente/Varianz.md",
-    "Statistik/Punkltschätzer/Schätzer.md",
-    "Statistik/Empirische Datenanalyse/Statistiken.md",
-    "Statistik/Hypothesentests/Gauß-Test.md",
-    "Statistik/Hypothesentests/t-Test.md",
-    "Statistik/Hypothesentests/p-Wert.md",
-    "Statistik/Hypothesentests/Hypothesentests.md",
     "Statistik/Hypothesentests/Hypothesen.md",
-    "Statistik/Punkltschätzer/Maximum-Likelihood-Schätzung.md"
+    "Statistik/Hypothesentests/Gauß-Test.md",
+    "Statistik/Hypothesentests/Hypothesentests.md",
+    "Statistik/Hypothesentests/p-Wert.md",
+    "Statistik/Hypothesentests/t-Test.md",
+    "Statistik/Hypothesentests/Zweistichproben-t-Test.md",
+    "Statistik/Hypothesentests/Zweistichproben-Gauß-Test.md",
+    "Statistik/Empirische Datenanalyse/Statistiken.md",
+    "Wahrscheinlichkeitstheorie/Diskrete Verteilungen/Normalverteilung.md",
+    "Wahrscheinlichkeitstheorie/Momente/Varianz.md"
   ]
 }
