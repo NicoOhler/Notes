@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statistik/Punkltschätzer/Konfidenzintervall.md",
+                "file": "Statistik/Hypothesentests/Gauß-Test.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Statistik/Punkltschätzer/Konfidenzintervall.md",
+                "file": "Statistik/Hypothesentests/Gauß-Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,15 +124,15 @@
   },
   "active": "1ad781ff508046b3",
   "lastOpenFiles": [
-    "z_images/Pasted image 20221208172356.png",
-    "Statistik/Punkltschätzer/Konfidenzintervall.md",
-    "Allgemeine Mathematik/Zeichensammlung.md",
+    "Statistik/Hypothesentests/t-Test.md",
+    "Statistik/Hypothesentests/Gauß-Test.md",
+    "Statistik/Hypothesentests/p-Wert.md",
+    "Statistik/Hypothesentests/Hypothesentests.md",
+    "Statistik/Hypothesentests/Hypothesen.md",
     "Statistik/Punkltschätzer/Maximum-Likelihood-Schätzung.md",
-    "Wahrscheinlichkeitstheorie/Zentrale Grenzwertsatz CLT.md",
-    "Statistik/Punkltschätzer/Mean Squared Error.md",
-    "Statistik/Punkltschätzer/Schätzer.md",
-    "z_images/Pasted image 20221208160029.png",
-    "z_images/Pasted image 20221208153310.png",
-    "z_images/Pasted image 20221208155723.png"
+    "Statistik/Punkltschätzer/Konfidenzintervall.md",
+    "z_images/Pasted image 20221208172356.png",
+    "Allgemeine Mathematik/Zeichensammlung.md",
+    "Wahrscheinlichkeitstheorie/Zentrale Grenzwertsatz CLT.md"
   ]
 }
