@@ -22,30 +22,6 @@
             }
           },
           {
-            "id": "fa3a1e24397add2e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Statistik/Punkltschätzer/Maximum-Likelihood-Schätzung.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eb1a5ddead08a29d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Statistik/Punkltschätzer/Mean Squared Error.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "1ad781ff508046b3",
             "type": "leaf",
             "state": {
@@ -58,7 +34,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,8 +72,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -149,15 +124,15 @@
   },
   "active": "1ad781ff508046b3",
   "lastOpenFiles": [
-    "Wahrscheinlichkeitstheorie/Zentrale Grenzwertsatz CLT.md",
+    "z_images/Pasted image 20221208172356.png",
     "Statistik/Punkltschätzer/Konfidenzintervall.md",
-    "Statistik/Punkltschätzer/Mean Squared Error.md",
     "Allgemeine Mathematik/Zeichensammlung.md",
-    "Statistik/Punkltschätzer/Schätzer.md",
     "Statistik/Punkltschätzer/Maximum-Likelihood-Schätzung.md",
+    "Wahrscheinlichkeitstheorie/Zentrale Grenzwertsatz CLT.md",
+    "Statistik/Punkltschätzer/Mean Squared Error.md",
+    "Statistik/Punkltschätzer/Schätzer.md",
     "z_images/Pasted image 20221208160029.png",
     "z_images/Pasted image 20221208153310.png",
-    "z_images/Pasted image 20221208155723.png",
-    "Statistik/Hypothesentests/Hypothesentests.md"
+    "z_images/Pasted image 20221208155723.png"
   ]
 }
