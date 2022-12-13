@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statistik/Hypothesentests/Gauß-Test.md",
+                "file": "Datenstrukturen und Algorithmen/Design Principles/Design Principles.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Statistik/Hypothesentests/Gauß-Test.md",
+                "file": "Datenstrukturen und Algorithmen/Design Principles/Design Principles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,15 +124,15 @@
   },
   "active": "1ad781ff508046b3",
   "lastOpenFiles": [
+    "Datenstrukturen und Algorithmen/Data Structures and Algorithms 2.md",
+    "Statistik/Hypothesentests/Gauß-Test.md",
     "Statistik/Hypothesentests/t-Test.md",
     "Statistik/Punkltschätzer/Maximum-Likelihood-Schätzung.md",
-    "Statistik/Hypothesentests/Gauß-Test.md",
     "Statistik/Punkltschätzer/Schätzer.md",
     "Statistik/Hypothesentests/Hypothesen.md",
     "Statistik/Hypothesentests/Hypothesentests.md",
     "Statistik/Hypothesentests/p-Wert.md",
     "Statistik/Hypothesentests/Zweistichproben-t-Test.md",
-    "Statistik/Hypothesentests/Zweistichproben-Gauß-Test.md",
-    "Statistik/Empirische Datenanalyse/Statistiken.md"
+    "Statistik/Hypothesentests/Zweistichproben-Gauß-Test.md"
   ]
 }
