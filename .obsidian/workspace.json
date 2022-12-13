@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Datenstrukturen und Algorithmen/Design Principles/Design Principles.md",
+                "file": "Datenstrukturen und Algorithmen/Laufzeitanalyse/Iterative Method.md",
                 "mode": "source",
                 "source": false
               }
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "statistik",
+                "query": "recurr",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Datenstrukturen und Algorithmen/Design Principles/Design Principles.md",
+                "file": "Datenstrukturen und Algorithmen/Laufzeitanalyse/Iterative Method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,6 +124,8 @@
   },
   "active": "1ad781ff508046b3",
   "lastOpenFiles": [
+    "Datenstrukturen und Algorithmen/Laufzeitanalyse/Recurrence Relations.md",
+    "Datenstrukturen und Algorithmen/Design Principles/Design Principles.md",
     "Datenstrukturen und Algorithmen/Data Structures and Algorithms 2.md",
     "Statistik/Hypothesentests/Gauß-Test.md",
     "Statistik/Hypothesentests/t-Test.md",
@@ -131,8 +133,6 @@
     "Statistik/Punkltschätzer/Schätzer.md",
     "Statistik/Hypothesentests/Hypothesen.md",
     "Statistik/Hypothesentests/Hypothesentests.md",
-    "Statistik/Hypothesentests/p-Wert.md",
-    "Statistik/Hypothesentests/Zweistichproben-t-Test.md",
-    "Statistik/Hypothesentests/Zweistichproben-Gauß-Test.md"
+    "Statistik/Hypothesentests/p-Wert.md"
   ]
 }
