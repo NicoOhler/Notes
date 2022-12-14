@@ -72,8 +72,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -123,17 +122,17 @@
     "width": 322,
     "collapsed": true
   },
-  "active": "67d43403474fe91c",
+  "active": "1ad781ff508046b3",
   "lastOpenFiles": [
+    "Allgemeine Mathematik/Gaußsche Summenformel.md",
+    "Allgemeine Mathematik/Allgemeine Mathematik.md",
+    "Datenstrukturen und Algorithmen/Laufzeitanalyse/Substitution Method.md",
     "Datenstrukturen und Algorithmen/Laufzeitanalyse/Recurrence Relations.md",
     "Datenstrukturen und Algorithmen/Design Principles/Design Principles.md",
     "Datenstrukturen und Algorithmen/Laufzeitanalyse/Iterative Method.md",
     "Datenstrukturen und Algorithmen/Laufzeitanalyse/Hauptsatz der Laufzeitfunktionen.md",
     "Datenstrukturen und Algorithmen/Data Structures and Algorithms 2.md",
     "Statistik/Hypothesentests/Gauß-Test.md",
-    "Statistik/Hypothesentests/t-Test.md",
-    "Statistik/Punkltschätzer/Maximum-Likelihood-Schätzung.md",
-    "Statistik/Punkltschätzer/Schätzer.md",
-    "Statistik/Hypothesentests/Hypothesen.md"
+    "Statistik/Hypothesentests/t-Test.md"
   ]
 }
