@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "recurr",
+                "query": "gau",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -72,7 +72,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -122,7 +123,7 @@
     "width": 322,
     "collapsed": true
   },
-  "active": "1ad781ff508046b3",
+  "active": "67d43403474fe91c",
   "lastOpenFiles": [
     "Datenstrukturen und Algorithmen/Laufzeitanalyse/Recurrence Relations.md",
     "Datenstrukturen und Algorithmen/Design Principles/Design Principles.md",
