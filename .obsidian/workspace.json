@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Datenstrukturen und Algorithmen/Laufzeitanalyse/Hauptsatz der Laufzeitfunktionen.md",
+                "file": "Datenstrukturen und Algorithmen/Laufzeitanalyse/Iterative Method.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Datenstrukturen und Algorithmen/Laufzeitanalyse/Hauptsatz der Laufzeitfunktionen.md",
+                "file": "Datenstrukturen und Algorithmen/Laufzeitanalyse/Iterative Method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,13 +126,13 @@
   "lastOpenFiles": [
     "Datenstrukturen und Algorithmen/Laufzeitanalyse/Recurrence Relations.md",
     "Datenstrukturen und Algorithmen/Laufzeitanalyse/Iterative Method.md",
+    "Datenstrukturen und Algorithmen/Laufzeitanalyse/Hauptsatz der Laufzeitfunktionen.md",
     "Datenstrukturen und Algorithmen/Design Principles/Design Principles.md",
     "Datenstrukturen und Algorithmen/Data Structures and Algorithms 2.md",
     "Statistik/Hypothesentests/Gauß-Test.md",
     "Statistik/Hypothesentests/t-Test.md",
     "Statistik/Punkltschätzer/Maximum-Likelihood-Schätzung.md",
     "Statistik/Punkltschätzer/Schätzer.md",
-    "Statistik/Hypothesentests/Hypothesen.md",
-    "Statistik/Hypothesentests/Hypothesentests.md"
+    "Statistik/Hypothesentests/Hypothesen.md"
   ]
 }
