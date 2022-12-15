@@ -32,3 +32,5 @@
 		+ ![[Pasted image 20221215144525.png]]
 + Festplatte Prädiktionsintervall
 	+ ![[Pasted image 20221215144941.png]]
++ R
+	+ ![[Pasted image 20221215181442.png]]

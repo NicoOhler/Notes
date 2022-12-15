@@ -44,9 +44,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e50b4236c2b4632b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Statistik/Lineare Regression/Testen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -104,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Statistik/Lineare Regression/Verteilung der Schätzer.md",
+                "file": "Statistik/Lineare Regression/Testen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,8 +146,9 @@
     "width": 322,
     "collapsed": true
   },
-  "active": "30dc788d536eed2c",
+  "active": "e50b4236c2b4632b",
   "lastOpenFiles": [
+    "Statistik/Lineare Regression/Verteilung der Schätzer.md",
     "Statistik/Lineare Regression/Lineare Regression.md",
     "z_images/Pasted image 20221215134020.png",
     "Datenstrukturen und Algorithmen/Laufzeitanalyse/Substitution Method.md",
@@ -144,7 +157,6 @@
     "Datenstrukturen und Algorithmen/Laufzeitanalyse/Recurrence Relations.md",
     "Datenstrukturen und Algorithmen/Design Principles/Design Principles.md",
     "Datenstrukturen und Algorithmen/Laufzeitanalyse/Iterative Method.md",
-    "Datenstrukturen und Algorithmen/Laufzeitanalyse/Hauptsatz der Laufzeitfunktionen.md",
-    "Datenstrukturen und Algorithmen/Data Structures and Algorithms 2.md"
+    "Datenstrukturen und Algorithmen/Laufzeitanalyse/Hauptsatz der Laufzeitfunktionen.md"
   ]
 }
