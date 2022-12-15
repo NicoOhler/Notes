@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Datenstrukturen und Algorithmen/Laufzeitanalyse/Substitution Method.md",
+                "file": "Statistik/Lineare Regression/Lineare Regression.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Datenstrukturen und Algorithmen/Laufzeitanalyse/Substitution Method.md",
+                "file": "Statistik/Lineare Regression/Lineare Regression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,9 +124,9 @@
   },
   "active": "1ad781ff508046b3",
   "lastOpenFiles": [
+    "Datenstrukturen und Algorithmen/Laufzeitanalyse/Substitution Method.md",
     "Allgemeine Mathematik/Gaußsche Summenformel.md",
     "Allgemeine Mathematik/Allgemeine Mathematik.md",
-    "Datenstrukturen und Algorithmen/Laufzeitanalyse/Substitution Method.md",
     "Datenstrukturen und Algorithmen/Laufzeitanalyse/Recurrence Relations.md",
     "Datenstrukturen und Algorithmen/Design Principles/Design Principles.md",
     "Datenstrukturen und Algorithmen/Laufzeitanalyse/Iterative Method.md",
