@@ -34,4 +34,16 @@
 		+ ![[Pasted image 20221215140102.png]]
 + geschätzte Regressionsgerade
 	+ ![[Pasted image 20221215140230.png]]
-	+ sollte nicht für $x$
+	+ sollte nicht für $x$ außerhalb des beobachteten Bereichs benutzt werden
+		+ Extrapolation führt womöglich zu fehlerhaften Ergebnissen
+		+ ![[Pasted image 20221215140535.png]]
+
+### Beispiele
++ Festplatte
+	+ siehe oben
+	+ ![[Pasted image 20221215140749.png]]
+	+ Berechnung
+		+ ![[Pasted image 20221215140805.png]]
+		+ ![[Pasted image 20221215140827.png]]
+		+ ![[Pasted image 20221215140901.png]]
+		+ ![[Pasted image 20221215140906.png]]
