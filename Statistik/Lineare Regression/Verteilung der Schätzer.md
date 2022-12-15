@@ -20,6 +20,15 @@
 + Konfidenzintervall für zu erwartende Response
 	+ ![[Pasted image 20221215144208.png]]
 	+ ![[Pasted image 20221215144241.png]]![[Pasted image 20221215144228.png]]
++ Prädiktionsintervalle
+	+ ![[Pasted image 20221215144756.png]]
 
 ### Beispiele
-+ ![[Pasted image 20221215144338.png]]
++ Festplatte Konfidenzintervall
+	+ siehe [[Lineare Regression]]
+		+ ![[Pasted image 20221215144338.png]]
+		+ ![[Pasted image 20221215144439.png]]
+		+ ![[Pasted image 20221215144453.png]]
+		+ ![[Pasted image 20221215144525.png]]
++ Festplatte Prädiktionsintervall
+	+ ![[Pasted image 20221215144941.png]]
