@@ -7,7 +7,7 @@
 + ![[Pasted image 20221215182234.png]]
 + ![[Pasted image 20221215182239.png]]
 
-### Beispiele
+### Beispiel
 + ![[Pasted image 20221215182927.png]]
 + ![[Pasted image 20221215183203.png]]
 
@@ -18,3 +18,6 @@
 	+ ![[Pasted image 20221215183722.png]]
 + ![[Pasted image 20221215183856.png]]
 + ![[Pasted image 20221215183921.png]]
+
+### Beispiel
++ ![[Pasted image 20221215184634.png]]

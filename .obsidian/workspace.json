@@ -22,30 +22,6 @@
             }
           },
           {
-            "id": "1ad781ff508046b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Statistik/Lineare Regression/Lineare Regression.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "30dc788d536eed2c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Statistik/Lineare Regression/Verteilung der Schätzer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e50b4236c2b4632b",
             "type": "leaf",
             "state": {
@@ -56,9 +32,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f7e75a6002608cba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Statistik/Lineare Regression/Verteilung der Schätzer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -116,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Statistik/Lineare Regression/Testen.md",
+                "file": "Statistik/Lineare Regression/Verteilung der Schätzer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,17 +134,17 @@
     "width": 322,
     "collapsed": true
   },
-  "active": "e50b4236c2b4632b",
+  "active": "f7e75a6002608cba",
   "lastOpenFiles": [
-    "z_images/Pasted image 20221215182927.png",
-    "Statistik/Lineare Regression/Testen.md",
-    "Statistik/Lineare Regression/Verteilung der Schätzer.md",
     "Statistik/Lineare Regression/Lineare Regression.md",
+    "Statistik/Lineare Regression/Diagnostische Aspekte.md",
+    "Statistik/Lineare Regression/Testen.md",
+    "Allgemeine Mathematik/Zeichensammlung.md",
+    "Statistik/Lineare Regression/Verteilung der Schätzer.md",
+    "z_images/Pasted image 20221215182927.png",
     "z_images/Pasted image 20221215134020.png",
     "Datenstrukturen und Algorithmen/Laufzeitanalyse/Substitution Method.md",
     "Allgemeine Mathematik/Gaußsche Summenformel.md",
-    "Allgemeine Mathematik/Allgemeine Mathematik.md",
-    "Datenstrukturen und Algorithmen/Laufzeitanalyse/Recurrence Relations.md",
-    "Datenstrukturen und Algorithmen/Design Principles/Design Principles.md"
+    "Allgemeine Mathematik/Allgemeine Mathematik.md"
   ]
 }
