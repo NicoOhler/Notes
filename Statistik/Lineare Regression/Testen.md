@@ -9,4 +9,12 @@
 
 ### Beispiele
 + ![[Pasted image 20221215182927.png]]
-+ ![[Pasted image 20221215183140.png]]
++ ![[Pasted image 20221215183203.png]]
+
+### Bestimmtheitsmaß $R^2$
++ Gesamtstreuung der Response SST wird zerlegt in
+	+ durch Regressionsmodell erklärte Streuung SSR
+	+ Reststreuung SSE
+	+ ![[Pasted image 20221215183722.png]]
++ ![[Pasted image 20221215183856.png]]
++ ![[Pasted image 20221215183921.png]]
