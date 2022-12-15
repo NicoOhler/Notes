@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statistik/Lineare Regression/Diagnostische Aspekte.md",
+                "file": "Statistik/Lineare Regression/Verteilung der Schätzer.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Statistik/Lineare Regression/Diagnostische Aspekte.md",
+                "file": "Statistik/Lineare Regression/Verteilung der Schätzer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,8 +137,8 @@
   "active": "f7e75a6002608cba",
   "lastOpenFiles": [
     "Statistik/Lineare Regression/Testen.md",
-    "Statistik/Lineare Regression/Diagnostische Aspekte.md",
     "Statistik/Lineare Regression/Lineare Regression.md",
+    "Statistik/Lineare Regression/Diagnostische Aspekte.md",
     "Statistik/Lineare Regression/Verteilung der Schätzer.md",
     "Allgemeine Mathematik/Zeichensammlung.md",
     "z_images/Pasted image 20221215182927.png",
