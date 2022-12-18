@@ -11,7 +11,7 @@
 
 ### Übersicht
 + [[Empirische Datenanalyse]]
-+ [[Punkltschätzer]]
++ [[Punktschätzer]]
 + [[Hypothesentests]]
 + [[Lineare Regression]]
 

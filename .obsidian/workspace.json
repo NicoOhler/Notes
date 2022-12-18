@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statistik/Lineare Regression/Verteilung der Schätzer.md",
+                "file": "Statistik/Empirische Datenanalyse/Beschreibung univariater Daten.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Statistik/Lineare Regression/Verteilung der Schätzer.md",
+                "file": "Statistik/Empirische Datenanalyse/Beschreibung univariater Daten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,15 +136,15 @@
   },
   "active": "f7e75a6002608cba",
   "lastOpenFiles": [
+    "Statistik/Empirische Datenanalyse/Empirische Datenanalyse.md",
+    "Statistik/Empirische Datenanalyse/Stichprobe.md",
+    "Statistik/Statistik.md",
+    "z_images/Pasted image 20221215184634.png",
+    "Statistik/Lineare Regression/Verteilung der Schätzer.md",
     "Statistik/Lineare Regression/Testen.md",
     "Statistik/Lineare Regression/Lineare Regression.md",
     "Statistik/Lineare Regression/Diagnostische Aspekte.md",
-    "Statistik/Lineare Regression/Verteilung der Schätzer.md",
     "Allgemeine Mathematik/Zeichensammlung.md",
-    "z_images/Pasted image 20221215182927.png",
-    "z_images/Pasted image 20221215134020.png",
-    "Datenstrukturen und Algorithmen/Laufzeitanalyse/Substitution Method.md",
-    "Allgemeine Mathematik/Gaußsche Summenformel.md",
-    "Allgemeine Mathematik/Allgemeine Mathematik.md"
+    "z_images/Pasted image 20221215182927.png"
   ]
 }
