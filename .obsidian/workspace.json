@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statistik/Lineare Regression/Diagnostische Aspekte.md",
+                "file": "Statistik/Lineare Regression/Testen.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Statistik/Lineare Regression/Diagnostische Aspekte.md",
+                "file": "Statistik/Lineare Regression/Testen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,17 +134,17 @@
     "width": 322,
     "collapsed": true
   },
-  "active": "097b9a58ea336072",
+  "active": "f7e75a6002608cba",
   "lastOpenFiles": [
+    "Statistik/Lineare Regression/Diagnostische Aspekte.md",
+    "Statistik/Lineare Regression/Testen.md",
+    "Statistik/Lineare Regression/Verteilung der Schätzer.md",
     "Statistik/Lineare Regression/Lineare Regression.md",
     "Statistik/Hypothesentests/p-Wert.md",
     "Statistik/Hypothesentests/t-Test.md",
     "Statistik/Hypothesentests/Hypothesentests.md",
     "Statistik/Hypothesentests/Gauß-Test.md",
     "Statistik/Hypothesentests/Hypothesen.md",
-    "Statistik/Schätzer/Konfidenzintervall.md",
-    "Statistik/Schätzer/Mean Squared Error.md",
-    "Statistik/Schätzer/Maximum-Likelihood-Schätzung.md",
-    "Statistik/Schätzer/Schätzer.md"
+    "Statistik/Schätzer/Konfidenzintervall.md"
   ]
 }
