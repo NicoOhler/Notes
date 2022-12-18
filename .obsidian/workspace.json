@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statistik/Schätzer/Maximum-Likelihood-Schätzung.md",
+                "file": "Statistik/Lineare Regression/Diagnostische Aspekte.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Statistik/Schätzer/Maximum-Likelihood-Schätzung.md",
+                "file": "Statistik/Lineare Regression/Diagnostische Aspekte.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,17 +134,17 @@
     "width": 322,
     "collapsed": true
   },
-  "active": "f7e75a6002608cba",
+  "active": "097b9a58ea336072",
   "lastOpenFiles": [
+    "Statistik/Lineare Regression/Lineare Regression.md",
+    "Statistik/Hypothesentests/p-Wert.md",
+    "Statistik/Hypothesentests/t-Test.md",
+    "Statistik/Hypothesentests/Hypothesentests.md",
+    "Statistik/Hypothesentests/Gauß-Test.md",
+    "Statistik/Hypothesentests/Hypothesen.md",
     "Statistik/Schätzer/Konfidenzintervall.md",
-    "Statistik/Schätzer/Maximum-Likelihood-Schätzung.md",
     "Statistik/Schätzer/Mean Squared Error.md",
-    "Statistik/Schätzer/Schätzer.md",
-    "Statistik/Statistik.md",
-    "Statistik/Punktschätzer/Punktschätzer.md",
-    "Statistik/Empirische Datenanalyse/Stichprobe.md",
-    "Statistik/Empirische Datenanalyse/Statistiken.md",
-    "Statistik/Empirische Datenanalyse/Explorative Grafiken.md",
-    "Statistik/Empirische Datenanalyse/Multivariate Daten.md"
+    "Statistik/Schätzer/Maximum-Likelihood-Schätzung.md",
+    "Statistik/Schätzer/Schätzer.md"
   ]
 }
