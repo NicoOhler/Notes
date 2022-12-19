@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statistik/Lineare Regression/Testen.md",
+                "file": "Statistik/Lineare Regression/Verteilung der Schätzer.md",
                 "mode": "preview",
                 "source": false
               }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Statistik/Lineare Regression/Testen.md",
+                "file": "Statistik/Lineare Regression/Verteilung der Schätzer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,11 +124,11 @@
   },
   "active": "f7e75a6002608cba",
   "lastOpenFiles": [
+    "Statistik/Lineare Regression/Testen.md",
     "Statistik/Lineare Regression/Lineare Regression.md",
     "Statistik/Lineare Regression/Diagnostische Aspekte.md",
     "Statistik/Hypothesentests/t-Test.md",
     "Statistik/Hypothesentests/Gauß-Test.md",
-    "Statistik/Lineare Regression/Testen.md",
     "Statistik/Lineare Regression/Verteilung der Schätzer.md",
     "Statistik/Hypothesentests/Hypothesentests.md",
     "Statistik/Hypothesentests/Hypothesen.md",
