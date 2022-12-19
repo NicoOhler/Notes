@@ -27,8 +27,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statistik/Lineare Regression/Verteilung der Schätzer.md",
-                "mode": "source",
+                "file": "Statistik/Hypothesentests/t-Test.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Statistik/Lineare Regression/Verteilung der Schätzer.md",
+                "file": "Statistik/Hypothesentests/t-Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,15 +124,15 @@
   },
   "active": "f7e75a6002608cba",
   "lastOpenFiles": [
+    "Statistik/Hypothesentests/Gauß-Test.md",
     "Statistik/Lineare Regression/Testen.md",
+    "Statistik/Lineare Regression/Verteilung der Schätzer.md",
     "Statistik/Lineare Regression/Lineare Regression.md",
     "Statistik/Lineare Regression/Diagnostische Aspekte.md",
     "Statistik/Hypothesentests/Hypothesentests.md",
     "Statistik/Hypothesentests/Hypothesen.md",
-    "Statistik/Hypothesentests/Gauß-Test.md",
     "Statistik/Schätzer/Maximum-Likelihood-Schätzung.md",
     "Allgemeine Mathematik/Allgemeine Mathematik.md",
-    "Allgemeine Mathematik/Gaußsche Summenformel.md",
-    "Statistik/Lineare Regression/Verteilung der Schätzer.md"
+    "Allgemeine Mathematik/Gaußsche Summenformel.md"
   ]
 }
