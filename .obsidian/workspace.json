@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statistik/Empirische Datenanalyse/Beschreibung univariater Daten.md",
+                "file": "Statistik/Hypothesentests/Hypothesentests.md",
                 "mode": "preview",
                 "source": false
               }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Statistik/Empirische Datenanalyse/Beschreibung univariater Daten.md",
+                "file": "Statistik/Hypothesentests/Hypothesentests.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,11 +126,11 @@
   "lastOpenFiles": [
     "Statistik/Empirische Datenanalyse/Explorative Grafiken.md",
     "Statistik/Empirische Datenanalyse/Empirische Datenanalyse.md",
+    "Statistik/Empirische Datenanalyse/Beschreibung univariater Daten.md",
     "Statistik/Lineare Regression/Verteilung der Schätzer.md",
     "Statistik/Lineare Regression/Testen.md",
     "Statistik/Lineare Regression/Lineare Regression.md",
     "Statistik/Lineare Regression/Diagnostische Aspekte.md",
-    "Statistik/Empirische Datenanalyse/Beschreibung univariater Daten.md",
     "Statistik/Empirische Datenanalyse/Multivariate Daten.md",
     "Statistik/Empirische Datenanalyse/Stichprobe.md",
     "Statistik/Empirische Datenanalyse/Statistiken.md"
