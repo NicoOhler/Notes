@@ -22,19 +22,43 @@
             }
           },
           {
-            "id": "f7e75a6002608cba",
+            "id": "1d702224680815d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statistik/Lineare Regression/Lineare Regression.md",
-                "mode": "preview",
+                "file": "Datenstrukturen und Algorithmen/Datenstrukturen/Graphs/Depth-First Search.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5fd6bb1f692660d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Datenstrukturen und Algorithmen/Datenstrukturen/Graphs/Breadth-First Search.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9a6204066791e8c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Datenstrukturen und Algorithmen/Datenstrukturen/Graphs/Graph Terminology.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -92,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Statistik/Lineare Regression/Lineare Regression.md",
+                "file": "Datenstrukturen und Algorithmen/Datenstrukturen/Graphs/Graph Terminology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,17 +146,26 @@
     "width": 322,
     "collapsed": true
   },
-  "active": "f7e75a6002608cba",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "9a6204066791e8c0",
   "lastOpenFiles": [
-    "Statistik/Lineare Regression/Diagnostische Aspekte.md",
-    "Statistik/Schätzer/Mean Squared Error.md",
-    "Statistik/Hypothesentests/Hypothesentests.md",
-    "Statistik/Hypothesentests/Hypothesen.md",
-    "Statistik/Hypothesentests/p-Wert.md",
-    "Statistik/Hypothesentests/t-Test.md",
-    "Statistik/Lineare Regression/Testen.md",
-    "Statistik/Hypothesentests/Gauß-Test.md",
-    "Statistik/Empirische Datenanalyse/Explorative Grafiken.md",
-    "Statistik/Empirische Datenanalyse/Empirische Datenanalyse.md"
+    "Data Science and AI/Knowledge Representation/Graphs KR/Graphs KR.md",
+    "Datenstrukturen und Algorithmen/Datenstrukturen/Graphs/Graph Terminology.md",
+    "Datenstrukturen und Algorithmen/Datenstrukturen/Graphs/Depth-First Search.md",
+    "Datenstrukturen und Algorithmen/Datenstrukturen/Graphs/Breadth-First Search.md",
+    "Datenstrukturen und Algorithmen/Datenstrukturen/Graphs/Graph Algorithms.md",
+    "z_images/Pasted image 20221228091306.png",
+    "Recognizing Bipartite Graphs.md",
+    "Diskrete Mathematik/Graphentheorie/Spannbaumalgorithmen.md",
+    "Diskrete Mathematik/Graphentheorie/Planare Graphen.md",
+    "Diskrete Mathematik/Graphentheorie/Matching.md"
   ]
 }
