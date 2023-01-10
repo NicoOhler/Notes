@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "quadratische",
+                "query": "deter",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -96,7 +96,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -157,15 +158,15 @@
   },
   "active": "f8b4ada4754da66f",
   "lastOpenFiles": [
+    "NRLA/Matrizen/Determinante.md",
+    "Datenstrukturen und Algorithmen/Datenstrukturen/Convex Hull.md",
+    "Datenstrukturen und Algorithmen/Sortierverfahren/HeapSort.md",
     "Datenstrukturen und Algorithmen/Data Structures and Algorithms 2.md",
     "Datenstrukturen und Algorithmen/Datenstrukturen und Algorithmen.md",
     "Datenstrukturen und Algorithmen/Sortierverfahren/BSort.md",
     "Datenstrukturen und Algorithmen/Design Principles/Design Principles.md",
     "Datenstrukturen und Algorithmen/Design Principles/Dynamic Programming.md",
     "Datenstrukturen und Algorithmen/Arten von Algorithmen/Dynamische Programmierung.md",
-    "Datenstrukturen und Algorithmen/Design Principles/Scanline Principle.md",
-    "Datenstrukturen und Algorithmen/Design Principles/Divide&Conquer.md",
-    "Datenstrukturen und Algorithmen/Asymptotic Complexity/Asymptotic Complexity.md",
-    "Datenstrukturen und Algorithmen/Asymptotic Complexity/Time- and Memory Consumption.md"
+    "Datenstrukturen und Algorithmen/Design Principles/Scanline Principle.md"
   ]
 }
