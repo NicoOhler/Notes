@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Datenstrukturen und Algorithmen/Datenstrukturen/Dynamische Arrays.md",
+                "file": "Datenstrukturen und Algorithmen/Laufzeitanalyse/Amortisierte Analyse.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Datenstrukturen und Algorithmen/Datenstrukturen/Dynamische Arrays.md",
+                "file": "Datenstrukturen und Algorithmen/Laufzeitanalyse/Amortisierte Analyse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,6 +133,7 @@
   },
   "active": "2d25e23b2b936f1a",
   "lastOpenFiles": [
+    "Datenstrukturen und Algorithmen/Datenstrukturen/Dynamische Arrays.md",
     "Datenstrukturen und Algorithmen/Datenstrukturen/Datenstrukturen.md",
     "Datenstrukturen und Algorithmen/Sortierverfahren/RadixSort.md",
     "Datenstrukturen und Algorithmen/Sortierverfahren/Quicksort.md",
@@ -141,7 +142,6 @@
     "Datenstrukturen und Algorithmen/Laufzeitanalyse/Hauptsatz der Laufzeitfunktionen.md",
     "Datenstrukturen und Algorithmen/Laufzeitanalyse/Iterative Method.md",
     "Datenstrukturen und Algorithmen/Laufzeitanalyse/Best-Worst-Average Case.md",
-    "Datenstrukturen und Algorithmen/Laufzeitanalyse/Amortisierte Analyse.md",
-    "Datenstrukturen und Algorithmen/Design Principles/Design Principles.md"
+    "Datenstrukturen und Algorithmen/Laufzeitanalyse/Amortisierte Analyse.md"
   ]
 }
