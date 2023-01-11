@@ -70,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -99,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "array",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,8 +108,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -129,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Datenstrukturen und Algorithmen/Datenstrukturen/Array.md",
+                "file": "Datenstrukturen und Algorithmen/Datenstrukturen/Convex Hull.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,11 +167,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "115ae2f5336cc427",
+  "active": "f8b4ada4754da66f",
   "lastOpenFiles": [
+    "Datenstrukturen und Algorithmen/Datenstrukturen/Array.md",
     "Datenstrukturen und Algorithmen/Datenstrukturen/Convex Hull.md",
     "Datenstrukturen und Algorithmen/Datenstrukturen/Datenstrukturen.md",
-    "Datenstrukturen und Algorithmen/Datenstrukturen/Array.md",
     "Allgemeine Mathematik/Zeichensammlung.md",
     "NRLA/Matrizen/Determinante.md",
     "Datenstrukturen und Algorithmen/Sortierverfahren/HeapSort.md",
