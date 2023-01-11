@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Datenstrukturen und Algorithmen/Laufzeitanalyse/Amortisierte Analyse.md",
+                "file": "Datenstrukturen und Algorithmen/Datenstrukturen/HashTable.md",
                 "mode": "source",
                 "source": false
               }
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "inje",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -72,7 +72,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -92,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Datenstrukturen und Algorithmen/Laufzeitanalyse/Amortisierte Analyse.md",
+                "file": "Datenstrukturen und Algorithmen/Datenstrukturen/HashTable.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,15 +134,15 @@
   },
   "active": "2d25e23b2b936f1a",
   "lastOpenFiles": [
+    "Analysis/Funktionen/Exponentialfunktion.md",
+    "Analysis/Funktionen/Funktionen.md",
+    "Datenstrukturen und Algorithmen/Datenstrukturen/HashTable.md",
+    "Datenstrukturen und Algorithmen/Laufzeitanalyse/Amortisierte Analyse.md",
     "Datenstrukturen und Algorithmen/Datenstrukturen/Dynamische Arrays.md",
     "Datenstrukturen und Algorithmen/Datenstrukturen/Datenstrukturen.md",
     "Datenstrukturen und Algorithmen/Sortierverfahren/RadixSort.md",
     "Datenstrukturen und Algorithmen/Sortierverfahren/Quicksort.md",
     "Datenstrukturen und Algorithmen/Arten von Algorithmen/Divide & Conquer.md",
-    "Datenstrukturen und Algorithmen/Sortierverfahren/MergeSort.md",
-    "Datenstrukturen und Algorithmen/Laufzeitanalyse/Hauptsatz der Laufzeitfunktionen.md",
-    "Datenstrukturen und Algorithmen/Laufzeitanalyse/Iterative Method.md",
-    "Datenstrukturen und Algorithmen/Laufzeitanalyse/Best-Worst-Average Case.md",
-    "Datenstrukturen und Algorithmen/Laufzeitanalyse/Amortisierte Analyse.md"
+    "Datenstrukturen und Algorithmen/Sortierverfahren/MergeSort.md"
   ]
 }
