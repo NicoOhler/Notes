@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Datenstrukturen und Algorithmen/Datenstrukturen/Array.md",
+                "file": "Datenstrukturen und Algorithmen/Arten von Algorithmen/Rekursive Algorithmen.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Datenstrukturen und Algorithmen/Datenstrukturen/Array.md",
+                "file": "Datenstrukturen und Algorithmen/Arten von Algorithmen/Rekursive Algorithmen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,15 +133,15 @@
   },
   "active": "2d25e23b2b936f1a",
   "lastOpenFiles": [
+    "Datenstrukturen und Algorithmen/Arten von Algorithmen/Iterative Algorithmen.md",
+    "Datenstrukturen und Algorithmen/Arten von Algorithmen/Arten von Algorithmen.md",
+    "Datenstrukturen und Algorithmen/Arten von Algorithmen/Rekursive Algorithmen.md",
+    "Datenstrukturen und Algorithmen/Datenstrukturen/Array.md",
+    "Datenstrukturen und Algorithmen/Datenstrukturen/Queue.md",
+    "Datenstrukturen und Algorithmen/Datenstrukturen/Stack.md",
+    "Datenstrukturen und Algorithmen/Datenstrukturen/Linked List.md",
     "Datenstrukturen und Algorithmen/Laufzeitanalyse/Θ-Notation.md",
     "Datenstrukturen und Algorithmen/Data Structures and Algorithms 2.md",
-    "Datenstrukturen und Algorithmen/Datenstrukturen und Algorithmen.md",
-    "Datenstrukturen und Algorithmen/Arten von Algorithmen/Arten von Algorithmen.md",
-    "Datenstrukturen und Algorithmen/Laufzeitanalyse/O-Notation.md",
-    "Datenstrukturen und Algorithmen/Laufzeitanalyse/Laufzeitanalyse.md",
-    "Allgemeine Mathematik/Zeichensammlung.md",
-    "Datenstrukturen und Algorithmen/Datenstrukturen/Union Find.md",
-    "Datenstrukturen und Algorithmen/Datenstrukturen/Convex Hull.md",
-    "Datenstrukturen und Algorithmen/Datenstrukturen/Array.md"
+    "Datenstrukturen und Algorithmen/Datenstrukturen und Algorithmen.md"
   ]
 }
