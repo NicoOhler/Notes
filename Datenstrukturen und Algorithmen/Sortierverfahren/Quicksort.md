@@ -17,7 +17,6 @@
 		+ Elemente vertauschen, wenn Bedingung nicht erfüllt 
 	+ treffen sich beide Indizes in der Mitte 
 		+ fertig
-	+ 
 	+ ![[Pasted image 20221028153947.png]]
 + ![[Pasted image 20221028154444.png]]
 
@@ -28,7 +27,7 @@
 	+ besseres S(n)
 
 ### Varianten
-+ Randomisierte Pivotauswah
++ Randomisierte Pivotauswahl
 	+ ![[Pasted image 20221028155120.png]]
 + Iterative Variante
 	+ ![[Pasted image 20221028155111.png]]
