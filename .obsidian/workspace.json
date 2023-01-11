@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Datenstrukturen und Algorithmen/Datenstrukturen/Bäume/Sortierte Binärbäume.md",
+                "file": "Datenstrukturen und Algorithmen/Datenstrukturen/Heap.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Datenstrukturen und Algorithmen/Datenstrukturen/Bäume/Sortierte Binärbäume.md",
+                "file": "Datenstrukturen und Algorithmen/Datenstrukturen/Heap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,6 +133,7 @@
   },
   "active": "2d25e23b2b936f1a",
   "lastOpenFiles": [
+    "Datenstrukturen und Algorithmen/Datenstrukturen/Bäume/Sortierte Binärbäume.md",
     "Datenstrukturen und Algorithmen/Datenstrukturen/Bäume/Binärbäume.md",
     "Datenstrukturen und Algorithmen/Datenstrukturen/Bäume/Bäume (Datenstruktur).md",
     "Datenstrukturen und Algorithmen/Datenstrukturen/Bäume/Balancierte Bäume.md",
@@ -141,7 +142,6 @@
     "Analysis/Funktionen/Exponentialfunktion.md",
     "Analysis/Funktionen/Funktionen.md",
     "Datenstrukturen und Algorithmen/Laufzeitanalyse/Amortisierte Analyse.md",
-    "Datenstrukturen und Algorithmen/Datenstrukturen/Dynamische Arrays.md",
-    "Datenstrukturen und Algorithmen/Datenstrukturen/Datenstrukturen.md"
+    "Datenstrukturen und Algorithmen/Datenstrukturen/Dynamische Arrays.md"
   ]
 }
