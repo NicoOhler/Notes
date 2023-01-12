@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "inje",
+                "query": "hospi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -72,7 +72,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -131,7 +132,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "2d25e23b2b936f1a",
+  "active": "67d43403474fe91c",
   "lastOpenFiles": [
     "Datenstrukturen und Algorithmen/Sortierverfahren/HeapSort.md",
     "Datenstrukturen und Algorithmen/Datenstrukturen/Heap.md",
