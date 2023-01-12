@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Datenstrukturen und Algorithmen/Laufzeitanalyse/O-Notation.md",
+                "file": "Datenstrukturen und Algorithmen/Datenstrukturen/Heap.md",
                 "mode": "source",
                 "source": false
               }
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hospi",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -72,8 +72,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -93,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Datenstrukturen und Algorithmen/Laufzeitanalyse/O-Notation.md",
+                "file": "Datenstrukturen und Algorithmen/Datenstrukturen/Heap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,8 +131,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "67d43403474fe91c",
+  "active": "2d25e23b2b936f1a",
   "lastOpenFiles": [
+    "Datenstrukturen und Algorithmen/Laufzeitanalyse/O-Notation.md",
     "Datenstrukturen und Algorithmen/Sortierverfahren/HeapSort.md",
     "Datenstrukturen und Algorithmen/Datenstrukturen/Heap.md",
     "Datenstrukturen und Algorithmen/Suchverfahren/Suchverfahren.md",
@@ -142,7 +142,6 @@
     "Datenstrukturen und Algorithmen/Suchverfahren/Quadratische Binärsuche.md",
     "Datenstrukturen und Algorithmen/Suchverfahren/Fastsearch.md",
     "Datenstrukturen und Algorithmen/Suchverfahren/Binärsuche.md",
-    "Datenstrukturen und Algorithmen/Datenstrukturen/Bäume/Balancierte Bäume.md",
-    "Datenstrukturen und Algorithmen/Datenstrukturen/Bäume/2-4 Bäume.md"
+    "Datenstrukturen und Algorithmen/Datenstrukturen/Bäume/Balancierte Bäume.md"
   ]
 }
