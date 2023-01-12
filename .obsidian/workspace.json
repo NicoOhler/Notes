@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Datenstrukturen und Algorithmen/Sortierverfahren/MergeSort.md",
+                "file": "Datenstrukturen und Algorithmen/Laufzeitanalyse/Hauptsatz der Laufzeitfunktionen.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Datenstrukturen und Algorithmen/Sortierverfahren/MergeSort.md",
+                "file": "Datenstrukturen und Algorithmen/Laufzeitanalyse/Hauptsatz der Laufzeitfunktionen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,6 +133,7 @@
   },
   "active": "2d25e23b2b936f1a",
   "lastOpenFiles": [
+    "Datenstrukturen und Algorithmen/Sortierverfahren/MergeSort.md",
     "Datenstrukturen und Algorithmen/Datenstrukturen/Heap.md",
     "Datenstrukturen und Algorithmen/Datenstrukturen/Dynamische Arrays.md",
     "Datenstrukturen und Algorithmen/Datenstrukturen/Queue.md",
@@ -141,7 +142,6 @@
     "Datenstrukturen und Algorithmen/Datenstrukturen/Linked List.md",
     "Datenstrukturen und Algorithmen/Datenstrukturen/Bäume/2-4 Bäume.md",
     "Datenstrukturen und Algorithmen/Datenstrukturen/Bäume/Binärbäume.md",
-    "Datenstrukturen und Algorithmen/Sortierverfahren/Untere Schranke für Sortieren.md",
-    "Datenstrukturen und Algorithmen/Sortierverfahren/Vergleich von Sortierverfahren.md"
+    "Datenstrukturen und Algorithmen/Sortierverfahren/Untere Schranke für Sortieren.md"
   ]
 }
