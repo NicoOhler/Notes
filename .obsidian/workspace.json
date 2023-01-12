@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Datenstrukturen und Algorithmen/Datenstrukturen/Bäume/Binärbäume.md",
+                "file": "Datenstrukturen und Algorithmen/Datenstrukturen/Bäume/2-4 Bäume.md",
                 "mode": "source",
                 "source": false
               }
@@ -72,8 +72,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -93,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Datenstrukturen und Algorithmen/Datenstrukturen/Bäume/Binärbäume.md",
+                "file": "Datenstrukturen und Algorithmen/Datenstrukturen/Bäume/2-4 Bäume.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,6 +133,8 @@
   },
   "active": "2d25e23b2b936f1a",
   "lastOpenFiles": [
+    "Datenstrukturen und Algorithmen/Datenstrukturen/Heap.md",
+    "Datenstrukturen und Algorithmen/Datenstrukturen/Bäume/Binärbäume.md",
     "Datenstrukturen und Algorithmen/Sortierverfahren/Untere Schranke für Sortieren.md",
     "Datenstrukturen und Algorithmen/Sortierverfahren/Vergleich von Sortierverfahren.md",
     "Datenstrukturen und Algorithmen/Sortierverfahren/RadixSort.md",
@@ -141,8 +142,6 @@
     "Datenstrukturen und Algorithmen/Sortierverfahren/Quicksort.md",
     "Datenstrukturen und Algorithmen/Sortierverfahren/Sortierverfahren.md",
     "Datenstrukturen und Algorithmen/Suchverfahren/Fastsearch.md",
-    "Datenstrukturen und Algorithmen/Suchverfahren/Suchverfahren.md",
-    "Datenstrukturen und Algorithmen/Suchverfahren/Quadratische Binärsuche.md",
-    "Datenstrukturen und Algorithmen/Suchverfahren/Interpolationssuche.md"
+    "Datenstrukturen und Algorithmen/Suchverfahren/Suchverfahren.md"
   ]
 }
