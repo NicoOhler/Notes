@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "optima",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -72,8 +72,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -132,7 +131,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "2d25e23b2b936f1a",
+  "active": "097b9a58ea336072",
   "lastOpenFiles": [
     "Datenstrukturen und Algorithmen/Arten von Algorithmen/Greedy Algorithmen.md",
     "Data Management/Database Performance Tuning/Query Optimization/Plan Optimization.md",
