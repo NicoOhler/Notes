@@ -32,9 +32,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4862603df906f7be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computational Methods for Statistics/Computational Methods for Statistics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -92,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Datenstrukturen und Algorithmen/Datenstrukturen/Bäume/2-4 Bäume.md",
+                "file": "Computational Methods for Statistics/Computational Methods for Statistics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,8 +143,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "420f706304342fcd",
+  "active": "4862603df906f7be",
   "lastOpenFiles": [
+    "Datenstrukturen und Algorithmen/Datenstrukturen/Bäume/2-4 Bäume.md",
     "Allgemeine Mathematik/Zeichensammlung.md",
     "Analysis/Vollständige Induktion.md",
     "Datenstrukturen und Algorithmen/Datenstrukturen/Heap.md",
@@ -141,7 +154,6 @@
     "Datenstrukturen und Algorithmen/Sortierverfahren/MergeSort.md",
     "Datenstrukturen und Algorithmen/Sortierverfahren/Quicksort.md",
     "Datenstrukturen und Algorithmen/Sortierverfahren/RadixSort.md",
-    "Datenstrukturen und Algorithmen/Datenstrukturen/Bäume/2-4 Bäume.md",
     "Datenstrukturen und Algorithmen/Suchverfahren/Selbstanordnende Felder.md"
   ]
 }
