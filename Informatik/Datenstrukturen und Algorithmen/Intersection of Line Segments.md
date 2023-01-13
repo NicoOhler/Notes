@@ -27,3 +27,17 @@
 + events
 	+ ![[Pasted image 20230113211908.png]]
 
+### Implementation
++ used data structures
+	+ X
+		+ contains $x$-coordintates of known, future events
+			+ incoming start and endpoints
+		+ operations
+			+ insert
+			+ remove $x$-minimum
+				+ [[Queue]], [[Heap]]
+	+ Y
+		+ contains $y$-ordered set of semgents intersecting $L$
+		+ operations
+			+ insert (startpoints)
+
