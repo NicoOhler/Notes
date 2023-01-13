@@ -36,8 +36,22 @@
 			+ insert
 			+ remove $x$-minimum
 				+ [[Queue]], [[Heap]]
-	+ Y
+	+ search tree Y
 		+ contains $y$-ordered set of semgents intersecting $L$
 		+ operations
 			+ insert (startpoints)
+			+ remove (endpoints)
+			+ switch neighbours (intersection)
+			+ dictionary, [[(2-4)-Bäume]]
++ pseudocode
+	+ ![[Pasted image 20230113213608.png]]
++ details
+	+ $y$-order depends on actual $y$-coordinates at this $x$-coordinate
+		+ ![[Pasted image 20230113214133.png]]
+	+ at most two new neighbours
+		+ above and below new minimum $x$
+		+ easier to find if linked
+			+ maybe link leaves of [[(2-4)-Bäume]] with pointers
 
+### Analysis
++ ![[Pasted image 20230113214400.png]]
