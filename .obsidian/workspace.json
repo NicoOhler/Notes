@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Datenstrukturen und Algorithmen/Datenstrukturen/Bäume/2-4 Bäume.md",
+                "file": "Datenstrukturen und Algorithmen/Suchverfahren/Selbstanordnende Felder.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Datenstrukturen und Algorithmen/Datenstrukturen/Bäume/2-4 Bäume.md",
+                "file": "Datenstrukturen und Algorithmen/Suchverfahren/Selbstanordnende Felder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,6 +133,8 @@
   },
   "active": "0d5c9775723285ce",
   "lastOpenFiles": [
+    "Datenstrukturen und Algorithmen/Suchverfahren/Quadratische Binärsuche.md",
+    "Datenstrukturen und Algorithmen/Suchverfahren/Fastsearch.md",
     "Datenstrukturen und Algorithmen/Datenstrukturen/Bäume/Sortierte Binärbäume.md",
     "Datenstrukturen und Algorithmen/Datenstrukturen/Bäume/2-4 Bäume.md",
     "Datenstrukturen und Algorithmen/Datenstrukturen/Graphs/Breadth-First Search.md",
@@ -140,8 +142,6 @@
     "Datenstrukturen und Algorithmen/Datenstrukturen/Graphs/Graph Terminology.md",
     "Datenstrukturen und Algorithmen/Datenstrukturen/Graphs/Graph Algorithms.md",
     "Datenstrukturen und Algorithmen/Datenstrukturen/Graphs/Depth-First Search.md",
-    "Datenstrukturen und Algorithmen/Datenstrukturen/Stack.md",
-    "Datenstrukturen und Algorithmen/Datenstrukturen/Queue.md",
-    "Datenstrukturen und Algorithmen/Datenstrukturen/Linked List.md"
+    "Datenstrukturen und Algorithmen/Datenstrukturen/Stack.md"
   ]
 }
