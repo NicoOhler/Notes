@@ -22,12 +22,12 @@
             }
           },
           {
-            "id": "4862603df906f7be",
+            "id": "b003b9434ab2edee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematik/Wahrscheinlichkeitstheorie/Zentrale Grenzwertsatz CLT.md",
+                "file": "Informatik/Datenstrukturen und Algorithmen/Laufzeitanalyse/Master Theorem.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematik/Wahrscheinlichkeitstheorie/Zentrale Grenzwertsatz CLT.md",
+                "file": "Informatik/Datenstrukturen und Algorithmen/Laufzeitanalyse/Master Theorem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,17 +131,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "4862603df906f7be",
+  "active": "b003b9434ab2edee",
   "lastOpenFiles": [
+    "Mathematik/Wahrscheinlichkeitstheorie/Zentrale Grenzwertsatz CLT.md",
+    "Mathematik/Wahrscheinlichkeitstheorie/Wahrscheinlichkeitstheorie.md",
+    "Mathematik/Allgemeine Mathematik/Zeichensammlung.md",
     "Mathematik/Wahrscheinlichkeitstheorie/Bedingte Wahrscheinlichkeiten/Modelle höherer Ordnung.md",
     "Mathematik/Wahrscheinlichkeitstheorie/Bedingte Wahrscheinlichkeiten/Gesetz der totalen Wahrscheinlichkeiten.md",
     "Mathematik/Statistik/Computational Methods/Computational Methods.md",
     "z_images/Pasted image 20230113144526.png",
     "Mathematik/Statistik/Computational Methods/Inductive Inference.md",
     "Mathematik/Statistik/Empirische Datenanalyse/Statistiken.md",
-    "Mathematik/Statistik/Schätzer/Schätzer.md",
-    "Mathematik/Statistik/Statistik.md",
-    "Mathematik/Statistik/Computational Methods/Sampling.md",
-    "Informatik/Datenstrukturen und Algorithmen/Datenstrukturen/Bäume/2-4 Bäume.md"
+    "Mathematik/Statistik/Schätzer/Schätzer.md"
   ]
 }

@@ -13,5 +13,5 @@
 
 ### Methods to solve recurrence relations
 + [[Iterative Method]]
-+ [[Hauptsatz der Laufzeitfunktionen]]
++ [[Master Theorem]]
 + [[Substitution Method]]

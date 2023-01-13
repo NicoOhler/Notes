@@ -18,6 +18,6 @@
 + [[O-Notation]]
 + [[Θ-Notation]]
 + [[Best-Worst-Average Case]]
-+ [[Hauptsatz der Laufzeitfunktionen]]
++ [[Master Theorem]]
 + [[Amortisierte Analyse]]
 
