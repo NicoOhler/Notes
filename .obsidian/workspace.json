@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Datenstrukturen und Algorithmen/Sortierverfahren/Untere Schranke für Sortieren.md",
+                "file": "Datenstrukturen und Algorithmen/Datenstrukturen/Heap.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Datenstrukturen und Algorithmen/Sortierverfahren/Untere Schranke für Sortieren.md",
+                "file": "Datenstrukturen und Algorithmen/Datenstrukturen/Heap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,6 +133,8 @@
   },
   "active": "0d5c9775723285ce",
   "lastOpenFiles": [
+    "Datenstrukturen und Algorithmen/Sortierverfahren/HeapSort.md",
+    "Datenstrukturen und Algorithmen/Sortierverfahren/Untere Schranke für Sortieren.md",
     "Datenstrukturen und Algorithmen/Sortierverfahren/MergeSort.md",
     "Datenstrukturen und Algorithmen/Sortierverfahren/Quicksort.md",
     "Datenstrukturen und Algorithmen/Sortierverfahren/RadixSort.md",
@@ -140,8 +142,6 @@
     "Datenstrukturen und Algorithmen/Suchverfahren/Selbstanordnende Felder.md",
     "Datenstrukturen und Algorithmen/Suchverfahren/Quadratische Binärsuche.md",
     "Datenstrukturen und Algorithmen/Suchverfahren/Fastsearch.md",
-    "Datenstrukturen und Algorithmen/Datenstrukturen/Bäume/Sortierte Binärbäume.md",
-    "Datenstrukturen und Algorithmen/Datenstrukturen/Graphs/Breadth-First Search.md",
-    "Datenstrukturen und Algorithmen/Datenstrukturen/Graphs/Graphs.md"
+    "Datenstrukturen und Algorithmen/Datenstrukturen/Bäume/Sortierte Binärbäume.md"
   ]
 }
