@@ -56,9 +56,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c61793ae69def080",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Statistik/Schätzer/Schätzer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -87,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "induktion",
+                "query": "statistik",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -96,7 +108,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -116,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Statistik/Computational Methods/Inductive Inference.md",
+                "file": "Statistik/Schätzer/Schätzer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,17 +168,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "0f20020d4204bd4e",
+  "active": "c61793ae69def080",
   "lastOpenFiles": [
+    "Statistik/Statistik.md",
+    "Statistik/Computational Methods/Inductive Inference.md",
+    "Statistik/Computational Methods/Sampling.md",
     "Statistik/Computational Methods/Computational Methods.md",
     "Datenstrukturen und Algorithmen/Datenstrukturen/Bäume/2-4 Bäume.md",
     "Allgemeine Mathematik/Zeichensammlung.md",
     "Analysis/Vollständige Induktion.md",
     "Datenstrukturen und Algorithmen/Datenstrukturen/Heap.md",
     "Datenstrukturen und Algorithmen/Sortierverfahren/HeapSort.md",
-    "Datenstrukturen und Algorithmen/Sortierverfahren/Untere Schranke für Sortieren.md",
-    "Datenstrukturen und Algorithmen/Sortierverfahren/MergeSort.md",
-    "Datenstrukturen und Algorithmen/Sortierverfahren/Quicksort.md",
-    "Datenstrukturen und Algorithmen/Sortierverfahren/RadixSort.md"
+    "Datenstrukturen und Algorithmen/Sortierverfahren/Untere Schranke für Sortieren.md"
   ]
 }
