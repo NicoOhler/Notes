@@ -27,4 +27,3 @@
 + ![[Pasted image 20221204103051.png]]
 + ![[Pasted image 20221204104842.png]]
 
-### Intersection of Line Segments
