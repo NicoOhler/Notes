@@ -15,5 +15,15 @@
 	+ output-sensitive algorithm needed
 
 ### Plane Sweep Idea
-+ if two seg
++ if two segments intersect → $x$-intervals overlap
+	+ inverse not always true
++ scan from left to right through all $x$-value with vertical $L$
+	+ at every point 
+		+ consider segments hit by $L$
+		+ check for intersection
+	+ intersections must be neighboured on $L$ 
+		+ at some point
++ ![[Pasted image 20230113211847.png]]
++ events
+	+ ![[Pasted image 20230113211908.png]]
 
