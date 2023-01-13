@@ -32,18 +32,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "0f6d62d594d45644",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematik/Statistik/Empirische Datenanalyse/Statistiken.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
         "currentTab": 1
@@ -104,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "z_images/Pasted image 20230113144526.png",
+                "file": "Mathematik/Statistik/Computational Methods/Computational Methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,8 +131,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "097b9a58ea336072",
+  "active": "4862603df906f7be",
   "lastOpenFiles": [
+    "z_images/Pasted image 20230113144526.png",
     "Mathematik/Statistik/Computational Methods/Inductive Inference.md",
     "Mathematik/Statistik/Empirische Datenanalyse/Statistiken.md",
     "Mathematik/Statistik/Schätzer/Schätzer.md",
@@ -153,7 +142,6 @@
     "Mathematik/Statistik/Computational Methods/Computational Methods.md",
     "Informatik/Datenstrukturen und Algorithmen/Datenstrukturen/Bäume/2-4 Bäume.md",
     "Mathematik/Allgemeine Mathematik/Zeichensammlung.md",
-    "Mathematik/Analysis/Vollständige Induktion.md",
-    "Informatik/Datenstrukturen und Algorithmen/Datenstrukturen/Heap.md"
+    "Mathematik/Analysis/Vollständige Induktion.md"
   ]
 }
