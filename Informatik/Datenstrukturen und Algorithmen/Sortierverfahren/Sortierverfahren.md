@@ -2,7 +2,7 @@
 + InsertionSort
 	+ siehe [[Laufzeitanalyse]]
 + [[MergeSort]]
-+ [[Datenstrukturen und Algorithmen/Sortierverfahren/Quicksort]]
++ [[Informatik/Datenstrukturen und Algorithmen/Sortierverfahren/Quicksort]]
 + [[RadixSort]]
 + [[HeapSort]]
 + [[BSort]]

@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Allgemeine Mathematik/Zeichensammlung.md",
+                "file": "Mathematik/Allgemeine Mathematik/Zeichensammlung.md",
                 "mode": "source",
                 "source": false
               },
@@ -27,19 +27,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statistik/Computational Methods/Computational Methods.md",
+                "file": "Mathematik/Statistik/Computational Methods/Computational Methods.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "0f20020d4204bd4e",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "z_images/Pasted image 20230113144526.png"
               }
             }
           },
@@ -49,14 +39,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statistik/Empirische Datenanalyse/Statistiken.md",
+                "file": "Mathematik/Statistik/Empirische Datenanalyse/Statistiken.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -131,7 +121,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Allgemeine Mathematik/Zeichensammlung.md",
+                "file": "Mathematik/Allgemeine Mathematik/Zeichensammlung.md",
                 "mode": "source",
                 "source": false
               }
@@ -155,15 +145,15 @@
   },
   "active": "097b9a58ea336072",
   "lastOpenFiles": [
-    "Statistik/Computational Methods/Inductive Inference.md",
-    "Statistik/Empirische Datenanalyse/Statistiken.md",
-    "Statistik/Schätzer/Schätzer.md",
-    "Statistik/Statistik.md",
-    "Statistik/Computational Methods/Sampling.md",
-    "Statistik/Computational Methods/Computational Methods.md",
-    "Datenstrukturen und Algorithmen/Datenstrukturen/Bäume/2-4 Bäume.md",
-    "Allgemeine Mathematik/Zeichensammlung.md",
-    "Analysis/Vollständige Induktion.md",
-    "Datenstrukturen und Algorithmen/Datenstrukturen/Heap.md"
+    "Mathematik/Statistik/Computational Methods/Inductive Inference.md",
+    "Mathematik/Statistik/Empirische Datenanalyse/Statistiken.md",
+    "Mathematik/Statistik/Schätzer/Schätzer.md",
+    "Mathematik/Statistik/Statistik.md",
+    "Mathematik/Statistik/Computational Methods/Sampling.md",
+    "Mathematik/Statistik/Computational Methods/Computational Methods.md",
+    "Informatik/Datenstrukturen und Algorithmen/Datenstrukturen/Bäume/2-4 Bäume.md",
+    "Mathematik/Allgemeine Mathematik/Zeichensammlung.md",
+    "Mathematik/Analysis/Vollständige Induktion.md",
+    "Informatik/Datenstrukturen und Algorithmen/Datenstrukturen/Heap.md"
   ]
 }
