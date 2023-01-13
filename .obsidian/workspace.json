@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Datenstrukturen und Algorithmen/Sortierverfahren/RadixSort.md",
+                "file": "Datenstrukturen und Algorithmen/Datenstrukturen/Bäume/Bäume (Datenstruktur).md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Datenstrukturen und Algorithmen/Sortierverfahren/RadixSort.md",
+                "file": "Datenstrukturen und Algorithmen/Datenstrukturen/Bäume/Bäume (Datenstruktur).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,15 +133,15 @@
   },
   "active": "0d5c9775723285ce",
   "lastOpenFiles": [
+    "Datenstrukturen und Algorithmen/Datenstrukturen/Bäume/Sortierte Binärbäume.md",
+    "Datenstrukturen und Algorithmen/Datenstrukturen/Bäume/Bäume (Datenstruktur).md",
+    "Datenstrukturen und Algorithmen/Datenstrukturen/Bäume/Binärbäume.md",
+    "Diskrete Mathematik/Graphentheorie/Bäume & Spannbäume.md",
+    "Datenstrukturen und Algorithmen/Sortierverfahren/RadixSort.md",
     "Datenstrukturen und Algorithmen/Sortierverfahren/Quicksort.md",
     "Datenstrukturen und Algorithmen/Datenstrukturen/Bäume/2-4 Bäume.md",
-    "Datenstrukturen und Algorithmen/Datenstrukturen/Bäume/Sortierte Binärbäume.md",
     "Datenstrukturen und Algorithmen/Datenstrukturen/Dynamische Arrays.md",
     "Datenstrukturen und Algorithmen/Datenstrukturen/Heap.md",
-    "Datenstrukturen und Algorithmen/Sortierverfahren/HeapSort.md",
-    "Datenstrukturen und Algorithmen/Sortierverfahren/RadixSort.md",
-    "Datenstrukturen und Algorithmen/Sortierverfahren/MergeSort.md",
-    "Datenstrukturen und Algorithmen/Suchverfahren/Interpolationssuche.md",
-    "Datenstrukturen und Algorithmen/Sortierverfahren/Sortierverfahren.md"
+    "Datenstrukturen und Algorithmen/Sortierverfahren/HeapSort.md"
   ]
 }
