@@ -20,21 +20,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "0d5c9775723285ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Datenstrukturen und Algorithmen/Datenstrukturen/Heap.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -63,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "induktion",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -72,7 +59,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -92,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Datenstrukturen und Algorithmen/Datenstrukturen/Heap.md",
+                "file": "Allgemeine Mathematik/Zeichensammlung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,8 +119,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "0d5c9775723285ce",
+  "active": "3d0cd11fd505c6a9",
   "lastOpenFiles": [
+    "Analysis/Vollständige Induktion.md",
+    "Datenstrukturen und Algorithmen/Datenstrukturen/Heap.md",
     "Datenstrukturen und Algorithmen/Sortierverfahren/HeapSort.md",
     "Datenstrukturen und Algorithmen/Sortierverfahren/Untere Schranke für Sortieren.md",
     "Datenstrukturen und Algorithmen/Sortierverfahren/MergeSort.md",
@@ -140,8 +130,6 @@
     "Datenstrukturen und Algorithmen/Sortierverfahren/RadixSort.md",
     "Datenstrukturen und Algorithmen/Datenstrukturen/Bäume/2-4 Bäume.md",
     "Datenstrukturen und Algorithmen/Suchverfahren/Selbstanordnende Felder.md",
-    "Datenstrukturen und Algorithmen/Suchverfahren/Quadratische Binärsuche.md",
-    "Datenstrukturen und Algorithmen/Suchverfahren/Fastsearch.md",
-    "Datenstrukturen und Algorithmen/Datenstrukturen/Bäume/Sortierte Binärbäume.md"
+    "Datenstrukturen und Algorithmen/Suchverfahren/Quadratische Binärsuche.md"
   ]
 }
