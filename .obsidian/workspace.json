@@ -22,18 +22,6 @@
             }
           },
           {
-            "id": "420f706304342fcd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Datenstrukturen und Algorithmen/Datenstrukturen/Bäume/2-4 Bäume.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "4862603df906f7be",
             "type": "leaf",
             "state": {
@@ -58,19 +46,19 @@
             }
           },
           {
-            "id": "c61793ae69def080",
+            "id": "0f6d62d594d45644",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statistik/Schätzer/Schätzer.md",
+                "file": "Statistik/Empirische Datenanalyse/Statistiken.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -113,7 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 256.5
+    "width": 246.5
   },
   "right": {
     "id": "d1219e90b492538d",
@@ -129,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Statistik/Schätzer/Schätzer.md",
+                "file": "Statistik/Computational Methods/Inductive Inference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,8 +156,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "c61793ae69def080",
+  "active": "0f20020d4204bd4e",
   "lastOpenFiles": [
+    "Statistik/Empirische Datenanalyse/Statistiken.md",
+    "Statistik/Schätzer/Schätzer.md",
     "Statistik/Statistik.md",
     "Statistik/Computational Methods/Inductive Inference.md",
     "Statistik/Computational Methods/Sampling.md",
@@ -177,8 +167,6 @@
     "Datenstrukturen und Algorithmen/Datenstrukturen/Bäume/2-4 Bäume.md",
     "Allgemeine Mathematik/Zeichensammlung.md",
     "Analysis/Vollständige Induktion.md",
-    "Datenstrukturen und Algorithmen/Datenstrukturen/Heap.md",
-    "Datenstrukturen und Algorithmen/Sortierverfahren/HeapSort.md",
-    "Datenstrukturen und Algorithmen/Sortierverfahren/Untere Schranke für Sortieren.md"
+    "Datenstrukturen und Algorithmen/Datenstrukturen/Heap.md"
   ]
 }
