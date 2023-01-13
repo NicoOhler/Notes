@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematik/Statistik/Computational Methods/Computational Methods.md",
+                "file": "Mathematik/Wahrscheinlichkeitstheorie/Zentrale Grenzwertsatz CLT.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematik/Statistik/Computational Methods/Computational Methods.md",
+                "file": "Mathematik/Wahrscheinlichkeitstheorie/Zentrale Grenzwertsatz CLT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,15 +133,15 @@
   },
   "active": "4862603df906f7be",
   "lastOpenFiles": [
+    "Mathematik/Wahrscheinlichkeitstheorie/Bedingte Wahrscheinlichkeiten/Modelle höherer Ordnung.md",
+    "Mathematik/Wahrscheinlichkeitstheorie/Bedingte Wahrscheinlichkeiten/Gesetz der totalen Wahrscheinlichkeiten.md",
+    "Mathematik/Statistik/Computational Methods/Computational Methods.md",
     "z_images/Pasted image 20230113144526.png",
     "Mathematik/Statistik/Computational Methods/Inductive Inference.md",
     "Mathematik/Statistik/Empirische Datenanalyse/Statistiken.md",
     "Mathematik/Statistik/Schätzer/Schätzer.md",
     "Mathematik/Statistik/Statistik.md",
     "Mathematik/Statistik/Computational Methods/Sampling.md",
-    "Mathematik/Statistik/Computational Methods/Computational Methods.md",
-    "Informatik/Datenstrukturen und Algorithmen/Datenstrukturen/Bäume/2-4 Bäume.md",
-    "Mathematik/Allgemeine Mathematik/Zeichensammlung.md",
-    "Mathematik/Analysis/Vollständige Induktion.md"
+    "Informatik/Datenstrukturen und Algorithmen/Datenstrukturen/Bäume/2-4 Bäume.md"
   ]
 }
