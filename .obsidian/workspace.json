@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Datenstrukturen und Algorithmen/Laufzeitanalyse/Master Theorem.md",
+                "file": "Informatik/Datenstrukturen und Algorithmen/Examples.md",
                 "mode": "source",
                 "source": false
               }
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "statistik",
+                "query": "intersection",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Datenstrukturen und Algorithmen/Laufzeitanalyse/Master Theorem.md",
+                "file": "Informatik/Datenstrukturen und Algorithmen/Examples.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,15 +133,15 @@
   },
   "active": "b003b9434ab2edee",
   "lastOpenFiles": [
-    "Mathematik/Wahrscheinlichkeitstheorie/Zentrale Grenzwertsatz CLT.md",
-    "Mathematik/Wahrscheinlichkeitstheorie/Wahrscheinlichkeitstheorie.md",
-    "Mathematik/Allgemeine Mathematik/Zeichensammlung.md",
-    "Mathematik/Wahrscheinlichkeitstheorie/Bedingte Wahrscheinlichkeiten/Modelle höherer Ordnung.md",
-    "Mathematik/Wahrscheinlichkeitstheorie/Bedingte Wahrscheinlichkeiten/Gesetz der totalen Wahrscheinlichkeiten.md",
-    "Mathematik/Statistik/Computational Methods/Computational Methods.md",
-    "z_images/Pasted image 20230113144526.png",
-    "Mathematik/Statistik/Computational Methods/Inductive Inference.md",
-    "Mathematik/Statistik/Empirische Datenanalyse/Statistiken.md",
-    "Mathematik/Statistik/Schätzer/Schätzer.md"
+    "Informatik/Datenstrukturen und Algorithmen/Data Structures and Algorithms 2.md",
+    "Informatik/Datenstrukturen und Algorithmen/Examples.md",
+    "Informatik/Datenstrukturen und Algorithmen/Datenstrukturen/Convex Hull.md",
+    "Informatik/Datenstrukturen und Algorithmen/Design Principles/Dynamic Programming.md",
+    "Informatik/Datenstrukturen und Algorithmen/Arten von Algorithmen/Dynamische Programmierung.md",
+    "Informatik/Datenstrukturen und Algorithmen/Arten von Algorithmen/Rekursive Algorithmen.md",
+    "Informatik/Datenstrukturen und Algorithmen/Arten von Algorithmen/Iterative Algorithmen.md",
+    "Informatik/Datenstrukturen und Algorithmen/Arten von Algorithmen/Greedy Algorithmen.md",
+    "Informatik/Datenstrukturen und Algorithmen/Arten von Algorithmen/Divide & Conquer.md",
+    "Informatik/Datenstrukturen und Algorithmen/Arten von Algorithmen/Arten von Algorithmen.md"
   ]
 }

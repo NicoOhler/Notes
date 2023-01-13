@@ -1,5 +1,5 @@
 ### Overview
-+ [[Design Principles]]
++ [[Examples]]
 + [[Asymptotic Complexity]]
 + [[Geometric Algorithms]]
 + [[Graph Algorithms]]
