@@ -39,14 +39,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computational Methods for Statistics/Computational Methods for Statistics.md",
+                "file": "Statistik/Computational Methods/Computational Methods.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0f20020d4204bd4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Statistik/Computational Methods/Inductive Inference.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -104,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computational Methods for Statistics/Computational Methods for Statistics.md",
+                "file": "Statistik/Computational Methods/Inductive Inference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,8 +155,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "4862603df906f7be",
+  "active": "0f20020d4204bd4e",
   "lastOpenFiles": [
+    "Statistik/Computational Methods/Computational Methods.md",
     "Datenstrukturen und Algorithmen/Datenstrukturen/Bäume/2-4 Bäume.md",
     "Allgemeine Mathematik/Zeichensammlung.md",
     "Analysis/Vollständige Induktion.md",
@@ -153,7 +166,6 @@
     "Datenstrukturen und Algorithmen/Sortierverfahren/Untere Schranke für Sortieren.md",
     "Datenstrukturen und Algorithmen/Sortierverfahren/MergeSort.md",
     "Datenstrukturen und Algorithmen/Sortierverfahren/Quicksort.md",
-    "Datenstrukturen und Algorithmen/Sortierverfahren/RadixSort.md",
-    "Datenstrukturen und Algorithmen/Suchverfahren/Selbstanordnende Felder.md"
+    "Datenstrukturen und Algorithmen/Sortierverfahren/RadixSort.md"
   ]
 }
