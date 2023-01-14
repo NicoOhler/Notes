@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Datenstrukturen und Algorithmen/Laufzeitanalyse/Laufzeitanalyse.md",
+                "file": "Mathematik/Allgemeine Mathematik/Gaußsche Summenformel.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Datenstrukturen und Algorithmen/Laufzeitanalyse/Laufzeitanalyse.md",
+                "file": "Mathematik/Allgemeine Mathematik/Gaußsche Summenformel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,6 +133,7 @@
   },
   "active": "3c7d8c5b55280739",
   "lastOpenFiles": [
+    "Informatik/Datenstrukturen und Algorithmen/Laufzeitanalyse/Laufzeitanalyse.md",
     "Informatik/Datenstrukturen und Algorithmen/Laufzeitanalyse/Iterative Method.md",
     "Informatik/Datenstrukturen und Algorithmen/Laufzeitanalyse/Recurrence Relations.md",
     "Informatik/Datenstrukturen und Algorithmen/Intersection of Line Segments.md",
@@ -141,7 +142,6 @@
     "Mathematik/Allgemeine Mathematik/Zeichensammlung.md",
     "Informatik/Datenstrukturen und Algorithmen/Examples.md",
     "Informatik/Datenstrukturen und Algorithmen/Data Structures and Algorithms 2.md",
-    "Informatik/Datenstrukturen und Algorithmen/Datenstrukturen/Convex Hull.md",
-    "Informatik/Datenstrukturen und Algorithmen/Design Principles/Dynamic Programming.md"
+    "Informatik/Datenstrukturen und Algorithmen/Datenstrukturen/Convex Hull.md"
   ]
 }
