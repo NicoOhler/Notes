@@ -46,7 +46,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematik/Allgemeine Mathematik/Gaußsche Summenformel.md",
+                "file": "Informatik/Datenstrukturen und Algorithmen/Laufzeitanalyse/Master Theorem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,10 +143,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "97e1400a0d8e5c45",
+  "active": "3c7d8c5b55280739",
   "lastOpenFiles": [
-    "Informatik/Datenstrukturen und Algorithmen/Laufzeitanalyse/Master Theorem.md",
     "Mathematik/Allgemeine Mathematik/Gaußsche Summenformel.md",
+    "Informatik/Datenstrukturen und Algorithmen/Laufzeitanalyse/Master Theorem.md",
     "Informatik/Datenstrukturen und Algorithmen/Laufzeitanalyse/Laufzeitanalyse.md",
     "Informatik/Datenstrukturen und Algorithmen/Laufzeitanalyse/Iterative Method.md",
     "Informatik/Datenstrukturen und Algorithmen/Laufzeitanalyse/Recurrence Relations.md",
