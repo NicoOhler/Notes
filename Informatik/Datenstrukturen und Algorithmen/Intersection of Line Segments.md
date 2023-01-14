@@ -45,13 +45,20 @@
 			+ dictionary, [[(2-4)-Bäume]]
 + pseudocode
 	+ ![[Pasted image 20230113213608.png]]
-+ details
-	+ $y$-order depends on actual $y$-coordinates at this $x$-coordinate
-		+ ![[Pasted image 20230113214133.png]]
-	+ at most two new neighbours
-		+ above and below new minimum $x$
-		+ easier to find if linked
-			+ maybe link leaves of [[(2-4)-Bäume]] with pointers
++ $y$-order depends on actual $y$-coordinates at this $x$-coordinate
+	+ ![[Pasted image 20230113214133.png]]
++ at most two new neighbours
+	+ above and below new minimum $x$
+	+ easier to find if linked
+		+ maybe link leaves of [[(2-4)-Bäume]] with pointers
 
 ### Analysis
-+ ![[Pasted image 20230113214400.png]]
++ ![[Pasted image 20230113214527.png]]
++ detecting same intersection twice possible
+	+ must be prevented with check
+	 + does not affect time complexity
++ ![[Pasted image 20230113214944.png]]
++ can be further reduced to
+	+ $O(n\ log n + k)$
++ stop at first intersection possible
+	+ ![[Pasted image 20230113215052.png]]
