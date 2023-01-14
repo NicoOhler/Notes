@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematik/Allgemeine Mathematik/Gaußsche Summenformel.md",
+                "file": "Informatik/Datenstrukturen und Algorithmen/Laufzeitanalyse/Master Theorem.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematik/Allgemeine Mathematik/Gaußsche Summenformel.md",
+                "file": "Informatik/Datenstrukturen und Algorithmen/Laufzeitanalyse/Master Theorem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,6 +133,7 @@
   },
   "active": "3c7d8c5b55280739",
   "lastOpenFiles": [
+    "Mathematik/Allgemeine Mathematik/Gaußsche Summenformel.md",
     "Informatik/Datenstrukturen und Algorithmen/Laufzeitanalyse/Laufzeitanalyse.md",
     "Informatik/Datenstrukturen und Algorithmen/Laufzeitanalyse/Iterative Method.md",
     "Informatik/Datenstrukturen und Algorithmen/Laufzeitanalyse/Recurrence Relations.md",
@@ -141,7 +142,6 @@
     "Informatik/Datenstrukturen und Algorithmen/Datenstrukturen/Bäume/(2-4)-Bäume.md",
     "Mathematik/Allgemeine Mathematik/Zeichensammlung.md",
     "Informatik/Datenstrukturen und Algorithmen/Examples.md",
-    "Informatik/Datenstrukturen und Algorithmen/Data Structures and Algorithms 2.md",
-    "Informatik/Datenstrukturen und Algorithmen/Datenstrukturen/Convex Hull.md"
+    "Informatik/Datenstrukturen und Algorithmen/Data Structures and Algorithms 2.md"
   ]
 }
