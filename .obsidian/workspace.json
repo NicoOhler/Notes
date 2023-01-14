@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematik/Allgemeine Mathematik/Gaußsche Summenformel.md",
+                "file": "Informatik/Datenstrukturen und Algorithmen/Intersection of Line Segments.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematik/Allgemeine Mathematik/Gaußsche Summenformel.md",
+                "file": "Informatik/Datenstrukturen und Algorithmen/Intersection of Line Segments.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,12 +131,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "097b9a58ea336072",
+  "active": "3c7d8c5b55280739",
   "lastOpenFiles": [
+    "Mathematik/Allgemeine Mathematik/Gaußsche Summenformel.md",
     "Mathematik/Allgemeine Mathematik/Logische Verknüpfungen.md",
     "Mathematik/Diskrete Mathematik/Kombinatorik/Lineare Rekursion.md",
     "Informatik/Datenstrukturen und Algorithmen/Laufzeitanalyse/Master Theorem.md",
-    "Mathematik/Allgemeine Mathematik/Gaußsche Summenformel.md",
     "Informatik/Datenstrukturen und Algorithmen/Laufzeitanalyse/Laufzeitanalyse.md",
     "Informatik/Datenstrukturen und Algorithmen/Laufzeitanalyse/Iterative Method.md",
     "Informatik/Datenstrukturen und Algorithmen/Laufzeitanalyse/Recurrence Relations.md",
