@@ -20,6 +20,7 @@
 	+ ![[Pasted image 20230115120906.png]]
 + unfair coin 2
 	+ ![[Pasted image 20230115121012.png]]
+	+ ![[Pasted image 20230115124918.png]]
 
 
 
