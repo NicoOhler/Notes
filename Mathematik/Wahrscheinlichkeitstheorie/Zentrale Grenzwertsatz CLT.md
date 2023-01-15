@@ -16,6 +16,8 @@
 + ![[Pasted image 20221114114031.png]]
 + ![[Pasted image 20221114114038.png]]
 
+![[Pasted image 20230115091908.png]]
+
 ### Beispiele mit Partialsumme
 + Hellseherin
 	+ ![[Pasted image 20221114114132.png]]

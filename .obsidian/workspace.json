@@ -27,14 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematik/Wahrscheinlichkeitstheorie/Zentrale Grenzwertsatz CLT.md",
+                "file": "Mathematik/Statistik/Schätzer/Konfidenzintervall.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a19926cd79f71083",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathematik/Statistik/Computational Methods/Z-Score Confidence Interval.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -92,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematik/Wahrscheinlichkeitstheorie/Zentrale Grenzwertsatz CLT.md",
+                "file": "Mathematik/Statistik/Computational Methods/Z-Score Confidence Interval.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,17 +143,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "3c7d8c5b55280739",
+  "active": "a19926cd79f71083",
   "lastOpenFiles": [
-    "Mathematik/Wahrscheinlichkeitstheorie/Wahrscheinlichkeitstheorie.md",
+    "Mathematik/Statistik/Schätzer/Konfidenzintervall.md",
+    "Mathematik/Statistik/Schätzer/Schätzer.md",
     "Mathematik/Statistik/Computational Methods/Sampling.md",
+    "Mathematik/Statistik/Computational Methods/Inductive Inference.md",
+    "Mathematik/Statistik/Computational Methods/Computational Methods.md",
+    "Mathematik/Wahrscheinlichkeitstheorie/Zentrale Grenzwertsatz CLT.md",
+    "Mathematik/Wahrscheinlichkeitstheorie/Wahrscheinlichkeitstheorie.md",
     "Informatik/Datenstrukturen und Algorithmen/Intersection of Line Segments.md",
     "Mathematik/Allgemeine Mathematik/Gaußsche Summenformel.md",
-    "Mathematik/Allgemeine Mathematik/Logische Verknüpfungen.md",
-    "Mathematik/Diskrete Mathematik/Kombinatorik/Lineare Rekursion.md",
-    "Informatik/Datenstrukturen und Algorithmen/Laufzeitanalyse/Master Theorem.md",
-    "Informatik/Datenstrukturen und Algorithmen/Laufzeitanalyse/Laufzeitanalyse.md",
-    "Informatik/Datenstrukturen und Algorithmen/Laufzeitanalyse/Iterative Method.md",
-    "Informatik/Datenstrukturen und Algorithmen/Laufzeitanalyse/Recurrence Relations.md"
+    "Mathematik/Allgemeine Mathematik/Logische Verknüpfungen.md"
   ]
 }

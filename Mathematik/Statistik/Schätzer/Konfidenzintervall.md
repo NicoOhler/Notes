@@ -1,5 +1,5 @@
 ### Motivation
-+ Schätzwert ist abhängig von Stichprobe
++ [[Schätzer]] ist abhängig von Stichprobe
 	+ Parameter exakt zu schätzen unwahrscheinlich
 + Konfidenzintervall
 	+ ![[Pasted image 20221208171010.png]]
