@@ -30,3 +30,8 @@
 		+ deutlich größer
 	+ ![[Pasted image 20221208121850.png]]
 		+ deutlich kleiner
+
+### Simple and Composite Hypothesis
++ ![[Pasted image 20230115115833.png]]
++ example
+	+ ![[Pasted image 20230115115813.png]]
