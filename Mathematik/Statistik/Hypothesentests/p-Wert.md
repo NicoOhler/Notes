@@ -4,6 +4,9 @@
 ### Definition
 + ![[Pasted image 20221208124743.png]]
 
+### Misconceptions
++ ![[Pasted image 20230115143024.png]]
+
 ### Beispiel
 + ![[Pasted image 20221208124847.png]]
 + ![[Pasted image 20221208125106.png]]
