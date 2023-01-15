@@ -1,0 +1,17 @@
+
++ ![[Pasted image 20230115120122.png]]
+
+### Examples 
++ user satisfaction 
+	+ ![[Pasted image 20230115114619.png]]
+	+ ![[Pasted image 20230115115034.png]]
+	+ ![[Pasted image 20230115115045.png]]
+	+ ![[Pasted image 20230115115420.png]]
++ possible test
+	+ ![[Pasted image 20230115115906.png]]
++ unfair coin
+	+ ![[Pasted image 20230115120344.png]]
+	+ ![[Pasted image 20230115120626.png]]
+	+ ![[Pasted image 20230115120638.png]]
+
+ [[Hypothesentests]]
