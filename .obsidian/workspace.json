@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematik/Statistik/Computational Methods/Scientific vs Statistical Significance.md",
+                "file": "Mathematik/Statistik/Hypothesentests/p-Wert.md",
                 "mode": "source",
                 "source": false
               }
@@ -75,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "geometrische reihe",
+                "query": "p-w",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +84,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -104,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematik/Statistik/Computational Methods/Scientific vs Statistical Significance.md",
+                "file": "Mathematik/Statistik/Hypothesentests/p-Wert.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,8 +144,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "097b9a58ea336072",
+  "active": "b16cbd84f5d698b0",
   "lastOpenFiles": [
+    "Mathematik/Statistik/Computational Methods/Scientific vs Statistical Significance.md",
     "Mathematik/Statistik/Computational Methods/Hypothesis Testing CMS.md",
     "Mathematik/Statistik/Hypothesentests/Hypothesen.md",
     "Mathematik/Statistik/Hypothesentests/Hypothesentests.md",
@@ -153,7 +155,6 @@
     "Mathematik/Statistik/Schätzer/Konfidenzintervall/T-Score Confidence Interval.md",
     "Mathematik/Statistik/Computational Methods/Inductive Inference.md",
     "Mathematik/Statistik/Computational Methods/Sampling.md",
-    "Mathematik/Statistik/Computational Methods/Computer Simulated Parameter Estimation/Computer Simulated Parameter Estimation.md",
-    "Mathematik/Statistik/Computational Methods/Computational Methods.md"
+    "Mathematik/Statistik/Computational Methods/Computer Simulated Parameter Estimation/Computer Simulated Parameter Estimation.md"
   ]
 }
