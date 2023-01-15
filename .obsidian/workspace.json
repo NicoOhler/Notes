@@ -56,9 +56,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b8f80d4b0b040430",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathematik/Statistik/Computational Methods/Bonferroni Correction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -116,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematik/Statistik/Computational Methods/Permutation Test.md",
+                "file": "Mathematik/Statistik/Computational Methods/Bonferroni Correction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,8 +167,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "c3a67f63e1adaba4",
+  "active": "b8f80d4b0b040430",
   "lastOpenFiles": [
+    "Mathematik/Statistik/Computational Methods/Permutation Test.md",
     "Mathematik/Statistik/Computational Methods/Hypothesis Testing CMS.md",
     "Mathematik/Statistik/Hypothesentests/p-Wert.md",
     "Mathematik/Statistik/Computational Methods/Scientific vs Statistical Significance.md",
@@ -165,7 +178,6 @@
     "Mathematik/Statistik/Schätzer/Konfidenzintervall/Konfidenzintervall.md",
     "Mathematik/Statistik/Schätzer/Konfidenzintervall/Z-Score Confidence Interval.md",
     "Mathematik/Statistik/Schätzer/Konfidenzintervall/T-Score Confidence Interval.md",
-    "Mathematik/Statistik/Computational Methods/Inductive Inference.md",
-    "Mathematik/Statistik/Computational Methods/Sampling.md"
+    "Mathematik/Statistik/Computational Methods/Inductive Inference.md"
   ]
 }
