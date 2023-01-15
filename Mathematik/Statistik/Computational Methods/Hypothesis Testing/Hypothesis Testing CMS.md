@@ -1,5 +1,9 @@
-
+### [[Hypothesentests]]
 + ![[Pasted image 20230115120122.png]]
+
+### Z-Test
++ ![[Pasted image 20230115121231.png]]
++  
 
 ### Examples 
 + user satisfaction 
@@ -13,5 +17,9 @@
 	+ ![[Pasted image 20230115120344.png]]
 	+ ![[Pasted image 20230115120626.png]]
 	+ ![[Pasted image 20230115120638.png]]
+	+ ![[Pasted image 20230115120906.png]]
++ unfair coin 2
+	+ ![[Pasted image 20230115121012.png]]
 
- [[Hypothesentests]]
+
+
