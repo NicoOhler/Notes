@@ -21,6 +21,10 @@
 + unfair coin 2
 	+ ![[Pasted image 20230115121012.png]]
 	+ ![[Pasted image 20230115124918.png]]
++ radar guns
+	+ ![[Pasted image 20230115133217.png]]
+	+ ![[Pasted image 20230115133613.png]]
+	+ ![[Pasted image 20230115133639.png]]
 
 
 
