@@ -3,7 +3,6 @@
 
 ### Z-Test
 + ![[Pasted image 20230115121231.png]]
-+  
 
 ### Examples 
 + user satisfaction 
