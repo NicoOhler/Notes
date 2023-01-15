@@ -4,5 +4,6 @@
 + ![[Pasted image 20230115093517.png]]
 + ![[Pasted image 20230115093609.png]]
 
-### Gene
-[[Konfidenzintervall]]
+### General [[Konfidenzintervall]] Definition
++ ![[Pasted image 20230115093924.png]]
++ ![[Pasted image 20230115094107.png]]
