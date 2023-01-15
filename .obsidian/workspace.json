@@ -68,9 +68,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f8e1cb3e7b747042",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathematik/Statistik/Computational Methods/Computer Simulated Parameter Estimation/Bootstrap Principle.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -128,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematik/Statistik/Computational Methods/Computer Simulated Parameter Estimation.md",
+                "file": "Mathematik/Statistik/Computational Methods/Computer Simulated Parameter Estimation/Bootstrap Principle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,8 +179,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "1eccd282492ab321",
+  "active": "f8e1cb3e7b747042",
   "lastOpenFiles": [
+    "Mathematik/Statistik/Computational Methods/Computer Simulated Parameter Estimation.md",
     "Mathematik/Statistik/Computational Methods/T-Score Confidence Interval.md",
     "Mathematik/Statistik/Computational Methods/Z-Score Confidence Interval.md",
     "Mathematik/Statistik/Schätzer/Konfidenzintervall.md",
@@ -177,7 +190,6 @@
     "Mathematik/Statistik/Computational Methods/Inductive Inference.md",
     "Mathematik/Statistik/Computational Methods/Computational Methods.md",
     "Mathematik/Wahrscheinlichkeitstheorie/Zentrale Grenzwertsatz CLT.md",
-    "Mathematik/Wahrscheinlichkeitstheorie/Wahrscheinlichkeitstheorie.md",
-    "Informatik/Datenstrukturen und Algorithmen/Intersection of Line Segments.md"
+    "Mathematik/Wahrscheinlichkeitstheorie/Wahrscheinlichkeitstheorie.md"
   ]
 }
