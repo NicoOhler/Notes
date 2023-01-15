@@ -39,14 +39,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematik/Statistik/Hypothesentests/p-Wert.md",
+                "file": "Mathematik/Statistik/Computational Methods/Hypothesis Testing CMS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c3a67f63e1adaba4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathematik/Statistik/Computational Methods/Permutation Test.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -84,8 +96,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -105,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematik/Statistik/Hypothesentests/p-Wert.md",
+                "file": "Mathematik/Statistik/Computational Methods/Permutation Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,17 +155,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "b16cbd84f5d698b0",
+  "active": "c3a67f63e1adaba4",
   "lastOpenFiles": [
-    "Mathematik/Statistik/Computational Methods/Scientific vs Statistical Significance.md",
     "Mathematik/Statistik/Computational Methods/Hypothesis Testing CMS.md",
+    "Mathematik/Statistik/Hypothesentests/p-Wert.md",
+    "Mathematik/Statistik/Computational Methods/Scientific vs Statistical Significance.md",
     "Mathematik/Statistik/Hypothesentests/Hypothesen.md",
     "Mathematik/Statistik/Hypothesentests/Hypothesentests.md",
     "Mathematik/Statistik/Schätzer/Konfidenzintervall/Konfidenzintervall.md",
     "Mathematik/Statistik/Schätzer/Konfidenzintervall/Z-Score Confidence Interval.md",
     "Mathematik/Statistik/Schätzer/Konfidenzintervall/T-Score Confidence Interval.md",
     "Mathematik/Statistik/Computational Methods/Inductive Inference.md",
-    "Mathematik/Statistik/Computational Methods/Sampling.md",
-    "Mathematik/Statistik/Computational Methods/Computer Simulated Parameter Estimation/Computer Simulated Parameter Estimation.md"
+    "Mathematik/Statistik/Computational Methods/Sampling.md"
   ]
 }
