@@ -15,7 +15,6 @@
 + results in probabilities
 + finds new knowledge in research
 
-
 ### Methodology
 + ![[Pasted image 20230113143749.png]]
 + ![[Pasted image 20230113144526.png]]

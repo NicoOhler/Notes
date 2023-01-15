@@ -6,3 +6,4 @@
 + function approximation
 	+ ![[Pasted image 20230115100026.png]]
 
+### [[Bootstrap Principle]]

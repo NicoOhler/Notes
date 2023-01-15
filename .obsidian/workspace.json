@@ -27,62 +27,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematik/Statistik/Schätzer/Konfidenzintervall.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a19926cd79f71083",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematik/Statistik/Computational Methods/Z-Score Confidence Interval.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "23c09addcebc844d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematik/Statistik/Computational Methods/T-Score Confidence Interval.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1eccd282492ab321",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematik/Statistik/Computational Methods/Computer Simulated Parameter Estimation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f8e1cb3e7b747042",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematik/Statistik/Computational Methods/Computer Simulated Parameter Estimation/Bootstrap Principle.md",
+                "file": "Mathematik/Statistik/Computational Methods/Hypothesis Testing/Hypothesis Testing.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -140,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematik/Statistik/Computational Methods/Computer Simulated Parameter Estimation/Bootstrap Principle.md",
+                "file": "Mathematik/Statistik/Computational Methods/Hypothesis Testing/Hypothesis Testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,17 +131,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "f8e1cb3e7b747042",
+  "active": "3c7d8c5b55280739",
   "lastOpenFiles": [
-    "z_images/Pasted image 20230115091908.png",
-    "Mathematik/Statistik/Computational Methods/Computer Simulated Parameter Estimation/Bootstrap Principle.md",
-    "Mathematik/Statistik/Computational Methods/Computer Simulated Parameter Estimation.md",
-    "Mathematik/Statistik/Computational Methods/T-Score Confidence Interval.md",
-    "Mathematik/Statistik/Computational Methods/Z-Score Confidence Interval.md",
-    "Mathematik/Statistik/Schätzer/Konfidenzintervall.md",
-    "Mathematik/Statistik/Schätzer/Schätzer.md",
-    "Mathematik/Statistik/Computational Methods/Sampling.md",
+    "Mathematik/Statistik/Schätzer/Konfidenzintervall/Konfidenzintervall.md",
+    "Mathematik/Statistik/Schätzer/Konfidenzintervall/Z-Score Confidence Interval.md",
+    "Mathematik/Statistik/Schätzer/Konfidenzintervall/T-Score Confidence Interval.md",
     "Mathematik/Statistik/Computational Methods/Inductive Inference.md",
-    "Mathematik/Statistik/Computational Methods/Computational Methods.md"
+    "Mathematik/Statistik/Computational Methods/Sampling.md",
+    "Mathematik/Statistik/Computational Methods/Hypothesis Testing/Hypothesis Testing.md",
+    "Mathematik/Statistik/Computational Methods/Computer Simulated Parameter Estimation/Computer Simulated Parameter Estimation.md",
+    "Mathematik/Statistik/Computational Methods/Computational Methods.md",
+    "Mathematik/Statistik/Computational Methods/Computer Simulated Parameter Estimation/Bootstrap Principle.md",
+    "z_images/Pasted image 20230115091908.png"
   ]
 }
