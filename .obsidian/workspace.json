@@ -70,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematik/Statistik/Hypothesentests/Hypothesen.md",
+                "file": "Mathematik/Statistik/Computational Methods/Hypothesis Testing CMS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,15 +167,15 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "b8f80d4b0b040430",
+  "active": "b16cbd84f5d698b0",
   "lastOpenFiles": [
+    "Mathematik/Statistik/Hypothesentests/Hypothesen.md",
     "Mathematik/Statistik/Hypothesentests/Hypothesentests.md",
     "Mathematik/Statistik/Computational Methods/Hypothesis Testing CMS.md",
     "Mathematik/Statistik/Computational Methods/Bonferroni Correction.md",
     "Mathematik/Statistik/Computational Methods/Permutation Test.md",
     "Mathematik/Statistik/Hypothesentests/p-Wert.md",
     "Mathematik/Statistik/Computational Methods/Scientific vs Statistical Significance.md",
-    "Mathematik/Statistik/Hypothesentests/Hypothesen.md",
     "Mathematik/Statistik/Schätzer/Konfidenzintervall/Konfidenzintervall.md",
     "Mathematik/Statistik/Schätzer/Konfidenzintervall/Z-Score Confidence Interval.md",
     "Mathematik/Statistik/Schätzer/Konfidenzintervall/T-Score Confidence Interval.md"
