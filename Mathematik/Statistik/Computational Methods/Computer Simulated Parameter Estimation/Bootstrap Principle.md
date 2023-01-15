@@ -28,4 +28,6 @@
 	+ skewness
 		+ ![[Pasted image 20230115102755.png]]
 	+ bioequivalence
-		+ 
+		+ ![[Pasted image 20230115102936.png]]
+		+ ![[Pasted image 20230115103219.png]]
+		+ ![[Pasted image 20230115103352.png]]
