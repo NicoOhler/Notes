@@ -27,43 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematik/Statistik/Schätzer/Maximum-Likelihood-Schätzer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e1918e3a044d3a3b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematik/Statistik/Computational Methods/MLE under Normality Assumption.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d35bbd4108146bf0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematik/Statistik/Regression/Regression.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3d2fe3e873c7c543",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematik/Statistik/Regression/Multiple Regression.md",
+                "file": "Mathematik/Statistik/Computational Methods/Computer Simulated Parameter Estimation/Computer Simulated Parameter Estimation.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +46,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -124,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246.5
+    "width": 366.5
   },
   "right": {
     "id": "d1219e90b492538d",
@@ -179,17 +143,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "c6c2e4f17cb0664b",
+  "active": "097b9a58ea336072",
   "lastOpenFiles": [
-    "Mathematik/Statistik/Regression/Multiple Regression.md",
-    "Mathematik/Statistik/Regression/Regression.md",
-    "Mathematik/Statistik/Regression/Lineare Regression.md",
-    "Mathematik/Statistik/Computational Methods/MLE under Normality Assumption.md",
+    "Mathematik/Statistik/Computational Methods/Computer Simulated Parameter Estimation/Computer Simulated Parameter Estimation.md",
+    "Mathematik/Statistik/Computational Methods/Hypothesis Testing CMS.md",
+    "Mathematik/Statistik/Schätzer/MLE under Normality Assumption.md",
     "Mathematik/Statistik/Schätzer/Maximum-Likelihood-Schätzer.md",
-    "Mathematik/Statistik/Schätzer/Schätzer.md",
-    "Mathematik/Statistik/Computational Methods/Regression CMS/Linear Regression CMS.md",
-    "Mathematik/Statistik/Statistik.md",
-    "Mathematik/Statistik/Computational Methods/Computer Simulated Parameter Estimation/Bootstrap Principle.md",
-    "Mathematik/Statistik/Computational Methods/Computer Simulated Parameter Estimation/Computer Simulated Parameter Estimation.md"
+    "Mathematik/Statistik/Regression/Regression.md",
+    "Mathematik/Statistik/Regression/Relation between Variables.md",
+    "z_images/Pasted image 20230116153501.png",
+    "z_images/Pasted image 20211025164615.png",
+    "z_images/Pasted image 20230116151211.png",
+    "Mathematik/Statistik/Regression/Multiple Regression.md"
   ]
 }
