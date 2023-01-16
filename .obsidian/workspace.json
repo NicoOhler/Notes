@@ -68,9 +68,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c6c2e4f17cb0664b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathematik/Statistik/Regression/Relation between Variables.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -128,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematik/Statistik/Regression/Multiple Regression.md",
+                "file": "Mathematik/Statistik/Regression/Relation between Variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,8 +179,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "3d2fe3e873c7c543",
+  "active": "c6c2e4f17cb0664b",
   "lastOpenFiles": [
+    "Mathematik/Statistik/Regression/Multiple Regression.md",
     "Mathematik/Statistik/Regression/Regression.md",
     "Mathematik/Statistik/Regression/Lineare Regression.md",
     "Mathematik/Statistik/Computational Methods/MLE under Normality Assumption.md",
@@ -177,7 +190,6 @@
     "Mathematik/Statistik/Computational Methods/Regression CMS/Linear Regression CMS.md",
     "Mathematik/Statistik/Statistik.md",
     "Mathematik/Statistik/Computational Methods/Computer Simulated Parameter Estimation/Bootstrap Principle.md",
-    "Mathematik/Statistik/Computational Methods/Computer Simulated Parameter Estimation/Computer Simulated Parameter Estimation.md",
-    "Mathematik/Statistik/Regression/Testen.md"
+    "Mathematik/Statistik/Computational Methods/Computer Simulated Parameter Estimation/Computer Simulated Parameter Estimation.md"
   ]
 }
