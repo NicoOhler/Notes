@@ -34,31 +34,19 @@
             }
           },
           {
-            "id": "707aa01edf42771a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematik/Statistik/Regression/Regression.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d35bbd4108146bf0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematik/Statistik/Computational Methods/Computer Simulated Parameter Estimation/Bootstrap Principle.md",
+                "file": "Mathematik/Statistik/Regression/Lineare Regression.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -116,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematik/Statistik/Computational Methods/Computer Simulated Parameter Estimation/Bootstrap Principle.md",
+                "file": "Mathematik/Statistik/Computational Methods/Regression CMS/Linear Regression CMS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,17 +143,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "d35bbd4108146bf0",
+  "active": "0a95751ee15f3cf9",
   "lastOpenFiles": [
-    "Mathematik/Statistik/Computational Methods/Computer Simulated Parameter Estimation/Computer Simulated Parameter Estimation.md",
-    "Mathematik/Statistik/Computational Methods/Computer Simulated Parameter Estimation/Bootstrap Principle.md",
+    "Mathematik/Statistik/Regression/Regression.md",
+    "Mathematik/Statistik/Statistik.md",
     "Mathematik/Statistik/Regression/Lineare Regression.md",
     "Mathematik/Statistik/Computational Methods/Regression CMS/Linear Regression CMS.md",
-    "Mathematik/Statistik/Regression/Regression.md",
+    "Mathematik/Statistik/Computational Methods/Computer Simulated Parameter Estimation/Bootstrap Principle.md",
+    "Mathematik/Statistik/Computational Methods/Computer Simulated Parameter Estimation/Computer Simulated Parameter Estimation.md",
     "Mathematik/Statistik/Regression/Testen.md",
     "Informatik/Datenstrukturen und Algorithmen/Sortierverfahren/Untere Schranke für Sortieren.md",
     "Informatik/Datenstrukturen und Algorithmen/Sortierverfahren/Quicksort.md",
-    "Informatik/Datenstrukturen und Algorithmen/Sortierverfahren/Vergleich von Sortierverfahren.md",
-    "z_images/Pasted image 20230115102936.png"
+    "Informatik/Datenstrukturen und Algorithmen/Sortierverfahren/Vergleich von Sortierverfahren.md"
   ]
 }

@@ -13,5 +13,5 @@
 + [[Empirische Datenanalyse]]
 + [[Schätzer]]
 + [[Hypothesentests]]
-+ [[Lineare Regression]]
++ [[Regression]], [[Lineare Regression]]
 
