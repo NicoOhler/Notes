@@ -1,5 +1,5 @@
 ### Overview
-+ [[Examples]]
++ [[Various Algorithms]]
 + [[Asymptotic Complexity]]
 + [[Geometric Algorithms]]
 + [[Graph Algorithms]]
