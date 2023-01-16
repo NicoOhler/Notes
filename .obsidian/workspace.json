@@ -70,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Datenstrukturen und Algorithmen/Various Algorithms/Multiplication of Large Integers.md",
+                "file": "Informatik/Datenstrukturen und Algorithmen/Various Algorithms/Matrix Multiplication Algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,12 +167,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "c9ffb523d57d7cd7",
+  "active": "6b3e7a6f330a3e08",
   "lastOpenFiles": [
-    "Informatik/Datenstrukturen und Algorithmen/Various Algorithms/Various Algorithms.md",
-    "Informatik/Datenstrukturen und Algorithmen/Various Algorithms/Multiplication of Large Integers.md",
     "Informatik/Datenstrukturen und Algorithmen/Various Algorithms/Exponentiation Algorithm.md",
     "Informatik/Datenstrukturen und Algorithmen/Various Algorithms/Matrix Multiplication Algorithm.md",
+    "Informatik/Datenstrukturen und Algorithmen/Various Algorithms/Multiplication of Large Integers.md",
+    "Informatik/Datenstrukturen und Algorithmen/Various Algorithms/Various Algorithms.md",
     "Informatik/Datenstrukturen und Algorithmen/Various Algorithms/Maximum Subarray Sum.md",
     "Informatik/Datenstrukturen und Algorithmen/Various Algorithms/Intersection of Line Segments.md",
     "Mathematik/Statistik/Computational Methods/Computer Simulated Parameter Estimation/Computer Simulated Parameter Estimation.md",
