@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Datenstrukturen und Algorithmen/Various Algorithms/Various Algorithms.md",
+                "file": "Mathematik/Allgemeine Mathematik/Gaußsche Summenformel.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Datenstrukturen und Algorithmen/Various Algorithms/Various Algorithms.md",
+                "file": "Mathematik/Allgemeine Mathematik/Gaußsche Summenformel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,8 +169,8 @@
   },
   "active": "0a95751ee15f3cf9",
   "lastOpenFiles": [
-    "Informatik/Datenstrukturen und Algorithmen/Various Algorithms/Maximum Subarray Sum.md",
     "Informatik/Datenstrukturen und Algorithmen/Various Algorithms/Various Algorithms.md",
+    "Informatik/Datenstrukturen und Algorithmen/Various Algorithms/Maximum Subarray Sum.md",
     "Informatik/Datenstrukturen und Algorithmen/Various Algorithms/Multiplication of Large Integers.md",
     "Informatik/Datenstrukturen und Algorithmen/Various Algorithms/Matrix Multiplication Algorithm.md",
     "Informatik/Datenstrukturen und Algorithmen/Various Algorithms/Exponentiation Algorithm.md",

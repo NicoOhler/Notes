@@ -1,3 +1,4 @@
+### Definition
 ![[Pasted image 20221214143356.png]]
 
 ### Geometrische Reihe
