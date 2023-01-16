@@ -27,13 +27,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematik/Statistik/Computational Methods/Hypothesis Testing CMS.md",
+                "file": "Informatik/Datenstrukturen und Algorithmen/Sortierverfahren/Untere Schranke für Sortieren.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -91,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematik/Allgemeine Mathematik/Zeichensammlung.md",
+                "file": "Informatik/Datenstrukturen und Algorithmen/Sortierverfahren/Untere Schranke für Sortieren.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,17 +131,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "3d0cd11fd505c6a9",
+  "active": "b16cbd84f5d698b0",
   "lastOpenFiles": [
+    "Informatik/Datenstrukturen und Algorithmen/Sortierverfahren/Vergleich von Sortierverfahren.md",
+    "z_images/Pasted image 20230115102936.png",
+    "Mathematik/Allgemeine Mathematik/Zeichensammlung.md",
     "Mathematik/Statistik/Computational Methods/Hypothesis Testing CMS.md",
     "Mathematik/Statistik/Computational Methods/Computational Methods.md",
     "Mathematik/Statistik/Computational Methods/Bonferroni Correction.md",
     "Mathematik/Statistik/Computational Methods/Computer Simulated Parameter Estimation/Bootstrap Principle.md",
     "Mathematik/Statistik/Computational Methods/Computer Simulated Parameter Estimation/Computer Simulated Parameter Estimation.md",
     "Mathematik/Statistik/Hypothesentests/t-Test.md",
-    "Mathematik/Statistik/Hypothesentests/p-Wert.md",
-    "Mathematik/Statistik/Hypothesentests/Gauß-Test.md",
-    "Mathematik/Statistik/Hypothesentests/Hypothesentests.md",
-    "Mathematik/Statistik/Hypothesentests/Hypothesen.md"
+    "Mathematik/Statistik/Hypothesentests/p-Wert.md"
   ]
 }

@@ -1,8 +1,7 @@
 ### Untere Schranke
-+ jedes [[Sortierverfahren]] braucht im worst-case zumindest
++ jedes vergleichsbasierte [[Sortierverfahren]] braucht im worst-case zumindest
 	+ $c*n*log(n)$
-	+ $O(n*log(n))$
-+ jedoch nur für vergleichsbasierte Sortierverfahren
+	+ $\Omega(n*log(n))$
 + ![[Pasted image 20221028161926.png]]
 
 ### Entscheidungsbaum von vergleichsbasierten Sortierverfahren
