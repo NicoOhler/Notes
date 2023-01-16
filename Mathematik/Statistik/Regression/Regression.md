@@ -3,4 +3,4 @@
 
 ### Types of Regression
 + [[Lineare Regression]]
-+ 
++ [[Multiple Regression]]
