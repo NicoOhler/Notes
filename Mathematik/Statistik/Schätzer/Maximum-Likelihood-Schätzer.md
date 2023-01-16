@@ -1,5 +1,5 @@
 ### Definition
-+ Methode um geeignete Schätzer zu konstruieren
++ Methode um geeignete [[Schätzer]] zu konstruieren
 + ![[Pasted image 20221208154051.png]]
 + gegeben ist [[Dichtefunktionen PDF]] (oder [[Wahrscheinlichkeitsfunktion PMF]])
 	+ Dichtefunktion für alle ZV gleich

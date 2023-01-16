@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematik/Statistik/Computational Methods/Regression CMS/Linear Regression CMS.md",
+                "file": "Mathematik/Statistik/Schätzer/Maximum-Likelihood-Schätzer.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematik/Statistik/Computational Methods/Regression CMS/Linear Regression CMS.md",
+                "file": "Mathematik/Statistik/Schätzer/Maximum-Likelihood-Schätzer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,15 +145,15 @@
   },
   "active": "0a95751ee15f3cf9",
   "lastOpenFiles": [
+    "Mathematik/Statistik/Schätzer/Schätzer.md",
+    "Mathematik/Statistik/Schätzer/Maximum-Likelihood-Schätzer.md",
+    "Mathematik/Statistik/Computational Methods/Regression CMS/Linear Regression CMS.md",
     "Mathematik/Statistik/Regression/Regression.md",
     "Mathematik/Statistik/Statistik.md",
     "Mathematik/Statistik/Regression/Lineare Regression.md",
-    "Mathematik/Statistik/Computational Methods/Regression CMS/Linear Regression CMS.md",
     "Mathematik/Statistik/Computational Methods/Computer Simulated Parameter Estimation/Bootstrap Principle.md",
     "Mathematik/Statistik/Computational Methods/Computer Simulated Parameter Estimation/Computer Simulated Parameter Estimation.md",
     "Mathematik/Statistik/Regression/Testen.md",
-    "Informatik/Datenstrukturen und Algorithmen/Sortierverfahren/Untere Schranke für Sortieren.md",
-    "Informatik/Datenstrukturen und Algorithmen/Sortierverfahren/Quicksort.md",
-    "Informatik/Datenstrukturen und Algorithmen/Sortierverfahren/Vergleich von Sortierverfahren.md"
+    "Informatik/Datenstrukturen und Algorithmen/Sortierverfahren/Untere Schranke für Sortieren.md"
   ]
 }
