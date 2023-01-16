@@ -17,7 +17,7 @@
 ### Plane Sweep Idea
 + if two segments intersect → $x$-intervals overlap
 	+ inverse not always true
-+ scan from left to right through all $x$-value with vertical $L$
++ scan from left to right through all $x$-values with vertical $L$
 	+ at every point 
 		+ consider segments hit by $L$
 		+ check for intersection
