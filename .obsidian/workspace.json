@@ -51,7 +51,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematik/Statistik/Regression/Lineare Regression.md",
+                "file": "Mathematik/Statistik/Computational Methods/Computer Simulated Parameter Estimation/Bootstrap Principle.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematik/Statistik/Regression/Lineare Regression.md",
+                "file": "Mathematik/Statistik/Computational Methods/Computer Simulated Parameter Estimation/Bootstrap Principle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,15 +157,15 @@
   },
   "active": "d35bbd4108146bf0",
   "lastOpenFiles": [
+    "Mathematik/Statistik/Computational Methods/Computer Simulated Parameter Estimation/Computer Simulated Parameter Estimation.md",
+    "Mathematik/Statistik/Computational Methods/Computer Simulated Parameter Estimation/Bootstrap Principle.md",
+    "Mathematik/Statistik/Regression/Lineare Regression.md",
     "Mathematik/Statistik/Computational Methods/Regression CMS/Linear Regression CMS.md",
     "Mathematik/Statistik/Regression/Regression.md",
-    "Mathematik/Statistik/Regression/Lineare Regression.md",
     "Mathematik/Statistik/Regression/Testen.md",
     "Informatik/Datenstrukturen und Algorithmen/Sortierverfahren/Untere Schranke für Sortieren.md",
     "Informatik/Datenstrukturen und Algorithmen/Sortierverfahren/Quicksort.md",
     "Informatik/Datenstrukturen und Algorithmen/Sortierverfahren/Vergleich von Sortierverfahren.md",
-    "z_images/Pasted image 20230115102936.png",
-    "Mathematik/Allgemeine Mathematik/Zeichensammlung.md",
-    "Mathematik/Statistik/Computational Methods/Hypothesis Testing CMS.md"
+    "z_images/Pasted image 20230115102936.png"
   ]
 }
