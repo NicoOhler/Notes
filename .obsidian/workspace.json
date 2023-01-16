@@ -34,19 +34,31 @@
             }
           },
           {
-            "id": "d2d4765ea0c8cb54",
+            "id": "c9ffb523d57d7cd7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Datenstrukturen und Algorithmen/Various Algorithms/Maximum Subarray Sum.md",
+                "file": "Informatik/Datenstrukturen und Algorithmen/Various Algorithms/Multiplication of Large Integers.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c3a55245b2685358",
+            "id": "6b3e7a6f330a3e08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Informatik/Datenstrukturen und Algorithmen/Various Algorithms/Matrix Multiplication Algorithm.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ba85db4c0734d299",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -116,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Datenstrukturen und Algorithmen/Various Algorithms/Maximum Subarray Sum.md",
+                "file": "Informatik/Datenstrukturen und Algorithmen/Various Algorithms/Multiplication of Large Integers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,14 +167,14 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "d2d4765ea0c8cb54",
+  "active": "c9ffb523d57d7cd7",
   "lastOpenFiles": [
     "Informatik/Datenstrukturen und Algorithmen/Various Algorithms/Various Algorithms.md",
-    "Informatik/Datenstrukturen und Algorithmen/Various Algorithms/Maximum Subarray Sum.md",
-    "Informatik/Datenstrukturen und Algorithmen/Various Algorithms/Exponentiation Algorithm.md",
-    "Informatik/Datenstrukturen und Algorithmen/Various Algorithms/Intersection of Line Segments.md",
-    "Informatik/Datenstrukturen und Algorithmen/Various Algorithms/Matrix Multiplication Algorithm.md",
     "Informatik/Datenstrukturen und Algorithmen/Various Algorithms/Multiplication of Large Integers.md",
+    "Informatik/Datenstrukturen und Algorithmen/Various Algorithms/Exponentiation Algorithm.md",
+    "Informatik/Datenstrukturen und Algorithmen/Various Algorithms/Matrix Multiplication Algorithm.md",
+    "Informatik/Datenstrukturen und Algorithmen/Various Algorithms/Maximum Subarray Sum.md",
+    "Informatik/Datenstrukturen und Algorithmen/Various Algorithms/Intersection of Line Segments.md",
     "Mathematik/Statistik/Computational Methods/Computer Simulated Parameter Estimation/Computer Simulated Parameter Estimation.md",
     "z_images/Pasted image 20230116160932.png",
     "Mathematik/Statistik/Regression/Ridge Regression.md",
