@@ -39,10 +39,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematik/Statistik/Regression/Relation between Variables.md",
+                "file": "Mathematik/Statistik/Regression/Ridge Regression.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "3224bf22e9f5048d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -104,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematik/Statistik/Regression/Relation between Variables.md",
+                "file": "Mathematik/Statistik/Regression/Ridge Regression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,15 +153,15 @@
   },
   "active": "c6c2e4f17cb0664b",
   "lastOpenFiles": [
+    "Mathematik/Statistik/Regression/Ridge Regression.md",
+    "Mathematik/Statistik/Regression/Ridge Regression.md",
     "z_images/Pasted image 20230116155716.png",
-    "Mathematik/Statistik/Regression/Relation between Variables.md",
     "z_images/Pasted image 20230116154429.png",
     "Mathematik/Statistik/Computational Methods/Computer Simulated Parameter Estimation/Computer Simulated Parameter Estimation.md",
     "Mathematik/Statistik/Computational Methods/Hypothesis Testing CMS.md",
     "Mathematik/Statistik/Schätzer/MLE under Normality Assumption.md",
     "Mathematik/Statistik/Schätzer/Maximum-Likelihood-Schätzer.md",
     "Mathematik/Statistik/Regression/Regression.md",
-    "z_images/Pasted image 20230116153501.png",
-    "z_images/Pasted image 20211025164615.png"
+    "z_images/Pasted image 20230116153501.png"
   ]
 }

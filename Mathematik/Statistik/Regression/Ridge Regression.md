@@ -1,5 +1,6 @@
 ### Motivation
-+ do variables in [[Multiple Regression]] affect each other?
++ relation between variables
+	+ do variables in [[Multiple Regression]] affect each other?
 + ![[Pasted image 20230116153014.png]]
 
 ### Underfitting vs. Overfitting
@@ -24,10 +25,17 @@
 		+ ![[Pasted image 20230116155101.png]]
 		+ ![[Pasted image 20230116155257.png]]
 
-### Bias-Variance Trade-off
-+ ![[Pasted image 20230116155614.png]]
-+ ![[Pasted image 20230116155716.png]]
-+ regularization
+### Regularization (Ridge Regression)
++ example
+	+ ![[Pasted image 20230116155614.png]]
++ show bias-variance trade-off
+	+ ![[Pasted image 20230116160505.png]]
+	+ ![[Pasted image 20230116160546.png]]
+	+ ![[Pasted image 20230116155716.png]]
++ ridge regression
 	+ ![[Pasted image 20230116155903.png]]
 	+ ![[Pasted image 20230116160057.png]]
-	+ 
++ apply to example
+	+ ![[Pasted image 20230116160616.png]]
+	+ ![[Pasted image 20230116160201.png]]
+	+ ![[Pasted image 20230116160932.png]]
