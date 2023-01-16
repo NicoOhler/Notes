@@ -76,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 336.5
+    "width": 281.5
   },
   "right": {
     "id": "d1219e90b492538d",
@@ -133,6 +133,8 @@
   },
   "active": "7ccf1ebd677b520c",
   "lastOpenFiles": [
+    "Informatik/Datenstrukturen und Algorithmen/Datenstrukturen/Bäume/(2-4)-Bäume.md",
+    "Informatik/Datenstrukturen und Algorithmen/Various Algorithms/Intersection of Line Segments.md",
     "Mathematik/Allgemeine Mathematik/Zeichensammlung.md",
     "Informatik/Datenstrukturen und Algorithmen/Various Algorithms/Multiplication of Large Integers.md",
     "Mathematik/Allgemeine Mathematik/Gaußsche Summenformel.md",
@@ -140,8 +142,6 @@
     "Informatik/Datenstrukturen und Algorithmen/Various Algorithms/Maximum Subarray Sum.md",
     "Informatik/Datenstrukturen und Algorithmen/Various Algorithms/Matrix Multiplication Algorithm.md",
     "Informatik/Datenstrukturen und Algorithmen/Various Algorithms/Exponentiation Algorithm.md",
-    "Informatik/Datenstrukturen und Algorithmen/Various Algorithms/Intersection of Line Segments.md",
-    "Mathematik/Statistik/Computational Methods/Computer Simulated Parameter Estimation/Computer Simulated Parameter Estimation.md",
-    "z_images/Pasted image 20230116160932.png"
+    "Mathematik/Statistik/Computational Methods/Computer Simulated Parameter Estimation/Computer Simulated Parameter Estimation.md"
   ]
 }

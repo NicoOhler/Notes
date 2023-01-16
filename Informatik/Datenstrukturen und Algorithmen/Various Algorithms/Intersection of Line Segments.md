@@ -37,7 +37,7 @@
 			+ remove $x$-minimum
 				+ [[Queue]], [[Heap]]
 	+ search tree Y
-		+ contains $y$-ordered set of semgents intersecting $L$
+		+ contains $y$-ordered set of segments intersecting $L$
 		+ operations
 			+ insert (startpoints)
 			+ remove (endpoints)
