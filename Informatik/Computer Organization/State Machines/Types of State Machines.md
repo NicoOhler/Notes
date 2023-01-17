@@ -1,4 +1,4 @@
-### Types of [[State Machines]]
+### Types of [[Finite State Machines]]
 + ![[Pasted image 20221031173538.png]]
 + mealy machines have different outputs for the same state
 	+ output written outside of state circle

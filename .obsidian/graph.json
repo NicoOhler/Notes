@@ -71,10 +71,24 @@
       }
     },
     {
-      "query": "path:\"Computer Organization and Networks\"",
+      "query": "path:\"Computer Organization\"",
       "color": {
         "a": 1,
         "rgb": 16711680
+      }
+    },
+    {
+      "query": "path:Mathematik/Statistik",
+      "color": {
+        "a": 1,
+        "rgb": 65437
+      }
+    },
+    {
+      "query": "path:Informatik/Networks",
+      "color": {
+        "a": 1,
+        "rgb": 4980874
       }
     }
   ],
@@ -88,6 +102,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.2045333600356829,
+  "scale": 0.20453336003568307,
   "close": false
 }

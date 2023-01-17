@@ -8,5 +8,5 @@
 		+ z.B. Alter, Gewicht
 + univariate Daten
 	+ Objekt mit einziger Ausprägung
-+ multivariate Daten
++ [[Multivariate Daten]]
 	+ Objekt mit mehreren Ausprägungen

@@ -7,3 +7,6 @@
 + [[Dynamische Arrays]]
 + [[HashTable]]
 + [[Bäume (Datenstruktur)]]
++ [[Convex Hull]]
++ [[Union Find]]
++ [[Triangulations]]

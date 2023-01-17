@@ -24,3 +24,6 @@
 
 ### Chi-Quadrat-Verteilung
 + ![[Pasted image 20221208172356.png]]
+
+[[T-Score Confidence Interval]]
+[[Z-Score Confidence Interval]]

@@ -4,7 +4,7 @@
 
 ### Residuen $r_i$
 + ![[Pasted image 20221215143430.png]]
-+ Schätzer für $\sigma^2$
++ [[Schätzer]] für $\sigma^2$
 	+ ![[Pasted image 20221215143424.png]]
 	+ ![[Pasted image 20221215143444.png]]
 

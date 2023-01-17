@@ -27,14 +27,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Datenstrukturen und Algorithmen/Various Algorithms/Intersection of Line Segments.md",
+                "file": "Informatik/Computer Organization/Processor/Processor Programming.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1a80682445684bec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Informatik/Computer Organization/Processor/Multicycle Datapath.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c44b49fd26d959b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathematik/Statistik/Hypothesentests/Hypothesentests.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -92,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Datenstrukturen und Algorithmen/Various Algorithms/Intersection of Line Segments.md",
+                "file": "Informatik/Computer Organization/Processor/Multicycle Datapath.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,17 +155,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "c11dd1a293008246",
+  "active": "1a80682445684bec",
   "lastOpenFiles": [
-    "Informatik/Datenstrukturen und Algorithmen/Various Algorithms/Matrix Multiplication Algorithm.md",
-    "Informatik/Datenstrukturen und Algorithmen/Various Algorithms/Maximum Subarray Sum.md",
-    "Informatik/Datenstrukturen und Algorithmen/Various Algorithms/Multiplication of Large Integers.md",
-    "Informatik/Datenstrukturen und Algorithmen/Various Algorithms/Various Algorithms.md",
-    "Informatik/Datenstrukturen und Algorithmen/Various Algorithms/Intersection of Line Segments.md",
-    "Informatik/Datenstrukturen und Algorithmen/Various Algorithms/Exponentiation Algorithm.md",
-    "Mathematik/Allgemeine Mathematik/Zeichensammlung.md",
-    "Informatik/Computer Organization/Processor Acceleration Techniques/Superscalar CPUs and Multiple CPUs.md",
-    "Informatik/Computer Organization/Processor Acceleration Techniques/Processor Acceleration Techniques.md",
-    "Speculative Execution.md"
+    "Informatik/Computer Organization/Processor/Pipelining.md",
+    "Informatik/Computer Organization/Processor/Single Cycle Datapath.md",
+    "Informatik/Computer Organization/Processor/RISC-V.md",
+    "Mathematik/Statistik/Computational Methods/CMS.md",
+    "Mathematik/Statistik/Hypothesentests/Hypothesentests.md",
+    "Informatik/Computer Organization/Processor/Processor Programming.md",
+    "Informatik/Computer Organization/Processor/Instruction Set Architecture.md",
+    "Informatik/Computer Organization/Processor/Multicycle Datapath.md",
+    "Informatik/Computer Organization/Processor/Memory.md",
+    "Informatik/Computer Organization/Computer Organization.md"
   ]
 }

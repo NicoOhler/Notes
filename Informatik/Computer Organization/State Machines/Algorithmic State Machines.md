@@ -1,5 +1,5 @@
 ### Overview
-+ ASMs compatible with FSMs
++ compatible with [[Finite State Machines]]
 	+ Moore machines
 		+ ![[Pasted image 20221031175959.png]]
 	+ Mealy machines

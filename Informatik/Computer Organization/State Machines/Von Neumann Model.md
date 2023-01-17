@@ -1,4 +1,4 @@
-### Limitations of [[State Machines]]
+### Limitations of [[Finite State Machines]]
 + previous state machines designed for specific application
 + application changes require new state machine, new hardware
 + general-purpose machine wanted

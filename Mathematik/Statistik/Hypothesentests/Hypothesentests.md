@@ -18,6 +18,7 @@
 + Level-$\alpha$-Test
 	+ $\alpha$ beschränkt Fehler 1. Art
 	+ ![[Pasted image 20221208115645.png]]
+	+ [[p-Wert]]
 + Beispiele
 	+ Medikament
 		+ ![[Pasted image 20221208115842.png]]
@@ -44,3 +45,4 @@
 	+ [[Zweistichproben-Gauß-Test]], wenn Varianzen bekannt
 	+ [[Zweistichproben-t-Test]], wenn Varianzen unbekannt
 
+[[Testen]]
