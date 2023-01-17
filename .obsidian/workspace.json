@@ -56,9 +56,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5b16f23f31ebf042",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Informatik/Computer Organization/Processor Acceleration Techniques/Superscalar CPUs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -155,17 +167,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "419f4b4e2a1cf2b2",
+  "active": "5b16f23f31ebf042",
   "lastOpenFiles": [
-    "z_images/Pasted image 20230117123711.png",
+    "Informatik/Computer Organization/Processor Acceleration Techniques/Caching.md",
     "Informatik/Computer Organization/Processor Acceleration Techniques/Superscalar CPUs.md",
+    "z_images/Pasted image 20230117123711.png",
     "Informatik/Computer Organization/Processor Acceleration Techniques/Multi-Cycle Execution.md",
     "z_images/Pasted image 20230117120755.png",
     "Informatik/Computer Organization/Processor Acceleration Techniques/Processor Acceleration Techniques.md",
     "Mathematik/Allgemeine Mathematik/Zeichensammlung.md",
     "Informatik/Computer Organization/Processor/Pipelining.md",
     "Informatik/Computer Organization/Processor Acceleration Techniques/Pipelining.md",
-    "Informatik/Networks/con_07_networking_1.pdf",
-    "Informatik/Datenstrukturen und Algorithmen/Sortierverfahren/RadixSort.md"
+    "Informatik/Networks/con_07_networking_1.pdf"
   ]
 }
