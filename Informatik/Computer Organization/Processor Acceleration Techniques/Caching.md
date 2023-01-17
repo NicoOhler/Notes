@@ -48,6 +48,7 @@
 	+ ![[Pasted image 20230117125423.png]]
 + abstraction
 	+ ![[Pasted image 20230117125843.png]]
++ implementation
 	+ divide RAM into $2^n$ subsets
 		+ store one subset in cache
 		+ each subset can be identified with n-bit tag
@@ -59,5 +60,13 @@
 	+ actually multiple subset in mutliple cache locations
 		+ map first k subsets to first cache location
 			+ repeated for following subsets
-	+ tag + index + offset
-	+ 
+	+ address converted to
+		+ tag
+		+ index
+		+ offset
+	+ actual workflow for data access
+		+  use cache location with index
+			+ check if its tag equal to address tag
+			+ if yes, use offset to access data
++ example
+	+ ![[Pasted image 20230117131811.png]]

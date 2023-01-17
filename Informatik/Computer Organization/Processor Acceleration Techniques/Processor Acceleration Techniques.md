@@ -1,6 +1,4 @@
 ### Overview
-+ [[Multi-Cycle Execution]]
-+ [[Out-of-Order-Execution]]
-+ [[Superscalar CPUs]]
-+ [[Mutiple CPUs]]
-+ [[Speculative Execution]]
++ [[Multi-Cycle Execution]] and Out-of-Order-Execution
++ [[Superscalar CPUs and Multiple CPUs]]
++ [[Caching]]
