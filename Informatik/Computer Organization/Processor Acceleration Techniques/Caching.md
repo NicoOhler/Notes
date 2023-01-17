@@ -48,4 +48,16 @@
 	+ ![[Pasted image 20230117125423.png]]
 + abstraction
 	+ ![[Pasted image 20230117125843.png]]
+	+ divide RAM into $2^n$ subsets
+		+ store one subset in cache
+		+ each subset can be identified with n-bit tag
+			+ first $n$-bits of RAM address equal to tag
+		+ repeated between cache layers
+			+ L1 cache
+			+ L2 cache
+			+ ...
+	+ actually multiple subset in mutliple cache locations
+		+ map first k subsets to first cache location
+			+ repeated for following subsets
+	+ tag + index + offset
 	+ 
