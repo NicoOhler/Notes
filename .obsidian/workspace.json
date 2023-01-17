@@ -63,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Computer Organization/Processor Acceleration Techniques/Superscalar CPUs.md",
+                "file": "Informatik/Computer Organization/Processor Acceleration Techniques/Caching.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Computer Organization/Processor Acceleration Techniques/Superscalar CPUs.md",
+                "file": "Informatik/Computer Organization/Processor Acceleration Techniques/Caching.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,6 +169,7 @@
   },
   "active": "5b16f23f31ebf042",
   "lastOpenFiles": [
+    "z_images/Pasted image 20230117125843.png",
     "Informatik/Computer Organization/Processor Acceleration Techniques/Caching.md",
     "Informatik/Computer Organization/Processor Acceleration Techniques/Superscalar CPUs.md",
     "z_images/Pasted image 20230117123711.png",
@@ -177,7 +178,6 @@
     "Informatik/Computer Organization/Processor Acceleration Techniques/Processor Acceleration Techniques.md",
     "Mathematik/Allgemeine Mathematik/Zeichensammlung.md",
     "Informatik/Computer Organization/Processor/Pipelining.md",
-    "Informatik/Computer Organization/Processor Acceleration Techniques/Pipelining.md",
-    "Informatik/Networks/con_07_networking_1.pdf"
+    "Informatik/Computer Organization/Processor Acceleration Techniques/Pipelining.md"
   ]
 }
