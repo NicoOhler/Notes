@@ -22,19 +22,27 @@
             }
           },
           {
-            "id": "7ccf1ebd677b520c",
+            "id": "617808eb10209c7a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "279f513c259559a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Datenstrukturen und Algorithmen/Sortierverfahren/RadixSort.md",
+                "file": "Informatik/Computer Organization/Processor/Pipelining.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -92,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Datenstrukturen und Algorithmen/Sortierverfahren/RadixSort.md",
+                "file": "Informatik/Computer Organization/Processor/Pipelining.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,17 +139,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "7ccf1ebd677b520c",
+  "active": "279f513c259559a6",
   "lastOpenFiles": [
+    "Informatik/Computer Organization/Processor Acceleration Techniques/Processor Acceleration Techniques.md",
+    "Informatik/Computer Organization/Processor Acceleration Techniques/Pipelining.md",
+    "Mathematik/Allgemeine Mathematik/Zeichensammlung.md",
+    "Informatik/Networks/con_07_networking_1.pdf",
+    "Informatik/Datenstrukturen und Algorithmen/Sortierverfahren/RadixSort.md",
     "Informatik/Datenstrukturen und Algorithmen/Laufzeitanalyse/Substitution Method.md",
     "Informatik/Datenstrukturen und Algorithmen/Laufzeitanalyse/Recurrence Relations.md",
     "Informatik/Datenstrukturen und Algorithmen/Laufzeitanalyse/Θ-Notation.md",
     "Informatik/Datenstrukturen und Algorithmen/Laufzeitanalyse/O-Notation.md",
-    "Informatik/Datenstrukturen und Algorithmen/Laufzeitanalyse/Master Theorem.md",
-    "Informatik/Datenstrukturen und Algorithmen/Laufzeitanalyse/Laufzeitanalyse.md",
-    "Informatik/Datenstrukturen und Algorithmen/Laufzeitanalyse/Iterative Method.md",
-    "Informatik/Datenstrukturen und Algorithmen/Laufzeitanalyse/Best-Worst-Average Case.md",
-    "Informatik/Datenstrukturen und Algorithmen/Laufzeitanalyse/Amortisierte Analyse.md",
-    "Informatik/Datenstrukturen und Algorithmen/Various Algorithms/Intersection of Line Segments.md"
+    "Informatik/Datenstrukturen und Algorithmen/Laufzeitanalyse/Master Theorem.md"
   ]
 }

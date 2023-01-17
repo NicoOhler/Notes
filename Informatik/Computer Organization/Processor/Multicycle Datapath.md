@@ -6,4 +6,4 @@
 + limited concurrency
 	+ ressources idle during different phases of instruction processing
 	+ e.g. fetch does nothing while decoding
-	+ solution [[Pipelining]]
+	+ solution [[Informatik/Computer Organization/Processor/Pipelining]]
