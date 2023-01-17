@@ -22,6 +22,9 @@
 ### Efficient ROB Access
 + ![[Pasted image 20230117120659.png]]
 + ![[Pasted image 20230117120755.png]]
-+ out-of-order dispatch
-	+ in-order dispatch has dependencies on prior instructions
-	+ 
+
+### Out-of-Order Dispatch Scheduler
++ in-order dispatch has dependencies on prior instructions
++ solution: fire instruction, when inputs are ready
++ ![[Pasted image 20230117121755.png]]
++ ![[Pasted image 20230117121859.png]]
