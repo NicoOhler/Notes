@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Datenstrukturen und Algorithmen/Various Algorithms/Intersection of Line Segments.md",
+                "file": "Informatik/Datenstrukturen und Algorithmen/Sortierverfahren/RadixSort.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Datenstrukturen und Algorithmen/Various Algorithms/Intersection of Line Segments.md",
+                "file": "Informatik/Datenstrukturen und Algorithmen/Sortierverfahren/RadixSort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,15 +133,15 @@
   },
   "active": "7ccf1ebd677b520c",
   "lastOpenFiles": [
-    "Informatik/Datenstrukturen und Algorithmen/Datenstrukturen/Bäume/(2-4)-Bäume.md",
-    "Informatik/Datenstrukturen und Algorithmen/Various Algorithms/Intersection of Line Segments.md",
-    "Mathematik/Allgemeine Mathematik/Zeichensammlung.md",
-    "Informatik/Datenstrukturen und Algorithmen/Various Algorithms/Multiplication of Large Integers.md",
-    "Mathematik/Allgemeine Mathematik/Gaußsche Summenformel.md",
-    "Informatik/Datenstrukturen und Algorithmen/Various Algorithms/Various Algorithms.md",
-    "Informatik/Datenstrukturen und Algorithmen/Various Algorithms/Maximum Subarray Sum.md",
-    "Informatik/Datenstrukturen und Algorithmen/Various Algorithms/Matrix Multiplication Algorithm.md",
-    "Informatik/Datenstrukturen und Algorithmen/Various Algorithms/Exponentiation Algorithm.md",
-    "Mathematik/Statistik/Computational Methods/Computer Simulated Parameter Estimation/Computer Simulated Parameter Estimation.md"
+    "Informatik/Datenstrukturen und Algorithmen/Laufzeitanalyse/Substitution Method.md",
+    "Informatik/Datenstrukturen und Algorithmen/Laufzeitanalyse/Recurrence Relations.md",
+    "Informatik/Datenstrukturen und Algorithmen/Laufzeitanalyse/Θ-Notation.md",
+    "Informatik/Datenstrukturen und Algorithmen/Laufzeitanalyse/O-Notation.md",
+    "Informatik/Datenstrukturen und Algorithmen/Laufzeitanalyse/Master Theorem.md",
+    "Informatik/Datenstrukturen und Algorithmen/Laufzeitanalyse/Laufzeitanalyse.md",
+    "Informatik/Datenstrukturen und Algorithmen/Laufzeitanalyse/Iterative Method.md",
+    "Informatik/Datenstrukturen und Algorithmen/Laufzeitanalyse/Best-Worst-Average Case.md",
+    "Informatik/Datenstrukturen und Algorithmen/Laufzeitanalyse/Amortisierte Analyse.md",
+    "Informatik/Datenstrukturen und Algorithmen/Various Algorithms/Intersection of Line Segments.md"
   ]
 }
