@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Datenstrukturen und Algorithmen/Various Algorithms/Multiplication of Large Integers.md",
+                "file": "Informatik/Datenstrukturen und Algorithmen/Various Algorithms/Intersection of Line Segments.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Datenstrukturen und Algorithmen/Various Algorithms/Multiplication of Large Integers.md",
+                "file": "Informatik/Datenstrukturen und Algorithmen/Various Algorithms/Intersection of Line Segments.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,15 +133,15 @@
   },
   "active": "549cf07533637208",
   "lastOpenFiles": [
+    "Informatik/Datenstrukturen und Algorithmen/Various Algorithms/Exponentiation Algorithm.md",
+    "Informatik/Datenstrukturen und Algorithmen/Various Algorithms/Multiplication of Large Integers.md",
     "Informatik/Datenstrukturen und Algorithmen/Various Algorithms/Intersection of Line Segments.md",
     "Informatik/Datenstrukturen und Algorithmen/Various Algorithms/Maximum Subarray Sum.md",
     "Mathematik/Allgemeine Mathematik/Zeichensammlung.md",
-    "Informatik/Datenstrukturen und Algorithmen/Various Algorithms/Exponentiation Algorithm.md",
     "Mathematik/Statistik/Hypothesentests/Hypothesentests.md",
     "Informatik/Computer Organization/Processor/Multicycle Datapath.md",
     "Informatik/Computer Organization/Processor/Pipelining.md",
     "Informatik/Computer Organization/Processor/Single Cycle Datapath.md",
-    "Informatik/Computer Organization/Processor/RISC-V.md",
-    "Mathematik/Statistik/Computational Methods/CMS.md"
+    "Informatik/Computer Organization/Processor/RISC-V.md"
   ]
 }
