@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Datenstrukturen und Algorithmen/Various Algorithms/Various Algorithms.md",
+                "file": "Informatik/Datenstrukturen und Algorithmen/Various Algorithms/Maximum Subarray Sum.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Datenstrukturen und Algorithmen/Various Algorithms/Various Algorithms.md",
+                "file": "Informatik/Datenstrukturen und Algorithmen/Various Algorithms/Maximum Subarray Sum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,6 +133,7 @@
   },
   "active": "549cf07533637208",
   "lastOpenFiles": [
+    "Informatik/Datenstrukturen und Algorithmen/Various Algorithms/Various Algorithms.md",
     "Informatik/Datenstrukturen und Algorithmen/Various Algorithms/Matrix Multiplication Algorithm.md",
     "Informatik/Datenstrukturen und Algorithmen/Various Algorithms/Maximum Subarray Sum.md",
     "Informatik/Datenstrukturen und Algorithmen/Various Algorithms/Multiplication of Large Integers.md",
@@ -141,7 +142,6 @@
     "Mathematik/Allgemeine Mathematik/Zeichensammlung.md",
     "Mathematik/Statistik/Hypothesentests/Hypothesentests.md",
     "Informatik/Computer Organization/Processor/Multicycle Datapath.md",
-    "Informatik/Computer Organization/Processor/Pipelining.md",
-    "Informatik/Computer Organization/Processor/Single Cycle Datapath.md"
+    "Informatik/Computer Organization/Processor/Pipelining.md"
   ]
 }
