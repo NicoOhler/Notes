@@ -63,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Datenstrukturen und Algorithmen/Datenstrukturen/Graphs/Breadth-First Search.md",
+                "file": "Informatik/Datenstrukturen und Algorithmen/Datenstrukturen/Graphs/Depth-First Search.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Datenstrukturen und Algorithmen/Datenstrukturen/Graphs/Breadth-First Search.md",
+                "file": "Informatik/Datenstrukturen und Algorithmen/Datenstrukturen/Graphs/Depth-First Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
