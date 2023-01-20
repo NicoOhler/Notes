@@ -70,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Datenstrukturen und Algorithmen/Datenstrukturen/Triangulations.md",
+                "file": "Informatik/Datenstrukturen und Algorithmen/Datenstrukturen/Graphs/Graphs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,8 +167,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "772c43f839aa9854",
+  "active": "edc6b1a2b517d0ff",
   "lastOpenFiles": [
+    "Informatik/Datenstrukturen und Algorithmen/Datenstrukturen/Triangulations.md",
     "Informatik/Datenstrukturen und Algorithmen/Datenstrukturen/Convex Hull.md",
     "Informatik/Datenstrukturen und Algorithmen/Datenstrukturen/Union Find.md",
     "Informatik/Datenstrukturen und Algorithmen/Datenstrukturen/Graphs/Graphs.md",
@@ -176,7 +177,6 @@
     "Informatik/Datenstrukturen und Algorithmen/Datenstrukturen/Graphs/Breadth-First Search.md",
     "Informatik/Datenstrukturen und Algorithmen/Datenstrukturen/Graphs/Depth-First Search.md",
     "Informatik/Datenstrukturen und Algorithmen/Datenstrukturen/Graphs/Graph Algorithms.md",
-    "Informatik/Datenstrukturen und Algorithmen/Datenstrukturen/Triangulations.md",
     "Informatik/Datenstrukturen und Algorithmen/Various Algorithms/Maximum Subarray Sum.md",
     "Informatik/Datenstrukturen und Algorithmen/Various Algorithms/Various Algorithms.md"
   ]
