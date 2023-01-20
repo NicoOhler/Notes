@@ -22,12 +22,48 @@
             }
           },
           {
-            "id": "549cf07533637208",
+            "id": "86eca27b34d3f820",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Datenstrukturen und Algorithmen/Various Algorithms/Maximum Subarray Sum.md",
+                "file": "Informatik/Datenstrukturen und Algorithmen/Datenstrukturen/Union Find.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "85d0e2f498ebcbe9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Informatik/Datenstrukturen und Algorithmen/Datenstrukturen/Convex Hull.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "772c43f839aa9854",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Informatik/Datenstrukturen und Algorithmen/Datenstrukturen/Triangulations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "edc6b1a2b517d0ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Informatik/Datenstrukturen und Algorithmen/Datenstrukturen/Graphs/Graphs.md",
                 "mode": "source",
                 "source": false
               }
@@ -76,7 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 281.5
+    "width": 297
   },
   "right": {
     "id": "d1219e90b492538d",
@@ -92,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Datenstrukturen und Algorithmen/Various Algorithms/Maximum Subarray Sum.md",
+                "file": "Informatik/Datenstrukturen und Algorithmen/Datenstrukturen/Union Find.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,17 +167,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "549cf07533637208",
+  "active": "097b9a58ea336072",
   "lastOpenFiles": [
-    "Informatik/Datenstrukturen und Algorithmen/Various Algorithms/Various Algorithms.md",
-    "Informatik/Datenstrukturen und Algorithmen/Various Algorithms/Matrix Multiplication Algorithm.md",
+    "Informatik/Datenstrukturen und Algorithmen/Datenstrukturen/Convex Hull.md",
+    "Informatik/Datenstrukturen und Algorithmen/Datenstrukturen/Graphs/Graphs.md",
+    "Informatik/Datenstrukturen und Algorithmen/Datenstrukturen/Graphs/Graph Terminology.md",
+    "Informatik/Datenstrukturen und Algorithmen/Datenstrukturen/Graphs/Breadth-First Search.md",
+    "Informatik/Datenstrukturen und Algorithmen/Datenstrukturen/Graphs/Depth-First Search.md",
+    "Informatik/Datenstrukturen und Algorithmen/Datenstrukturen/Graphs/Graph Algorithms.md",
+    "Informatik/Datenstrukturen und Algorithmen/Datenstrukturen/Triangulations.md",
+    "Informatik/Datenstrukturen und Algorithmen/Datenstrukturen/Union Find.md",
     "Informatik/Datenstrukturen und Algorithmen/Various Algorithms/Maximum Subarray Sum.md",
-    "Informatik/Datenstrukturen und Algorithmen/Various Algorithms/Multiplication of Large Integers.md",
-    "Informatik/Datenstrukturen und Algorithmen/Various Algorithms/Intersection of Line Segments.md",
-    "Informatik/Datenstrukturen und Algorithmen/Various Algorithms/Exponentiation Algorithm.md",
-    "Mathematik/Allgemeine Mathematik/Zeichensammlung.md",
-    "Mathematik/Statistik/Hypothesentests/Hypothesentests.md",
-    "Informatik/Computer Organization/Processor/Multicycle Datapath.md",
-    "Informatik/Computer Organization/Processor/Pipelining.md"
+    "Informatik/Datenstrukturen und Algorithmen/Various Algorithms/Various Algorithms.md"
   ]
 }
