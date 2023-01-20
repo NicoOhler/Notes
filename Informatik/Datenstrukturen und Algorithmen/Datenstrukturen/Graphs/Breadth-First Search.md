@@ -18,4 +18,3 @@
 + [[Graphs]] are bipartite if 2-colorable
 + combine this with [[Breadth-First Search]]
 + ![[Pasted image 20221228091306.png]]
-+ 
