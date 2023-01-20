@@ -1,4 +1,4 @@
-![[Pasted image 20221227141446.png]]### Motivation
+### Motivation
 + ![[Pasted image 20221227134456.png]]
 + ![[Pasted image 20221227134509.png]]
 
@@ -20,7 +20,7 @@
 	+ ![[Pasted image 20221227135319.png]]
 	+ ![[Pasted image 20221227135351.png]]
 	+ ![[Pasted image 20221227135433.png]]
-	+ ...
+	+ etc
 
 ### Planar Convex Hull
 + convex polygon
@@ -69,3 +69,4 @@
 ### Lower Bound
 + ![[Pasted image 20221227163924.png]]
 + ![[Pasted image 20221227163941.png]]
+
