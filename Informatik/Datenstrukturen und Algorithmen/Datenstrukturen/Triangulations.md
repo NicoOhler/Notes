@@ -40,7 +40,7 @@
 	+ ![[Pasted image 20221227215302.png]]
 
 ### Canonical Triangulation
-+ combine 3 most left points
++ combine 3 leftmost points
 + add each point sequentially
 	+ combine this point with each point to the left which it still "sees"
 + ![[Pasted image 20221227215943.png]]
