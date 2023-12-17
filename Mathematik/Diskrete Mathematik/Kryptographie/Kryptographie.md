@@ -1,4 +1,0 @@
-# Kryptographie
-
-
-[[Diskrete Mathematik]]
