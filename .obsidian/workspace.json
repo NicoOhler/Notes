@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Algorithms/Algorithms and Games/Sudoku.md",
+                "file": "Informatik/Algorithms/Algorithms and Games/NIM Theory/NIM Theory.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematik/Allgemeine Mathematik/Zeichensammlung.md",
+                "file": "Informatik/Algorithms/Algorithms and Games/NIM Theory/NIM Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,12 +127,13 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "097b9a58ea336072",
+  "active": "445f42b6af18b630",
   "lastOpenFiles": [
-    "Informatik/Algorithms/Algorithms and Games/Algorithms and Games.md",
-    "Informatik/Algorithms/Algorithms and Games/NIM Theory/NIM Theory.md",
+    "Informatik/Algorithms/Algorithms and Games/Sudoku.md",
     "Informatik/Algorithms/Algorithms and Games/NIM Theory/NIM-type Games.md",
+    "Informatik/Algorithms/Algorithms and Games/NIM Theory/NIM Theory.md",
     "Mathematik/Allgemeine Mathematik/Zeichensammlung.md",
+    "Informatik/Algorithms/Algorithms and Games/Algorithms and Games.md",
     "Informatik/Algorithms/Design and Analysis of Algorithms/Distributed Graph Algorithms.md",
     "Informatik/Algorithms/Design and Analysis of Algorithms/Complexity Theory.md",
     "Informatik/Algorithms/Design and Analysis of Algorithms/Maximum Flow.md",
@@ -149,7 +150,6 @@
     "z_images/Pasted image 20231202104450.png",
     "z_images/Pasted image 20231202104434.png",
     "Informatik/Algorithms/Algorithms and Games/Min-Max Decision Tree.md",
-    "Informatik/Algorithms/Algorithms and Games/Sudoku.md",
     "Informatik/Algorithms/Algorithms and Games/2 Player Combinatorial Game.md",
     "Informatik/Algorithms/Datenstrukturen und Algorithmen/Datenstrukturen/Graphs/Graph Terminology.md",
     "Informatik/Algorithms/Datenstrukturen und Algorithmen/Datenstrukturen/Graphs/Graph Algorithms.md",
