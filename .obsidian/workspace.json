@@ -22,55 +22,19 @@
             }
           },
           {
-            "id": "86eca27b34d3f820",
+            "id": "445f42b6af18b630",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Datenstrukturen und Algorithmen/Datenstrukturen/Union Find.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "85d0e2f498ebcbe9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Informatik/Datenstrukturen und Algorithmen/Datenstrukturen/Convex Hull.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "772c43f839aa9854",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Informatik/Datenstrukturen und Algorithmen/Datenstrukturen/Triangulations.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "edc6b1a2b517d0ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Informatik/Datenstrukturen und Algorithmen/Datenstrukturen/Graphs/Depth-First Search.md",
+                "file": "Informatik/Algorithms/Algorithms and Games/Sudoku.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,36 +63,44 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "p-w",
-                "matchingCase": false,
+                "query": "minimum sp",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "c0f44cd3bf294415",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 302.5
+    "width": 281.5
   },
   "right": {
     "id": "d1219e90b492538d",
     "type": "split",
     "children": [
       {
-        "id": "7e6994f72503dd96",
+        "id": "c5645597642dd62a",
         "type": "tabs",
         "children": [
           {
-            "id": "c5aae94aad54a600",
+            "id": "44df4ce2eb9d1ecd",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Datenstrukturen und Algorithmen/Datenstrukturen/Graphs/Depth-First Search.md",
+                "file": "Informatik/Algorithms/Algorithms and Games/Sudoku.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,18 +108,6 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "031c33c23df6bb75",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematik/Allgemeine Mathematik/Zeichensammlung.md",
-                "mode": "source",
-                "source": false
               }
             }
           }
@@ -167,17 +127,49 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "edc6b1a2b517d0ff",
+  "active": "097b9a58ea336072",
   "lastOpenFiles": [
-    "Informatik/Datenstrukturen und Algorithmen/Datenstrukturen/Triangulations.md",
-    "Informatik/Datenstrukturen und Algorithmen/Datenstrukturen/Convex Hull.md",
-    "Informatik/Datenstrukturen und Algorithmen/Datenstrukturen/Union Find.md",
-    "Informatik/Datenstrukturen und Algorithmen/Datenstrukturen/Graphs/Depth-First Search.md",
-    "Informatik/Datenstrukturen und Algorithmen/Datenstrukturen/Graphs/Breadth-First Search.md",
-    "Informatik/Datenstrukturen und Algorithmen/Datenstrukturen/Graphs/Graph Algorithms.md",
-    "Informatik/Datenstrukturen und Algorithmen/Datenstrukturen/Graphs/Graphs.md",
-    "Informatik/Datenstrukturen und Algorithmen/Datenstrukturen/Graphs/Graph Terminology.md",
-    "Informatik/Datenstrukturen und Algorithmen/Various Algorithms/Maximum Subarray Sum.md",
-    "Informatik/Datenstrukturen und Algorithmen/Various Algorithms/Various Algorithms.md"
+    "Informatik/Algorithms/Algorithms and Games/Algorithms and Games.md",
+    "Informatik/Algorithms/Algorithms and Games/NIM Theory/NIM Theory.md",
+    "Informatik/Algorithms/Algorithms and Games/NIM Theory/NIM-type Games.md",
+    "Mathematik/Allgemeine Mathematik/Zeichensammlung.md",
+    "Informatik/Algorithms/Design and Analysis of Algorithms/Distributed Graph Algorithms.md",
+    "Informatik/Algorithms/Design and Analysis of Algorithms/Complexity Theory.md",
+    "Informatik/Algorithms/Design and Analysis of Algorithms/Maximum Flow.md",
+    "Informatik/Algorithms/Algorithms and Games/Examples of Combinatorial Games.md",
+    "Informatik/Algorithms/Design and Analysis of Algorithms/Approximation Algorithms.md",
+    "z_images/Pasted image 20231202110835.png",
+    "z_images/Pasted image 20231202110428.png",
+    "z_images/Pasted image 20231202105742.png",
+    "z_images/Pasted image 20231202105421.png",
+    "z_images/Pasted image 20231202105317.png",
+    "z_images/Pasted image 20231202105032.png",
+    "z_images/Pasted image 20231202105006.png",
+    "z_images/Pasted image 20231202104842.png",
+    "z_images/Pasted image 20231202104450.png",
+    "z_images/Pasted image 20231202104434.png",
+    "Informatik/Algorithms/Algorithms and Games/Min-Max Decision Tree.md",
+    "Informatik/Algorithms/Algorithms and Games/Sudoku.md",
+    "Informatik/Algorithms/Algorithms and Games/2 Player Combinatorial Game.md",
+    "Informatik/Algorithms/Datenstrukturen und Algorithmen/Datenstrukturen/Graphs/Graph Terminology.md",
+    "Informatik/Algorithms/Datenstrukturen und Algorithmen/Datenstrukturen/Graphs/Graph Algorithms.md",
+    "Informatik/Algorithms/Design and Analysis of Algorithms/Shortest Path Algorithms/Dijkstra’s Algorithm.md",
+    "Mathematik/Analysis/Komplexe Analysis/Singularität.md",
+    "Mathematik/Analysis/Komplexe Analysis/Residuensatz.md",
+    "Mathematik/Analysis/Komplexe Analysis/Potentialgleichung.md",
+    "Mathematik/Analysis/Komplexe Analysis/Laplace Transformation.md",
+    "Mathematik/Analysis/Komplexe Analysis/Anwendungen der Residuenrechnung.md",
+    "Mathematik/Analysis/Komplexe Analysis/Komplexe Zahlen.md",
+    "Mathematik/Analysis/Komplexe Analysis/Komplexe Kurvenintegrale.md",
+    "Mathematik/Analysis/Komplexe Analysis/Komplexe Analysis.md",
+    "Mathematik/Analysis/Vektoranalysis/Integralsätze.md",
+    "Informatik/Algorithms/Design and Analysis of Algorithms/Shortest Path Algorithms/Floyd-Warshall Algorithm.md",
+    "Informatik/Algorithms/Design and Analysis of Algorithms/Shortest Path Algorithms/A-Star Algorithm.md",
+    "Untitled.canvas",
+    "Informatik/Algorithms/Algorithms and Games/NIM Theory",
+    "Informatik/Algorithms/Algorithms and Games",
+    "Informatik/Algorithms",
+    "Informatik/Algorithms/Design and Analysis of Algorithms/Shortest Path Algorithms",
+    "Informatik/Algorithms/Design and Analysis of Algorithms"
   ]
 }
