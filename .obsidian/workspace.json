@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "minimum sp",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +80,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -127,7 +128,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "445f42b6af18b630",
+  "active": "67d43403474fe91c",
   "lastOpenFiles": [
     "Informatik/Algorithms/Algorithms and Games/Sudoku.md",
     "Informatik/Algorithms/Algorithms and Games/NIM Theory/NIM Theory.md",
