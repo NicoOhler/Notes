@@ -58,7 +58,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Algorithms/Algorithms and Games/NIM Theory/NIM-type Games.md",
+                "file": "Informatik/Algorithms/Algorithms and Games/NIM Theory/NIM Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,11 +151,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "eaf971686b1311f9",
+  "active": "445f42b6af18b630",
   "lastOpenFiles": [
+    "Informatik/Algorithms/Algorithms and Games/NIM Theory/NIM-type Games.md",
     "Informatik/Algorithms/Algorithms and Games/NIM Theory/NIM Theory.md",
     "Informatik/Algorithms/Algorithms and Games/Sudoku.md",
-    "Informatik/Algorithms/Algorithms and Games/NIM Theory/NIM-type Games.md",
     "Mathematik/Allgemeine Mathematik/Zeichensammlung.md",
     "Informatik/Algorithms/Algorithms and Games/Algorithms and Games.md",
     "Informatik/Algorithms/Design and Analysis of Algorithms/Distributed Graph Algorithms.md",
