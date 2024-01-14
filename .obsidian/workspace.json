@@ -58,7 +58,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Algorithms/Algorithms and Games/NIM Theory/NIM Theory.md",
+                "file": "Informatik/Algorithms/Algorithms and Games/Sudoku.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,10 +151,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "445f42b6af18b630",
+  "active": "66b206f641be9e6c",
   "lastOpenFiles": [
-    "Informatik/Algorithms/Algorithms and Games/NIM Theory/NIM-type Games.md",
     "Informatik/Algorithms/Algorithms and Games/NIM Theory/NIM Theory.md",
+    "Informatik/Algorithms/Algorithms and Games/NIM Theory/NIM-type Games.md",
     "Informatik/Algorithms/Algorithms and Games/Sudoku.md",
     "Mathematik/Allgemeine Mathematik/Zeichensammlung.md",
     "Informatik/Algorithms/Algorithms and Games/Algorithms and Games.md",
