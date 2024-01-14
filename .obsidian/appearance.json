@@ -1,5 +1,6 @@
 {
   "baseFontSize": 23,
   "translucency": false,
-  "accentColor": ""
+  "accentColor": "",
+  "theme": "obsidian"
 }

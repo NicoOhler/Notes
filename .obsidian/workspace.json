@@ -34,12 +34,26 @@
             }
           },
           {
-            "id": "71063efa2ea071f5",
+            "id": "eaf971686b1311f9",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.3"
+                "file": "Informatik/Algorithms/Algorithms and Games/NIM Theory/NIM-type Games.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "66b206f641be9e6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Informatik/Algorithms/Algorithms and Games/Sudoku.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -90,8 +104,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -111,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Algorithms/Algorithms and Games/NIM Theory/NIM Theory.md",
+                "file": "Informatik/Algorithms/Algorithms and Games/NIM Theory/NIM-type Games.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,10 +151,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "71063efa2ea071f5",
+  "active": "eaf971686b1311f9",
   "lastOpenFiles": [
-    "Informatik/Algorithms/Algorithms and Games/Sudoku.md",
     "Informatik/Algorithms/Algorithms and Games/NIM Theory/NIM Theory.md",
+    "Informatik/Algorithms/Algorithms and Games/Sudoku.md",
     "Informatik/Algorithms/Algorithms and Games/NIM Theory/NIM-type Games.md",
     "Mathematik/Allgemeine Mathematik/Zeichensammlung.md",
     "Informatik/Algorithms/Algorithms and Games/Algorithms and Games.md",
