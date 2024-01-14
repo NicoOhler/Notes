@@ -32,9 +32,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "71063efa2ea071f5",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -128,7 +138,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "67d43403474fe91c",
+  "active": "71063efa2ea071f5",
   "lastOpenFiles": [
     "Informatik/Algorithms/Algorithms and Games/Sudoku.md",
     "Informatik/Algorithms/Algorithms and Games/NIM Theory/NIM Theory.md",
