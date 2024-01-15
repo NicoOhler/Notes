@@ -150,4 +150,7 @@
 		+ ![[Pasted image 20240115104641.png]]
 	+ End-to-End Encryption
 		+ may require more security properties
-			+ 
+			+ ![[Pasted image 20240115104730.png]]
+		+ Private Set Intersection
+			+ find intersection of two sets without sharing their content
+			+ e.g. contacts of user and all Whatsapp users
