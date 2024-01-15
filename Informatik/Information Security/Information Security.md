@@ -53,11 +53,19 @@
 			+ ![[Pasted image 20240115093758.png]]
 			+ SubBytes
 				+ substitute using lookup table S-box with original byte as key
+				+ $b_{ij} = S[a_{ij}]$
 			+ ShiftRows
 				+ shift row i by i bytes to the left
+				+ $b_{ij} = a_{i(j+i\%4)}$
 			+ MixColumns
 				+ multiplication of each column with constant matrix M
+				+ ![[Pasted image 20240115094429.png]]
 			+ AddRoundKey
-				+ 
+				+ XOR with $k^{(r)}$
+				+ $b_{ij} = a_{ij}⊕k^{(r)}$
 	+ regular encryption
-		+ 
+		+ does not provide authentication
+		+ modes
+			+ ECB
+				+ ![[Pasted image 20240115094716.png]]
+				+ 
