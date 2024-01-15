@@ -32,13 +32,22 @@
 			+ receiver verifies T=T'
 		+ unforgeability
 			+ infeasible for attacker to forge any new valid pair (M,T) even if they can query tags for any other messages 
+		+ complexity
 			+ Exhaustive key search takes ~$2^k$ offline trials
 			+ Guessing the tag takes ~$2^t$ online trials
 + Confidentiality using encryption
 	+ block ciphers
 		+ bijective permutation $E_K$ based on k-bit key K to encrypt n-bit message blocks M into n-bit cipher text blocks C
 		+ inverse permutation $D_K=E_K^{-1}$ for decryption
-		+ $2^k$ possible mappings
-		+ $2^n$ possible 
+		+ complexity
+			+ $2^k$ possible keys(mappings)
+			+ $2^n$ possible outputs for input
+		+ requirements
+			+ pseudorandomness
+				+ unable to learn M from C (or vice-versa)
+			+ key recovery security
+				+ unable to recover K given any arbitrary number of (M, C) pairs
+	+ key-alternating using key schedule
+		+ each round/iteration depends on different round key which has been derived from K  
 	+ regular encryption
 		+ 
