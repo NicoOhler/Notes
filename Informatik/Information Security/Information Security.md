@@ -126,11 +126,20 @@
 		+ Alice and Bob both have long term private/public key pair
 		+ execute regular DH over insecure channel
 			+ both compute the same $K_{AB}$
-		+ send each other the signed transcript of the exchange
+		+ send each other the signed transcript (all previous message) of the exchange
 			+ signed with long term private keys
 		+ send each other MAC-tag of transcript
 			+ use $K_{AB}$ to create tag
 		+ throw away public/private keys $a,b,\alpha^a,\alpha^b$ from DH
 	+ Transport Layer Security TLS
 		+ Key exchange using DHE
-		+ exchange ephemeral public DH key, randomness and list of prefer
+			+ exchange ephemeral public DH key, randomness and list of preferred symmetric ciphers
+			+ ![[Pasted image 20240115103730.png]]
+		+ Authentication
+			+ server sends certificate, signature over transcript and HMAC of transcript
+				+ signature using long term private key
+				+ HMAC using $K_AB$
+			+ client sends HMAC of transcript back
+			+ ![[Pasted image 20240115104150.png]]
+		+ Sending application data
+			+ send messages 
