@@ -58,7 +58,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Algorithms/Algorithms and Games/Sudoku.md",
+                "file": "Informatik/Algorithms/Algorithms and Games/NIM Theory/NIM Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,8 +151,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "66b206f641be9e6c",
+  "active": "445f42b6af18b630",
   "lastOpenFiles": [
+    "Informatik/Algorithms/Algorithms and Games/2 Player Combinatorial Game.md",
     "Informatik/Algorithms/Algorithms and Games/NIM Theory/NIM Theory.md",
     "Informatik/Algorithms/Algorithms and Games/NIM Theory/NIM-type Games.md",
     "Informatik/Algorithms/Algorithms and Games/Sudoku.md",
@@ -174,7 +175,6 @@
     "z_images/Pasted image 20231202104450.png",
     "z_images/Pasted image 20231202104434.png",
     "Informatik/Algorithms/Algorithms and Games/Min-Max Decision Tree.md",
-    "Informatik/Algorithms/Algorithms and Games/2 Player Combinatorial Game.md",
     "Informatik/Algorithms/Datenstrukturen und Algorithmen/Datenstrukturen/Graphs/Graph Terminology.md",
     "Informatik/Algorithms/Datenstrukturen und Algorithmen/Datenstrukturen/Graphs/Graph Algorithms.md",
     "Informatik/Algorithms/Design and Analysis of Algorithms/Shortest Path Algorithms/Dijkstra’s Algorithm.md",
