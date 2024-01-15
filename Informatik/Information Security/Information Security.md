@@ -15,4 +15,12 @@
 	+ [[N2_Servers.pdf]]
 	+ [[N3]]
 
-### Cryptography - 
+### Cryptography - Exam Summary
++ Authentication
+	+ Compression function
+		+ hash function for fixed-size input
+	+ MD-Hash
+		+ hash function for input of arbitrary size
+		+ ret
+	+ MAC
+		+ uses symmetric key for authentication
