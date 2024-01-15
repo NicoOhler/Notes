@@ -16,8 +16,7 @@
 ### Optimal Strategy
 + compute each pile’s nimber
 + XOR to find out if a winning move exists
-	+ even odd?
-	+ not zero?
+	+ zero $\Rightarrow$ no winning move
 + compute for each pile if there is a winning move for this pile
 + execute a optimal move
 + repeat after opponent’s move
