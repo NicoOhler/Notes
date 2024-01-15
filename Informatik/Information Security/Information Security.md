@@ -36,9 +36,10 @@
 			+ Exhaustive key search takes ~$2^k$ offline trials
 			+ Guessing the tag takes ~$2^t$ online trials
 	+ Signatures
-		+ d
+		+ uses encryption instead of hashing
 		+ uses asymmetric private key K to encrypt message M to a signature S
-		+ send M and 
+		+ send M and S
+		+ receiver decrypts S with public key to M' and verifies M=M'
 + Confidentiality using encryption
 	+ block ciphers
 		+ bijective permutation $E_K$ based on k-bit key K to encrypt n-bit message blocks M into n-bit cipher text blocks C
@@ -84,3 +85,9 @@
 			+ AES-CCM (CTR using AES encryption with CBC-MAC authentication)
 				+ ![[Pasted image 20240115095527.png]]
 			+ AES-GCM (default)
++ Asymmetric encryption schemes
+	+ 
+	+ Key exchange
+		+ agree on shared symmetric key while communicating over insecure channel
+		+ Diffie-Hellman
+			+ 
