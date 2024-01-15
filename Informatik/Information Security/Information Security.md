@@ -22,6 +22,15 @@
 		+ concrete flaw in the implementation
 	+ exploit/attack
 		+ concrete attempt to violate the security
++ Passwords
+	+ can be based on what someone knows/has/is
+	+ sending and storing plain passwords over insecure channel
+		+ weak to eavesdropping (e.g. replay attack)
+		+ vulnerable password table
+			+ store hash locally
+				+ less vulnerable
+				+ still allows mass dictionary attacks
+	+ 
 + Authenticity using hash functions
 	+ ![[Pasted image 20240115170331.png]]
 	+ birthday paradox
