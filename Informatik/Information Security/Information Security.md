@@ -178,7 +178,9 @@
 	+ X.509 standard contains
 		+ public key
 		+ identity information (e.g. name)
-		+ validity pe
+		+ validity period
+		+ signature from a certificate authority CA
+			+ which issued the certificate
 + random other stuff (probably not needed)
 	+ Kerckhoffs' Principle
 		+ ![[Pasted image 20240115171311.png]]
