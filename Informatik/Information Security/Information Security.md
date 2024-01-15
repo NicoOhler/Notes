@@ -117,4 +117,14 @@
 				+ ![[Pasted image 20240115102437.png]]
 				+ e.g. RSAES-OAEP
 + Protocols
-	+ Static asymmetric crypto does not provide forward secrecy 
+	+ problem with static asymmetric crypto
+		+ no forward secrecy
+			+ if private key is leaked $\Rightarrow$ all past communications compromised
+		+ no authenticity
+			+ no assurance with whom the key is exchanged
+	+ Ephemeral Diffie-Helman
+		+ Alice and Bob both have long term private/public key pair
+		+ execute regular DH over insecure channel
+		+ send each other the signed transcript of the exchange
+			+ signed with long term
+		+ 
