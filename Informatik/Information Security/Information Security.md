@@ -273,10 +273,12 @@
 			+ leak data from L1 cache of host into VM
 		+ spectre
 			+ exploit control flow predictions
-			+ speculative execution runs $shm[data[index]]$ 
-				+ data is a valid buffer
-				+ index is a way too big index and causes an overread into the victim's memory
-				+ shm is uncached shared memory
+			+ speculative execution runs
+				+ ![[Pasted image 20240115184502.png]]
+				+ array1 is a valid buffer
+				+ x is a way too big and causes an overread into the victim's memory
+				+ array2 is uncached shared memory
 			+ crashes because it accesses not allowed memory
-			+ still accesses page of shm
+				+ still accesses the page (speculative execution) and rollbacks the operation
+				+ accessing page at array1\[x\] causes a cache hit
 			+ ![[Pasted image 20240115184104.png]]
