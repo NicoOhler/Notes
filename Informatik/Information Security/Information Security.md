@@ -25,6 +25,7 @@
 		+ hash=tag
 	+ MAC
 		+ hash function which uses symmetric key K (k-bits) to compute tag t (t-bits) for authentication of message M
+		+ HMAC = hash based MAC
 		+ application
 			+ compute T for M
 			+ send M and T
@@ -142,4 +143,11 @@
 			+ client sends HMAC of transcript back
 			+ ![[Pasted image 20240115104150.png]]
 		+ Sending application data
-			+ send messages 
+			+ send messages encrypted with new symmetric keys derived from $K_{AB}$ with HKDF
+				+ HMAC-based key derivation function
++ random other stuff
+	+ Elliptic Curve Cryptography ECC
+		+ ![[Pasted image 20240115104641.png]]
+	+ End-to-End Encryption
+		+ may require more security properties
+			+ 
