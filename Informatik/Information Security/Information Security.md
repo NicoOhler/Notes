@@ -99,7 +99,16 @@
 		+ agree on shared symmetric key while communicating over insecure channel
 		+ Diffie-Hellman
 			+ public: large prime p and generator $\alpha$
-			+ Alice chooses $a∈{2,...,p-2}$ and sends $\alpha^a$ to Bob
-			+ Bob chooses $b∈{2,...,p-2}$ and sends $\alpha^b$ to Alice
-			+ $K_{AB}\equiv(\alpha^b)^a \pmod{p}\equiv(\alpha^b)^a \pmod{p}
-			+ a^{\upvarphi(n)}\equiv 1 \pmod{n}$
+			+ Alice chooses private key $a∈{2,...,p-2}$ and sends public key $\alpha^a$ to Bob
+			+ Bob chooses private key $b∈{2,...,p-2}$ and sends public key $\alpha^b$ to Alice
+			+ $K_{AB}\equiv(\alpha^b)^a \pmod{p}\equiv(\alpha^a)^b \pmod{p}$
+	+ Asymmetric encryption
+		+ uses private and public key
+		+ RSA
+			+ ![[Pasted image 20240115101959.png]]
+			+ Square-and-Multiply
+				+ $result:=1$
+				+ for each bit in exponent e
+					+ $result := result²$
+					+ if bit is set
+						+ $result := result*M$
