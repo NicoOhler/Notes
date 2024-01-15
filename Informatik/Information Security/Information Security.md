@@ -48,6 +48,16 @@
 			+ key recovery security
 				+ unable to recover K given any arbitrary number of (M, C) pairs
 	+ key-alternating using key schedule
-		+ each round/iteration depends on different round key which has been derived from K  
+		+ each round/iteration depends on different round key which has been derived from K
+		+ e.g. AES
+			+ ![[Pasted image 20240115093758.png]]
+			+ SubBytes
+				+ substitute using lookup table S-box with original byte as key
+			+ ShiftRows
+				+ shift row i by i bytes to the left
+			+ MixColumns
+				+ multiplication of each column with constant matrix M
+			+ AddRoundKey
+				+ 
 	+ regular encryption
 		+ 
