@@ -44,21 +44,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "403607c56f4ddb20",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Informatik/Information Security/Information Security.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -124,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Information Security/Information Security.md",
+                "file": "Informatik/Algorithms/Algorithms and Games/Sudoku.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,21 +139,21 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "403607c56f4ddb20",
+  "active": "66b206f641be9e6c",
   "lastOpenFiles": [
-    "Pasted image 20240115104730.png",
-    "Pasted image 20240115104641.png",
-    "Pasted image 20240115104630.png",
-    "Pasted image 20240115104150.png",
-    "Pasted image 20240115103730.png",
-    "Pasted image 20240115102437.png",
-    "Pasted image 20240115101959.png",
-    "Mathematik/Allgemeine Mathematik/Zeichensammlung.md",
+    "z_images/Pasted image 20240115093758.png",
+    "z_images/Pasted image 20240115104730.png",
+    "z_images/Pasted image 20240115094928.png",
     "Informatik/Information Security/Information Security.md",
-    "Pasted image 20240115101326.png",
-    "Pasted image 20240115101307.png",
-    "Pasted image 20240115100804.png",
-    "Pasted image 20240115100753.png",
+    "z_images/Pasted image 20240115104641.png",
+    "z_images/Pasted image 20240115104630.png",
+    "z_images/Pasted image 20240115104150.png",
+    "z_images/Pasted image 20240115103730.png",
+    "z_images/Pasted image 20240115102437.png",
+    "z_images/Pasted image 20240115101959.png",
+    "Mathematik/Allgemeine Mathematik/Zeichensammlung.md",
+    "z_images/Pasted image 20240115101326.png",
+    "z_images/Pasted image 20240115101307.png",
     "Informatik/Information Security/N1_Networks.pdf",
     "Informatik/Information Security/S1_Memory_Safety.pdf",
     "Informatik/Algorithms/Algorithms and Games/NIM Theory/NIM Theory.md",

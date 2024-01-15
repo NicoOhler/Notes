@@ -14,7 +14,6 @@
 	+ [[N1_Networks.pdf]]
 	+ [[N2_Servers.pdf]]
 	+ [[N3]]
-
 ### Cryptography - Exam Summary
 + Authenticity using hash functions
 	+ Compression function
@@ -170,4 +169,8 @@
 + Common crypto failures
 	+ using no/obsolete/backdoored/insufficient crypto
 	+ homebrew protocols
-	+ 
+		+ combining secure primitives in an insecure manner
+	+ improper key usage
+	+ improper password storage
+	+ bad RNG, low entropy
+	+ reusing nonces
