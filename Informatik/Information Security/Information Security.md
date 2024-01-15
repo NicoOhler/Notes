@@ -282,3 +282,4 @@
 				+ still accesses the page (speculative execution) and rollbacks the operation
 				+ accessing page at array1\[x\] causes a cache hit
 			+ ![[Pasted image 20240115184104.png]]
+		+ 
