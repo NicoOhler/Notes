@@ -106,9 +106,15 @@
 		+ uses private and public key
 		+ RSA
 			+ ![[Pasted image 20240115101959.png]]
-			+ Square-and-Multiply
+			+ Square-and-Multiply $b^e$
 				+ $result:=1$
-				+ for each bit in exponent e
+				+ for each bit in e
 					+ $result := result²$
 					+ if bit is set
-						+ $result := result*M$
+						+ $result := result*b$
+			+ textbook RSA is deterministic
+				+ use padding scheme
+				+ ![[Pasted image 20240115102437.png]]
+				+ e.g. RSAES-OAEP
++ Protocols
+	+ Static asymmetric crypto does not provide forward secrecy 
