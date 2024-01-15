@@ -267,4 +267,10 @@
 			+ combined with Flush+Reload
 			+ index of cache hit reveals data
 			+ preventable with KAISER/KPTI
-				+ unmap kernel pages table for userspace
+				+ unmap kernel pages in user space
+				+ kernel addresses are no longer present
+		+ NG-Foreshadow
+			+ leak data from L1 cache of host into VM
+		+ spectre
+			+ exploit control flow predictions
+			+ 
