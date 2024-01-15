@@ -214,3 +214,17 @@
 	+ improper password storage
 	+ bad RNG, low entropy
 	+ reusing nonces
+
+### System Security
++ Memory safety
+	+ spatial violation
+		+ buffer overflow/read
+		+ out-of-bounds reads
+		+ null pointer dereference
+	+ temporal violation
+		+ use after free
+		+ double free
+		+ use of uninitialized memory
+	+ stack frame layout
+		+ ![[Pasted image 20240115174301.png]]
+		+ 
