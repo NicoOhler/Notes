@@ -286,3 +286,13 @@
 	+ actively manipulate device to induce faults
 	+ Row hammer
 		+ accesses to nearby DRAM rows cause  cell to leak energy which may cause bit flips
+	+ Glitching/Skipping attacks
+		+ may corrupt data/skip instructions
+	+ Undervolting
+	+ countermeasures
+		+ detect anomalies
+			+ active fine wire meshes across IC
+			+ power surge/temperature/light sensors?
+		+ double execution
+			+ unlikely to produce same fault twice
++ Sandboxing and Isolation
