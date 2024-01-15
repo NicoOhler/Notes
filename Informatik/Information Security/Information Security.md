@@ -86,7 +86,13 @@
 				+ ![[Pasted image 20240115095527.png]]
 			+ AES-GCM (default)
 + Asymmetric encryption schemes
-	+ 
+	+ Preliminary maths
+		+ Euler function for product n of 2 primes p, q
+			+ $\upvarphi(n)=\upvarphi(pq)=(p-1)(q-1)$
+		+ Euler theorem
+			+ a,n are coprime $\Leftrightarrow a^{\upvarphi(n)}\equiv 1 (mod n)$
+		+ ![[Pasted image 20240115100753.png]]
+		+ ![[Pasted image 20240115100804.png]]
 	+ Key exchange
 		+ agree on shared symmetric key while communicating over insecure channel
 		+ Diffie-Hellman
