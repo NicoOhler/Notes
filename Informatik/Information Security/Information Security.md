@@ -24,12 +24,19 @@
 		+ concrete attempt to violate the security
 + Passwords
 	+ can be based on what someone knows/has/is
-	+ sending and storing plain passwords over insecure channel
-		+ weak to eavesdropping (e.g. replay attack)
-		+ vulnerable password table
-			+ store hash locally
-				+ less vulnerable
-				+ still allows mass dictionary attacks
+	+ password storage
+		+ plain passwords
+			+ weak to eavesdropping (e.g. replay attack)
+			+ vulnerable password table
+		+ hashed passwords
+			+ still allows mass dictionary attacks
+		+ hashed passwords with salt
+			+ no more parallel attacks
+			+ no longer leaks users with identical password
+	+ weak authentication is susceptible to replay attacks
+		+ challenge-response
+		+ prove you know the secret without telling
+		+ e.g. TOTP
 	+ 
 + Authenticity using hash functions
 	+ ![[Pasted image 20240115170331.png]]
