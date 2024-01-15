@@ -15,12 +15,19 @@
 	+ [[N2_Servers.pdf]]
 	+ [[N3]]
 ### Cryptography - Exam Summary
++ Terminology
+	+ threat
+		+ potential violation of security
+	+ vulnerability
+		+ concrete flaw in the implementation
+	+ exploit/attack
+		+ concrete attempt to violate the security
 + Authenticity using hash functions
 	+ ![[Pasted image 20240115170331.png]]
 	+ birthday paradox
 		+ $2^{t/2}$ messages => $2^{t-1}$ message pairs
 		+ collision probability for one pair is $\frac{1}{2^t}=2^{-t}$
-		+ probability for at least one collision ~$\farc{1}{2$
+		+ probability for at least one collision ~$\frac{1}{2}$
 	+ Compression function
 		+ hash function for fixed-size input
 	+ MD-Hash
@@ -150,6 +157,9 @@
 			+ send messages encrypted with new symmetric keys derived from $K_{AB}$ with HKDF
 				+ HMAC-based key derivation function
 + random other stuff (probably not needed)
+	+ Kerckhoffs' Principle
+		+ ![[Pasted image 20240115171311.png]]
+		+ ![[Pasted image 20240115171327.png]]
 	+ Elliptic Curve Cryptography ECC
 		+ ![[Pasted image 20240115104641.png]]
 	+ End-to-End Encryption
