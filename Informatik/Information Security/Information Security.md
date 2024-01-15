@@ -145,12 +145,20 @@
 		+ Sending application data
 			+ send messages encrypted with new symmetric keys derived from $K_{AB}$ with HKDF
 				+ HMAC-based key derivation function
-+ random other stuff
++ random other stuff (probably not needed)
 	+ Elliptic Curve Cryptography ECC
 		+ ![[Pasted image 20240115104641.png]]
 	+ End-to-End Encryption
 		+ may require more security properties
 			+ ![[Pasted image 20240115104730.png]]
-		+ Private Set Intersection
-			+ find intersection of two sets without sharing their content
-			+ e.g. tell new user which of their contacts also use Whatsapp without sending all their contacts to Whatsapp or all Whatsapp users to the new user
+	+ Secure Multiparty Computation
+		+ multiple parties compute a result together without sharing their inputs
+		+ e.g. compute sum of consumed electricity without exposing each household's individual consumption
+	+ Private Set Intersection
+		+ find intersection of two sets without sharing their content
+		+ e.g. tell new user which of their contacts also use Whatsapp without exposing all contacts to Whatsapp or all Whatsapp users to the new user
++ RNG
+	+ nondeterministic hardware source
+		+ generate random number from physical process
+	+ deterministic pseudorandomness
+		+ PRNG 
