@@ -65,7 +65,14 @@
 				+ $b_{ij} = a_{ij}⊕k^{(r)}$
 	+ regular encryption
 		+ does not provide authentication
-		+ modes
-			+ ECB
-				+ ![[Pasted image 20240115094716.png]]
-				+ 
+		+ ECB
+			+ ![[Pasted image 20240115094730.png]]
+			+ ![[Pasted image 20240115094743.png]]
+		+ CBC
+			+ ![[Pasted image 20240115094825.png]]
+			+ C also depends on nonce and previous blocks
+		+ CTR
+			+ ![[Pasted image 20240115094928.png]]
+			+ C also depends on nonce and block index
+	+ Authenticated Encryption (with Associated Data)
+		+ produces cipher text C and tag T for message M using symmetric key K
