@@ -248,3 +248,5 @@
 			+ fast on cache hit, slow on miss
 	+ set associative cache
 		+ ![[Pasted image 20240115180323.png]]
+		+ each memory address has a designated cache set to be cached in
+	+ Flush+Reload
