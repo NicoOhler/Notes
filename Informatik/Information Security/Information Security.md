@@ -227,4 +227,8 @@
 		+ use of uninitialized memory
 	+ stack frame layout
 		+ ![[Pasted image 20240115174301.png]]
+	+ prevent (some) buffer overflows with
+		+ stack canary
+			+ random number stored below stack frame and buffer
+			+ before returning check for overwrite
 		+ 
