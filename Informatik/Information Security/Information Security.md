@@ -161,4 +161,13 @@
 	+ nondeterministic hardware source
 		+ generate random number from physical process
 	+ deterministic pseudorandomness
-		+ PRNG 
+		+ PRNG generates random number (sequence) based on initial value
++ Quantum Computing
+	+ new means of solving algorithms
+	+ Shor's algorithm solves IFP and DLP in polynomial time
+		+ breaks signatures (RSA) and key exchange (DH, ECC)
+	+ symmetric encryption is now slightly weaker
++ Common crypto failures
+	+ using no/obsolete/backdoored/insufficient crypto
+	+ homebrew protocols
+	+ 
