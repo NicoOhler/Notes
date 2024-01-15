@@ -17,6 +17,10 @@
 ### Cryptography - Exam Summary
 + Authenticity using hash functions
 	+ ![[Pasted image 20240115170331.png]]
+	+ birthday paradox
+		+ $2^{t/2}$ messages => $2^{t-1}$ message pairs
+		+ collision probability for one pair is $\frac{1}{2^t}=2^{-t}$
+		+ probability for at least one collision ~$\farc{1}{2$
 	+ Compression function
 		+ hash function for fixed-size input
 	+ MD-Hash
