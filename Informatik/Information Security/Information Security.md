@@ -122,9 +122,15 @@
 			+ if private key is leaked $\Rightarrow$ all past communications compromised
 		+ no authenticity
 			+ no assurance with whom the key is exchanged
-	+ Ephemeral Diffie-Helman
+	+ Ephemeral Diffie-Helman DHE
 		+ Alice and Bob both have long term private/public key pair
 		+ execute regular DH over insecure channel
+			+ both compute the same $K_{AB}$
 		+ send each other the signed transcript of the exchange
-			+ signed with long term
-		+ 
+			+ signed with long term private keys
+		+ send each other MAC-tag of transcript
+			+ use $K_{AB}$ to create tag
+		+ throw away public/private keys $a,b,\alpha^a,\alpha^b$ from DH
+	+ Transport Layer Security TLS
+		+ Key exchange using DHE
+		+ exchange ephemeral public DH key, randomness and list of prefer
