@@ -173,6 +173,12 @@
 		+ Sending application data
 			+ send messages encrypted with new symmetric keys derived from $K_{AB}$ with HKDF
 				+ HMAC-based key derivation function
++ Certificates
+	+ ties public key to an identity
+	+ X.509 standard contains
+		+ public key
+		+ identity information (e.g. name)
+		+ validity pe
 + random other stuff (probably not needed)
 	+ Kerckhoffs' Principle
 		+ ![[Pasted image 20240115171311.png]]
