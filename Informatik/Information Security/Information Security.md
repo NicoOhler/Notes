@@ -16,6 +16,7 @@
 	+ [[N3]]
 ### Cryptography - Exam Summary
 + Authenticity using hash functions
+	+ ![[Pasted image 20240115170331.png]]
 	+ Compression function
 		+ hash function for fixed-size input
 	+ MD-Hash
