@@ -240,10 +240,11 @@
 	+ control flow integrity CFI
 		+ ![[Pasted image 20240115175552.png]]
 + Side-channel attacks
+	+ passively observe physical properties
 	+ information leakage through side-effects
 		+ power consumption
 		+ execution time
-			+ preventable through constant runtime
+			+ preventable through constant runtime and control flow 
 		+ CPU caches
 			+ fast on cache hit, slow on miss
 	+ set associative cache
@@ -260,26 +261,28 @@
 	+ covert channel
 		+ two processes communicate over secret channel
 		+ ![[Pasted image 20240115181739.png]]
-	+ transient execution attacks
-		+ meltdown
-			+ read data at any address using out-of-order execution
-				+ ![[Pasted image 20240115182006.png]]
-			+ combined with Flush+Reload
-			+ index of cache hit reveals data
-			+ preventable with KAISER/KPTI
-				+ unmap kernel pages in user space
-				+ kernel addresses are no longer present
-		+ NG-Foreshadow
-			+ leak data from L1 cache of host into VM
-		+ spectre
-			+ exploit control flow predictions
-			+ speculative execution runs
-				+ ![[Pasted image 20240115184502.png]]
-				+ array1 is a valid buffer
-				+ x is a way too big and causes an overread into the victim's memory
-				+ array2 is uncached shared memory
-			+ crashes because it accesses not allowed memory
-				+ still accesses the page (speculative execution) and rollbacks the operation
-				+ accessing page at array1\[x\] causes a cache hit
-		+ Row hammer
-			+ accesses to nearby DRAM rows cause  cell to leak energy which may cause bit flips
++ transient execution attacks
+	+ meltdown
+		+ read data at any address using out-of-order execution
+			+ ![[Pasted image 20240115182006.png]]
+		+ combined with Flush+Reload
+		+ index of cache hit reveals data
+		+ preventable with KAISER/KPTI
+			+ unmap kernel pages in user space
+			+ kernel addresses are no longer present
+	+ NG-Foreshadow
+		+ leak data from L1 cache of host into VM
+	+ spectre
+		+ exploit control flow predictions
+		+ speculative execution runs
+			+ ![[Pasted image 20240115184502.png]]
+			+ array1 is a valid buffer
+			+ x is a way too big and causes an overread into the victim's memory
+			+ array2 is uncached shared memory
+		+ crashes because it accesses not allowed memory
+			+ still accesses the page (speculative execution) and rollbacks the operation
+			+ accessing page at array1\[x\] causes a cache hit
++ Fault attack
+	+ actively manipulate device to induce faults
+	+ Row hammer
+		+ accesses to nearby DRAM rows cause  cell to leak energy which may cause bit flips
