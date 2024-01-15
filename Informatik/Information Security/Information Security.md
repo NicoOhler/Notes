@@ -90,10 +90,16 @@
 		+ Euler function for product n of 2 primes p, q
 			+ $\upvarphi(n)=\upvarphi(pq)=(p-1)(q-1)$
 		+ Euler theorem
-			+ a,n are coprime $\Leftrightarrow a^{\upvarphi(n)}\equiv 1 (mod n)$
+			+ a,n are coprime $\Leftrightarrow a^{\upvarphi(n)}\equiv 1 \pmod{n}$
 		+ ![[Pasted image 20240115100753.png]]
 		+ ![[Pasted image 20240115100804.png]]
+		+ ![[Pasted image 20240115101326.png]]
+		+ ![[Pasted image 20240115101307.png]]
 	+ Key exchange
 		+ agree on shared symmetric key while communicating over insecure channel
 		+ Diffie-Hellman
-			+ 
+			+ public: large prime p and generator $\alpha$
+			+ Alice chooses $a∈{2,...,p-2}$ and sends $\alpha^a$ to Bob
+			+ Bob chooses $b∈{2,...,p-2}$ and sends $\alpha^b$ to Alice
+			+ $K_{AB}\equiv(\alpha^b)^a \pmod{p}\equiv(\alpha^b)^a \pmod{p}
+			+ a^{\upvarphi(n)}\equiv 1 \pmod{n}$
