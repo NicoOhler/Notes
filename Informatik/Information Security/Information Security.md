@@ -30,4 +30,9 @@
 			+ send M and T
 			+ receiver recomputes new tag T' on M
 			+ receiver verifies T=T'
-		+ 
+		+ unforgeability
+			+ infeasible for attacker to forge any new valid pair (M,T) even if they can query tags for any other messages 
+			+ Exhaustive key search takes ~$2^k$ offline trials
+			+ Guessing the tag takes ~$2^t$ online trials
++ Confidentiality using encryption
+	+ 
