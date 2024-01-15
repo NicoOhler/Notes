@@ -14,7 +14,7 @@
 	+ [[N1_Networks.pdf]]
 	+ [[N2_Servers.pdf]]
 	+ [[N3]]
-### Cryptography - Exam Summary
+### Cryptography
 + Terminology
 	+ threat
 		+ potential violation of security
@@ -239,3 +239,12 @@
 			+ addresses must not be leaked
 	+ control flow integrity CFI
 		+ ![[Pasted image 20240115175552.png]]
++ Side-channel attacks
+	+ information leakage through side-effects
+		+ power consumption
+		+ execution time
+			+ preventable through constant runtime
+		+ CPU caches
+			+ fast on cache hit, slow on miss
+	+ set associative cache
+		+ ![[Pasted image 20240115180323.png]]
