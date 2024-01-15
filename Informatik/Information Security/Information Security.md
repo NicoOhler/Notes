@@ -23,6 +23,7 @@
 	+ exploit/attack
 		+ concrete attempt to violate the security
 + Passwords
+	+ they suck :)
 	+ can be based on what someone knows/has/is
 	+ password storage
 		+ plain passwords
@@ -37,7 +38,6 @@
 		+ challenge-response
 		+ prove you know the secret without telling
 		+ e.g. TOTP
-	+ 
 + Authenticity using hash functions
 	+ ![[Pasted image 20240115170331.png]]
 	+ birthday paradox
@@ -48,6 +48,7 @@
 		+ hash function for fixed-size input
 	+ MD-Hash
 		+ hash function for input of arbitrary size
+			+ iterates a compression function
 		+ padding always applied so the input is a multiple of the block size
 		+ hash=tag
 	+ MAC
