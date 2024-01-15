@@ -250,3 +250,10 @@
 		+ ![[Pasted image 20240115180323.png]]
 		+ each memory address has a designated cache set to be cached in
 	+ Flush+Reload
+		+ requires shared memory
+		+ determine which memory locations have been accessed by measuring the time to access it
+			+ attacker flushes cache line
+			+ victim might access memory locations of this cache line
+			+ attacker reloads the cache line and measures the time
+				+ short => victim accessed the location
+		+ keystrokes can be retrieved because they cause code execution in shared library (e.g. libgdk)
