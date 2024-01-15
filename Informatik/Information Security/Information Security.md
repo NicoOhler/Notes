@@ -281,5 +281,5 @@
 			+ crashes because it accesses not allowed memory
 				+ still accesses the page (speculative execution) and rollbacks the operation
 				+ accessing page at array1\[x\] causes a cache hit
-			+ ![[Pasted image 20240115184104.png]]
-		+ 
+		+ Row hammer
+			+ accesses to nearby DRAM rows cause  cell to leak energy which may cause bit flips
