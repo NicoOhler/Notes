@@ -75,4 +75,8 @@
 			+ ![[Pasted image 20240115094928.png]]
 			+ C also depends on nonce and block index
 	+ Authenticated Encryption (with Associated Data)
-		+ produces cipher text C and tag T for message M using symmetric key K
+		+ produces cipher text C and tag T for message M using symmetric key K, nonce N and associated data A (e.g. metadata or system parameters)
+		+ modes
+			+ AES-CCM (CTR AES encryption with CBC-MAC authentication)
+				+ ![[Pasted image 20240115095527.png]]
+			+ 
