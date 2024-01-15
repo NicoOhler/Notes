@@ -231,4 +231,9 @@
 		+ stack canary
 			+ random number stored below stack frame and buffer
 			+ before returning check for overwrite
-		+ 
+		+ safe and unsafe stack
+			+ store buffers on unsafe stack
+		+ ASLR
+			+ randomizes location of memory
+			+ requires large enough randomization range
+			+ addresses must not be leaked
