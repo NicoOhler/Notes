@@ -257,3 +257,7 @@
 			+ attacker reloads the cache line and measures the time
 				+ short => victim accessed the location
 		+ keystrokes can be retrieved because they cause code execution in shared library (e.g. libgdk)
+	+ covert channel
+		+ two processes communicate over secret channel
+		+ ![[Pasted image 20240115181739.png]]
+	+ 
