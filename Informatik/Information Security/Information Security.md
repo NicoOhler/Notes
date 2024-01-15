@@ -260,4 +260,11 @@
 	+ covert channel
 		+ two processes communicate over secret channel
 		+ ![[Pasted image 20240115181739.png]]
-	+ 
+	+ transient execution attacks
+		+ meltdown
+			+ read data at any address using out-of-order execution
+				+ ![[Pasted image 20240115182006.png]]
+			+ combined with Flush+Reload
+			+ index of cache hit reveals data
+			+ preventable with KAISER/KPTI
+				+ unmap kernel pages table for userspace
