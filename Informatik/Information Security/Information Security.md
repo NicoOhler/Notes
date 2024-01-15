@@ -21,6 +21,13 @@
 		+ hash function for fixed-size input
 	+ MD-Hash
 		+ hash function for input of arbitrary size
-		+ ret
+		+ padding always applied so the input is a multiple of the block size
+		+ hash=tag
 	+ MAC
-		+ uses symmetric key for authentication
+		+ hash function which uses symmetric key K (k-bits) to compute tag t (t-bits) for authentication of message M
+		+ application
+			+ compute T for M
+			+ send M and T
+			+ receiver recomputes new tag T' on M
+			+ receiver verifies T=T'
+		+ 
