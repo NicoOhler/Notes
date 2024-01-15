@@ -237,3 +237,5 @@
 			+ randomizes location of memory
 			+ requires large enough randomization range
 			+ addresses must not be leaked
+	+ control flow integrity CFI
+		+ ![[Pasted image 20240115175552.png]]
