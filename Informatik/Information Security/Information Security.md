@@ -153,4 +153,4 @@
 			+ ![[Pasted image 20240115104730.png]]
 		+ Private Set Intersection
 			+ find intersection of two sets without sharing their content
-			+ e.g. contacts of user and all Whatsapp users
+			+ e.g. tell new user which of their contacts also use Whatsapp without sending all their contacts to Whatsapp or all Whatsapp users to the new user
