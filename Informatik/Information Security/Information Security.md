@@ -16,7 +16,7 @@
 	+ [[N3]]
 
 ### Cryptography - Exam Summary
-+ Authentication
++ Authenticity using hash functions
 	+ Compression function
 		+ hash function for fixed-size input
 	+ MD-Hash
@@ -35,4 +35,10 @@
 			+ Exhaustive key search takes ~$2^k$ offline trials
 			+ Guessing the tag takes ~$2^t$ online trials
 + Confidentiality using encryption
-	+ 
+	+ block ciphers
+		+ bijective permutation $E_K$ based on k-bit key K to encrypt n-bit message blocks M into n-bit cipher text blocks C
+		+ inverse permutation $D_K=E_K^{-1}$ for decryption
+		+ $2^k$ possible mappings
+		+ $2^n$ possible 
+	+ regular encryption
+		+ 
