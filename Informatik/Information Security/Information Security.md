@@ -425,5 +425,13 @@
 	+ ARP spoofing
 		+ ARP maps IPs to MACs
 		+ unauthenticated
-		+ 
+		+ impersonate someone else 
+			+ map own MAC to someone else's IP
+	+ governments "cooperate" with internet exchange points
+	+ BGP hijacks
+		+ BGP lets network providers advertise routes
+			+ big collaborative, distributed shortest-path algorithm
+		+ assumes that ISPs are trustworthy
+			+ might be hacked
+		+ countermeas
 + 
