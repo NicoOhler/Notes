@@ -301,4 +301,5 @@
 		+ e.g. x86 Protection Rings
 		+ drivers have higher privileges than user-space applications
 			+ only accept drivers signed by trusted vendor
-			+ root attacker canno
+			+ root attacker cannot inject code into kernel
+			+ 
