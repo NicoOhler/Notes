@@ -433,5 +433,10 @@
 			+ big collaborative, distributed shortest-path algorithm
 		+ assumes that ISPs are trustworthy
 			+ might be hacked
-		+ countermeas
-+ 
+		+ countermeasures
+			+ DNSSEC
+				+ digital signatures for DNS information
+			+ BGP filtering
+			+ HTTPS
+				+ browser popup due to missing certificate
++ Application Layer
