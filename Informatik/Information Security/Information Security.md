@@ -344,4 +344,12 @@
 				+ folder
 				+ ...
 			+ only see assigned resources
-			+ shared OS, separate lib
+			+ shared OS, separate libraries/dependencies
+			+ Control Groups?
+			+ Namespaces
+				+ isolate system resources between processes
+					+ cannot see other processes
+					+ own mount
+					+ own network stack
+					+ ...
+				+ 
