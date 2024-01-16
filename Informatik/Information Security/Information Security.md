@@ -312,4 +312,22 @@
 		+ prevent execution of user-space code
 		+ opposite of KAISER/KPTI
 	+ Sandboxing
-		+ 
+		+ restricted environment to execute program in
+		+ resources strictly controlled
+			+ own filesystem
+			+ no network connection
+			+ limited memory
+			+ limited CPU time
+			+ ...
+		+ Language-Level-Sandboxing
+			+ restrict untrusted code on the language level 
+				+ e.g. JavaScript
+			+ no dangerous functionality (I/O, syscalls, ...)
+				+ ask user for permission if needed
+			+ interpreter
+			+ eBPF
+				+ verifies certain properties first
+					+ termination
+					+ no loops/recursion
+						+ halting problem
+					+ 
