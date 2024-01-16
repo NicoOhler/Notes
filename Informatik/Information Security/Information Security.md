@@ -296,3 +296,9 @@
 		+ double execution
 			+ unlikely to produce same fault twice
 + Sandboxing and Isolation
+	+ Principle of Least Privilege
+		+ ![[Pasted image 20240116183746.png]]
+		+ e.g. x86 Protection Rings
+		+ drivers have higher privileges than user-space applications
+			+ only accept drivers signed by trusted vendor
+			+ root attacker canno
