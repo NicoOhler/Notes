@@ -377,6 +377,20 @@
 			+ secure area within CPU
 			+ guarantee integrity and confidentiality for code + data
 			+ still shared hardware
-			+ nearly no overhead
+			+ small overhead
 			+ CPU is the only TCB
 			+ memory encrypted and inaccessible to OS
+			+ does not protect against side channel attacks
+		+ Hardware Isolation with Hardware Security Modules HSM
+			+ external, dedicated hardware
+				+ nothing shared
+			+ protects high-value cryptographic keys
+			+ crypto processor for
+				+ key generation/management 
+				+ signatures
+				+ data en/decryption
+				+ strong RNG
+				+ secure timestamp
+
+### Network Security
++ 
