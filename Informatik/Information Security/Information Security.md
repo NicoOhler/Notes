@@ -403,4 +403,12 @@
 			+ pre-shared key
 				+ password or dedicated authentication server
 			+ traffic inaccessible without password
-			+ 
+			+ recording genuine user's handshake
+				+ allow offline bruteforce
+				+ ![[Pasted image 20240116211902.png]]
+			+ connection control not authenticated
+			+ no forward secrecy
+			+ weak per-user key derivation
+				+ if master password is known
+				+ ![[Pasted image 20240116211708.png]]
+				+ weak to rainbow tables => no common SSID/password
