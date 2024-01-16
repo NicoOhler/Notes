@@ -393,4 +393,14 @@
 				+ secure timestamp
 
 ### Network Security
-+ 
++ Data Link Layer
+	+ MAC flooding attack
+		+ switch runs out of space for port to MAC mappings
+		+ drop legitimate entries => unicast frames flooded to all ports
+	+ About Wi-Fi
+		+ every client can listen to all packets
+		+ WPA2-PSK
+			+ pre-shared key
+				+ password or dedicated authentication server
+			+ traffic inaccessible without password
+			+ 
