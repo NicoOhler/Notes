@@ -325,9 +325,23 @@
 			+ no dangerous functionality (I/O, syscalls, ...)
 				+ ask user for permission if needed
 			+ interpreter
-			+ eBPF
-				+ verifies certain properties first
-					+ termination
-					+ no loops/recursion
-						+ halting problem
-					+ 
+			+ eBPF verifies certain properties before executing code
+				+ termination
+				+ no loops/recursion
+					+ halting problem
+				+ jumps may not form loops
+				+ only allowed functions
+		+ Rule-based Execution
+			+ define what an application is allowed to do
+				+ white/blacklists
+			+ e.g. seccomp
+			+ good policies are hard to create but secure and efficient
+		+ Container
+			+ OS-level virtualization
+			+ isolated user-space instances
+			+ each container is assigned resources
+				+ memory
+				+ folder
+				+ ...
+			+ only see assigned resources
+			+ shared OS, separate lib
