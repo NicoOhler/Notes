@@ -352,4 +352,10 @@
 					+ own mount
 					+ own network stack
 					+ ...
-				+ 
+		+ Virtualization
+			+ no shared kernel since process runs in own OS
+			+ emulate entire system => massive overhead
+				+ bare metal
+					+ run directly on hardware
+				+ hosted
+					+ on top of host OS
