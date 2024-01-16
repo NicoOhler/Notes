@@ -359,3 +359,10 @@
 					+ run directly on hardware
 				+ hosted
 					+ on top of host OS
+			+ VM escape
+				+ access to host and other VMs
+	+ Isolation
+		+ isolate application from system
+			+ trusted application on untrusted system
+		+ applications
+			+ sensitive d
