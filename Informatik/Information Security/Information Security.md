@@ -365,4 +365,18 @@
 		+ isolate application from system
 			+ trusted application on untrusted system
 		+ applications
-			+ sensitive d
+			+ sensitive data
+			+ distrust against cloud provider
+			+ intellectual property
+			+ rights management 
+		+ Trusted Computing Base TCB
+			+ CPU and firmware usually
+			+ kernel and system programs usually too
+				+ protected by protection rings
+		+ Trusted-Execution Environment
+			+ secure area within CPU
+			+ guarantee integrity and confidentiality for code + data
+			+ still shared hardware
+			+ nearly no overhead
+			+ CPU is the only TCB
+			+ memory encrypted and inaccessible to OS
