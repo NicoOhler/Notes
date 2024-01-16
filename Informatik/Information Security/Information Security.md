@@ -302,4 +302,14 @@
 		+ drivers have higher privileges than user-space applications
 			+ only accept drivers signed by trusted vendor
 			+ root attacker cannot inject code into kernel
-			+ 
+	+ Secure Boot
+		+ UEFI ROMs, boot loader, kernel must be signed
+		+ public key in firmware to verify signatures
+		+ execute after verification
+		+ ![[Pasted image 20240116203021.png]]
+	+ Supervisor Mode Access/Execution Prevention
+		+ prevent access to user-space data
+		+ prevent execution of user-space code
+		+ opposite of KAISER/KPTI
+	+ Sandboxing
+		+ 
