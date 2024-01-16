@@ -406,9 +406,24 @@
 			+ recording genuine user's handshake
 				+ allow offline bruteforce
 				+ ![[Pasted image 20240116211902.png]]
-			+ connection control not authenticated
+				+ easy to derive if SSID + password known
+			+ connection control not authenticated/encrypted
+				+ easy forging of control frames 
 			+ no forward secrecy
 			+ weak per-user key derivation
 				+ if master password is known
 				+ ![[Pasted image 20240116211708.png]]
 				+ weak to rainbow tables => no common SSID/password
+		+ WPA3
+			+ not available on every device
+			+ traffic inaccessible without password
+			+ cannot attack passwords offline
+			+ authenticated control frames
+			+ forward secrecy
+			+ strong per-user key derivation
++ Internet Layer
+	+ ARP spoofing
+		+ ARP maps IPs to MACs
+		+ unauthenticated
+		+ 
++ 
