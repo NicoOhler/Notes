@@ -58,19 +58,19 @@
             }
           },
           {
-            "id": "975bdb8cf772a5db",
+            "id": "ea134295fa09743d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Information Security/Cryptography.md",
+                "file": "Informatik/Networking/Networking.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ea134295fa09743d",
+            "id": "d7b6c586ff79463d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -80,33 +80,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d3d14c614854d7a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Informatik/Information Security/System Security.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8f32fcd5bd7b280e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Informatik/Information Security/Information Security.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -172,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Information Security/Cryptography.md",
+                "file": "Informatik/Information Security/Network Security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,23 +175,24 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "975bdb8cf772a5db",
+  "active": "d7b6c586ff79463d",
   "lastOpenFiles": [
+    "Informatik/Networking/Networking.md",
     "Informatik/Information Security/Information Security.md",
-    "Informatik/Information Security/System Security.md",
     "Informatik/Information Security/Network Security.md",
-    "Informatik/Information Security/Cryptography.md",
-    "Pasted image 20240116211902.png",
-    "Pasted image 20240116211708.png",
-    "Pasted image 20240116203021.png",
-    "Pasted image 20240116183746.png",
-    "Pasted image 20240115184502.png",
-    "Pasted image 20240115184104.png",
-    "Pasted image 20240115182006.png",
-    "Pasted image 20240115181739.png",
-    "Pasted image 20240115180323.png",
-    "Pasted image 20240115175552.png",
     "Informatik/Algorithms/Algorithms and Games/NIM Theory/NIM Theory.md",
+    "z_images/Pasted image 20240115170331.png",
+    "Informatik/Information Security/Cryptography.md",
+    "Informatik/Information Security/System Security.md",
+    "z_images/Pasted image 20240116211902.png",
+    "z_images/Pasted image 20240116211708.png",
+    "z_images/Pasted image 20240116203021.png",
+    "z_images/Pasted image 20240116183746.png",
+    "z_images/Pasted image 20240115184502.png",
+    "z_images/Pasted image 20240115184104.png",
+    "z_images/Pasted image 20240115182006.png",
+    "z_images/Pasted image 20240115181739.png",
+    "z_images/Pasted image 20240115180323.png",
     "Informatik/Algorithms/Algorithms and Games/NIM Theory/NIM-type Games.md",
     "Informatik/Algorithms/Algorithms and Games/Sudoku.md",
     "Mathematik/Allgemeine Mathematik/Zeichensammlung.md",
@@ -246,7 +223,6 @@
     "Mathematik/Analysis/Komplexe Analysis/Laplace Transformation.md",
     "Mathematik/Analysis/Komplexe Analysis/Anwendungen der Residuenrechnung.md",
     "Mathematik/Analysis/Komplexe Analysis/Komplexe Zahlen.md",
-    "Mathematik/Analysis/Komplexe Analysis/Komplexe Kurvenintegrale.md",
     "Untitled.canvas"
   ]
 }

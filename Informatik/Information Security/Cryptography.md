@@ -53,47 +53,47 @@
 	+ uses encryption instead of hashing
 	+ uses asymmetric private key K to encrypt message M to a signature S
 	+ send M and S
-	+ receiver decrypts S with public key to M' and verifies M=M'#
-	+ 
-+ Confidentiality using encryption
-	+ block ciphers
-		+ bijective permutation $E_K$ based on k-bit key K to encrypt n-bit message blocks M into n-bit cipher text blocks C
-		+ inverse permutation $D_K=E_K^{-1}$ for decryption
-		+ complexity
-			+ $2^k$ possible keys(mappings)
-			+ $2^n$ possible outputs for input
-		+ requirements
-			+ pseudorandomness
-				+ unable to learn M from C (or vice-versa)
-			+ key recovery security
-				+ unable to recover K given any arbitrary number of (M, C) pairs
-	+ key-alternating using key schedule
-		+ each round/iteration depends on different round key which has been derived from K
-		+ e.g. AES
-			+ ![[Pasted image 20240115093758.png]]
-			+ SubBytes
-				+ substitute using lookup table S-box with original byte as key
-				+ $b_{ij} = S[a_{ij}]$
-			+ ShiftRows
-				+ shift row i by i bytes to the left
-				+ $b_{ij} = a_{i(j+i\%4)}$
-			+ MixColumns
-				+ multiplication of each column with constant matrix M
-				+ ![[Pasted image 20240115094429.png]]
-			+ AddRoundKey
-				+ XOR with $k^{(r)}$
-				+ $b_{ij} = a_{ij}⊕k^{(r)}$
-	+ regular encryption
-		+ does not provide authentication
-		+ ECB
-			+ ![[Pasted image 20240115094730.png]]
-			+ ![[Pasted image 20240115094743.png]]
-		+ CBC
-			+ ![[Pasted image 20240115094825.png]]
-			+ C also depends on nonce and previous blocks
-		+ CTR
-			+ ![[Pasted image 20240115094928.png]]
-			+ C also depends on nonce and block index
+	+ receiver decrypts S with public key to M' and verifies M=M'
+
+### Confidentiality using encryption
++ block ciphers
+	+ bijective permutation $E_K$ based on k-bit key K to encrypt n-bit message blocks M into n-bit cipher text blocks C
+	+ inverse permutation $D_K=E_K^{-1}$ for decryption
+	+ complexity
+		+ $2^k$ possible keys(mappings)
+		+ $2^n$ possible outputs for input
+	+ requirements
+		+ pseudorandomness
+			+ unable to learn M from C (or vice-versa)
+		+ key recovery security
+			+ unable to recover K given any arbitrary number of (M, C) pairs
++ key-alternating using key schedule
+	+ each round/iteration depends on different round key which has been derived from K
+	+ e.g. AES
+		+ ![[Pasted image 20240115093758.png]]
+		+ SubBytes
+			+ substitute using lookup table S-box with original byte as key
+			+ $b_{ij} = S[a_{ij}]$
+		+ ShiftRows
+			+ shift row i by i bytes to the left
+			+ $b_{ij} = a_{i(j+i\%4)}$
+		+ MixColumns
+			+ multiplication of each column with constant matrix M
+			+ ![[Pasted image 20240115094429.png]]
+		+ AddRoundKey
+			+ XOR with $k^{(r)}$
+			+ $b_{ij} = a_{ij}⊕k^{(r)}$
++ regular encryption
+	+ does not provide authentication
+	+ ECB
+		+ ![[Pasted image 20240115094730.png]]
+		+ ![[Pasted image 20240115094743.png]]
+	+ CBC
+		+ ![[Pasted image 20240115094825.png]]
+		+ C also depends on nonce and previous blocks
+	+ CTR
+		+ ![[Pasted image 20240115094928.png]]
+		+ C also depends on nonce and block index
 	+ Authenticated Encryption (with Associated Data)
 		+ produces cipher text C and tag T for message M using symmetric key K, nonce N and associated data A (e.g. metadata or system parameters)
 		+ some TLS 1.3 authenticated ciphers
@@ -131,57 +131,60 @@
 				+ use padding scheme
 				+ ![[Pasted image 20240115102437.png]]
 				+ e.g. RSAES-OAEP
-+ Protocols
-	+ problem with static asymmetric crypto
-		+ no forward secrecy
-			+ if private key is leaked $\Rightarrow$ all past communications compromised
-		+ no authenticity
-			+ no assurance with whom the key is exchanged
-	+ Ephemeral Diffie-Helman DHE
-		+ Alice and Bob both have long term private/public key pair
-		+ execute regular DH over insecure channel
-			+ both compute the same $K_{AB}$
-		+ send each other the signed transcript (all previous message) of the exchange
-			+ signed with long term private keys
-		+ send each other MAC-tag of transcript
-			+ use $K_{AB}$ to create tag
-		+ throw away public/private keys $a,b,\alpha^a,\alpha^b$ from DH
-	+ Transport Layer Security TLS
-		+ Key exchange using DHE
-			+ exchange ephemeral public DH key, randomness and list of preferred symmetric ciphers
-			+ ![[Pasted image 20240115103730.png]]
-		+ Authentication
-			+ server sends certificate, signature over transcript and HMAC of transcript
-				+ signature using long term private key
-				+ HMAC using $K_AB$
-			+ client sends HMAC of transcript back
-			+ ![[Pasted image 20240115104150.png]]
-		+ Sending application data
-			+ send messages encrypted with new symmetric keys derived from $K_{AB}$ with HKDF
-				+ HMAC-based key derivation function
-+ Certificates
-	+ ties public key to an identity
-	+ X.509 standard contains
-		+ public key
-		+ identity information (e.g. name)
-		+ validity period
-		+ signature from a certificate authority CA
-			+ which issued the certificate
-+ random other stuff (probably not needed)
-	+ Kerckhoffs' Principle
-		+ ![[Pasted image 20240115171311.png]]
-		+ ![[Pasted image 20240115171327.png]]
-	+ Elliptic Curve Cryptography ECC
-		+ ![[Pasted image 20240115104641.png]]
-	+ End-to-End Encryption
-		+ may require more security properties
-			+ ![[Pasted image 20240115104730.png]]
-	+ Secure Multiparty Computation
-		+ multiple parties compute a result together without sharing their inputs
-		+ e.g. compute sum of consumed electricity without exposing each household's individual consumption
-	+ Private Set Intersection
-		+ find intersection of two sets without sharing their content
-		+ e.g. tell new user which of their contacts also use Whatsapp without exposing all contacts to Whatsapp or all Whatsapp users to the new user
+
+### Protocols
++ problem with static asymmetric crypto
++ no forward secrecy
+	+ if private key is leaked $\Rightarrow$ all past communications compromised
++ no authenticity
+	+ no assurance with whom the key is exchanged
++ Ephemeral Diffie-Helman DHE
+	+ Alice and Bob both have long term private/public key pair
+	+ execute regular DH over insecure channel
+		+ both compute the same $K_{AB}$
+	+ send each other the signed transcript (all previous message) of the exchange
+		+ signed with long term private keys
+	+ send each other MAC-tag of transcript
+		+ use $K_{AB}$ to create tag
+	+ throw away public/private keys $a,b,\alpha^a,\alpha^b$ from DH
++ Transport Layer Security TLS
+	+ Key exchange using DHE
+		+ exchange ephemeral public DH key, randomness and list of preferred symmetric ciphers
+		+ ![[Pasted image 20240115103730.png]]
+	+ Authentication
+		+ server sends certificate, signature over transcript and HMAC of transcript
+			+ signature using long term private key
+			+ HMAC using $K_AB$
+		+ client sends HMAC of transcript back
+		+ ![[Pasted image 20240115104150.png]]
+	+ Sending application data
+		+ send messages encrypted with new symmetric keys derived from $K_{AB}$ with HKDF
+			+ HMAC-based key derivation function
+
+ ### Certificates
++ ties public key to an identity
++ X.509 standard contains
+	+ public key
+	+ identity information (e.g. name)
+	+ validity period
+	+ signature from a certificate authority CA
+		+ which issued the certificate
+
+### Miscellaneous 
++ Kerckhoffs' Principle
+	+ ![[Pasted image 20240115171311.png]]
+	+ ![[Pasted image 20240115171327.png]]
++ Elliptic Curve Cryptography ECC
+	+ ![[Pasted image 20240115104641.png]]
++ End-to-End Encryption
+	+ may require more security properties
+		+ ![[Pasted image 20240115104730.png]]
++ Secure Multiparty Computation
+	+ multiple parties compute a result together without sharing their inputs
+	+ e.g. compute sum of consumed electricity without exposing each household's individual consumption
++ Private Set Intersection
+	+ find intersection of two sets without sharing their content
+	+ e.g. tell new user which of their contacts also use Whatsapp without exposing all contacts to Whatsapp or all Whatsapp users to the new user
 + RNG
 	+ nondeterministic hardware source
 		+ generate random number from physical process
