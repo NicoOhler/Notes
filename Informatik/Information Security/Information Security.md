@@ -441,4 +441,8 @@
 				+ browser popup due to missing certificate
 + Application Layer
 	+ Connecting to malicious websites
+		+ can only attack current tab
+		+ no interaction between cross-origin iframes
+		+ make requests as victim
+	+ Token-based authentication
 		+ 
