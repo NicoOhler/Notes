@@ -445,7 +445,7 @@
 		+ no interaction between cross-origin iframes
 		+ make requests as victim
 	+ Token-based authentication
-		+ token storage
+		+ storage
 			+ URL rewriting => awful
 			+ cookies
 				+ SameSite
@@ -454,5 +454,18 @@
 						+ default lax allows top-level navigation
 				+ Secure
 				+ HttpOnly
+		+ generation
+			+ random session token
+				+ server remembers user - token mapping
+				+ require good randomness
+				+ not infinitely scalable
+			+ JSON Web Tokens JWT
+				+ signed by server
+				+ no need to remember tokens
+				+ no expire/invalidation by default
 	+ navigate victim to arbitrary URLs
 		+ execute POST requests with SameSite=None
+		+ assumes GET has no side effects
+	+ Invisible iframes over buttons
+		+ harder with SameSite=Lax default
+		+ X-Frame-Options (HTTP header) prevents embedding
