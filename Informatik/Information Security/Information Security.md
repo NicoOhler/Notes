@@ -445,4 +445,14 @@
 		+ no interaction between cross-origin iframes
 		+ make requests as victim
 	+ Token-based authentication
-		+ 
+		+ token storage
+			+ URL rewriting => awful
+			+ cookies
+				+ SameSite
+					+ do not send for requests from different origin
+					+ strict/lax/none
+						+ default lax allows top-level navigation
+				+ Secure
+				+ HttpOnly
+	+ navigate victim to arbitrary URLs
+		+ execute POST requests with SameSite=None
