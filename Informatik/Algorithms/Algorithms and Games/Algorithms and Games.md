@@ -3,3 +3,4 @@
 + [[2 Player Combinatorial Game]]
 + [[NIM Theory]]
 + [[Sudoku]]
+
