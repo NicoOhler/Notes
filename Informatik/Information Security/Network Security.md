@@ -92,8 +92,21 @@
 		+ string sanitization is very prone to errors
 		+ Prepared Statements
 			+ ![[Pasted image 20240119135132.png]]
-	+ Cross-Site Scripting XSS
-		+ tricks website into sending 
+	+ PHP injections
 		+ ![[Pasted image 20240119135313.png]]
 		+ ![[Pasted image 20240119135327.png]]
-		+ 
+	+ Cross-Site Scripting XSS
+		+ tricks website into sending JavaScript to the target
+		+ bypasses same-origin protection
+			+ access to cookies
+			+ authenticated session
+			+ read input as they're being entered
+			+ spread itself to more victims
+			+ ...
+		+ semantically separate instructions and data
+			+ .innerText prevents interpretation as HTML
+			+ does not work:
+				+ .innerHTML
+				+ jQuery.html()
+				+ jQuery $()
+				+ ...#
