@@ -110,5 +110,13 @@
 				+ jQuery.html()
 				+ jQuery $()
 				+ ...
-	+ SVG
-		+ can run JavaScript for some reason
+		+ SVG
+			+ can run JavaScript for some reason
+			+ may be used for XSS
+		+ Content-Security Policy
+			+ whitelist-based filtering of
+				+ JavaScript
+				+ CSS
+				+ embedded frames
+				+ fetch
+				+ ...
