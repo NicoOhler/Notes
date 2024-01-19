@@ -27,30 +27,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Algorithms/Algorithms and Games/NIM Theory/NIM-type Games.md",
+                "file": "Informatik/Information Security/Information Security.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "3ac6dda51bb6b9e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Informatik/Algorithms/Design and Analysis of Algorithms/Distributed Graph Algorithms.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4a2f48a671a5815c",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           },
           {
@@ -63,6 +43,14 @@
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "7f48ca6b64ebb85f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -158,11 +146,14 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "4a2f48a671a5815c",
+  "active": "7f48ca6b64ebb85f",
   "lastOpenFiles": [
+    "Informatik/Information Security/Information Security.md",
+    "Informatik/Algorithms/Algorithms and Games/NIM Theory/NIM-type Games.md",
+    "Informatik/Algorithms/Design and Analysis of Algorithms/Distributed Graph Algorithms.md",
+    "Mathematik/Statistik/Empirische Datenanalyse/Beschreibung univariater Daten.md",
     "Informatik/Algorithms/Datenstrukturen und Algorithmen/Datenstrukturen/Triangulations.md",
     "Informatik/Algorithms/Datenstrukturen und Algorithmen/Data Structures and Algorithms 2.md",
-    "Informatik/Information Security/Information Security.md",
     "Informatik/Information Security/N3_Clients.pdf",
     "Informatik/Information Security/Cryptography.md",
     "Mathematik/Diskrete Mathematik/Kryptographie/Kryptographie.md",
@@ -179,13 +170,11 @@
     "Informatik/Algorithms/Datenstrukturen und Algorithmen/Datenstrukturen und Algorithmen.md",
     "Informatik/Algorithms/Design and Analysis of Algorithms/Complexity Theory.md",
     "Informatik/Algorithms/Design and Analysis of Algorithms/Design and Analysis of Algorithms.md",
-    "Informatik/Algorithms/Design and Analysis of Algorithms/Distributed Graph Algorithms.md",
     "z_images/Pasted image 20240119141652.png",
     "z_images/Pasted image 20240119134808.png",
     "Untitled.canvas",
     "Informatik/Algorithms/Algorithms and Games/Sudoku.md",
     "Informatik/Algorithms/Algorithms and Games/NIM Theory/NIM Theory.md",
-    "Informatik/Algorithms/Algorithms and Games/NIM Theory/NIM-type Games.md",
     "Informatik/Information Security/Network Security.md",
     "Informatik/Networking/Networking.md",
     "z_images/Pasted image 20240119141501.png",
@@ -197,7 +186,6 @@
     "z_images/Pasted image 20240119135132.png",
     "z_images/Pasted image 20240119135103.png",
     "Informatik/Information Security/System Security.md",
-    "Mathematik/Allgemeine Mathematik/Zeichensammlung.md",
     "Informatik/Information Security/N1_Networks.pdf",
     "Informatik/Information Security/S1_Memory_Safety.pdf",
     "Informatik/Information Security/S4_Sandboxing_and_Isolation.pdf",
