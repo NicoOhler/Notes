@@ -83,3 +83,8 @@
 		+ \* for APIs
 		+ otherwise URL/domain
 		+ multiple origins => put source in Origin header and check server-side
++ Dealing with data
+	+ evaluating JSON instead of parsing 
+		+ ![[Pasted image 20240119134808.png]]
+	+ SQL
+		+ inserted strings 
