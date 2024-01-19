@@ -86,5 +86,14 @@
 + Dealing with data
 	+ evaluating JSON instead of parsing 
 		+ ![[Pasted image 20240119134808.png]]
-	+ SQL
-		+ inserted strings 
+		+ ![[Pasted image 20240119135103.png]]
+	+ SQL injections
+		+ ![[Pasted image 20240119134946.png]]
+		+ string sanitization is very prone to errors
+		+ Prepared Statements
+			+ ![[Pasted image 20240119135132.png]]
+	+ Cross-Site Scripting XSS
+		+ tricks website into sending 
+		+ ![[Pasted image 20240119135313.png]]
+		+ ![[Pasted image 20240119135327.png]]
+		+ 
