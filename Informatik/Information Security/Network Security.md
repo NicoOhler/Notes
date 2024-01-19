@@ -109,4 +109,6 @@
 				+ .innerHTML
 				+ jQuery.html()
 				+ jQuery $()
-				+ ...#
+				+ ...
+	+ SVG
+		+ can run JavaScript for some reason
