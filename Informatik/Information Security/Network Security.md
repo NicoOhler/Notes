@@ -129,5 +129,12 @@
 					+ ![[Pasted image 20240119141203.png]]
 					+ e.g. CPS whitelists Origin B only for images 
 			+ SubResource Integrity SRI
-				+ verify external scripts (e.g. libraries) have not been compromised
-				+ 
+				+ verify external 3rd-party scripts (e.g. libraries) have not been compromised
+				+ ![[Pasted image 20240119141501.png]]
+				+ only load script if it matches the provided hash
+					+ https://www.srihash.org/
+				+ include tag in CSP whitelist
+					+ ![[Pasted image 20240119141652.png]]
+	+ Client-side checks without server-side checks
+		+ always use server-side checks
+		+ attacker may not use your client
