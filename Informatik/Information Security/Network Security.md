@@ -113,10 +113,21 @@
 		+ SVG
 			+ can run JavaScript for some reason
 			+ may be used for XSS
-		+ Content-Security Policy
-			+ whitelist-based filtering of
-				+ JavaScript
-				+ CSS
-				+ embedded frames
-				+ fetch
-				+ ...
+		+ counter-measures
+			+ Content-Security Policy
+				+ whitelist-based filtering of
+					+ JavaScript
+					+ CSS
+					+ embedded frames
+					+ fetch
+					+ ...
+				+ ![[Pasted image 20240119140938.png]]
+					+ ![[Pasted image 20240119140949.png]]
+				+ https://csp-evaluator.withgoogle.com/
+			+ Strict Origin Separation
+				+ have multiple origins for different kinds of data
+					+ ![[Pasted image 20240119141203.png]]
+					+ e.g. CPS whitelists Origin B only for images 
+			+ SubResource Integrity SRI
+				+ verify external scripts (e.g. libraries) have not been compromised
+				+ 
