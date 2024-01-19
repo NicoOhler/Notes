@@ -22,7 +22,7 @@
 + repeat after opponent’s move
 + ![[Pasted image 20231102172055.png]]
 
-### Variations
+### Variations of [[NIM-type Games]]
 + take a limited number of coins each turn
 	+ ![[Pasted image 20231102172856.png]]
 + take 1 coin or split a pile into two (non-empty) piles

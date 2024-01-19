@@ -41,3 +41,4 @@
 	+ may optionally also split the pile
 		+ ![[Pasted image 20231102153302.png]]
 + reduces to Kayles
+

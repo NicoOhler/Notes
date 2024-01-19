@@ -39,31 +39,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Algorithms/Algorithms and Games/Sudoku.md",
+                "file": "Informatik/Algorithms/Design and Analysis of Algorithms/Distributed Graph Algorithms.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "cdaad43f316ff8d7",
+            "id": "4a2f48a671a5815c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Algorithms/Algorithms and Games/NIM Theory/NIM Theory.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ea134295fa09743d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Informatik/Networking/Networking.md",
+                "file": "N3.md",
                 "mode": "source",
                 "source": false
               }
@@ -75,14 +63,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Information Security/Network Security.md",
+                "file": "Informatik/Algorithms/Algorithms and Games/NIM Theory/NIM Theory.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -148,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Information Security/Network Security.md",
+                "file": "N3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,11 +163,18 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "d7b6c586ff79463d",
+  "active": "4a2f48a671a5815c",
   "lastOpenFiles": [
+    "N3.md",
+    "Informatik/Algorithms/Design and Analysis of Algorithms/Distributed Graph Algorithms.md",
+    "Untitled.canvas",
+    "Informatik/Algorithms/Algorithms and Games/Sudoku.md",
+    "Informatik/Algorithms/Algorithms and Games/NIM Theory/NIM Theory.md",
+    "Informatik/Algorithms/Algorithms and Games/NIM Theory/NIM-type Games.md",
+    "Informatik/Information Security/Network Security.md",
+    "Informatik/Networking/Networking.md",
     "Pasted image 20240119141652.png",
     "Pasted image 20240119141501.png",
-    "Informatik/Information Security/Network Security.md",
     "Pasted image 20240119141203.png",
     "Pasted image 20240119140949.png",
     "Pasted image 20240119140938.png",
@@ -188,14 +183,9 @@
     "Pasted image 20240119135132.png",
     "Pasted image 20240119135103.png",
     "Pasted image 20240119134946.png",
-    "Pasted image 20240119134808.png",
-    "Informatik/Networking/Networking.md",
     "Informatik/Information Security/Information Security.md",
-    "Informatik/Algorithms/Algorithms and Games/NIM Theory/NIM Theory.md",
     "Informatik/Information Security/Cryptography.md",
     "Informatik/Information Security/System Security.md",
-    "Informatik/Algorithms/Algorithms and Games/NIM Theory/NIM-type Games.md",
-    "Informatik/Algorithms/Algorithms and Games/Sudoku.md",
     "Mathematik/Allgemeine Mathematik/Zeichensammlung.md",
     "Informatik/Information Security/N1_Networks.pdf",
     "Informatik/Information Security/S1_Memory_Safety.pdf",
@@ -209,7 +199,6 @@
     "Informatik/Information Security/C1_Authentication.pdf",
     "Informatik/Algorithms/Algorithms and Games/2 Player Combinatorial Game.md",
     "Informatik/Algorithms/Algorithms and Games/Algorithms and Games.md",
-    "Informatik/Algorithms/Design and Analysis of Algorithms/Distributed Graph Algorithms.md",
     "Informatik/Algorithms/Design and Analysis of Algorithms/Complexity Theory.md",
     "Informatik/Algorithms/Design and Analysis of Algorithms/Maximum Flow.md",
     "Informatik/Algorithms/Algorithms and Games/Examples of Combinatorial Games.md",
@@ -222,7 +211,6 @@
     "Mathematik/Analysis/Komplexe Analysis/Residuensatz.md",
     "Mathematik/Analysis/Komplexe Analysis/Potentialgleichung.md",
     "Mathematik/Analysis/Komplexe Analysis/Laplace Transformation.md",
-    "Mathematik/Analysis/Komplexe Analysis/Anwendungen der Residuenrechnung.md",
-    "Untitled.canvas"
+    "Mathematik/Analysis/Komplexe Analysis/Anwendungen der Residuenrechnung.md"
   ]
 }

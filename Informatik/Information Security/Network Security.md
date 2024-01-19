@@ -137,4 +137,6 @@
 					+ ![[Pasted image 20240119141652.png]]
 	+ Client-side checks without server-side checks
 		+ always use server-side checks
-		+ attacker may not use your client
+		+ attacker may not use the client
+			+ JavaScript constraints are irrelevant
+			+ any requests in any order with any parameters
