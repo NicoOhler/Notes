@@ -4,3 +4,5 @@
 ### Types of Regression
 + [[Lineare Regression]]
 + [[Multiple Regression]]
+
+### [[Diagnostische Aspekte]]

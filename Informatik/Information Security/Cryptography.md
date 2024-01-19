@@ -203,3 +203,5 @@
 	+ improper password storage
 	+ bad RNG, low entropy
 	+ reusing nonces
+
+[[Kryptographie]]

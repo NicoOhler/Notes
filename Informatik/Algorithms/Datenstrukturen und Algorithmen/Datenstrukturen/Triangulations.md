@@ -1,7 +1,7 @@
 ### Triangel
 + simplest piece of surface
 + allow modelling surfaces
-+ important for [[Computer Graphics]]
++ important for Computer Graphics
 
 ### Triangulation of Point Set $S$
 + [[Convex Hull]] partitioned into interior-disjoint triangels
