@@ -34,6 +34,42 @@
             }
           },
           {
+            "id": "d4c05d509217db82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Informatik/Information Security/Network Security.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "19c8b654fa9e1ca3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Informatik/Information Security/System Security.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9e56393b69fddac6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Informatik/Information Security/Cryptography.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "d7b6c586ff79463d",
             "type": "leaf",
             "state": {
@@ -44,17 +80,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "7f48ca6b64ebb85f",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -120,6 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Informatik/Information Security/Network Security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,16 +175,19 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "7f48ca6b64ebb85f",
+  "active": "d4c05d509217db82",
   "lastOpenFiles": [
+    "Informatik/Information Security/Cryptography.md",
+    "Informatik/Information Security/System Security.md",
+    "Informatik/Information Security/Network Security.md",
     "Informatik/Information Security/Information Security.md",
+    "Informatik/Networking/Networking.md",
     "Informatik/Algorithms/Algorithms and Games/NIM Theory/NIM-type Games.md",
     "Informatik/Algorithms/Design and Analysis of Algorithms/Distributed Graph Algorithms.md",
     "Mathematik/Statistik/Empirische Datenanalyse/Beschreibung univariater Daten.md",
     "Informatik/Algorithms/Datenstrukturen und Algorithmen/Datenstrukturen/Triangulations.md",
     "Informatik/Algorithms/Datenstrukturen und Algorithmen/Data Structures and Algorithms 2.md",
     "Informatik/Information Security/N3_Clients.pdf",
-    "Informatik/Information Security/Cryptography.md",
     "Mathematik/Diskrete Mathematik/Kryptographie/Kryptographie.md",
     "Mathematik/Diskrete Mathematik/Diskrete Mathematik.md",
     "Mathematik/Statistik/Regression/Regression.md",
@@ -175,8 +207,6 @@
     "Untitled.canvas",
     "Informatik/Algorithms/Algorithms and Games/Sudoku.md",
     "Informatik/Algorithms/Algorithms and Games/NIM Theory/NIM Theory.md",
-    "Informatik/Information Security/Network Security.md",
-    "Informatik/Networking/Networking.md",
     "z_images/Pasted image 20240119141501.png",
     "z_images/Pasted image 20240119141203.png",
     "z_images/Pasted image 20240119140949.png",
@@ -185,7 +215,6 @@
     "z_images/Pasted image 20240119135313.png",
     "z_images/Pasted image 20240119135132.png",
     "z_images/Pasted image 20240119135103.png",
-    "Informatik/Information Security/System Security.md",
     "Informatik/Information Security/N1_Networks.pdf",
     "Informatik/Information Security/S1_Memory_Safety.pdf",
     "Informatik/Information Security/S4_Sandboxing_and_Isolation.pdf",

@@ -85,17 +85,17 @@
       }
     },
     {
-      "query": "path:Informatik/Networks",
+      "query": "path:Informatik/Networking  ",
       "color": {
         "a": 1,
         "rgb": 4980874
       }
     },
     {
-      "query": "path:Informatik/Networks",
+      "query": "path:\"Informatik/Information Security\"  ",
       "color": {
         "a": 1,
-        "rgb": 5431378
+        "rgb": 14533927
       }
     }
   ],
