@@ -34,55 +34,55 @@
             }
           },
           {
-            "id": "d4c05d509217db82",
+            "id": "e92c57824807543a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Information Security/Network Security.md",
+                "file": "Informatik/Algorithms/Design and Analysis of Algorithms/Approximation Algorithms.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "19c8b654fa9e1ca3",
+            "id": "8ee3417964fdbc8a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Information Security/System Security.md",
+                "file": "Informatik/Algorithms/Design and Analysis of Algorithms/Distributed Graph Algorithms.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9e56393b69fddac6",
+            "id": "e43aa426ec5f0b4f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Information Security/Cryptography.md",
+                "file": "Informatik/Algorithms/Design and Analysis of Algorithms/Design and Analysis of Algorithms.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d7b6c586ff79463d",
+            "id": "3654b08f1b8b0aad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Algorithms/Algorithms and Games/NIM Theory/NIM Theory.md",
+                "file": "Informatik/Algorithms/Design and Analysis of Algorithms/Maximum Flow.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Information Security/Network Security.md",
+                "file": "Informatik/Algorithms/Design and Analysis of Algorithms/Maximum Flow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,15 +175,22 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "d4c05d509217db82",
+  "active": "3654b08f1b8b0aad",
   "lastOpenFiles": [
+    "Informatik/Algorithms/Design and Analysis of Algorithms/Design and Analysis of Algorithms.md",
+    "Informatik/Algorithms/Design and Analysis of Algorithms/Shortest Path Algorithms/Shortest Path Algorithms.md",
+    "Informatik/Algorithms/Design and Analysis of Algorithms/randomizedAlgorithms-export.pdf",
+    "Informatik/Algorithms/Design and Analysis of Algorithms/Minimum Spanning Tree.md",
+    "Informatik/Algorithms/Design and Analysis of Algorithms/Approximation Algorithms.md",
+    "Informatik/Information Security/Information Security.md",
+    "Informatik/Algorithms/Design and Analysis of Algorithms/Distributed Graph Algorithms.md",
+    "Informatik/Algorithms/Design and Analysis of Algorithms/Maximum Flow.md",
+    "Informatik/Algorithms/Design and Analysis of Algorithms/randomizedAlgorithms-export.pdf.crdownload",
+    "Informatik/Information Security/Network Security.md",
     "Informatik/Information Security/Cryptography.md",
     "Informatik/Information Security/System Security.md",
-    "Informatik/Information Security/Network Security.md",
-    "Informatik/Information Security/Information Security.md",
     "Informatik/Networking/Networking.md",
     "Informatik/Algorithms/Algorithms and Games/NIM Theory/NIM-type Games.md",
-    "Informatik/Algorithms/Design and Analysis of Algorithms/Distributed Graph Algorithms.md",
     "Mathematik/Statistik/Empirische Datenanalyse/Beschreibung univariater Daten.md",
     "Informatik/Algorithms/Datenstrukturen und Algorithmen/Datenstrukturen/Triangulations.md",
     "Informatik/Algorithms/Datenstrukturen und Algorithmen/Data Structures and Algorithms 2.md",
@@ -199,14 +206,9 @@
     "Asymptotic Complexity.md",
     "Informatik/Algorithms/Algorithms.md",
     "Informatik/Algorithms/Algorithms and Games/Algorithms and Games.md",
-    "Informatik/Algorithms/Datenstrukturen und Algorithmen/Datenstrukturen und Algorithmen.md",
-    "Informatik/Algorithms/Design and Analysis of Algorithms/Complexity Theory.md",
-    "Informatik/Algorithms/Design and Analysis of Algorithms/Design and Analysis of Algorithms.md",
     "z_images/Pasted image 20240119141652.png",
     "z_images/Pasted image 20240119134808.png",
     "Untitled.canvas",
-    "Informatik/Algorithms/Algorithms and Games/Sudoku.md",
-    "Informatik/Algorithms/Algorithms and Games/NIM Theory/NIM Theory.md",
     "z_images/Pasted image 20240119141501.png",
     "z_images/Pasted image 20240119141203.png",
     "z_images/Pasted image 20240119140949.png",
@@ -221,8 +223,6 @@
     "Informatik/Information Security/S3_Physical_Side_Channels.pdf",
     "Informatik/Information Security/S2_Side_Channels.pdf",
     "Informatik/Information Security/N2_Servers.pdf",
-    "Informatik/Information Security/C4_Protocols.pdf",
-    "Informatik/Information Security/C3_Asymmetric.pdf",
-    "Informatik/Information Security/C2_Encryption.pdf"
+    "Informatik/Information Security/C4_Protocols.pdf"
   ]
 }
