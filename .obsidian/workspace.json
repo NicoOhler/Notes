@@ -24,25 +24,29 @@
           {
             "id": "eaf971686b1311f9",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Informatik/Information Security/Information Security.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           },
           {
-            "id": "e92c57824807543a",
+            "id": "e43aa426ec5f0b4f",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Algorithms/Design and Analysis of Algorithms/Approximation Algorithms.md",
+                "file": "Informatik/Algorithms/Design and Analysis of Algorithms/Design and Analysis of Algorithms.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           },
           {
@@ -56,33 +60,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e43aa426ec5f0b4f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Informatik/Algorithms/Design and Analysis of Algorithms/Design and Analysis of Algorithms.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3654b08f1b8b0aad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Informatik/Algorithms/Design and Analysis of Algorithms/Maximum Flow.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -148,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Algorithms/Design and Analysis of Algorithms/Approximation Algorithms.md",
+                "file": "Informatik/Algorithms/Design and Analysis of Algorithms/Distributed Graph Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,16 +155,16 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "e92c57824807543a",
+  "active": "8ee3417964fdbc8a",
   "lastOpenFiles": [
-    "Informatik/Algorithms/Design and Analysis of Algorithms/randomizedAlgorithms-export.pdf",
+    "Informatik/Information Security/Information Security.md",
     "Informatik/Algorithms/Design and Analysis of Algorithms/Distributed Graph Algorithms.md",
-    "Informatik/Algorithms/Design and Analysis of Algorithms/Approximation Algorithms.md",
-    "Informatik/Algorithms/Design and Analysis of Algorithms/Maximum Flow.md",
     "Informatik/Algorithms/Design and Analysis of Algorithms/Design and Analysis of Algorithms.md",
+    "Informatik/Algorithms/Design and Analysis of Algorithms/Approximation Algorithms.md",
+    "Informatik/Algorithms/Design and Analysis of Algorithms/randomizedAlgorithms-export.pdf",
+    "Informatik/Algorithms/Design and Analysis of Algorithms/Maximum Flow.md",
     "Informatik/Algorithms/Design and Analysis of Algorithms/Shortest Path Algorithms/Shortest Path Algorithms.md",
     "Informatik/Algorithms/Design and Analysis of Algorithms/Minimum Spanning Tree.md",
-    "Informatik/Information Security/Information Security.md",
     "Informatik/Algorithms/Design and Analysis of Algorithms/randomizedAlgorithms-export.pdf.crdownload",
     "Informatik/Information Security/Network Security.md",
     "Informatik/Information Security/Cryptography.md",
