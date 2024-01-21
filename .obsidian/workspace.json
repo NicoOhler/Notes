@@ -58,16 +58,6 @@
             }
           },
           {
-            "id": "9dfa1c41c4ff1a41",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Informatik/Algorithms/Design and Analysis of Algorithms/randomizedAlgorithms-export.pdf"
-              }
-            }
-          },
-          {
             "id": "e43aa426ec5f0b4f",
             "type": "leaf",
             "state": {
@@ -92,7 +82,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -158,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Algorithms/Design and Analysis of Algorithms/randomizedAlgorithms-export.pdf",
+                "file": "Informatik/Algorithms/Design and Analysis of Algorithms/Approximation Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,14 +175,14 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "9dfa1c41c4ff1a41",
+  "active": "e92c57824807543a",
   "lastOpenFiles": [
+    "Informatik/Algorithms/Design and Analysis of Algorithms/randomizedAlgorithms-export.pdf",
     "Informatik/Algorithms/Design and Analysis of Algorithms/Distributed Graph Algorithms.md",
     "Informatik/Algorithms/Design and Analysis of Algorithms/Approximation Algorithms.md",
     "Informatik/Algorithms/Design and Analysis of Algorithms/Maximum Flow.md",
     "Informatik/Algorithms/Design and Analysis of Algorithms/Design and Analysis of Algorithms.md",
     "Informatik/Algorithms/Design and Analysis of Algorithms/Shortest Path Algorithms/Shortest Path Algorithms.md",
-    "Informatik/Algorithms/Design and Analysis of Algorithms/randomizedAlgorithms-export.pdf",
     "Informatik/Algorithms/Design and Analysis of Algorithms/Minimum Spanning Tree.md",
     "Informatik/Information Security/Information Security.md",
     "Informatik/Algorithms/Design and Analysis of Algorithms/randomizedAlgorithms-export.pdf.crdownload",
@@ -215,7 +205,6 @@
     "Informatik/OOP2.md",
     "Asymptotic Complexity.md",
     "Informatik/Algorithms/Algorithms.md",
-    "Informatik/Algorithms/Algorithms and Games/Algorithms and Games.md",
     "z_images/Pasted image 20240119141652.png",
     "z_images/Pasted image 20240119134808.png",
     "Untitled.canvas",
