@@ -52,7 +52,7 @@
 	+ ![[Pasted image 20231201203425.png]]
 	+ coloring acts as scheduler
 	+ notifying/asking neighbors
-		+  implementation dependent
+		+ implementation dependent
 		+ may take 2 additional rounds
 		+ does not change time complexity
 	+ ![[Pasted image 20231201203834.png]]
