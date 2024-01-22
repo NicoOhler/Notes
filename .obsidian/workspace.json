@@ -62,21 +62,9 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "423f4365691e244a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Informatik/Algorithms/Algorithms and Games/Sudoku.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -142,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Algorithms/Algorithms and Games/Sudoku.md",
+                "file": "Informatik/Algorithms/Algorithms and Games/Algorithms and Games.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,18 +157,25 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "423f4365691e244a",
+  "active": "5cb6d4725fbd2c3f",
   "lastOpenFiles": [
+    "Mathematik/Analysis/Analysis.md",
+    "Mathematik/Allgemeine Mathematik/Zeichensammlung.md",
+    "Mathematik/Allgemeine Mathematik/Quantoren.md",
+    "Mathematik/Allgemeine Mathematik/Mengenlehre.md",
+    "Mathematik/Allgemeine Mathematik/Logische Verknüpfungen.md",
+    "Mathematik/Allgemeine Mathematik/Gaußsche Summenformel.md",
+    "Mathematik/Allgemeine Mathematik/Allgemeine Mathematik.md",
     "Informatik/Information Security/Information Security.md",
-    "Informatik/Algorithms/Design and Analysis of Algorithms/Design and Analysis of Algorithms.md",
-    "Informatik/Algorithms/Algorithms and Games/Sudoku.md",
     "Informatik/Algorithms/Algorithms and Games/Algorithms and Games.md",
-    "Informatik/Algorithms/Algorithms and Games/NIM Theory/NIM Theory.md",
-    "Informatik/Algorithms/Algorithms and Games/NIM Theory/NIM-type Games.md",
+    "Informatik/Algorithms/Design and Analysis of Algorithms/Design and Analysis of Algorithms.md",
+    "Informatik/Algorithms/Design and Analysis of Algorithms/Maximum Flow.md",
     "Informatik/Algorithms/Design and Analysis of Algorithms/Distributed Graph Algorithms.md",
     "Informatik/Algorithms/Design and Analysis of Algorithms/Approximation Algorithms.md",
+    "Informatik/Algorithms/Algorithms and Games/Sudoku.md",
+    "Informatik/Algorithms/Algorithms and Games/NIM Theory/NIM Theory.md",
+    "Informatik/Algorithms/Algorithms and Games/NIM Theory/NIM-type Games.md",
     "Informatik/Algorithms/Design and Analysis of Algorithms/randomizedAlgorithms-export.pdf",
-    "Informatik/Algorithms/Design and Analysis of Algorithms/Maximum Flow.md",
     "Informatik/Algorithms/Design and Analysis of Algorithms/Shortest Path Algorithms/Shortest Path Algorithms.md",
     "Informatik/Algorithms/Design and Analysis of Algorithms/Minimum Spanning Tree.md",
     "Informatik/Algorithms/Design and Analysis of Algorithms/randomizedAlgorithms-export.pdf.crdownload",
@@ -193,13 +188,6 @@
     "Informatik/Algorithms/Datenstrukturen und Algorithmen/Data Structures and Algorithms 2.md",
     "Informatik/Information Security/N3_Clients.pdf",
     "Mathematik/Diskrete Mathematik/Kryptographie/Kryptographie.md",
-    "Mathematik/Diskrete Mathematik/Diskrete Mathematik.md",
-    "Mathematik/Statistik/Regression/Regression.md",
-    "Mathematik/Statistik/Regression/Diagnostische Aspekte.md",
-    "Mathematik/Statistik/Regression/Ridge Regression.md",
-    "Mathematik/Statistik/Statistik.md",
-    "N3.md",
-    "Informatik/OOP2.md",
     "z_images/Pasted image 20240119141652.png",
     "z_images/Pasted image 20240119134808.png",
     "Untitled.canvas",
