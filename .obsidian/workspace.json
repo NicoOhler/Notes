@@ -64,31 +64,19 @@
             }
           },
           {
-            "id": "fbd51d846e9f5c9c",
+            "id": "423f4365691e244a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Algorithms/Algorithms and Games/NIM Theory/NIM-type Games.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6c3406997436a153",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Informatik/Algorithms/Algorithms and Games/NIM Theory/NIM Theory.md",
+                "file": "Informatik/Algorithms/Algorithms and Games/Sudoku.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -154,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Algorithms/Algorithms and Games/NIM Theory/NIM Theory.md",
+                "file": "Informatik/Algorithms/Algorithms and Games/Sudoku.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,14 +169,15 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "6c3406997436a153",
+  "active": "423f4365691e244a",
   "lastOpenFiles": [
+    "Informatik/Information Security/Information Security.md",
+    "Informatik/Algorithms/Design and Analysis of Algorithms/Design and Analysis of Algorithms.md",
+    "Informatik/Algorithms/Algorithms and Games/Sudoku.md",
     "Informatik/Algorithms/Algorithms and Games/Algorithms and Games.md",
     "Informatik/Algorithms/Algorithms and Games/NIM Theory/NIM Theory.md",
     "Informatik/Algorithms/Algorithms and Games/NIM Theory/NIM-type Games.md",
-    "Informatik/Algorithms/Design and Analysis of Algorithms/Design and Analysis of Algorithms.md",
     "Informatik/Algorithms/Design and Analysis of Algorithms/Distributed Graph Algorithms.md",
-    "Informatik/Information Security/Information Security.md",
     "Informatik/Algorithms/Design and Analysis of Algorithms/Approximation Algorithms.md",
     "Informatik/Algorithms/Design and Analysis of Algorithms/randomizedAlgorithms-export.pdf",
     "Informatik/Algorithms/Design and Analysis of Algorithms/Maximum Flow.md",
@@ -211,7 +200,6 @@
     "Mathematik/Statistik/Statistik.md",
     "N3.md",
     "Informatik/OOP2.md",
-    "Asymptotic Complexity.md",
     "z_images/Pasted image 20240119141652.png",
     "z_images/Pasted image 20240119134808.png",
     "Untitled.canvas",
