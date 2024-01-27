@@ -58,9 +58,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5e62461d683d1bf6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Informatik/Algorithms/Design and Analysis of Algorithms/Distributed Graph Algorithms.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "11fb696614b0cc16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Informatik/Algorithms/Design and Analysis of Algorithms/Maximum Flow.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -126,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Algorithms/Design and Analysis of Algorithms/Approximation Algorithms.md",
+                "file": "Informatik/Algorithms/Design and Analysis of Algorithms/Maximum Flow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,10 +177,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "205060edeb188d0f",
+  "active": "11fb696614b0cc16",
   "lastOpenFiles": [
     "Informatik/Algorithms/Design and Analysis of Algorithms/Design and Analysis of Algorithms.md",
     "Informatik/Algorithms/Design and Analysis of Algorithms/Distributed Graph Algorithms.md",
+    "Informatik/Algorithms/Design and Analysis of Algorithms/Approximation Algorithms.md",
     "Informatik/Algorithms/Design and Analysis of Algorithms/randomizedAlgorithms-export.pdf",
     "Mathematik/Allgemeine Mathematik/Zeichensammlung.md",
     "Informatik/Information Security/Information Security.md",
@@ -170,7 +195,6 @@
     "Mathematik/Allgemeine Mathematik/Gaußsche Summenformel.md",
     "Mathematik/Allgemeine Mathematik/Allgemeine Mathematik.md",
     "Informatik/Algorithms/Design and Analysis of Algorithms/Maximum Flow.md",
-    "Informatik/Algorithms/Design and Analysis of Algorithms/Approximation Algorithms.md",
     "Informatik/Algorithms/Algorithms and Games/Sudoku.md",
     "Informatik/Algorithms/Design and Analysis of Algorithms/Shortest Path Algorithms/Shortest Path Algorithms.md",
     "Informatik/Algorithms/Design and Analysis of Algorithms/Minimum Spanning Tree.md",
