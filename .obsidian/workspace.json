@@ -134,7 +134,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 281.5
+    "width": 281.5,
+    "collapsed": true
   },
   "right": {
     "id": "d1219e90b492538d",
@@ -179,11 +180,12 @@
   },
   "active": "11fb696614b0cc16",
   "lastOpenFiles": [
+    "Mathematik/Allgemeine Mathematik/Zeichensammlung.md",
     "Informatik/Algorithms/Design and Analysis of Algorithms/Design and Analysis of Algorithms.md",
+    "Informatik/Algorithms/Design and Analysis of Algorithms/Maximum Flow.md",
     "Informatik/Algorithms/Design and Analysis of Algorithms/Distributed Graph Algorithms.md",
     "Informatik/Algorithms/Design and Analysis of Algorithms/Approximation Algorithms.md",
     "Informatik/Algorithms/Design and Analysis of Algorithms/randomizedAlgorithms-export.pdf",
-    "Mathematik/Allgemeine Mathematik/Zeichensammlung.md",
     "Informatik/Information Security/Information Security.md",
     "Informatik/Algorithms/Algorithms and Games/Algorithms and Games.md",
     "Informatik/Algorithms/Algorithms and Games/NIM Theory/NIM Theory.md",
@@ -194,7 +196,6 @@
     "Mathematik/Allgemeine Mathematik/Logische Verknüpfungen.md",
     "Mathematik/Allgemeine Mathematik/Gaußsche Summenformel.md",
     "Mathematik/Allgemeine Mathematik/Allgemeine Mathematik.md",
-    "Informatik/Algorithms/Design and Analysis of Algorithms/Maximum Flow.md",
     "Informatik/Algorithms/Algorithms and Games/Sudoku.md",
     "Informatik/Algorithms/Design and Analysis of Algorithms/Shortest Path Algorithms/Shortest Path Algorithms.md",
     "Informatik/Algorithms/Design and Analysis of Algorithms/Minimum Spanning Tree.md",
