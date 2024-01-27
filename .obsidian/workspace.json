@@ -22,20 +22,6 @@
             }
           },
           {
-            "id": "eaf971686b1311f9",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Informatik/Information Security/Information Security.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "e43aa426ec5f0b4f",
             "type": "leaf",
             "pinned": true,
@@ -48,35 +34,9 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "5cb6d4725fbd2c3f",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Informatik/Algorithms/Algorithms and Games/Algorithms and Games.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "dd7344272065e5b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Informatik/Algorithms/Algorithms and Games/NIM Theory/NIM Theory.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -142,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Algorithms/Algorithms and Games/NIM Theory/NIM Theory.md",
+                "file": "Informatik/Algorithms/Design and Analysis of Algorithms/Design and Analysis of Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,25 +129,25 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "dd7344272065e5b2",
+  "active": "e43aa426ec5f0b4f",
   "lastOpenFiles": [
-    "Informatik/Algorithms/Algorithms and Games/NIM Theory/NIM-type Games.md",
-    "Informatik/Algorithms/Algorithms and Games/NIM Theory/NIM Theory.md",
-    "Informatik/Algorithms/Algorithms and Games/Algorithms and Games.md",
-    "Mathematik/Analysis/Analysis.md",
+    "Informatik/Algorithms/Design and Analysis of Algorithms/randomizedAlgorithms-export.pdf",
+    "Informatik/Algorithms/Design and Analysis of Algorithms/Design and Analysis of Algorithms.md",
     "Mathematik/Allgemeine Mathematik/Zeichensammlung.md",
+    "Informatik/Information Security/Information Security.md",
+    "Informatik/Algorithms/Algorithms and Games/Algorithms and Games.md",
+    "Informatik/Algorithms/Algorithms and Games/NIM Theory/NIM Theory.md",
+    "Informatik/Algorithms/Algorithms and Games/NIM Theory/NIM-type Games.md",
+    "Mathematik/Analysis/Analysis.md",
     "Mathematik/Allgemeine Mathematik/Quantoren.md",
     "Mathematik/Allgemeine Mathematik/Mengenlehre.md",
     "Mathematik/Allgemeine Mathematik/Logische Verknüpfungen.md",
     "Mathematik/Allgemeine Mathematik/Gaußsche Summenformel.md",
     "Mathematik/Allgemeine Mathematik/Allgemeine Mathematik.md",
-    "Informatik/Information Security/Information Security.md",
-    "Informatik/Algorithms/Design and Analysis of Algorithms/Design and Analysis of Algorithms.md",
     "Informatik/Algorithms/Design and Analysis of Algorithms/Maximum Flow.md",
     "Informatik/Algorithms/Design and Analysis of Algorithms/Distributed Graph Algorithms.md",
     "Informatik/Algorithms/Design and Analysis of Algorithms/Approximation Algorithms.md",
     "Informatik/Algorithms/Algorithms and Games/Sudoku.md",
-    "Informatik/Algorithms/Design and Analysis of Algorithms/randomizedAlgorithms-export.pdf",
     "Informatik/Algorithms/Design and Analysis of Algorithms/Shortest Path Algorithms/Shortest Path Algorithms.md",
     "Informatik/Algorithms/Design and Analysis of Algorithms/Minimum Spanning Tree.md",
     "Informatik/Algorithms/Design and Analysis of Algorithms/randomizedAlgorithms-export.pdf.crdownload",
@@ -199,7 +159,6 @@
     "Informatik/Algorithms/Datenstrukturen und Algorithmen/Datenstrukturen/Triangulations.md",
     "Informatik/Algorithms/Datenstrukturen und Algorithmen/Data Structures and Algorithms 2.md",
     "Informatik/Information Security/N3_Clients.pdf",
-    "Mathematik/Diskrete Mathematik/Kryptographie/Kryptographie.md",
     "z_images/Pasted image 20240119141652.png",
     "z_images/Pasted image 20240119134808.png",
     "Untitled.canvas",
