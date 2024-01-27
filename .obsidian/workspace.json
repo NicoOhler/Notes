@@ -82,9 +82,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4058e465467cfd90",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Informatik/Algorithms/Design and Analysis of Algorithms/randomizedAlgorithms-export.pdf"
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -140,31 +150,7 @@
   "right": {
     "id": "d1219e90b492538d",
     "type": "split",
-    "children": [
-      {
-        "id": "c5645597642dd62a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "44df4ce2eb9d1ecd",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Informatik/Algorithms/Design and Analysis of Algorithms/Maximum Flow.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          }
-        ]
-      }
-    ],
+    "children": [],
     "direction": "horizontal",
     "width": 322,
     "collapsed": true
@@ -178,13 +164,13 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "11fb696614b0cc16",
+  "active": "4058e465467cfd90",
   "lastOpenFiles": [
-    "Mathematik/Allgemeine Mathematik/Zeichensammlung.md",
     "Informatik/Algorithms/Design and Analysis of Algorithms/Design and Analysis of Algorithms.md",
-    "Informatik/Algorithms/Design and Analysis of Algorithms/Maximum Flow.md",
     "Informatik/Algorithms/Design and Analysis of Algorithms/Distributed Graph Algorithms.md",
     "Informatik/Algorithms/Design and Analysis of Algorithms/Approximation Algorithms.md",
+    "Informatik/Algorithms/Design and Analysis of Algorithms/Maximum Flow.md",
+    "Mathematik/Allgemeine Mathematik/Zeichensammlung.md",
     "Informatik/Algorithms/Design and Analysis of Algorithms/randomizedAlgorithms-export.pdf",
     "Informatik/Information Security/Information Security.md",
     "Informatik/Algorithms/Algorithms and Games/Algorithms and Games.md",
