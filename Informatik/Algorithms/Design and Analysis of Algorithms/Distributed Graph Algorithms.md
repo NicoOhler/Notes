@@ -24,6 +24,12 @@
 	+ ![[Pasted image 20231201204548.png]]
 	+ ![[Pasted image 20231201204739.png]]
 
+### Simple Color Reduction
++ reduce one color per round
+	+ cannot reduce below 
+	+ from $O(\delta²)$ to $\delta + 1$ colors in $O(\delta²)$ rounds possible
++ 
+
 ### Linial’s Algorithm
 + theorems
 	+ ![[Pasted image 20231201200321.png]]
