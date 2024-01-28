@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Algorithms/Design and Analysis of Algorithms/Maximum Flow.md",
+                "file": "Informatik/Algorithms/Design and Analysis of Algorithms/Approximation Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,12 +153,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "d6a3b441f963d7a2",
+  "active": "205060edeb188d0f",
   "lastOpenFiles": [
+    "Informatik/Algorithms/Design and Analysis of Algorithms/Maximum Flow.md",
     "Informatik/Algorithms/Design and Analysis of Algorithms/Design and Analysis of Algorithms.md",
     "Informatik/Algorithms/Design and Analysis of Algorithms/Approximation Algorithms.md",
     "Informatik/Algorithms/Design and Analysis of Algorithms/Distributed Graph Algorithms.md",
-    "Informatik/Algorithms/Design and Analysis of Algorithms/Maximum Flow.md",
     "Pasted image 20240128105450.png",
     "Pasted image 20240128102705.png",
     "Pasted image 20240128102610.png",
