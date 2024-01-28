@@ -82,19 +82,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "4058e465467cfd90",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Informatik/Algorithms/Design and Analysis of Algorithms/randomizedAlgorithms-export.pdf"
-              }
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -150,7 +140,31 @@
   "right": {
     "id": "d1219e90b492538d",
     "type": "split",
-    "children": [],
+    "children": [
+      {
+        "id": "9b15b79a4b78ad38",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e40097f8861998e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Informatik/Algorithms/Design and Analysis of Algorithms/Design and Analysis of Algorithms.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
     "direction": "horizontal",
     "width": 322,
     "collapsed": true
@@ -164,14 +178,16 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "4058e465467cfd90",
+  "active": "e43aa426ec5f0b4f",
   "lastOpenFiles": [
-    "Informatik/Algorithms/Design and Analysis of Algorithms/Design and Analysis of Algorithms.md",
     "Informatik/Algorithms/Design and Analysis of Algorithms/Distributed Graph Algorithms.md",
-    "Informatik/Algorithms/Design and Analysis of Algorithms/Approximation Algorithms.md",
     "Informatik/Algorithms/Design and Analysis of Algorithms/Maximum Flow.md",
-    "Mathematik/Allgemeine Mathematik/Zeichensammlung.md",
     "Informatik/Algorithms/Design and Analysis of Algorithms/randomizedAlgorithms-export.pdf",
+    "Informatik/Algorithms/Design and Analysis of Algorithms/question-hour.pdf",
+    "Informatik/Algorithms/Design and Analysis of Algorithms/question-hour.pdf.crdownload",
+    "Informatik/Algorithms/Design and Analysis of Algorithms/Design and Analysis of Algorithms.md",
+    "Informatik/Algorithms/Design and Analysis of Algorithms/Approximation Algorithms.md",
+    "Mathematik/Allgemeine Mathematik/Zeichensammlung.md",
     "Informatik/Information Security/Information Security.md",
     "Informatik/Algorithms/Algorithms and Games/Algorithms and Games.md",
     "Informatik/Algorithms/Algorithms and Games/NIM Theory/NIM Theory.md",
@@ -209,8 +225,6 @@
     "Informatik/Information Security/S1_Memory_Safety.pdf",
     "Informatik/Information Security/S4_Sandboxing_and_Isolation.pdf",
     "Informatik/Information Security/S3_Physical_Side_Channels.pdf",
-    "Informatik/Information Security/S2_Side_Channels.pdf",
-    "Informatik/Information Security/N2_Servers.pdf",
-    "Informatik/Information Security/C4_Protocols.pdf"
+    "Informatik/Information Security/S2_Side_Channels.pdf"
   ]
 }
