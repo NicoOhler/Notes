@@ -1,4 +1,4 @@
-********### Definition
+### Definition
 + ![[Pasted image 20231124175136.png]]
 + a flow is a function which returns the throughput as real number for each edge
 	+ capacity constraints
