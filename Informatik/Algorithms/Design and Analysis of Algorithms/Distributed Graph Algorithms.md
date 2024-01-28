@@ -40,6 +40,7 @@
 		+ ![[Pasted image 20231201200827.png]]
 		+ ![[Pasted image 20231201201111.png]]
 			+ ![[Pasted image 20231201201312.png]]
+			+ ![[Pasted image 20240128105450.png]]
 			+ ![[Pasted image 20231201201830.png]]
 			+ small intersection set
 				+ ![[Pasted image 20231201202049.png]]
