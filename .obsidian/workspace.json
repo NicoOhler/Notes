@@ -34,9 +34,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "2d8b4908c90a210a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Informatik/Algorithms/Design and Analysis of Algorithms/Approximation Algorithms.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -102,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Algorithms/Design and Analysis of Algorithms/Design and Analysis of Algorithms.md",
+                "file": "Informatik/Algorithms/Design and Analysis of Algorithms/Approximation Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,10 +141,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "e43aa426ec5f0b4f",
+  "active": "2d8b4908c90a210a",
   "lastOpenFiles": [
-    "Informatik/Algorithms/Design and Analysis of Algorithms/randomizedAlgorithms-export.pdf",
     "Informatik/Algorithms/Design and Analysis of Algorithms/Design and Analysis of Algorithms.md",
+    "Informatik/Algorithms/Design and Analysis of Algorithms/randomizedAlgorithms-export.pdf",
     "Informatik/Algorithms/Design and Analysis of Algorithms/Approximation Algorithms.md",
     "Informatik/Algorithms/Design and Analysis of Algorithms/Distributed Graph Algorithms.md",
     "Informatik/Algorithms/Design and Analysis of Algorithms/Maximum Flow.md",
