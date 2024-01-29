@@ -34,19 +34,9 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "acb78f7345bb67e4",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Informatik/Algorithms/Design and Analysis of Algorithms/randomizedAlgorithms-export.pdf"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Algorithms/Design and Analysis of Algorithms/randomizedAlgorithms-export.pdf",
+                "file": "Informatik/Algorithms/Design and Analysis of Algorithms/Design and Analysis of Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,8 +129,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "acb78f7345bb67e4",
+  "active": "e43aa426ec5f0b4f",
   "lastOpenFiles": [
+    "Informatik/Algorithms/Design and Analysis of Algorithms/randomizedAlgorithms-export.pdf",
     "Informatik/Algorithms/Design and Analysis of Algorithms/Design and Analysis of Algorithms.md",
     "Informatik/Algorithms/Design and Analysis of Algorithms/Approximation Algorithms.md",
     "Informatik/Algorithms/Design and Analysis of Algorithms/Distributed Graph Algorithms.md",
@@ -148,7 +139,6 @@
     "Pasted image 20240128105450.png",
     "Pasted image 20240128102705.png",
     "Pasted image 20240128102610.png",
-    "Informatik/Algorithms/Design and Analysis of Algorithms/randomizedAlgorithms-export.pdf",
     "Informatik/Algorithms/Design and Analysis of Algorithms/question-hour.pdf",
     "Informatik/Algorithms/Design and Analysis of Algorithms/question-hour.pdf.crdownload",
     "Mathematik/Allgemeine Mathematik/Zeichensammlung.md",
