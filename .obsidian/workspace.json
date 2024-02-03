@@ -127,8 +127,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "5d8eabdb4c4872a3",
+  "active": "097b9a58ea336072",
   "lastOpenFiles": [
+    "tools/replace_paths.py",
+    "tools",
+    "Untitled Folder",
     "z_images/Pasted image 20240203160722.png",
     "Mathematik/Analysis/Differentialgleichungen/DGL Typen.md",
     "z_images/Pasted image 20240128105450.png",
@@ -172,8 +175,6 @@
     "z_images/Pasted image 20240119140949.png",
     "z_images/Pasted image 20240119140938.png",
     "Informatik/Information Security/N1_Networks.pdf",
-    "Informatik/Information Security/S1_Memory_Safety.pdf",
-    "Informatik/Information Security/S4_Sandboxing_and_Isolation.pdf",
-    "Informatik/Information Security/S3_Physical_Side_Channels.pdf"
+    "Informatik/Information Security/S1_Memory_Safety.pdf"
   ]
 }
