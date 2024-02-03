@@ -1,4 +1,4 @@
-# Sternförmig
+### Definition
 + Gebiet U ist sternförmig, wenn
 	+ $∃a∈U∀x∈U: ∀t∈[0,1] a+t(x-a)∈U$
 	+ Es gibt einen Punkt a mit "Sichtfeld" auf jeden anderen Punkt x im Gebiet

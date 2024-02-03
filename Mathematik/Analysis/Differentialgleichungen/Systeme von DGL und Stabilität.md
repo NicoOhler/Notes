@@ -1,11 +1,10 @@
-# Systeme von DGL und Stabilität
 ### DGL System
 + ![[Pasted image 20220615171657.png]]
 + Anfangswertproblem
 	+ ![[Pasted image 20220615171950.png]]
 
 
-### lineares System
+### Lineares System
 + ![[Pasted image 20220615172640.png]]
 + $e^{t*A}=$
 	+ ![[Pasted image 20220615172715.png]]
