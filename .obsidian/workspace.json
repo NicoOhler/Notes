@@ -127,13 +127,16 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "097b9a58ea336072",
+  "active": "5d8eabdb4c4872a3",
   "lastOpenFiles": [
+    "Mathematik/Analysis/Differentialgleichungen/Differentialgleichungen.md",
+    "Mathematik/Analysis/Differentialgleichungen/DGL Typen.md",
+    "tools/test/a.md",
+    "tools/test",
     "tools/replace_paths.py",
     "tools",
     "Untitled Folder",
     "z_images/Pasted image 20240203160722.png",
-    "Mathematik/Analysis/Differentialgleichungen/DGL Typen.md",
     "z_images/Pasted image 20240128105450.png",
     "Informatik/Data Management/Database Performance Tuning/output.pdf",
     "Mathematik/Allgemeine Mathematik/Zeichensammlung.md",
@@ -164,7 +167,6 @@
     "Informatik/Algorithms/Algorithms and Games/Algorithms and Games.md",
     "Informatik/Algorithms/Algorithms and Games/NIM Theory/NIM Theory.md",
     "Informatik/Algorithms/Algorithms and Games/NIM Theory/NIM-type Games.md",
-    "Mathematik/Analysis/Analysis.md",
     "Informatik/Algorithms/Design and Analysis of Algorithms/randomizedAlgorithms-export.pdf.crdownload",
     "Informatik/Information Security/N3_Clients.pdf",
     "z_images/Pasted image 20240119141652.png",
@@ -173,8 +175,6 @@
     "z_images/Pasted image 20240119141501.png",
     "z_images/Pasted image 20240119141203.png",
     "z_images/Pasted image 20240119140949.png",
-    "z_images/Pasted image 20240119140938.png",
-    "Informatik/Information Security/N1_Networks.pdf",
-    "Informatik/Information Security/S1_Memory_Safety.pdf"
+    "z_images/Pasted image 20240119140938.png"
   ]
 }
