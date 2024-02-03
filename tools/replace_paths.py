@@ -2,18 +2,25 @@
 
 import os
 import re
-import glob
 import sys
+import pathlib
 
-directory
+"""
+if len(sys.argv) != 2:
+    print("Usage: python replace_paths.py <directory>")
+    sys.exit(1)
+
 directory = sys.argv[1]
 if not os.path.isdir(directory):
     print("The given directory does not exist.")
     sys.exit(1)
+"""
 
+directory = "./test"
+directory = pathlib.Path(directory)
+files = list(directory.iterdir())
 
 # get all files in the current directory and its subdirectories
-files = glob.glob(directory, recursive=True)
 
 # iterate over all markdown files
 for file_path in files:
