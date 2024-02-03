@@ -44,4 +44,4 @@
 + $ln'(x)=\frac{1}{x}$
 + $(a^x)'$ ==> $a^x*ln(a)$
 
-[[Analysis]]
+[[../../../test/a.md/Analysis]]

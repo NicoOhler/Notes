@@ -29,4 +29,4 @@
 ### Cheat-Sheet
 ![[Kombinatorik-Formeln-1024x576.jpg]]
 
-[[Diskrete Mathematik]] [[Analysis]] [[Binomische Lehrsatz]]
+[[Diskrete Mathematik]] [[../../../test/a.md/Analysis]] [[Binomische Lehrsatz]]

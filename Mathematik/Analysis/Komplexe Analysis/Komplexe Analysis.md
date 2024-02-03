@@ -60,4 +60,4 @@
 + ![[Pasted image 20220509172008.png]]
 
 
-[[Analysis]] [[Komplexe Zahlen]]
+[[../../../test/a.md/Analysis]] [[Komplexe Zahlen]]

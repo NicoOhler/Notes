@@ -16,15 +16,17 @@ if not os.path.isdir(directory):
     sys.exit(1)
 """
 
+# get all files in the directory and its subdirectories
 directory = "./test"
 directory = pathlib.Path(directory)
 files = list(directory.iterdir())
 
-# get all files in the current directory and its subdirectories
 
 # iterate over all markdown files
 for file_path in files:
-    # open the file and read the contents
+    if file_path.suffix != ".md":
+        continue
+
     with open(file_path, "r") as file:
         contents = file.read()
 
@@ -33,6 +35,9 @@ for file_path in files:
     new_contents = re.sub(
         r"\[\[(.*?)\]\]", r"[[{}/\1]]".format(relative_path), contents
     )
+
+    # add ".md" to all links that don't have an extension
+    new_contents = re.sub(r"\[\[(.*?)\]\]", r"[[\1.md]]", new_contents)
 
     # write the new contents to the file
     with open(file_path, "w") as file:

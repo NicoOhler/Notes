@@ -20,21 +20,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "5d8eabdb4c4872a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematik/Analysis/Differentialgleichungen/DGL Typen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematik/Analysis/Differentialgleichungen/DGL Typen.md",
+                "file": "Mathematik/Allgemeine Mathematik/Zeichensammlung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,11 +114,19 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "5d8eabdb4c4872a3",
+  "active": "097b9a58ea336072",
   "lastOpenFiles": [
-    "Mathematik/Analysis/Differentialgleichungen/Differentialgleichungen.md",
-    "Mathematik/Analysis/Differentialgleichungen/DGL Typen.md",
+    "tools/Untitled.md",
+    "Mathematik/Allgemeine Mathematik/Zeichensammlung.md",
+    "tools/test/sub",
     "tools/test/a.md",
+    "tools/test/sub/Analysis.md",
+    "test/a.md/Analysis.md",
+    "test/a.md",
+    "test",
+    "Untitled.canvas",
+    "Mathematik/Analysis/Differentialgleichungen/DGL Typen.md",
+    "Mathematik/Analysis/Differentialgleichungen/Differentialgleichungen.md",
     "tools/test",
     "tools/replace_paths.py",
     "tools",
@@ -139,7 +134,6 @@
     "z_images/Pasted image 20240203160722.png",
     "z_images/Pasted image 20240128105450.png",
     "Informatik/Data Management/Database Performance Tuning/output.pdf",
-    "Mathematik/Allgemeine Mathematik/Zeichensammlung.md",
     "Informatik/Algorithms/Design and Analysis of Algorithms/Design and Analysis of Algorithms.md",
     "Mathematik/Analysis/Differentialgleichungen/Systeme von DGL und Stabilität.md",
     "Mathematik/Analysis/Mehrdimensionale Integralrechnung/Normalbereiche.md",
@@ -158,20 +152,12 @@
     "Informatik/Algorithms/Design and Analysis of Algorithms/Maximum Flow.md",
     "Informatik/Algorithms/Design and Analysis of Algorithms/Approximation Algorithms.md",
     "Informatik/Algorithms/Design and Analysis of Algorithms/Distributed Graph Algorithms.md",
-    "Informatik/Algorithms/Design and Analysis of Algorithms/Complexity Theory.md",
     "z_images/Pasted image 20240128102705.png",
     "z_images/Pasted image 20240128102610.png",
     "Informatik/Algorithms/Design and Analysis of Algorithms/question-hour.pdf",
     "Informatik/Algorithms/Design and Analysis of Algorithms/question-hour.pdf.crdownload",
-    "Informatik/Information Security/Information Security.md",
-    "Informatik/Algorithms/Algorithms and Games/Algorithms and Games.md",
-    "Informatik/Algorithms/Algorithms and Games/NIM Theory/NIM Theory.md",
-    "Informatik/Algorithms/Algorithms and Games/NIM Theory/NIM-type Games.md",
-    "Informatik/Algorithms/Design and Analysis of Algorithms/randomizedAlgorithms-export.pdf.crdownload",
-    "Informatik/Information Security/N3_Clients.pdf",
     "z_images/Pasted image 20240119141652.png",
     "z_images/Pasted image 20240119134808.png",
-    "Untitled.canvas",
     "z_images/Pasted image 20240119141501.png",
     "z_images/Pasted image 20240119141203.png",
     "z_images/Pasted image 20240119140949.png",

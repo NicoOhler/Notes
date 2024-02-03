@@ -21,4 +21,4 @@
 	+ Ist Reihe absolut konvergent ==> Reihe konvergent
 		+ Ist Reihe konvergent ist sie nicht unbedingt absolut konvergent
 
-[[Analysis]]
+[[../../../test/a.md/Analysis]]
