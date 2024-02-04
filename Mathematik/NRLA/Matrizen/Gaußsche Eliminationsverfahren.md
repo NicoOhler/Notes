@@ -13,7 +13,7 @@ Lösungen des linearen Gleichungssystem: A * x = B
 	+ Rückwärts einsetzen oder Gauß-Jordan-Verfahren
 + Beispiel:
  
-![[Gaußsche, Bestimmung unendlicher Lsg.png]]
+![[../../../z_images/Gaußsche, Bestimmung unendlicher Lsg.png]]
 #### Struktursatz:
 +  Die allgemeine reelle Lösung des reellen lineare Gleichungssysten: A * x = B 
 	kann geschrieben werden als:
