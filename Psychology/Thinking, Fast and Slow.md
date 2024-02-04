@@ -42,7 +42,16 @@
 		+ facial expressions can be forced
 			+ tip of pencil in mouth => smile
 			+ pencil between teeth => frown
-		+ forced frowning makes comedies less funny and sad movies even sadder
-		+ the opposite is tu
+			+ forced frowning makes comedies less funny and sad movies even sadder
+			+ the opposite is true for forced smiling
+		+ smiling makes you actually feel better
+		+ good mood makes you less careful
 	+ images of flowers/watching eyes influence willingness to pay voluntarily
 		+ ![](../z_images/Pasted%20image%2020240204115620.png)
+	+ exposure effect
+		+ being repeatedly exposed to the same thing makes it less threatening/perceived more positively
+			+ familiarity breeds liking
+			+ used for propaganda and advertisement
+		+ same applies for rhymes, easy to pronounce names, easy to read fonts
+			+ [Using Long Words Needlessly](Using%20Long%20Words%20Needlessly.md)
+		+ 
