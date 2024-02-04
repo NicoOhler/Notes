@@ -84,7 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 240.5
   },
   "right": {
     "id": "d1219e90b492538d",
@@ -125,8 +125,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "08b79aa8f346c35f",
+  "active": "097b9a58ea336072",
   "lastOpenFiles": [
+    "pdf/Sudoku 1.pdf",
     "Informatik/Algorithms/Algorithms and Games/Sudoku.md",
     "Sudoku 1.md",
     "pdf/Biologie/Allel.pdf",
@@ -172,7 +173,6 @@
     "Mathematik/Wahrscheinlichkeitstheorie/Momente/Varianz.md",
     "Mathematik/Wahrscheinlichkeitstheorie/Momente/Momenterzeugende Funktion.md",
     "Mathematik/Wahrscheinlichkeitstheorie/Momente/Moment.md",
-    "Mathematik/Wahrscheinlichkeitstheorie/Momente/Kovarianz und Korrelation.md",
     "Informatik/Untitled.canvas",
     "Untitled.canvas"
   ]
