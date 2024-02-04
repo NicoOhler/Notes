@@ -6,8 +6,8 @@
 + $N={(x,y,z)∈ℝ^3|(x,y)∈M, g(x,y)≤z≤h(x,y)}$
 + $vol(N)=\int^d_{y=c}(\int^{φ(y)}_{x=ψ(y)}(\int_{z=g(x,y)}^{h(x,y)}dz)dx)dy$
 + Beispiel
-	+ ![](../../../z_images/Pasted%20image%2020220314130508.png)
-	+ ![](../../../z_images/Pasted%20image%2020220314131029.png)
+	+ ![](../../z_images/Pasted%20image%2020220314130508.png)
+	+ ![](../../z_images/Pasted%20image%2020220314131029.png)
 
 ### Substitutionsregel (Transformationsformel)
 + $T: B$-->$ℝ^3$
@@ -23,9 +23,9 @@
 		+ r≥0
 		+ 0≤ψ≤π
 		+ 0≤φ≤2π
-	+ ![](../../../z_images/Pasted%20image%2020220314132808.png)
+	+ ![](../../z_images/Pasted%20image%2020220314132808.png)
 	+ Beispiel: Polarkoordinaten bei Kugel
-		+ ![](../../../z_images/Pasted%20image%2020220314143710.png)
+		+ ![](../../z_images/Pasted%20image%2020220314143710.png)
 + Zylinderkoordinaten
 	+ x ==> rcos(φ)
 	+ y ==> rsin(φ) 
@@ -33,7 +33,7 @@
 	+ Volumenselement
 		+ $dxdydz=rdrdφdz$
 	+ Beispiel
-		+  ![](../../../z_images/Pasted%20image%2020220314145659.png)
-		+  ![](../../../z_images/Pasted%20image%2020220314145710.png)
+		+  ![](../../z_images/Pasted%20image%2020220314145659.png)
+		+  ![](../../z_images/Pasted%20image%2020220314145710.png)
 	
 	[[Mehrdimensionale Integralrechnung]]

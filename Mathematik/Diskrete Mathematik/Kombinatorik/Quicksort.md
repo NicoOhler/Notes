@@ -36,9 +36,9 @@
 	+ ~0.577
 + $\frac{C_n}{2nln(n)}$ konvergiert gegen 1 asymptotisch
 + Beweis
-	+ ![](../../../z_images/Pasted%20image%2020220508124455.png)
-	+ ![](../../../z_images/Pasted%20image%2020220508124704.png)
-	+ ![](../../../z_images/Pasted%20image%2020220508124754.png)
-	+ ![](../../../z_images/Pasted%20image%2020220508124917.png)
+	+ ![](../../z_images/Pasted%20image%2020220508124455.png)
+	+ ![](../../z_images/Pasted%20image%2020220508124704.png)
+	+ ![](../../z_images/Pasted%20image%2020220508124754.png)
+	+ ![](../../z_images/Pasted%20image%2020220508124917.png)
 
 [[Nicht Lineare Rekursion]]

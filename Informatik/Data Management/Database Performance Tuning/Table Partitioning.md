@@ -1,5 +1,5 @@
 ### Partitioning Strategies
-![](../../../z_images/Pasted%20image%2020220507104748.png)
+![](../../z_images/Pasted%20image%2020220507104748.png)
 
 ### Correctness Properties
 + relation R partitioned into n fragments
@@ -22,23 +22,23 @@
 + reconstruction
 	+ union of all fragments
 	+ bag semantics but no duplicates across partitions
-	+ ![](../../../z_images/Pasted%20image%2020220507105522.png)
+	+ ![](../../z_images/Pasted%20image%2020220507105522.png)
 
 ### Vertical Fragmentation
-![](../../../z_images/Pasted%20image%2020220507105737.png)
+![](../../z_images/Pasted%20image%2020220507105737.png)
 
 ### Derived Horizontal Fragmentation
-![](../../../z_images/Pasted%20image%2020220507105901.png)
+![](../../z_images/Pasted%20image%2020220507105901.png)
 
 ### Exploiting Partitioning in Postgre
-![](../../../z_images/Pasted%20image%2020220507112231.png)
-![](../../../z_images/Pasted%20image%2020220507112555.png)
+![](../../z_images/Pasted%20image%2020220507112231.png)
+![](../../z_images/Pasted%20image%2020220507112555.png)
 
 ### Database Cracking
 + database layout adapts to requested queries and their range predicates
 	+ creates [[Index Structures]] to identify qualifying partitions
 	+ inside partition its elements are unordered
 + workload creates hybrid between partitioning and indexing
-+ ![](../../../z_images/Pasted%20image%2020220507112812.png)
++ ![](../../z_images/Pasted%20image%2020220507112812.png)
 
 [[Background Storage System]] [[Database Performance Tuning]]

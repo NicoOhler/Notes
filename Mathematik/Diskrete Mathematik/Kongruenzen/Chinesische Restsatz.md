@@ -23,7 +23,7 @@
 	+ euklidische Alg.
 		+ l=1
 			+ $A_1=-1$
-			+ ![](../../../z_images/Pasted%20image%2020220319102428.png)
+			+ ![](../../z_images/Pasted%20image%2020220319102428.png)
 		+ l=2
 			+ $A_2=-1$
 		+ l=3

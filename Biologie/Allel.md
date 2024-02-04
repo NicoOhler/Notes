@@ -2,7 +2,7 @@
 + Allele sind DNA-Variationen zwischen Spezien
 + Allele können dominant/rezessiv sein
 	+ Chancen, welche Eigenschaft weitergegeben werden, können mit Punnett Square bestimmt werden
-		+ ![](../z_images/Punnett%20Square.png)
+		+ ![](z_images/Punnett%20Square.png)
 	+ nicht nur DNA der Eltern, sondern auch jene der Großeltern und deren Vorfahren beinflussen Resultat
 	+ beide Großelternpaare gaben Bb weiter
 		+ b: 25%

@@ -69,6 +69,13 @@ def create_relative_image_paths(contents, images, current_file):
     return contents
 
 
+def remove_parent_directory_from_image_path(contents):
+    # replace all ![](../Pasted%20Image.png) with ![](Pasted%20Image.png)
+    # "../" might be any number of "../"
+    contents = re.sub(r"!\[(\.\./)*", r"![](", contents)
+    return contents
+
+
 def convert_to_md_path(contents):
     # replace all ![[Pasted Image.png]] with !()[Pasted%20Image.png]
     to_replace = re.findall(r"!\[\[.*\]\]", contents)
@@ -87,15 +94,16 @@ def convert_to_md_path(contents):
 
 
 if __name__ == "__main__":
-    path = handle_args()
-    # path = "../"
+    # path = handle_args()
+    path = "../"
     md_files, images = get_md_and_images(path)
     for file_path in md_files:
         with open(file_path, "r") as file:
             contents = file.read()
 
         contents = remove_header(contents)
-        contents = create_relative_image_paths(contents, images, file_path)
+        # contents = create_relative_image_paths(contents, images, file_path)
+        contents = remove_parent_directory_from_image_path(contents)
         contents = convert_to_md_path(contents)
 
         # write the new contents to the file

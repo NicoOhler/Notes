@@ -20,10 +20,10 @@
 	+ reflexiv, antisymmetrisch und transitiv
 
 ### Modulooperationen
-+ ![](../../z_images/Pasted%20image%2020220317141822.png)
++ ![](../z_images/Pasted%20image%2020220317141822.png)
 
 ### Inverse
-+ ![](../../z_images/Pasted%20image%2020220317142739.png)
++ ![](../z_images/Pasted%20image%2020220317142739.png)
 + $[a]_m∈ℤ_m$ ist invertierbar, wenn
 	+ $∃b∈S:[a]_m*[b]_m=[b]_m*[a]_m=[1]_m$
 + $[a]_m=[b]_m^{-1}=$

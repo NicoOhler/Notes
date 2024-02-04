@@ -1,7 +1,7 @@
 ### JavaScript Object Notation
 + nested data
 + less verbose than [[XML]]
-+ ![](../../../z_images/Pasted%20image%2020220412155451.png)
++ ![](../../z_images/Pasted%20image%2020220412155451.png)
 
 ### JSON in [[SQL]]
 + JSON can be used as datatype
@@ -9,11 +9,11 @@
 	+ JSONB (binary)
 + built-in functions for creating JSON from table
 	+ bidirectional
-	+ ![](../../../z_images/Pasted%20image%2020220412155732.png)
+	+ ![](../../z_images/Pasted%20image%2020220412155732.png)
 + specialiced operators for JSON tree traversal and data extraction
 	+ $->$..... get array element
 	+ $->>$... get array element as text
-	+ ![](../../../z_images/Pasted%20image%2020220412155936.png)
+	+ ![](../../z_images/Pasted%20image%2020220412155936.png)
 + built-in functions
 	+ json_each
 	+ ...

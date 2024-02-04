@@ -5,7 +5,7 @@
 	+ einfach verkettet
 	+ doppelt verkettet
 	+ zirkulär verkettet
-+ ![](../../../../z_images/Pasted%20image%2020221016133318.png)
++ ![](../../../z_images/Pasted%20image%2020221016133318.png)
 
 ### O-Notation von Operationen
 + Suchen O(n)

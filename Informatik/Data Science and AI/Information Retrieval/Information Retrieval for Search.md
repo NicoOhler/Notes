@@ -22,7 +22,7 @@
 			+ e.g. [[TFIDF]]
 	+ hides some words with [[Natural Language Processing]]
 	+ weird example
-		+ ![](../../../z_images/Pasted%20image%2020220425140706.png)
+		+ ![](../../z_images/Pasted%20image%2020220425140706.png)
 
 
 	[[Information Retrieval]]

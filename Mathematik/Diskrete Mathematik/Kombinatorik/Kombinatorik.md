@@ -26,6 +26,6 @@
 
 
 ### Cheat-Sheet
-![](../../../z_images/Kombinatorik-Formeln-1024x576.jpg)
+![](../../z_images/Kombinatorik-Formeln-1024x576.jpg)
 
 [[Diskrete Mathematik]] [[../../../test/a.md/Analysis]] [[Binomische Lehrsatz]]

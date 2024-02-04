@@ -10,8 +10,8 @@
 	+ sorting/grouping/aggregation/hash joins
 	+ require knowledge of all tuples not just one
 + e.g. 
-	+ ![](../../../z_images/Pasted%20image%2020220406161042.png)
-	+ ![](../../../z_images/Pasted%20image%2020220406161145.png)
+	+ ![](../../z_images/Pasted%20image%2020220406161042.png)
+	+ ![](../../z_images/Pasted%20image%2020220406161145.png)
 
 ### Physical Table Access Operator
 + seq scan
@@ -55,8 +55,8 @@
 	+  physical operators instead of SQL operators
 +  EXPLAIN does not update regularly
 	+  ANALYZE beforehand necessary
-+  ![](../../../z_images/Pasted%20image%2020220406163536.png)
++  ![](../../z_images/Pasted%20image%2020220406163536.png)
 +  Visual EXPLAIN
-	+  ![](../../../z_images/Pasted%20image%2020220406163735.png)
+	+  ![](../../z_images/Pasted%20image%2020220406163735.png)
 
 [[Relational Algebra]]

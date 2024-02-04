@@ -1,8 +1,8 @@
 ### Definition
-+ ![](../../../z_images/Pasted%20image%2020221004100727.png)
++ ![](../../z_images/Pasted%20image%2020221004100727.png)
 
 ### Logische und Technische Anforderungen
-+ ![](../../../z_images/Pasted%20image%2020221004100903.png)
++ ![](../../z_images/Pasted%20image%2020221004100903.png)
 + σ-Algebra
 	+ Klasse von Ereignissen A'
 	+ abgeschlosses Mengensystem bezüglich Mengenoperationen
@@ -13,12 +13,12 @@
 		+ Normierung N
 			+ P(Ω)=1
 		+ Additivität A
-			+ ![](../../../z_images/Pasted%20image%2020221004102611.png)
+			+ ![](../../z_images/Pasted%20image%2020221004102611.png)
 			+ Summe aller Wahrscheinlichkeiten = Wahrscheinlichkeit, dass eines der Ereignisse eintritt
 + Tripel (Ω, A', P) - Wahrscheinlichkeitsraum
 + Frequentistische Interpretation
 	+ Experiment wird unendlich oft wiederhold
-	+ ![](../../../z_images/Pasted%20image%2020221004103951.png)
+	+ ![](../../z_images/Pasted%20image%2020221004103951.png)
 
 ### Axiome von Kolmogorov
-![](../../../z_images/Pasted%20image%2020221004104720.png)
+![](../../z_images/Pasted%20image%2020221004104720.png)

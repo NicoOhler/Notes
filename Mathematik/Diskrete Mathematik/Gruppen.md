@@ -2,7 +2,7 @@
 + Menge X zusammen mit binärer Operation \* (X,\*)
 	+ X≠∅
 	+ heißt Halbgruppe, wenn assoziativ <==> $(x*y)*z=x*(y*z)$ $∀x,y,z∈X$
-		+ ![](../../z_images/Pasted%20image%2020220319103800.png)
+		+ ![](../z_images/Pasted%20image%2020220319103800.png)
 	+ Halbgruppe kommutativ, wenn $x*y=y*x$ $∀x,y∈X$
 	+ neutrales Element e bzgl. \*, wenn 
 		+ $x*e=e*x=x$ $∀x∈X$
@@ -26,7 +26,7 @@
 			+ ähnlich wie [[Untervektorräume]]
 		+ inverses Element muss existieren
 			+ neutrales Element impliziert durch Abgeschlossenheit und Inverses
-+ ![](../../z_images/Pasted%20image%2020220324141209.png)
++ ![](../z_images/Pasted%20image%2020220324141209.png)
 + $<x>:={x^k:k∈ℤ}$
 + Ordnung von $x∈G$
 	+ $O_G(x):=min\{n∈ℕ: x^n=e\}$

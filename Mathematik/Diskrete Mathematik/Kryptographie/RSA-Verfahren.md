@@ -12,7 +12,7 @@
 	 + x --> $x^b$ mod m
  + [[Satz von Euler-Fermat]]
 	 + $φ(m)=(p-1)(q-1)$
-	 + ![](../../../z_images/Pasted%20image%2020220325102327.png)
+	 + ![](../../z_images/Pasted%20image%2020220325102327.png)
 
 
 [[Kryptographie]]

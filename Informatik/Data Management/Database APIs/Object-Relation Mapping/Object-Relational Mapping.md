@@ -3,7 +3,7 @@
 + data stored in normalized flat tables
 + application is responsible for bridging
 + example
-	+ ![](../../../../z_images/Pasted%20image%2020220427130703.png)
+	+ ![](../../../z_images/Pasted%20image%2020220427130703.png)
 
 ### Object-Relational Mapping
 + ORM tools allow automatic 
@@ -11,7 +11,7 @@
 	+ querying of underlying data stores
 + reduced development effort
 + improved testing and independence of DBMS
-![](../../../../z_images/Pasted%20image%2020220427130949.png)
+![](../../../z_images/Pasted%20image%2020220427130949.png)
 
 ### Pros and Cons
 + advantages

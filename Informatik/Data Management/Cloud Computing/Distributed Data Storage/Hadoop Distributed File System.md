@@ -1,16 +1,16 @@
 ### HDFS Overview
 + distributed file system for large clusters and datasets
 + splits files in 128 MB blocks, 3x replicated and distributed
-+ ![](../../../../z_images/Pasted%20image%2020220610105424.png)
++ ![](../../../z_images/Pasted%20image%2020220610105424.png)
 
 ### HDFS NameNode
-![](../../../../z_images/Pasted%20image%2020220610105957.png)
+![](../../../z_images/Pasted%20image%2020220610105957.png)
 
 ### HDFS DataNode
-![](../../../../z_images/Pasted%20image%2020220610110021.png)
+![](../../../z_images/Pasted%20image%2020220610110021.png)
 
 ### CRUD Operations
-![](../../../../z_images/Pasted%20image%2020220610110411.png)
+![](../../../z_images/Pasted%20image%2020220610110411.png)
 
 ### Data Locality
 + HDFS is rack-aware
@@ -24,12 +24,12 @@
 + eliminates NN als namespace scalability bottleneck
 + multiple independent NNs for name spaces
 + each is responsible for subtrees of file system
-+ ![](../../../../z_images/Pasted%20image%2020220610110821.png)
++ ![](../../../z_images/Pasted%20image%2020220610110821.png)
 
 ### Architecture
-![](../../../../z_images/Pasted%20image%2020220610111131.png)
+![](../../../z_images/Pasted%20image%2020220610111131.png)
 
 ### Excursus: Amazon Redshift
-![](../../../../z_images/Pasted%20image%2020220610110942.png)
+![](../../../z_images/Pasted%20image%2020220610110942.png)
 
 [[Distributed Data Storage]]

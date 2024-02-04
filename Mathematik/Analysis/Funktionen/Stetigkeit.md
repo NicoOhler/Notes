@@ -24,7 +24,7 @@
 + Sei f: I --> ℝ eine reelle Funktion:
 +  f ist stetig in x<sub>0</sub>∈I, wenn
 	+  ∀ε>0 ∃δ>0 ∀x∈I: |x - x<sub>0</sub>| < δ ==> |f(x) - f(x<sub>0</sub>)| < ε
- ![](../../../z_images/Pasted%20image%2020211110154416.png)
+ ![](../../z_images/Pasted%20image%2020211110154416.png)
 +  Vorgehensweise
 	+  |f(x) - f(x<sub>0</sub>)| ersetzen mit Formel hinter Funktion
 	+  umformen/abschätzen sodass |x - x<sub>0</sub>| separater Term ist

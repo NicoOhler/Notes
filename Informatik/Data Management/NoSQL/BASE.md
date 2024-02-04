@@ -9,7 +9,7 @@
 	+ due to async updates/nodes becoming available again
 + eventual consistency
 	+ after enough time data distributed on all nodes become consistent
-	+ ![](../../../z_images/Pasted%20image%2020220608174250.png)
+	+ ![](../../z_images/Pasted%20image%2020220608174250.png)
 
 ### Two-Phase Commit Protocol
 + distributed TX processing
@@ -31,5 +31,5 @@
 	+ availablity - services must be always availabe
 	+ partition tolerance - tolerance of temporarily unreachable noces
 + possible combinations
-	+ ![](../../../z_images/Pasted%20image%2020220608173739.png)
+	+ ![](../../z_images/Pasted%20image%2020220608173739.png)
 

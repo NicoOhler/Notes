@@ -4,9 +4,9 @@
 	+ E⊆(V,2)
 		+ Menge von 2-elementrigeTeilmengen von V
 	+ z.B. ungerichtete Graph
-		+ ![](../../../z_images/Pasted%20image%2020220508130402.png)
+		+ ![](../../z_images/Pasted%20image%2020220508130402.png)
 + gerichtete Graph (Digraph)
-	+ ![](../../../z_images/Pasted%20image%2020220508130756.png)
+	+ ![](../../z_images/Pasted%20image%2020220508130756.png)
 + Knoten A ist Nachbar von B, wenn verbunden durch Kante
 + Knoten ist isoliert, wenn er keine Nachbarn hat
 + Schleife
@@ -15,8 +15,8 @@
 	+ $G_1=(V_1,E_1)$ und $G_2=(V_2,E_2)$
 	+ $V_1⊆V_2$und $E_1⊆E_2$
 + Teilgraph induziert(aufgespannt), wenn
-	+ ![](../../../z_images/Pasted%20image%2020220508131411.png)
-	+ ![](../../../z_images/Pasted%20image%2020220508131641.png)
+	+ ![](../../z_images/Pasted%20image%2020220508131411.png)
+	+ ![](../../z_images/Pasted%20image%2020220508131641.png)
 	+ 
 ### Grad
 + falls Knoten auf Kante liegt
@@ -25,21 +25,21 @@
 	+ v und w sind adjazent/benachbart
 + Graph ist vollständig, wenn je zwei Knoten benachbart
 	+ jeder Knoten ist mit jedem verbunden?
-	+ ![](../../../z_images/Pasted%20image%2020220508144551.png)
+	+ ![](../../z_images/Pasted%20image%2020220508144551.png)
 + Teilmenge von V und E sind unabhängig
 	+ wenn Elemente paarweise nicht benachbart sind
-	+ ![](../../../z_images/Pasted%20image%2020220508145351.png)
-	+ ![](../../../z_images/Pasted%20image%2020220508145357.png)
+	+ ![](../../z_images/Pasted%20image%2020220508145351.png)
+	+ ![](../../z_images/Pasted%20image%2020220508145357.png)
 + Grad von Knoten = Anzahl von Nachbarn
 	+ $deg(V)=|N_G(V)|$
 + Gradarten
-	+ ![](../../../z_images/Pasted%20image%2020220508145821.png)
+	+ ![](../../z_images/Pasted%20image%2020220508145821.png)
 + Summe aller Grade in Graph = doppelte Kantenanzahl
-	+ ![](../../../z_images/Pasted%20image%2020220508150003.png)
+	+ ![](../../z_images/Pasted%20image%2020220508150003.png)
 + gerichteter Graph ==> Unterscheidung in Ausgangs- und Eingangsgrad
-	+ ![](../../../z_images/Pasted%20image%2020220508150304.png)
+	+ ![](../../z_images/Pasted%20image%2020220508150304.png)
 	+ Knoten mit Ausgangsgrad 0 heißt Senke
 	+ Knoten mit Eingangsgrad 0 heißt Quelle
-	+ ![](../../../z_images/Pasted%20image%2020220508153515.png)
+	+ ![](../../z_images/Pasted%20image%2020220508153515.png)
 
 [[Diskrete Mathematik]] [[Graphs KR]]

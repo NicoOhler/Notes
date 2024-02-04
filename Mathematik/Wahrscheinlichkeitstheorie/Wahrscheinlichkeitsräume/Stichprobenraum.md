@@ -3,5 +3,5 @@
 + Elementarereignis
 	+ Element dieser Menge ω
 	+ ω ∈ Ω
-+ ![](../../../z_images/Pasted%20image%2020221004084351.png)
++ ![](../../z_images/Pasted%20image%2020221004084351.png)
 

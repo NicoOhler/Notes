@@ -9,7 +9,7 @@
 		+ gesucht y=y(x)
 
 ### Herkömmliche Methode
-+ ![](../../../z_images/Pasted%20image%2020220404173350.png)
++ ![](../../z_images/Pasted%20image%2020220404173350.png)
 + nur wenn x und y auf verschiedene Seiten bringen möglich ist
 + unendlich viele Lösungen
 
@@ -22,9 +22,9 @@
 		+ sei M so, dass $∀x,y∈ℝ:|f(x,y)≤M|$
 	+ dann hat das AWP genau eine Lösung y=y(x) auf das Intervall $[a,m]$
 		+ $m=min(b,a+\frac{b}{M})$
-		+ ![](../../../z_images/Pasted%20image%2020220404174640.png)
+		+ ![](../../z_images/Pasted%20image%2020220404174640.png)
 + Beispiele: keine Eindeutigkeit
-	+ ![](../../../z_images/Pasted%20image%2020220412171519.png)
+	+ ![](../../z_images/Pasted%20image%2020220412171519.png)
 	+ für y=0 gibt es ∞ Lösungen
 
 ### Euler-Verfahren
@@ -34,6 +34,6 @@
 	+ Steigung $k_i$ in Punkt wird bestimmt
 	+ Gerade (Steigung $k_i$, Länge h) bis zu nächstem Punkt
 	+ dies wird x mal wiederholt
-+ ![](../../../z_images/Pasted%20image%2020220412172308.png)
++ ![](../../z_images/Pasted%20image%2020220412172308.png)
 
 [[Mehrdimensionale Differentialrechnung]]

@@ -1,6 +1,6 @@
 ### Partition
 +  gegeben sind die Mengen
-	+ ![](../../../z_images/Pasted%20image%2020220316102048.png)
+	+ ![](../../z_images/Pasted%20image%2020220316102048.png)
 + $x_0, x_1, x_2$ sind paarweise disjunkt
 	+ Schnittmenge ist leere Menge
 + Vereinigung von $x_0, x_1, x_2$ = ℤ
@@ -15,19 +15,19 @@
 
 ### Partitionsklassen
 + gegeben ist die Menge
-	+ ![](../../../z_images/Pasted%20image%2020220316105018.png)
+	+ ![](../../z_images/Pasted%20image%2020220316105018.png)
 	+ deren Partitionsklassen
 		+ $[0]_3=[3]_3=[-3]_3=...$
 + Partition von ℤ
 	+ ${[0]_3,[1]_3,[2]_3}$
 + Partition von X
-	+ ![](../../../z_images/Pasted%20image%2020220316105547.png)
+	+ ![](../../z_images/Pasted%20image%2020220316105547.png)
 
 ### Repräsentantensystem
 + Sei ~ eine Äquivalenzrelation auf X
 + Teilmenge S von X ist Repräsentantensystem von ~, wenn
 	+ $∀x∈X∃!s∈S: x$~$s$
 + Beispiel: 
-	+ ![](../../../z_images/Pasted%20image%2020220317140708.png)
+	+ ![](../../z_images/Pasted%20image%2020220317140708.png)
 
 [[Diskrete Mathematik]]

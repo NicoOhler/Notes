@@ -4,10 +4,10 @@
 	+ gegeben: $y'=\frac{f(x)}{g(y)}=\frac{dy}{dx}$
 	+ nach Umformung: $g(y)dy=f(x)dx$
 	+ nach Integration: $G(y)=F(x)+C$
-	+ ![](../../../z_images/Pasted%20image%2020220412173422.png)
+	+ ![](../../z_images/Pasted%20image%2020220412173422.png)
 + Beispiele:
-	+ ![](../../../z_images/Pasted%20image%2020220412173917.png)
-	+ ![](../../../z_images/Pasted%20image%2020220412174224.png)
+	+ ![](../../z_images/Pasted%20image%2020220412173917.png)
+	+ ![](../../z_images/Pasted%20image%2020220412174224.png)
 		+ nicht möglich, da Lösung Definitionsbereich verlässt
 
 ### Lineare DGL
@@ -16,7 +16,7 @@
 + $ln|y(x)|=\int a(x)dx$
 	+ $y(x)=C*e^{A(x)}$ ist allgemeine Lösung
 + Beispiel:
-	+ ![](../../../z_images/Pasted%20image%2020220412175042.png)
+	+ ![](../../z_images/Pasted%20image%2020220412175042.png)
 
 ### Inhomogene lineare DGL
 + $y'=a(x)y+b(x)$
@@ -34,8 +34,8 @@
 		+ allgemeine Lösung
 		+ homogene + partikuläre Lösung
 + Beispiel:
-	+ ![](../../../z_images/Pasted%20image%2020220413090213.png)
-	+ ![](../../../z_images/Pasted%20image%2020220413090708.png)
+	+ ![](../../z_images/Pasted%20image%2020220413090213.png)
+	+ ![](../../z_images/Pasted%20image%2020220413090708.png)
 
 ### Exakte DGL
 + $P(x,y)dx+Q(x,y)dy=0$ <==> $y'=\frac{dy}{dx}=-\frac{P(x,y)}{Q(x,y}$
@@ -43,27 +43,27 @@
 		+ wenn nicht exakt ==> Multiplikation mit integrierenden Faktor μ(x)
 			+ alternative Formen $\mu(x)$ in Reihenfolge zum Versuchen
 			+ desto mehr Versuche desto verzweifelter
-			+ ![](../../../z_images/Pasted%20image%2020220413092948.png)
+			+ ![](../../z_images/Pasted%20image%2020220413092948.png)
 		+ $\mu(x)$ bestimmen
-			+ ![](../../../z_images/Pasted%20image%2020220413092458.png)
+			+ ![](../../z_images/Pasted%20image%2020220413092458.png)
 			+ DGL nach $\mu(x)$ lösen
 		+ siehe 2. Beispiel
 	+ Stammfunktion: $d\phi=0$ ==> $\phi(x,y)=const$
 		+ Lösungen von $P(x,y)dx+Q(x,y)dy=0$ sind Niveaulinien von $\phi$
 + Beispiele:
 	+ ohne $\mu(x)$
-		+ ![](../../../z_images/Pasted%20image%2020220413091800.png)
+		+ ![](../../z_images/Pasted%20image%2020220413091800.png)
 	+ mit $\mu(x)$
-		+ ![](../../../z_images/Pasted%20image%2020220413092634.png)
-		+ ![](../../../z_images/Pasted%20image%2020220413092916.png)
+		+ ![](../../z_images/Pasted%20image%2020220413092634.png)
+		+ ![](../../z_images/Pasted%20image%2020220413092916.png)
 	+ mit $\mu(x*y)$
-		+ ![](../../../z_images/Pasted%20image%2020220413093600.png)
-		+ ![](../../../z_images/Pasted%20image%2020220413093614.png)
+		+ ![](../../z_images/Pasted%20image%2020220413093600.png)
+		+ ![](../../z_images/Pasted%20image%2020220413093614.png)
 	+ Lotka-Volterra Räuber-Beute-Modell
-		+ ![](../../../z_images/Pasted%20image%2020220413094158.png)
-		+ ![](../../../z_images/Pasted%20image%2020220413094541.png)
+		+ ![](../../z_images/Pasted%20image%2020220413094158.png)
+		+ ![](../../z_images/Pasted%20image%2020220413094541.png)
 	+ logistisches Wachstum
-		+ ![](../../../z_images/Pasted%20image%2020220413094851.png)
+		+ ![](../../z_images/Pasted%20image%2020220413094851.png)
 
 
 [[Differentialgleichungen]]

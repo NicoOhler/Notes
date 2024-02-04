@@ -11,5 +11,5 @@
 	+ kontinuierliche Verbesserung einfach berechenbar
 
 ### Traveling Salesman Problem
-![](../../../../z_images/Pasted%20image%2020221019170853.png)
-![](../../../../z_images/Pasted%20image%2020221019171251.png)
+![](../../../z_images/Pasted%20image%2020221019170853.png)
+![](../../../z_images/Pasted%20image%2020221019171251.png)

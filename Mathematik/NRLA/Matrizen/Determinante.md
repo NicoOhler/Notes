@@ -18,7 +18,7 @@
 
 ## Determinantenrechenregeln
 1. Linear in jeder Zeile/Spalte
-![](../../../z_images/Pasted%20image%2020211028125806.png)
+![](../../z_images/Pasted%20image%2020211028125806.png)
 2. Entsteht A' durch Zeilen/Spaltenvertauschung
 	+ det A' = - det A
 3. Entsteht A' durch Multiplikation einer Zeile/Spalte mit λ

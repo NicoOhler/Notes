@@ -1,7 +1,7 @@
 ### Problemstellung
 + Gleichungssystem mit p + q Variablen und p Gleichungen 
 	+ nach q Variablen auflösen
-	+ ![](../../../z_images/Pasted%20image%2020220301114831.png)
+	+ ![](../../z_images/Pasted%20image%2020220301114831.png)
 +  Vorgehensweise:
 	+  alle "ungwollten" Variablen auf linke Seite
 	+  Koeffizientenmatrix aufstellen
@@ -19,6 +19,6 @@
 	+ Ableitungsmatrix (nicht Jacobi)
 		+ $det(\frac{\partial (f_1,...,f_p)}{\partial (x_1,...,x_p)})≠0$
 + kann auch ohne Bedingungen auflösbar sein
-+ ![](../../../z_images/Pasted%20image%2020220301122858.png)
++ ![](../../z_images/Pasted%20image%2020220301122858.png)
 
 [[Extremwertaufgaben mit Nebenbedingungen]][[Funktionen ℝ^p auf ℝ^q]]

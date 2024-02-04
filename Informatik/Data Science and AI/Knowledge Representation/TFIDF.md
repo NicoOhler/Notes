@@ -15,5 +15,5 @@
 			+ inverse document frequency
 		+ element-wise multiplication of $tf_i$ and $idf$
 + example
-	+ ![](../../../z_images/Pasted%20image%2020220425144131.png)
-	+ ![](../../../z_images/Pasted%20image%2020220425144153.png)
+	+ ![](../../z_images/Pasted%20image%2020220425144131.png)
+	+ ![](../../z_images/Pasted%20image%2020220425144153.png)

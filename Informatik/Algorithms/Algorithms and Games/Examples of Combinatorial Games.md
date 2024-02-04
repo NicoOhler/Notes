@@ -1,8 +1,8 @@
 ### Chocolate Game - Chomp
 + First-Player Win
 + quadratic board
-	+ ![](../../../z_images/Pasted%20image%2020231004122109.png)
-	+ ![](../../../z_images/Pasted%20image%2020231004122004.png)
+	+ ![](../../z_images/Pasted%20image%2020231004122109.png)
+	+ ![](../../z_images/Pasted%20image%2020231004122004.png)
 	+ optimal strategy
 		+ take piece top right of the toxic piece
 		+ creates two independent fields
@@ -26,8 +26,8 @@
 + [[2 Player Combinatorial Game]]
 + no winner if played optimally
 + [[Min-Max Decision Tree]]
-	+ ![](../../../z_images/Pasted%20image%2020231004154541.png)
-	+ ![](../../../z_images/Pasted%20image%2020231004155224.png)
+	+ ![](../../z_images/Pasted%20image%2020231004154541.png)
+	+ ![](../../z_images/Pasted%20image%2020231004155224.png)
 		+ only 765 states when stopping after winning
 
 ### Nine Men’s Morris - Mühle
@@ -42,7 +42,7 @@
 	+ choose opponent’s stone to remove
 + draw if played optimally
 + operations to combine equivalent game states
-	+ ![](../../../z_images/Pasted%20image%2020231004161837.png)
+	+ ![](../../z_images/Pasted%20image%2020231004161837.png)
 
 ### Connect 4
 + http://connect4.ist.tugraz.at:8080/
@@ -52,7 +52,7 @@
 		+ yellow token
 		+ red token
 		+ no token
-	+ ![](../../../z_images/Pasted%20image%2020231005145505.png)
+	+ ![](../../z_images/Pasted%20image%2020231005145505.png)
 	+ 7 bit per column
 		+ $7*7=49$ bit require 6 byte + 1 bit  
 		+ first 1 acts as separator 
@@ -64,7 +64,7 @@
 			+ tokens in last column = total number of tokens - tokens in first 6 columns
 		+ only store empty fields and colors without separator
 			+ saves 1 bit $\Rightarrow$ exactly 6 byte required
-		+ ![](../../../z_images/Pasted%20image%2020231005150058.png)
+		+ ![](../../z_images/Pasted%20image%2020231005150058.png)
 + move generator
 	+ up to 7 successors
 	+ add a token to a non-full column
@@ -81,5 +81,5 @@
 	+ compute remaining decision tree online
 	+ maximum remaining search depth $42 - 23 = 19$
 		+ with ~$5$ possible moves on average
-	+ ![](../../../z_images/Pasted%20image%2020231005154159.png)
+	+ ![](../../z_images/Pasted%20image%2020231005154159.png)
 

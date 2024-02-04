@@ -30,6 +30,6 @@
 + hybrid of different recommendation paradigms
 
 ### Challenges
-+ ![](../../../../z_images/Pasted%20image%2020220502175423.png)
-+ ![](../../../../z_images/Pasted%20image%2020220502180102.png)
-+ ![](../../../../z_images/Pasted%20image%2020220502180245.png)
++ ![](../../../z_images/Pasted%20image%2020220502175423.png)
++ ![](../../../z_images/Pasted%20image%2020220502180102.png)
++ ![](../../../z_images/Pasted%20image%2020220502180245.png)

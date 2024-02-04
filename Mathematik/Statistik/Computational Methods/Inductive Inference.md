@@ -2,8 +2,8 @@
 + conclusive
 + proves theorems
 + examples
-	+ ![](../../../z_images/Pasted%20image%2020230113143143.png)
-	+ ![](../../../z_images/Pasted%20image%2020230113143252.png)
+	+ ![](../../z_images/Pasted%20image%2020230113143143.png)
+	+ ![](../../z_images/Pasted%20image%2020230113143252.png)
 
 ### Inductive Inference
 + drawing conclusions from data of few experiments creates uncertainty
@@ -16,5 +16,5 @@
 + finds new knowledge in research
 
 ### Methodology
-+ ![](../../../z_images/Pasted%20image%2020230113143749.png)
-+ ![](../../../z_images/Pasted%20image%2020230113144526.png)
++ ![](../../z_images/Pasted%20image%2020230113143749.png)
++ ![](../../z_images/Pasted%20image%2020230113144526.png)

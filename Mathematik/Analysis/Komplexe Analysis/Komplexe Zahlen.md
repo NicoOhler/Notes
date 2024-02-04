@@ -39,11 +39,11 @@
 	+ y = Im(z)
 + Rechenoperationen:
 	+ Addition ==> Zahlen zusammenhängen
-		 ![](../../../z_images/Pasted%20image%2020211108172201.png)		
+		 ![](../../z_images/Pasted%20image%2020211108172201.png)		
 	+ Konjugieren ==> Spiegeln an Achse des Realteils
-		 ![](../../../z_images/Pasted%20image%2020211108172217.png)
+		 ![](../../z_images/Pasted%20image%2020211108172217.png)
 	+ Multiplikation ==> Längen multipliziert und Winkel addiert
-		 ![](../../../z_images/Pasted%20image%2020211108172247.png)
+		 ![](../../z_images/Pasted%20image%2020211108172247.png)
 
 ### Wurzel ziehen in ℂ
 + $z^n=w$ w∈ℂ\\{0}, n∈ℕ

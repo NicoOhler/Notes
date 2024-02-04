@@ -7,7 +7,7 @@
 	+ attribute --> set
 
 ### Characteristics Calculus Expression
-+  ![](../../../z_images/Pasted%20image%2020220406155853.png)
++  ![](../../z_images/Pasted%20image%2020220406155853.png)
 	+ left side relational algebra
 	+ right side tuple calculus
 + Quantifiers
@@ -15,6 +15,6 @@
 + consists of variables, constants, comparisons, quantifier...
 + formulas
 	+ free unbound variables ==> define result
-	+ ![](../../../z_images/Pasted%20image%2020220406160034.png)
+	+ ![](../../z_images/Pasted%20image%2020220406160034.png)
 
 

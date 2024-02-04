@@ -8,7 +8,7 @@
 ### Division
 + R÷S
 + counterpart to cartesian product
-+ ![](../../../z_images/Pasted%20image%2020220406145109.png)
++ ![](../../z_images/Pasted%20image%2020220406145109.png)
 
 ### (Inner) Join
 + R⋈S
@@ -29,7 +29,7 @@
 	+ full right side, NULL for non-existing right side
 + full outer join
 	+ full left and right side, NULL for non-existing side
-+ ![](../../../z_images/Pasted%20image%2020220406145729.png)
++ ![](../../z_images/Pasted%20image%2020220406145729.png)
 	+ symbols different
 
 ### Semi Join and Anti Join
@@ -60,7 +60,7 @@
 + aggregation
 	+ compute aggregate per group of tuples (created by grouping)
 	+ aggregation w/o grouping possible
-	+ ![](../../../z_images/Pasted%20image%2020220406154703.png)
+	+ ![](../../z_images/Pasted%20image%2020220406154703.png)
 + 
 
 

@@ -23,7 +23,7 @@
 
 ### Orthonormierungsverfahren von GRAM-SCHMIDT
 + Orthogonale Projektion des $v_2$ auf den von $v_1$  aufgespannten Unterraum
-	+ ![](../../../z_images/Pasted%20image%2020211211140604.png)
+	+ ![](../../z_images/Pasted%20image%2020211211140604.png)
 	+ $v_2^*=<v_2,v_1'>$$v_1'$
 		+ v' normierter Vektor von v
 + Verfahren um Orthonormalbasis zu bilden
@@ -36,7 +36,7 @@
 			+ $u_i=v_i-v_i^*$
 				+ $v_i=\sum_{k=1}^{i-1} <v_i,w_k>w_k$
 + Beispiel
-	+ ![](../../../z_images/Pasted%20image%2020211211164915.png)
-	+ ![](../../../z_images/Pasted%20image%2020211211165217.png)
+	+ ![](../../z_images/Pasted%20image%2020211211164915.png)
+	+ ![](../../z_images/Pasted%20image%2020211211165217.png)
 
 [[Unitäre Räume]] [[Schwarzsche Ungleichung]]

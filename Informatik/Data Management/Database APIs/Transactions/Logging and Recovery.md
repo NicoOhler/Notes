@@ -14,10 +14,10 @@
 	+ R4-Recovery: global redo of all committed TX
 
 ### Database Transaction Log
-+ ![](../../../../z_images/Pasted%20image%2020220519155234.png)
++ ![](../../../z_images/Pasted%20image%2020220519155234.png)
 
 ### Logging Types
-+ ![](../../../../z_images/Pasted%20image%2020220520151204.png)
++ ![](../../../z_images/Pasted%20image%2020220520151204.png)
 
 ### Recovery on Storage Class Memory
-+ ![](../../../../z_images/Pasted%20image%2020220520151515.png)
++ ![](../../../z_images/Pasted%20image%2020220520151515.png)

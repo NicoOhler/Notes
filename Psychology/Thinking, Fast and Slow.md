@@ -47,7 +47,7 @@
 		+ smiling makes you actually feel better
 		+ good mood makes you less careful
 	+ images of flowers/watching eyes influence willingness to pay voluntarily
-		+ ![](../z_images/Pasted%20image%2020240204115620.png)
+		+ ![](z_images/Pasted%20image%2020240204115620.png)
 	+ exposure effect
 		+ being repeatedly exposed to the same thing makes it less threatening/perceived more positively
 			+ familiarity breeds liking

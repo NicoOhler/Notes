@@ -7,7 +7,7 @@
 	+ postgres 8KB by default
 + block
 	+ smallest addressable unit on disk
-+ ![](../../../z_images/Pasted%20image%2020220505104430.png)
++ ![](../../z_images/Pasted%20image%2020220505104430.png)
 
 ### Buffer & Storage Management
 + buffer management at granularity of pages
@@ -20,8 +20,8 @@
 	+ tuple/row identifier
 	+ stable ID, even if records reorganized in memory
 	+ allows reorganizing data without altering address references
-	+ ![](../../../z_images/Pasted%20image%2020220505104735.png)
+	+ ![](../../z_images/Pasted%20image%2020220505104735.png)
 	+ page slot directory holds tuple offsets (byte position) within page
-	+ ![](../../../z_images/Pasted%20image%2020220505105122.png)
+	+ ![](../../z_images/Pasted%20image%2020220505105122.png)
 
 [[Database Compression Techniques]]
