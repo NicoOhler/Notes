@@ -2,10 +2,10 @@
 
 ### Key Takeaways
 + using complex language makes texts harder to read and understand
-+ goals for written content 
-	+ convey information
-	+ accessible and easy to understand
-	+ keep reader's attention
++ fluency helps with
+	+ conveying information efficiently
+	+ making texts accessible and easy to understand
+	+ keeping the reader's attention
 + technical jargon
 	+ useful for certain audience
 	+ use only if sure terminology is known
@@ -19,5 +19,8 @@
 + Richard Feynman
 	+ If you can't explain something in simple terms, you don't understand it
 + style
-	+ same effects occur for hard to read fonts
-	+ negative 
+	+ hard to read fonts negatively impact fluency 
+		+ same effects as described above
+	+ bad fluency due to obvious external factors 
+		+ e.g. documents printed from a printer that is low in toner
+		+ 
