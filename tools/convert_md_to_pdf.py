@@ -13,7 +13,7 @@ def get_md_files(path):
     return md_files
 
 
-pandoc = 'pandoc -H ../tools/head.tex --pdf-engine=pdflatex ../FILENAME.md -o ../pdf/FILENAME.pdf -s -V geometry:"top=2cm, bottom=1.5cm, left=2cm, right=2cm"'
+pandoc = 'pandoc -H ../tools/head.tex --pdf-engine=pdflatex "../FILENAME.md" -o "../pdf/FILENAME.pdf" -s -V geometry:"top=2cm, bottom=1.5cm, left=2cm, right=2cm"'
 path = "../"
 md_files = get_md_files(path)
 for md_file in md_files:
