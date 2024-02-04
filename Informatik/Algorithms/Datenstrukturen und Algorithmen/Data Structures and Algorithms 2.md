@@ -2,4 +2,4 @@
 + [[Various Algorithms]]
 + [[Graph Algorithms]]
 + [[Complexity Theory]]
-+ ![[Pasted image 20221203220809.png]]
++ ![[../../../z_images/Pasted image 20221203220809.png]]

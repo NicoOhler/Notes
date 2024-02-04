@@ -1,8 +1,7 @@
-# Binary Search and BTree
 ### Binary Search
 + pos = binarySearch(data,key=23)
 + find key position within sorted data
-+ ![[Pasted image 20220505112030.png]]
++ ![[../../../z_images/Pasted image 20220505112030.png]]
 + optimizations
 	+ k-ary search for SIMD data-parallelism
 		+ ?
@@ -16,11 +15,11 @@
 + each node contains data or reference to data
 	+ values sorted within node
 	
-![[Pasted image 20220505112930.png]]
+![[../../../z_images/Pasted image 20220505112930.png]]
 + pointer left/right of value points to leaf with smaller/bigger values
 
-![[Pasted image 20220505113409.png]]
-![[Pasted image 20220505113600.png]]
+![[../../../z_images/Pasted image 20220505113409.png]]
+![[../../../z_images/Pasted image 20220505113600.png]]
 
 ### B-Tree Insert
 + always insert into leaf nodes
@@ -32,9 +31,9 @@
 	+ (k+1)th entry inserted into parent node
 		+ may cause recursive splitting
 + self-balancing
-+ ![[Pasted image 20220506175849.png]]
++ ![[../../../z_images/Pasted image 20220506175849.png]]
 + Example
-	+ ![[Pasted image 20220507102636.png]]
+	+ ![[../../../z_images/Pasted image 20220507102636.png]]
 
 ### B-Tree Delete
 + deletion might cause underflow (<k entries)
@@ -43,13 +42,13 @@
 	+ underflow on leaf node
 		+ ==>  merge with sibling
 + example
-	+ ![[Pasted image 20220507103205.png]]
+	+ ![[../../../z_images/Pasted image 20220507103205.png]]
 
 ### B-Tree Insert and Delete Example  
-![[Pasted image 20220507103541.png]]
+![[../../../z_images/Pasted image 20220507103541.png]]
 
 ### Prefix Tree
-![[Pasted image 20220507103927.png]] 
+![[../../../z_images/Pasted image 20220507103927.png]] 
 
 ### Learned Index Structures
-![[Pasted image 20220507104055.png]]
+![[../../../z_images/Pasted image 20220507104055.png]]

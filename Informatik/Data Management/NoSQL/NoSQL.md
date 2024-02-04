@@ -1,4 +1,3 @@
-# NoSQL
 ### Overview
 + not only SQL
 + [[SQL]] alternative
@@ -18,7 +17,7 @@
 	+ scaling
 
 ### MongoDB Example
-![[Pasted image 20220609165804.png]]
+![[../../../z_images/Pasted image 20220609165804.png]]
 
 
 [[Data Models]]

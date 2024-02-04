@@ -1,4 +1,3 @@
-# Tuple Calculus
 + alternative to [[Relational Algebra]]
 
 ### Relational Calculus Overview
@@ -8,7 +7,7 @@
 	+ attribute --> set
 
 ### Characteristics Calculus Expression
-+  ![[Pasted image 20220406155853.png]]
++  ![[../../../z_images/Pasted image 20220406155853.png]]
 	+ left side relational algebra
 	+ right side tuple calculus
 + Quantifiers
@@ -16,6 +15,6 @@
 + consists of variables, constants, comparisons, quantifier...
 + formulas
 	+ free unbound variables ==> define result
-	+ ![[Pasted image 20220406160034.png]]
+	+ ![[../../../z_images/Pasted image 20220406160034.png]]
 
 

@@ -1,4 +1,3 @@
-# Vektor
 + $\overrightarrow{a}$ = (a<sub>x</sub>, a<sub>y</sub>, a<sub>z</sub>) - 3D
 + Strecken mit bestimmter Länge und Richtung OHNE Ausgangspunkt
 + mehrdimensional
@@ -47,7 +46,7 @@
 	+  liefert dritten Vektor c
 	+  c steht senkrecht zu a und b
 	+  Länge von c = |a×b| = Fläche des von a und b aufgespannten Parallelogramm
-	+  ![[Pasted image 20211109131952.png]]
+	+  ![[../../../z_images/Pasted image 20211109131952.png]]
 +  Rechte-Hand-Regel
 + $|a×b| = |\overrightarrow{a}| * |\overrightarrow{b}| * sin(α)$
 +  Im karthesischen Koordinatensystem gilt:

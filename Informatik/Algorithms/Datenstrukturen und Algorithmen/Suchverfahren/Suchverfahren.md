@@ -10,5 +10,5 @@
 		+ [[Fastsearch]]
 
 ### Laufzeitverhalten
-+ ![[Pasted image 20221028174530.png]]
-+ ![[Pasted image 20221028174726.png]]
++ ![[../../../../z_images/Pasted image 20221028174530.png]]
++ ![[../../../../z_images/Pasted image 20221028174726.png]]

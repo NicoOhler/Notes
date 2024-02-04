@@ -1,4 +1,3 @@
-# Anwendungen des MWS
 + Neue Schreibweise für $ln(1+x)$
 	+  Da $ln'(1+x)=\frac{1}{1+x}=\sum_{n=0}^\infty (-1)^n x^n$ für $|x|<1$
 		+ Ableitung der Potenzreihe = $\frac{1}{1+x}$ für $|x|<1$
@@ -15,7 +14,7 @@
 		+ $arctan(x)=\sum_{n=0}^\infty (-1)^{n} \frac{x^{2n+1}}{2n+1})$
 	+  Potenzreihendarstellung  $\sum_{n=0}^\infty \frac{(-1)^{n}}{2n+1} = \frac{π}{4}$
 	+  Annäherung von π möglich
-		+  ![[Pasted image 20211209133537.png]]
+		+  ![[../../../z_images/Pasted image 20211209133537.png]]
 		+  desto größer n, desto mehr Nachkommastellen von π
 
 ### Beweis von Ungleichungen

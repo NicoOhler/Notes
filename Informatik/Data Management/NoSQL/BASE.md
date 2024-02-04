@@ -1,4 +1,3 @@
-# BASE
 ### BASE Properties
 + instead of ACID in [[NoSQL]] systems
 + basically available
@@ -10,7 +9,7 @@
 	+ due to async updates/nodes becoming available again
 + eventual consistency
 	+ after enough time data distributed on all nodes become consistent
-	+ ![[Pasted image 20220608174250.png]]
+	+ ![[../../../z_images/Pasted image 20220608174250.png]]
 
 ### Two-Phase Commit Protocol
 + distributed TX processing
@@ -32,5 +31,5 @@
 	+ availablity - services must be always availabe
 	+ partition tolerance - tolerance of temporarily unreachable noces
 + possible combinations
-	+ ![[Pasted image 20220608173739.png]]
+	+ ![[../../../z_images/Pasted image 20220608173739.png]]
 

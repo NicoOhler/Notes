@@ -1,4 +1,3 @@
-# Wahrscheinlichkeitsraum
 + [[Stichprobenraum]]
 + [[Ereignisse]]
 + [[Wahrscheinlichkeit]]

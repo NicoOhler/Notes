@@ -1,4 +1,3 @@
-# Gene
 + Erbgutinformationen, welche Eigenschaften des Organismus bestimmen
 + Sämtliches Erbgut befinden sich im Nucleus einer jeden Zelle
 	+ Nucleus beinhaltet [[Chromosome]], welche wiederum DNA beinhalten

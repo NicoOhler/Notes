@@ -1,4 +1,3 @@
-# Basis
 + Basis von V ==>  U ⊆ V von linear unabhängigen Vektoren, wenn V = Span(U)
 	+ U ist ein linear unabhängiges Erzeugungssystem von V
 	+ Basis kleinste Erzeugungssystem

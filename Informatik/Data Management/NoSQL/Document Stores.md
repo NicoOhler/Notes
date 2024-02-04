@@ -1,7 +1,6 @@
-# Document Stores
 ### Overview
 + collection of key document [[Key-Value Pairs]]
-	+ ![[Pasted image 20220608182801.png]]
+	+ ![[../../../z_images/Pasted image 20220608182801.png]]
 + documents are often
 	+ [[JSON]]
 	+ [[XML]]

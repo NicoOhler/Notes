@@ -1,4 +1,3 @@
-# Sandwich Theorem (Einzwicksatz)
 Gelten für drei Folgen a, b, c: 
 
 	a(n) ≤ b(n) ≤ c(n) 

@@ -1,4 +1,3 @@
-# Diskrete Verteilungen
 ### Übersicht
 + [[Binomialverteilung]]
 + [[Hypergeometrische Verteilung]]

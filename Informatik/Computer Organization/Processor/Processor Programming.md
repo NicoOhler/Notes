@@ -1,2 +1,2 @@
 ### Design Flow
-+ ![[Pasted image 20221112162719.png]]
++ ![[../../../z_images/Pasted image 20221112162719.png]]

@@ -1,4 +1,3 @@
-# Eigenwerte und Eigenvektoren
  + F: V --> V
 	 + lineare Selbstabbildung
 	 + $Av=λv$

@@ -1,4 +1,3 @@
-# Spreading activation
 ### Basic Principle
 + node spreads to directly connected nodes
 + these nodes further spread to connected nodes

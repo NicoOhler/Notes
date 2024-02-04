@@ -1,4 +1,3 @@
-# Quantoren
 + ∀: "für alle"
 + ∃: "es existiert"
 	+ mit kleiner 1 oder ! versehen ==> "es existiert genau ein"

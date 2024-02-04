@@ -1,4 +1,3 @@
-# Intelligence
 ### Definition of Intelligence
 + key capabilities of intelligent systems
 	+ Perceive

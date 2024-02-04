@@ -1,4 +1,3 @@
-# Graphs KR
 ### Overview
 + represent logic statements
 + structure consisting of nodes/vertices and edges
@@ -13,7 +12,7 @@
 
 ### Adjacency Matrix
 + represents distance/adjacency between all nodes of a graph
-+ ![[Pasted image 20220331095313.png]]
++ ![[../../../../z_images/Pasted image 20220331095313.png]]
 
 ### Use Cases
 + Shortest Path 
@@ -26,7 +25,7 @@
 		+ number of incoming connections
 	+ closeness centrality
 		+ the closer to all other nodes the more central
-		+ ![[Pasted image 20220622174312.png]]
+		+ ![[../../../../z_images/Pasted image 20220622174312.png]]
 
 
 [[Knowledge Representation]]

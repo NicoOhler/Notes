@@ -1,4 +1,3 @@
-# Recommender Systems
 ### Overview
 + assign a relevance score r to a new item based on specific user
 	+ decide how relevant an unknown item $I_{new}$ is to user $U_0$
@@ -31,6 +30,6 @@
 + hybrid of different recommendation paradigms
 
 ### Challenges
-+ ![[Pasted image 20220502175423.png]]
-+ ![[Pasted image 20220502180102.png]]
-+ ![[Pasted image 20220502180245.png]]
++ ![[../../../../z_images/Pasted image 20220502175423.png]]
++ ![[../../../../z_images/Pasted image 20220502180102.png]]
++ ![[../../../../z_images/Pasted image 20220502180245.png]]

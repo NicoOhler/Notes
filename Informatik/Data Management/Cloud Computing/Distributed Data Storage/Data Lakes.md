@@ -1,4 +1,3 @@
-# Data Lakes
 ### Concept
 + store massive amounts of (un/semi)structured data
 + no need for architected schema

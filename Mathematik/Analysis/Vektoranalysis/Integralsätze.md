@@ -1,8 +1,8 @@
 ### Satz von Gauß in der Ebene
 + Sei C der Rand eines Bereichs B, der Normalbereich bezüglich beider Achsen ist
-	+ ![[Pasted image 20220328151243.png]]
+	+ ![[../../../z_images/Pasted image 20220328151243.png]]
 + Rand von B
-	+ ![[Pasted image 20220328151343.png]]
+	+ ![[../../../z_images/Pasted image 20220328151343.png]]
 + $\oint_{\partial B}Pdx+Qdy=\iint_B(\frac{\partial Q}{\partial x}-\frac{\partial P}{\partial y})dx dy$
 	+ muss vollständig definiert sein
 	+ Bereich darf keine Löcher haben
@@ -10,14 +10,14 @@
 	+ Fläche von B $=\frac{1}{2}\oint_{\partial B} -ydx+xdy$
 + Beispiel:
 	+ Integralsatz von Gauß nicht möglich, da undefiniert im Ursprung
-	+ ![[Pasted image 20220404104341.png]]
+	+ ![[../../../z_images/Pasted image 20220404104341.png]]
 
 
 ### Integralsatz von STOKES
 + Vektorfeld von Fläche mit Rand bestimmen
-	+ ![[Pasted image 20220404105041.png]]
+	+ ![[../../../z_images/Pasted image 20220404105041.png]]
 + Herleitung
-	+ ![[Pasted image 20220404105446.png]]
+	+ ![[../../../z_images/Pasted image 20220404105446.png]]
 	+  Variablensubstitution
 		+  $x=x(u,v)$
 		+  $y=y(u,v)$
@@ -25,7 +25,7 @@
 		+ $dx=\frac{\partial x}{\partial u} du +\frac{\partial x}{\partial v} dv$
 		+  $dy=\frac{\partial y}{\partial u} du +\frac{\partial y}{\partial v} dv$
 		+ $dz=\frac{\partial z}{\partial u} du +\frac{\partial z}{\partial v} dv$
-	+ ![[Pasted image 20220404105932.png]]
+	+ ![[../../../z_images/Pasted image 20220404105932.png]]
 		+ 3D Flächenintegral wird zu 2D Kurvenintegral
 		+ Gaußsche Integralsatz
 		+ ...

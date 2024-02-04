@@ -1,4 +1,3 @@
-# Transaction Processing
 ### Online [[Transaction]] Processing
 + write-heavy database workloads
 + applications
@@ -8,5 +7,5 @@
 + benchmarks
 	+ measures all processing done
 + e.g. TPC-C benchmark
-	+ ![[Pasted image 20220519141258.png]]
+	+ ![[../../../../z_images/Pasted image 20220519141258.png]]
 

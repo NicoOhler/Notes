@@ -1,4 +1,3 @@
-# Orthonormieren nach GRAM-SCHMIDT
 + im reellen unitären VR $φ:=<(v,w)>=arcos(\frac{<v,w>}{||v||||w||})$
 	+ $-1≤\frac{<v,w>}{||v||||w||}≤1$
 		+ wegen Schwarzsche Ungleichung
@@ -24,7 +23,7 @@
 
 ### Orthonormierungsverfahren von GRAM-SCHMIDT
 + Orthogonale Projektion des $v_2$ auf den von $v_1$  aufgespannten Unterraum
-	+ ![[Pasted image 20211211140604.png]]
+	+ ![[../../../z_images/Pasted image 20211211140604.png]]
 	+ $v_2^*=<v_2,v_1'>$$v_1'$
 		+ v' normierter Vektor von v
 + Verfahren um Orthonormalbasis zu bilden
@@ -37,7 +36,7 @@
 			+ $u_i=v_i-v_i^*$
 				+ $v_i=\sum_{k=1}^{i-1} <v_i,w_k>w_k$
 + Beispiel
-	+ ![[Pasted image 20211211164915.png]]
-	+ ![[Pasted image 20211211165217.png]]
+	+ ![[../../../z_images/Pasted image 20211211164915.png]]
+	+ ![[../../../z_images/Pasted image 20211211165217.png]]
 
 [[Unitäre Räume]] [[Schwarzsche Ungleichung]]

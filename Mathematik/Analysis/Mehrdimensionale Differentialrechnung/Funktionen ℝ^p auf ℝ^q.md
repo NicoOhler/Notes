@@ -1,4 +1,3 @@
-# Funktionen $ℝ^p$-->$ℝ^q$ 
 + f: $ℝ^p$-->$ℝ^q$ 
 	+ liefert Jacobi Matrix q×p
 	+ n-te Spalte von A entspricht Ableitung aller Funktionen nach n-ter Variable

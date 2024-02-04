@@ -1,8 +1,7 @@
-# Planare Graphen
 ### Planare Graphen
 + Graph G ist planar <==> G in Ebene ohne Überkreuzung zeichenbar
-	+ ![[Pasted image 20220525154322.png]]
-	+ ![[Pasted image 20220525154342.png]]
+	+ ![[../../../z_images/Pasted image 20220525154322.png]]
+	+ ![[../../../z_images/Pasted image 20220525154342.png]]
 +  jeder planare Graph kann mit ≤4 Farben gefärbt werden
 
 ### Unterteilung

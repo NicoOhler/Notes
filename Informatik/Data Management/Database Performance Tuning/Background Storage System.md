@@ -1,4 +1,3 @@
-# Background Storage System
 ### Segments, Pages and Blocks
 + segments
 	+ storage unit of DB objects
@@ -8,7 +7,7 @@
 	+ postgres 8KB by default
 + block
 	+ smallest addressable unit on disk
-+ ![[Pasted image 20220505104430.png]]
++ ![[../../../z_images/Pasted image 20220505104430.png]]
 
 ### Buffer & Storage Management
 + buffer management at granularity of pages
@@ -21,8 +20,8 @@
 	+ tuple/row identifier
 	+ stable ID, even if records reorganized in memory
 	+ allows reorganizing data without altering address references
-	+ ![[Pasted image 20220505104735.png]]
+	+ ![[../../../z_images/Pasted image 20220505104735.png]]
 	+ page slot directory holds tuple offsets (byte position) within page
-	+ ![[Pasted image 20220505105122.png]]
+	+ ![[../../../z_images/Pasted image 20220505105122.png]]
 
 [[Database Compression Techniques]]

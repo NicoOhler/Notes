@@ -1,9 +1,8 @@
-# Indexing
 + creating secondary (nonclustered) index possible
 	+ clustered ==> tuples sorted by index
 	+ nonclustered ==> sorted attribute with tuple references?
-+ ![[Pasted image 20220412150900.png]]
-+ ![[Pasted image 20220412151005.png]]
++ ![[../../../z_images/Pasted image 20220412150900.png]]
++ ![[../../../z_images/Pasted image 20220412151005.png]]
 + can specify uniqueness, order and indexing method
 	+ btree
 	+ hash

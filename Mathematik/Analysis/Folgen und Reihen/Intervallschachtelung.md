@@ -1,4 +1,3 @@
-# Intervallschachtelung
 Wird eine Intervallfolge umso kleiner je größer n gilt:
 Die Folgen a und b konvergieren zu einem Punkt x.
 

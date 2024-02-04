@@ -1,4 +1,3 @@
-# Embedded SQL
 + obsolete, limited relevance nowadays
 + predecessor to [[Call Level Interfaces]]
 + [[SQL]] embedded in host language (C, Java, ...)
@@ -8,5 +7,5 @@
 	+ more overhead
 	+ separate preprocessor
 + examples:
-	+ ![[Pasted image 20220427120442.png]]
-	+ ![[Pasted image 20220427120450.png]]
+	+ ![[../../../z_images/Pasted image 20220427120442.png]]
+	+ ![[../../../z_images/Pasted image 20220427120450.png]]

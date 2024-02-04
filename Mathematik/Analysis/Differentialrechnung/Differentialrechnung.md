@@ -1,4 +1,3 @@
-# Differentialrechnung
 ### Probleme
 + Tangentenproblem
 	+ Gerade, welche Funktionsgraph in x<sub>0</sub> berührt

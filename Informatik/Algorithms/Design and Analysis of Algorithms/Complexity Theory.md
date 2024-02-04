@@ -17,7 +17,7 @@
 	+ if there is a tour $\Rightarrow$ there is a possible seating order
 	+ if there is a seating $\Rightarrow$ finding a tour path is easy
 		+ no tour $\Rightarrow$ no seating
-	+ ![[Pasted image 20231003170559.png]]
+	+ ![[../../../z_images/Pasted image 20231003170559.png]]
 + the dinner party problem can be also reduced to the city tour problem
 
 ### Complexity Classes
@@ -34,28 +34,28 @@
 + Undecidable
 	+ problems which cannot be solved no matter how much time or space is allowed
 	+ must be proven that no such algorithm exists
-+ ![[Pasted image 20231003172704.png]]
++ ![[../../../z_images/Pasted image 20231003172704.png]]
 
 ### Types of Polynomial Time Reductions
-+ ![[Pasted image 20231003173203.png]]
-+ ![[Pasted image 20231003173301.png]]
++ ![[../../../z_images/Pasted image 20231003173203.png]]
++ ![[../../../z_images/Pasted image 20231003173301.png]]
 	+ special case of Cook reductions
-+ ![[Pasted image 20231003173516.png]]
++ ![[../../../z_images/Pasted image 20231003173516.png]]
 
 ### NP-completeness
 + Problem B is NP-complete if
 	+ B ∈ NP
 	+ B is NP-hard
-		+ ![[Pasted image 20231003173825.png]]
-+ ![[Pasted image 20231003175028.png]]
+		+ ![[../../../z_images/Pasted image 20231003173825.png]]
++ ![[../../../z_images/Pasted image 20231003175028.png]]
 + ways to show that B is NP-complete
-	+ ![[Pasted image 20231003174119.png]]
+	+ ![[../../../z_images/Pasted image 20231003174119.png]]
 		+ possibility 2 works because 
-			+ ![[Pasted image 20231115155357.png]]
+			+ ![[../../../z_images/Pasted image 20231115155357.png]]
 				+ all problems in NP can be reduced to C
 					+ since C is NP-complete
 				+ C can be reduced to B
-				+ ![[Pasted image 20231003174042.png]]
+				+ ![[../../../z_images/Pasted image 20231003174042.png]]
 	+ must also show that B ∈ NP
 		+ otherwise B might be NP-hard but B ∉ NP
 + ways to show that B is NP-hard

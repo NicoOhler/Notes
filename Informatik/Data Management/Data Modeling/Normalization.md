@@ -1,7 +1,6 @@
-# Normalization
 + reversible process of changing database schema for better quality and simplicity
 + step by step
-	+ ![[Pasted image 20220327154334.png]]
+	+ ![[../../../z_images/Pasted image 20220327154334.png]]
 + 4,5,6th Normal Form also exists
 + Denormalization
 	+ may improve performance for read-only DBs

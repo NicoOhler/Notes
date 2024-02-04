@@ -1,4 +1,3 @@
-# Quicksort
 ### Übersicht
 + [[Sortierverfahren]]
 + gegeben Array von unterschiedlichen Elementen
@@ -37,9 +36,9 @@
 	+ ~0.577
 + $\frac{C_n}{2nln(n)}$ konvergiert gegen 1 asymptotisch
 + Beweis
-	+ ![[Pasted image 20220508124455.png]]
-	+ ![[Pasted image 20220508124704.png]]
-	+ ![[Pasted image 20220508124754.png]]
-	+ ![[Pasted image 20220508124917.png]]
+	+ ![[../../../z_images/Pasted image 20220508124455.png]]
+	+ ![[../../../z_images/Pasted image 20220508124704.png]]
+	+ ![[../../../z_images/Pasted image 20220508124754.png]]
+	+ ![[../../../z_images/Pasted image 20220508124917.png]]
 
 [[Nicht Lineare Rekursion]]

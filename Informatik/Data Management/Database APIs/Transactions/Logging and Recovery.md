@@ -1,4 +1,3 @@
-# Logging and Recovery
 ### Failure Types
 + transaction failures
 	+ violated integrity constraints
@@ -15,10 +14,10 @@
 	+ R4-Recovery: global redo of all committed TX
 
 ### Database Transaction Log
-+ ![[Pasted image 20220519155234.png]]
++ ![[../../../../z_images/Pasted image 20220519155234.png]]
 
 ### Logging Types
-+ ![[Pasted image 20220520151204.png]]
++ ![[../../../../z_images/Pasted image 20220520151204.png]]
 
 ### Recovery on Storage Class Memory
-+ ![[Pasted image 20220520151515.png]]
++ ![[../../../../z_images/Pasted image 20220520151515.png]]

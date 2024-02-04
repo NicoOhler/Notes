@@ -1,4 +1,3 @@
-# Lineare Abbildungen
 + Lineare Abbildungen respektieren Linearkombinationen
 +  F: $ℝ^n$-->$ℝ^m$, $\overrightarrow{x}$-->$\overrightarrow{y}=A-\overrightarrow{x}$
 	+ F ist linear, wenn 

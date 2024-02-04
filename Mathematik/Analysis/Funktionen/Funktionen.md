@@ -1,4 +1,3 @@
-# Funktionen
 + Eine Abbildung f: I --> ℝ (I⊆ℝ, zumeist ein Intervall) heißt reelle Funktion
 	+ injektiv
 		+ Element der Zielmenge höchstens einmal von f(x) abgebildet

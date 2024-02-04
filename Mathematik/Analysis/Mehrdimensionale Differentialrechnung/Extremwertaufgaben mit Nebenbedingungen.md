@@ -1,4 +1,3 @@
-# Extremwertaufgaben mit Nebenbedingungen
 + Finde Extrema von $f(x_1,...,x_n)$ unter den Nebenbedingungen
 	+ $N_1(x_1,...,x_n)=0$
 	+ ...
@@ -22,7 +21,7 @@
 		+ Satz von Weierstraß ==> Min und Max muss existieren
 		+ Min und Max durch logische Vergleiche bestimmen? 
 + Anschauliches Beispiel
-	+ ![[Pasted image 20220301130440.png]]
+	+ ![[../../../z_images/Pasted image 20220301130440.png]]
 
 
 [[Mehrdimensionale Differentialrechnung]]

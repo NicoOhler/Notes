@@ -1,11 +1,10 @@
-# Natural Language Processing
 ### Overview
 + how can computers understand natural (human) language
 +  intersection between
 	+ linguistics
 	+ computer science
 	+ electrical engineering (speech synthesis)
-+ ![[Pasted image 20220425144557.png]]
++ ![[../../../z_images/Pasted image 20220425144557.png]]
 + NLP is language depending
 	+ most progess made for English
 

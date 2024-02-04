@@ -10,14 +10,14 @@
 		+ traffic inaccessible without password
 		+ recording genuine user's handshake
 			+ allow offline bruteforce
-			+ ![[Pasted image 20240116211902.png]]
+			+ ![[../../z_images/Pasted image 20240116211902.png]]
 			+ easy to derive if SSID + password known
 		+ connection control not authenticated/encrypted
 			+ easy forging of control frames 
 		+ no forward secrecy
 		+ weak per-user key derivation
 			+ if master password is known
-			+ ![[Pasted image 20240116211708.png]]
+			+ ![[../../z_images/Pasted image 20240116211708.png]]
 			+ weak to rainbow tables => no common SSID/password
 	+ WPA3
 		+ not available on every device
@@ -85,16 +85,16 @@
 		+ multiple origins => put source in Origin header and check server-side
 + Dealing with data
 	+ evaluating JSON instead of parsing 
-		+ ![[Pasted image 20240119134808.png]]
-		+ ![[Pasted image 20240119135103.png]]
+		+ ![[../../z_images/Pasted image 20240119134808.png]]
+		+ ![[../../z_images/Pasted image 20240119135103.png]]
 	+ SQL injections
-		+ ![[Pasted image 20240119134946.png]]
+		+ ![[../../z_images/Pasted image 20240119134946.png]]
 		+ string sanitization is very prone to errors
 		+ Prepared Statements
-			+ ![[Pasted image 20240119135132.png]]
+			+ ![[../../z_images/Pasted image 20240119135132.png]]
 	+ PHP injections
-		+ ![[Pasted image 20240119135313.png]]
-		+ ![[Pasted image 20240119135327.png]]
+		+ ![[../../z_images/Pasted image 20240119135313.png]]
+		+ ![[../../z_images/Pasted image 20240119135327.png]]
 	+ Cross-Site Scripting XSS
 		+ tricks website into sending JavaScript to the target
 		+ bypasses same-origin protection
@@ -121,20 +121,20 @@
 					+ embedded frames
 					+ fetch
 					+ ...
-				+ ![[Pasted image 20240119140938.png]]
-					+ ![[Pasted image 20240119140949.png]]
+				+ ![[../../z_images/Pasted image 20240119140938.png]]
+					+ ![[../../z_images/Pasted image 20240119140949.png]]
 				+ https://csp-evaluator.withgoogle.com/
 			+ Strict Origin Separation
 				+ have multiple origins for different kinds of data
-					+ ![[Pasted image 20240119141203.png]]
+					+ ![[../../z_images/Pasted image 20240119141203.png]]
 					+ e.g. CPS whitelists Origin B only for images 
 			+ SubResource Integrity SRI
 				+ verify external 3rd-party scripts (e.g. libraries) have not been compromised
-				+ ![[Pasted image 20240119141501.png]]
+				+ ![[../../z_images/Pasted image 20240119141501.png]]
 				+ only load script if it matches the provided hash
 					+ https://www.srihash.org/
 				+ include tag in CSP whitelist
-					+ ![[Pasted image 20240119141652.png]]
+					+ ![[../../z_images/Pasted image 20240119141652.png]]
 	+ Client-side checks without server-side checks
 		+ always use server-side checks
 		+ attacker may not use the client

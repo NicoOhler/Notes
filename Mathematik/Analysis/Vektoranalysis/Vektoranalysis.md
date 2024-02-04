@@ -1,4 +1,3 @@
-# Vektoranalysis 
 ### Kurvenintegral
 + Sei $U⊆ℝ^2 (bzw. ℝ^3)$ offen. Dann ist $\overrightarrow{V}:U$-->$ℝ^2 (bzw. ℝ^3)$ ein Vektorfeld
 	+  $\overrightarrow{V}$ besteht aus Koordinatenfunktionen
@@ -13,9 +12,9 @@
 + Kurven/Wegintegral ist unabhängig von orientierter Parametrisierung
 	+ lediglich von Kurve und Vektorfeld
 + Bewegung entlang anderer Kurve in selbem Bereich ==> W anders
-	+ ![[Pasted image 20220316090732.png]]
-	+ ![[Pasted image 20220316091028.png]]
+	+ ![[../../../z_images/Pasted image 20220316090732.png]]
+	+ ![[../../../z_images/Pasted image 20220316091028.png]]
 + Weitere Beispiele
-	+ ![[Pasted image 20220316091413.png]]
+	+ ![[../../../z_images/Pasted image 20220316091413.png]]
 
 [[Mehrdimensionale Integralrechnung]] [[Mehrdimensionale Differentialrechnung]]

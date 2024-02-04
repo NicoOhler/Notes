@@ -1,4 +1,3 @@
-# Chinesische Restsatz
 + gesucht Menge aller Lösungen x∈ℤ der simultanen Kongruenzen
 	+  $x≡c_1$ mod $m_1$	 
 	+  $x≡c_2$ mod $m_2$	
@@ -24,7 +23,7 @@
 	+ euklidische Alg.
 		+ l=1
 			+ $A_1=-1$
-			+ ![[Pasted image 20220319102428.png]]
+			+ ![[../../../z_images/Pasted image 20220319102428.png]]
 		+ l=2
 			+ $A_2=-1$
 		+ l=3

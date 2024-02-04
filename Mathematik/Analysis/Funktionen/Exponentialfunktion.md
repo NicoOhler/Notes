@@ -1,4 +1,3 @@
-# Exponentialfunktion
 + exp: ℝ->ℝ
 + x->$\sum_{n=0}^∞ \frac{x^n}{n!}$
 + konvergiert für alle x∈ℝ

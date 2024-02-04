@@ -1,4 +1,3 @@
-# Reihen und Folgen
 ### Folge
 + Auflistung von (un)endlichen fortlaufend nummerierten Objekten (z.B. Zahlen)
 + Konvergenz nachweisbar mit [[Cauchy-Kriterium]] oder [[Monotonie]] und [[Beschränktheit]]

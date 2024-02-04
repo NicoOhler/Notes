@@ -12,5 +12,5 @@
 	+ [[Bäume & Spannbäume]]
 
 ### Eigenschaften
-+ ![[Pasted image 20221114133915.png]]
-+ ![[Pasted image 20221114134249.png]]
++ ![[../../../../../z_images/Pasted image 20221114133915.png]]
++ ![[../../../../../z_images/Pasted image 20221114134249.png]]

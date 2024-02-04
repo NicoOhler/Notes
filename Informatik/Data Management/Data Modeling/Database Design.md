@@ -1,4 +1,3 @@
-# DB Design
 + data model and schema hard to change afterwards
 	+ properly plan everything out before hand
 + simplified modelling fine for brainstorming

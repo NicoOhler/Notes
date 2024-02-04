@@ -8,4 +8,4 @@
 + [[BSort]]
 
 ### Eigenschaften
-![[Pasted image 20221028155851.png]]
+![[../../../../z_images/Pasted image 20221028155851.png]]

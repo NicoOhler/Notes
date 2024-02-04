@@ -5,7 +5,7 @@
 	+ einfach verkettet
 	+ doppelt verkettet
 	+ zirkulär verkettet
-+ ![[Pasted image 20221016133318.png]]
++ ![[../../../../z_images/Pasted image 20221016133318.png]]
 
 ### O-Notation von Operationen
 + Suchen O(n)

@@ -1,4 +1,3 @@
-# Taylorsche Formel
 + Näherung $f(x)=f(x_0)+f'(x_0)(x-x_0)+r(x)(x-x_0)$
 + gesucht sind höhere Näherungen
 	+ Sei f: (a,b)-->ℝ diffbar

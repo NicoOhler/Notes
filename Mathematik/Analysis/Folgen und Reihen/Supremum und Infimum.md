@@ -1,4 +1,3 @@
-# Supremum und Infimum
 + Jede beschränkte Folge besitzt eine größte und eine kleinste Schranke
 	+ Supremum s ==> kleinste obere Schranke
 		+ größte Häufungspunkt

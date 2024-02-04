@@ -1,4 +1,3 @@
-# Gaußsche Eliminationsverfahren
 ## Algorithmus
 
 ## Lösungssatz

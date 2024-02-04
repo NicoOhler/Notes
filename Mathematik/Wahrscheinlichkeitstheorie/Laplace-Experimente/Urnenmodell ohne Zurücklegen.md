@@ -1,4 +1,3 @@
-# Urnenmodell ohne Zurücklegen
 ### Definition
 + Urne enthält N Kugeln mit $L ≥ 2$ Farben
 + $N_i$ Kugeln mit Farben $L_i$
@@ -14,14 +13,14 @@
 
 ### Berechnung
 + mittels [[Hypergeometrische Verteilung]]
-+ ![[Pasted image 20221004161550.png]] 
++ ![[../../../z_images/Pasted image 20221004161550.png]] 
 
 ### Beispiele  
 + Lotto
-	+ ![[Pasted image 20221004155732.png]]
-	+ ![[Pasted image 20221004160202.png]]
+	+ ![[../../../z_images/Pasted image 20221004155732.png]]
+	+ ![[../../../z_images/Pasted image 20221004160202.png]]
 + Fragenkatalog
-	+ ![[Pasted image 20221004160235.png]]
-	+ ![[Pasted image 20221004160638.png]]
+	+ ![[../../../z_images/Pasted image 20221004160235.png]]
+	+ ![[../../../z_images/Pasted image 20221004160638.png]]
 
 [[Laplace-Experimente]] [[Binomische Lehrsatz]]

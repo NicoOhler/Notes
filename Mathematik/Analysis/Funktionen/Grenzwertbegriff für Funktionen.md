@@ -1,4 +1,3 @@
-# Grenzwertbegriff für Funktionen
 + f: \[a,b]\\{$x_0$}-->ℝ
 + Wenn ∀ε>0 ∃δ>0 ∀x∈\[a,b]: 0<|x-$x_0$|<δ ==> |f(x)-A|<ε
 	+ $A=\lim_{x \to x_0} f(x)$

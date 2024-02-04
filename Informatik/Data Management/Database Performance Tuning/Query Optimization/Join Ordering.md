@@ -1,14 +1,13 @@
-# Join Ordering
 ### Join Ordering Problem
 + given a join query graph, find the optimal join ordering
 + usually NP-hard
 	+ polynomical algorithms exist for special cases
 + search space sizes
-	+ ![[Pasted image 20220512145848.png]]
+	+ ![[../../../../z_images/Pasted image 20220512145848.png]]
 
 ### Join Order Seach Strategies
 + tradeoff between optimal plan and compile time
-+ ![[Pasted image 20220512150207.png]]
++ ![[../../../../z_images/Pasted image 20220512150207.png]]
 + naive full enumeration
 	+ infeasible for large queries
 + exact dynamic programming
@@ -21,7 +20,7 @@
 	+ further optimization on best
 		+ e.g. random mutations (as with genetics)
 + approximate algorithms
-+ ![[Pasted image 20220512150247.png]]
++ ![[../../../../z_images/Pasted image 20220512150247.png]]
 
 ### Greedy Join Ordering
 + does not always return optimal join ordering
@@ -30,7 +29,7 @@
 	+ calculate costs of previous join with next table
 	+ repeat until every table is used
 + example
-	+ ![[Pasted image 20220512150833.png]]
+	+ ![[../../../../z_images/Pasted image 20220512150833.png]]
 
 ### Dynamic Programming Join Ordering
 + exact enumeration via dynamic programming
@@ -42,6 +41,6 @@
 	+ split into independent subproblems
 	+ solve subproblems
 	+ combine solutions
-	+ ![[Pasted image 20220512151517.png]]
+	+ ![[../../../../z_images/Pasted image 20220512151517.png]]
 
 [[Plan Optimization]]

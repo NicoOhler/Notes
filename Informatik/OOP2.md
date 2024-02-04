@@ -159,9 +159,9 @@
 			+ `read()/write()` execute `before/really/afterRead/Write()`
 			+ `before/afterRead/Write` synchronized
 + possible problems and solutions
-	+ ![[Pasted image 20230124122803.png]]
-	+ ![[Pasted image 20230124122952.png]]
-	+ ![[Pasted image 20230124123015.png]]
+	+ ![[../z_images/Pasted image 20230124122803.png]]
+	+ ![[../z_images/Pasted image 20230124122952.png]]
+	+ ![[../z_images/Pasted image 20230124123015.png]]
 
 ### Data Stream Processing
 + create stream
@@ -173,7 +173,7 @@
 	+ etc
 + parallel processing
 	+ executed in threads parallel for batches of the stream
-	+ ![[Pasted image 20230121182514.png]]
+	+ ![[../z_images/Pasted image 20230121182514.png]]
 
 ### [[Networking]]
 + network types
@@ -189,7 +189,7 @@
 		+ IP-Routing, LTE, 5G
 + topologies
 	+ minimum spanning tree in practice
-	+ ![[Pasted image 20230121183200.png]]
+	+ ![[../z_images/Pasted image 20230121183200.png]]
 + TCP
 	+ `Socket` and `ServerSocket`
 		+ `getInput/OutputStream()`
@@ -201,9 +201,9 @@
 		+ duplicates
 		+ flow management
 	+ bidirectional
-	+ ![[Pasted image 20230121183545.png]]
+	+ ![[../z_images/Pasted image 20230121183545.png]]
 	+ abstract client/server
-		+ ![[Pasted image 20230121183617.png]]
+		+ ![[../z_images/Pasted image 20230121183617.png]]
 + UDP
 	+ `DatagramPacket` and `DatagramSocket`
 	+ connectionless
@@ -212,7 +212,7 @@
 	+ supports broad/multicasting 
 		+ `MulticastSocket`
 	+ abstract client/server
-		+ ![[Pasted image 20230121183637.png]]
+		+ ![[../z_images/Pasted image 20230121183637.png]]
 
 ### Communication
 + temporal uncoupling
@@ -225,7 +225,7 @@
 + transient communication
 	+ receiver must be currently running
 	+ request discarded if delivery not possible
-	+ ![[Pasted image 20230121193628.png]]
+	+ ![[../z_images/Pasted image 20230121193628.png]]
 + persistent communication
 	+ receiver must not be currently runnning
 	+ message stored on middleware 
@@ -233,7 +233,7 @@
 			+ near client
 		+ synchronous
 			+ near receiver
-	+ ![[Pasted image 20230121193648.png]]
+	+ ![[../z_images/Pasted image 20230121193648.png]]
 + pull notification
 	+ receivers requests/polls information
 + push notification
@@ -246,53 +246,53 @@
 	+ delivery guarantee
 	+ receiving order
 + add/remove client, update list status
-	+ ![[Pasted image 20230121194902.png]]
+	+ ![[../z_images/Pasted image 20230121194902.png]]
 + JGroups
 	+ protocol stack
 		+ layered
 		+ UDP (optional TCP)
 		+ FRAG (fragmentation)
 		+ MERGE
-			+ ![[Pasted image 20230121195130.png]]
+			+ ![[../z_images/Pasted image 20230121195130.png]]
 		+ GMS (group membership protocol)
 		+ CAUSAL (ordering of messages and answers)
 	+ channel
 		+ low level functionality for join/leave/send/receive
-		+ ![[Pasted image 20230121195323.png]]
+		+ ![[../z_images/Pasted image 20230121195323.png]]
 	+ building blocks
 		+ high level functionality
-		+ ![[Pasted image 20230121195453.png]]
-	+ ![[Pasted image 20230121195210.png]]
+		+ ![[../z_images/Pasted image 20230121195453.png]]
+	+ ![[../z_images/Pasted image 20230121195210.png]]
 	+ CODE?
 + message queues
 	+ middleware for persistent message storage
 		+ potentially SSL, transactional, data transformation
 	+ decoupling of space and time
-	+ ![[Pasted image 20230121195715.png]]
+	+ ![[../z_images/Pasted image 20230121195715.png]]
 + publish subscribe model
 	+ publishers create topics and publishes to them
 	+ subscribers subscribe to topics and are notified/receive 
 	+ participants independent
 		+ do not know each other
 	+ broker
-		+ ![[Pasted image 20230121200201.png]]
-		+ ![[Pasted image 20230121200304.png]]
+		+ ![[../z_images/Pasted image 20230121200201.png]]
+		+ ![[../z_images/Pasted image 20230121200304.png]]
 	+ subscription models
 		+ channel (topics given by channel)
 		+ topic (event attribute)
 		+ content (event attributes)
 		+ type (topics of object type)
 + distributed shared memory = DRAM
-	+ ![[Pasted image 20230121200458.png]]
-	+ ![[Pasted image 20230122142621.png]]
+	+ ![[../z_images/Pasted image 20230121200458.png]]
+	+ ![[../z_images/Pasted image 20230122142621.png]]
 + Tuple Space
 	+ Distributed Associative Memory
 	+ content-addressable memory
 	+ asynchronous publish-subscribe system
-	+ ![[Pasted image 20230122142757.png]]
+	+ ![[../z_images/Pasted image 20230122142757.png]]
 	+ implementation
-		+ ![[Pasted image 20230122143051.png]]
-	+ ![[Pasted image 20230122143255.png]]
+		+ ![[../z_images/Pasted image 20230122143051.png]]
+	+ ![[../z_images/Pasted image 20230122143255.png]]
 
 ### Reactive Software
 + goals
@@ -324,41 +324,41 @@
 		+ blocking threads reduce throughput
 		+ needs to be shutdown
 	+ code snippets
-		+ ![[Pasted image 20230124111020.png]]
-		+ ![[Pasted image 20230124111959.png]]
+		+ ![[../z_images/Pasted image 20230124111020.png]]
+		+ ![[../z_images/Pasted image 20230124111959.png]]
 		+ future-style
-			+ ![[Pasted image 20230124112226.png]]
+			+ ![[../z_images/Pasted image 20230124112226.png]]
 		+ callback-style
-			+ ![[Pasted image 20230124112315.png]]
+			+ ![[../z_images/Pasted image 20230124112315.png]]
 		+ `CompletableFuture`
-			+ ![[Pasted image 20230124112600.png]]
+			+ ![[../z_images/Pasted image 20230124112600.png]]
 		+ `parallelStream`
-			+ ![[Pasted image 20230124112836.png]]
+			+ ![[../z_images/Pasted image 20230124112836.png]]
 
 ### [[Transaction]] Concepts
 + set of operations executed atomically
 + provides [[ACID]]
-	+ ![[Pasted image 20230122151611.png]]
+	+ ![[../z_images/Pasted image 20230122151611.png]]
 +  serial equivalence 
 	+ interleaving of transactions/operations is serially equivalent if the combined effect is the same as if performed sequentially
 + potential problems
 	+ lost update
-		+ ![[Pasted image 20230122151950.png]]
-		+ ![[Pasted image 20230122180115.png]]
+		+ ![[../z_images/Pasted image 20230122151950.png]]
+		+ ![[../z_images/Pasted image 20230122180115.png]]
 	+ inconsistent retreival
-		+ ![[Pasted image 20230122175621.png]]
-		+ ![[Pasted image 20230122180402.png]]
+		+ ![[../z_images/Pasted image 20230122175621.png]]
+		+ ![[../z_images/Pasted image 20230122180402.png]]
 	+ dirty reads
-		+ ![[Pasted image 20230122175820.png]]
+		+ ![[../z_images/Pasted image 20230122175820.png]]
 + compatibility
-	+ ![[Pasted image 20230122180457.png]]
-	+ ![[Pasted image 20230122180548.png]]
+	+ ![[../z_images/Pasted image 20230122180457.png]]
+	+ ![[../z_images/Pasted image 20230122180548.png]]
 + locking
-	+ ![[Pasted image 20230122180633.png]]
-+ ![[Pasted image 20230122180718.png]]
-+ ![[Pasted image 20230122180854.png]]
+	+ ![[../z_images/Pasted image 20230122180633.png]]
++ ![[../z_images/Pasted image 20230122180718.png]]
++ ![[../z_images/Pasted image 20230122180854.png]]
 + two-phase locking
-	+ ![[Pasted image 20230122180945.png]]
+	+ ![[../z_images/Pasted image 20230122180945.png]]
 + deadlock detection
-	+ ![[Pasted image 20230122181144.png]]
-+ ![[Pasted image 20230122181219.png]]
+	+ ![[../z_images/Pasted image 20230122181144.png]]
++ ![[../z_images/Pasted image 20230122181219.png]]

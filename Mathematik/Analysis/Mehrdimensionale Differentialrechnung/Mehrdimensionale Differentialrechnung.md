@@ -1,4 +1,3 @@
-# Mehrdimensionale Differentialrechnung
 + $U⊆ℝ^n$ ist offen, wenn $∀\overrightarrow{x}∈U ∃ε>0: B(\overrightarrow{x},ε)⊆U$
 	+ $B(\overrightarrow{x},r)={\overrightarrow{x}∈ℝ^n : ||\overrightarrow{x}-\overrightarrow{y}||<r}$
 	+ um jeden Punkt gibt es Platz
@@ -33,13 +32,13 @@
 	+ partielle Ableitung entlang einer Richtung möglich
 	+ entspricht Änderungsrate entlang des Vektor n
 	+ Richtung ≠ Achsen/Variablen
-	+ ![[Pasted image 20220121171531.png]]
+	+ ![[../../../z_images/Pasted image 20220121171531.png]]
 	+ $\frac{\partial f}{\partial \overrightarrow{n}}=l(\overrightarrow{n})$
 		+ gilt wenn f in $x_0$ differenzierbar
 
 ### Gradient von f
 + Koordinaten der linearen Abbildung als Vektor
-+ ![[Pasted image 20220121172207.png]]
++ ![[../../../z_images/Pasted image 20220121172207.png]]
 + $\frac{\partial f}{\partial \overrightarrow{n}}=<grad(f)(\overrightarrow{x_0}),\overrightarrow{n}>$
 	+ Richtungsableitung = Skalarprodukt von Gradient und Richtungsvektor
 	+ $<grad(f)(\overrightarrow{x_0}),\overrightarrow{n}>$

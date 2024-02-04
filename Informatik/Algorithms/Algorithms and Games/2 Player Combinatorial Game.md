@@ -40,8 +40,8 @@
 	+ also know in how many half-moves
 
 ### Game-Tree vs State-Space Complexity
-+ ![[Pasted image 20231005120516.png]]
-+ ![[Pasted image 20231005120803.png]]
++ ![[../../../z_images/Pasted image 20231005120516.png]]
++ ![[../../../z_images/Pasted image 20231005120803.png]]
 
 ### Storing Game States
 + needs to be efficient and complete
@@ -63,14 +63,14 @@
 		+ ???
 
 ### Processing Game States
-+ ![[Pasted image 20231005121422.png]]
++ ![[../../../z_images/Pasted image 20231005121422.png]]
 + state code
 	+ non-negative integer
-	+ ![[Pasted image 20231005121639.png]]
+	+ ![[../../../z_images/Pasted image 20231005121639.png]]
 	+ draw does not contain the number of half moves
 		+ due to circles/infinite loops
 		+ exceptions exist such as Connect 4
 	+ determine action based on code
-		+ ![[Pasted image 20231005122005.png]]
+		+ ![[../../../z_images/Pasted image 20231005122005.png]]
 	+ compute codes
-		+ ![[Pasted image 20231005143532.png]]
+		+ ![[../../../z_images/Pasted image 20231005143532.png]]

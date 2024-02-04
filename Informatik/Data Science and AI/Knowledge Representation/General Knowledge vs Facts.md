@@ -1,4 +1,3 @@
-# General Knowledge vs Facts
 ### General Knowledge
 + generic, conceptual
 + about classes/concepts instead of concrete objects

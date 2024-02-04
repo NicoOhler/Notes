@@ -1,4 +1,3 @@
-# Call Level Interfaces
 ### Overview
 + [[API]] of defined functions for dynamic [[SQL]]
 + allow database interaction using (C, Java, ...)

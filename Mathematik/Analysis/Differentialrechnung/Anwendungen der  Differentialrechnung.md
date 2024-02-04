@@ -1,4 +1,3 @@
-# Anwendungen der Differentialrechnung
 + f: I-->ℝ, $x_0∈I$
 	+  lokale Extremstelle
 		+ $x_0$ lokales Maxiumum

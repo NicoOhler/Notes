@@ -1,4 +1,3 @@
-# Information Retrieval
 ### Overview
 + assign a relevance score to documents based on a query
 + ranks documents by relevance

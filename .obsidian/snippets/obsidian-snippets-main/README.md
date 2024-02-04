@@ -1,4 +1,3 @@
-# obsidian-snippets
 This is a collection of random snippets I've made. Hopefully it will grow over time.
 
 # Table of Contents

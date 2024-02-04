@@ -1,7 +1,6 @@
-# Höhere Ableitungen
 ### Höhere Ableitungen
 + f: $ℝ^p$-->$ℝ$
-+ ![[Pasted image 20220227121847.png]]
++ ![[../../../z_images/Pasted image 20220227121847.png]]
 
 ### Satz von Schwartz
 + wenn
@@ -15,7 +14,7 @@
 	+ alle Ableitungen der Ordung k (k<n) existieren (und stetig sind)
 + Hesse-Matrix
 	+ enthält alle möglichen zweiten Ableitunge
-	+ ![[Pasted image 20220227122625.png]]
+	+ ![[../../../z_images/Pasted image 20220227122625.png]]
 	+ $H=H^T$, wenn Satz von Schwartz gilt
 
 [[Mehrdimensionale Differentialrechnung]]

@@ -1,4 +1,3 @@
-# Allgemeine Vektorräume
 + Insofern gewisse Rechengesetze gelten ist (V,+,\*) ein K-Vektorraum
 	+ (V,+,\*) = eine Menge V zusammen mit Addition und Multiplikation
 	+ V ≠ {} 

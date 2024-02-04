@@ -1,18 +1,22 @@
+# "Usage: python3 update_paths.py <directory>"
+
 import os
 import re
 import sys
 import pathlib
 
-"""
-if len(sys.argv) != 2:
-    print("Usage: python replace_paths.py <directory>")
-    sys.exit(1)
 
-directory = sys.argv[1]
-if not os.path.isdir(directory):
-    print("The given directory does not exist.")
-    sys.exit(1)
-"""
+def handle_args():
+    if len(sys.argv) != 2:
+        print("Usage: python3 update_paths.py <directory>")
+        sys.exit(1)
+
+    directory = sys.argv[1]
+    if not os.path.isdir(directory):
+        print("The given directory does not exist.")
+        sys.exit(1)
+
+    return pathlib.Path(directory)
 
 
 def get_md_and_images(path):
@@ -66,8 +70,7 @@ def update_image_paths(contents, images, current_file):
 
 
 if __name__ == "__main__":
-    path = pathlib.Path(path)
-
+    path = handle_args()
     md_files, images = get_md_and_images(path)
     for file_path in md_files:
         with open(file_path, "r") as file:

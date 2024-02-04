@@ -1,4 +1,3 @@
-# Rules-Based System
 ### Overview
 + goal to achieve intelligence with a set of rules
 + set of rules
@@ -33,7 +32,7 @@
 	+ explains the reasoning
 	+ optional
 + User Interface
-![[Pasted image 20220331093929.png]]
-![[Pasted image 20220331093939.png]]
+![[../../../z_images/Pasted image 20220331093929.png]]
+![[../../../z_images/Pasted image 20220331093939.png]]
 
 [[Data Science and AI]] [[General Knowledge vs Facts]]

@@ -1,4 +1,3 @@
-# Äquivalenz
 ### Implikation und Äquivalenz
 +  Implikation x==>Y
 	+ wenn für jede β|=x auch β|=y
@@ -8,8 +7,8 @@
 		+ Umkehrschluss gilt
 	
 ### Logische Rechengesetze
-![[Pasted image 20220401143005.png]]
-![[Pasted image 20220401143023.png]]
+![[../../../z_images/Pasted image 20220401143005.png]]
+![[../../../z_images/Pasted image 20220401143023.png]]
 + aus Falschen folgt Beliebiges
 + aus Beliebigem folgt Wahres
 

@@ -1,4 +1,3 @@
-# Correlation and Regression
 ### Correlation
 + describes to what extent two variables are related
 + does not immediately mean causality
@@ -9,7 +8,7 @@
 
 ### Pearson Correlation
 + correlation between two quantitive variables
-+ ![[Pasted image 20220523100513.png]]
++ ![[../../../z_images/Pasted image 20220523100513.png]]
 + correlation coefficient r 
 	+ describes strength of relation ship between X and Y
 	+ r=-1: 
@@ -28,7 +27,7 @@
 	+ likelihood of correlation within subset
 	+ even though no correlation within whole population
 	+ null hypothesis
-	+ ![[Pasted image 20220523101844.png]]
+	+ ![[../../../z_images/Pasted image 20220523101844.png]]
 
 ### Linear Regression
 + approximates linear function between linearly correlated data
@@ -40,14 +39,14 @@
 + optimisation criterion
 	+ method of least squares
 	+ see [[NRLA]] script
-	+ ![[Pasted image 20220523102714.png]]
-	+ ![[Pasted image 20220523102749.png]]
-	+ ![[Pasted image 20220523102804.png]]
+	+ ![[../../../z_images/Pasted image 20220523102714.png]]
+	+ ![[../../../z_images/Pasted image 20220523102749.png]]
+	+ ![[../../../z_images/Pasted image 20220523102804.png]]
 
 ### Other Types of Regression
 + non-linear regression - curve fitting
 	+ fitting non-linear function to data
-	+ ![[Pasted image 20220523103022.png]]
+	+ ![[../../../z_images/Pasted image 20220523103022.png]]
 + logistic regression
 	+ fitting log function to continous independent data
 	+ and dichotomous (zweigeteilt) out come data

@@ -1,4 +1,3 @@
-# Grouping and Aggregation
-![[Pasted image 20220412152231.png]]
+![[../../../z_images/Pasted image 20220412152231.png]]
 
 [[SQL]]

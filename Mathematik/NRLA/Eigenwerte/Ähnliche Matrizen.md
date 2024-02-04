@@ -1,4 +1,3 @@
-# Ähnliche Matrizen
 +  B ähnlich zu A, wenn $B = S^{-1}AS$
 	+  S regulär
 	+  Äquivalenz-Relation

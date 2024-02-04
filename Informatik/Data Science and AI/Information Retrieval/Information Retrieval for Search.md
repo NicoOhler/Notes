@@ -1,4 +1,3 @@
-# Information Retrieval for Search
 ### Overview
  + search information retrieval
 	+ represent documents as [[Vectors as KR]]
@@ -23,7 +22,7 @@
 			+ e.g. [[TFIDF]]
 	+ hides some words with [[Natural Language Processing]]
 	+ weird example
-		+ ![[Pasted image 20220425140706.png]]
+		+ ![[../../../z_images/Pasted image 20220425140706.png]]
 
 
 	[[Information Retrieval]]

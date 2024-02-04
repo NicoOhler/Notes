@@ -1,4 +1,3 @@
-# LR-Zerlegung einer Regulären Matrix
 + PxA = LxR
 	+ P - Permutationsmatrix für Zeilenvertauschungen
 	+ A - Ausgangsmatrix
@@ -20,6 +19,6 @@
 		+ Ly = b
 		+ Rx = y
 	+ leicht zu lösen wegen △-Matrix
-![[Pasted image 20211028131447.png]]
+![[../../../z_images/Pasted image 20211028131447.png]]
 
 [[Matrix]]

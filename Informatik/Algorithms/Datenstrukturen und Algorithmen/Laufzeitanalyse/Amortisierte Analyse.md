@@ -9,6 +9,6 @@
 ### Beispiel [[Dynamische Arrays]]
 + n-mal Einfügen und einmal erweitern in $O(n)$
 	+ $n*O(1)+O(n)=O(2n)=O(n)$
-+ ![[Pasted image 20221114165707.png]]
-+ ![[Pasted image 20221114170200.png]]
++ ![[../../../../z_images/Pasted image 20221114165707.png]]
++ ![[../../../../z_images/Pasted image 20221114170200.png]]
 

@@ -1,4 +1,3 @@
-# Färbung
 ### (Proper) Coloring
 + Knotenfärbung von $G(V,E)$ ist Funktion
 	+ c: V --> F 
@@ -8,11 +7,11 @@
 + Chromatische Zahl $X(G)$ von $G$
 	+ kleinste Zahl $k∈ℕ$, sodass ∃ Färbung mit k Farben
 	+ $a(G)$ größte Zahl $k∈ℕ$, sodass ∃ unabhängige Knotenmenge in G
-	+ ![[Pasted image 20220524140022.png]]
+	+ ![[../../../z_images/Pasted image 20220524140022.png]]
 	+ Kreis mit 
 		+ gerader Länge braucht 3
 		+ ungerader Länge braucht 2
-	+ ![[Pasted image 20220524140317.png]]
+	+ ![[../../../z_images/Pasted image 20220524140317.png]]
 
 ### Greedy-Algorithmus für Färbung
 + Input: $G=(A∪B,E)$ Graph
@@ -24,7 +23,7 @@
 		+ wähle als Farbe $C(V_i)$ die kleinste Zahl, welche nicht als (bisher gewählte) Nachbarfarbe von $V_i$ vorkommt
 	+ setze $m=|{C(V_i)|1≤i≤n}|$ - Anzahl von Farben
 	+ return  c: V --> $[m]$
-		+ ![[Pasted image 20220524144607.png]]
+		+ ![[../../../z_images/Pasted image 20220524144607.png]]
 
 ### Arten von Färbung
 + Knotenfärbungen

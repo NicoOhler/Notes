@@ -1,29 +1,29 @@
 ### [[Hypothesentests]]
-+ ![[Pasted image 20230115120122.png]]
++ ![[../../../z_images/Pasted image 20230115120122.png]]
 
 ### Z-Test
-+ ![[Pasted image 20230115121231.png]]
++ ![[../../../z_images/Pasted image 20230115121231.png]]
 
 ### Examples 
 + user satisfaction 
-	+ ![[Pasted image 20230115114619.png]]
-	+ ![[Pasted image 20230115115034.png]]
-	+ ![[Pasted image 20230115115045.png]]
-	+ ![[Pasted image 20230115115420.png]]
+	+ ![[../../../z_images/Pasted image 20230115114619.png]]
+	+ ![[../../../z_images/Pasted image 20230115115034.png]]
+	+ ![[../../../z_images/Pasted image 20230115115045.png]]
+	+ ![[../../../z_images/Pasted image 20230115115420.png]]
 + possible test
-	+ ![[Pasted image 20230115115906.png]]
+	+ ![[../../../z_images/Pasted image 20230115115906.png]]
 + unfair coin
-	+ ![[Pasted image 20230115120344.png]]
-	+ ![[Pasted image 20230115120626.png]]
-	+ ![[Pasted image 20230115120638.png]]
-	+ ![[Pasted image 20230115120906.png]]
+	+ ![[../../../z_images/Pasted image 20230115120344.png]]
+	+ ![[../../../z_images/Pasted image 20230115120626.png]]
+	+ ![[../../../z_images/Pasted image 20230115120638.png]]
+	+ ![[../../../z_images/Pasted image 20230115120906.png]]
 + unfair coin 2
-	+ ![[Pasted image 20230115121012.png]]
-	+ ![[Pasted image 20230115124918.png]]
+	+ ![[../../../z_images/Pasted image 20230115121012.png]]
+	+ ![[../../../z_images/Pasted image 20230115124918.png]]
 + radar guns
-	+ ![[Pasted image 20230115133217.png]]
-	+ ![[Pasted image 20230115133613.png]]
-	+ ![[Pasted image 20230115133639.png]]
+	+ ![[../../../z_images/Pasted image 20230115133217.png]]
+	+ ![[../../../z_images/Pasted image 20230115133613.png]]
+	+ ![[../../../z_images/Pasted image 20230115133639.png]]
 
 
 

@@ -1,4 +1,3 @@
-# Konjunktive und Disjunktive Normalform
 ### Vorherige Definition
 + Literal X ist eine Formel der Form
 	+ X=a oder X=¬a
@@ -20,9 +19,9 @@
 	+ jedes $D_i$ ist duale n-Klausel
 	+ erfüllbare Formel äquivalent zu Formel in n-DNF
 + Beweis:
-	+ ![[Pasted image 20220401144947.png]]
+	+ ![[../../../z_images/Pasted image 20220401144947.png]]
 + Beispiel:
-	+ ![[Pasted image 20220401153212.png]]
+	+ ![[../../../z_images/Pasted image 20220401153212.png]]
 
 
 [[Aussagenlogische Formeln]]

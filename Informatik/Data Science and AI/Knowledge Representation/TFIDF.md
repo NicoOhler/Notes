@@ -1,4 +1,3 @@
-# TFIDF
 ### Term Frequency-Inverse Document Frequency
 + generates value for each topic of document
 	+ documents are [[Vectors as KR]]
@@ -16,5 +15,5 @@
 			+ inverse document frequency
 		+ element-wise multiplication of $tf_i$ and $idf$
 + example
-	+ ![[Pasted image 20220425144131.png]]
-	+ ![[Pasted image 20220425144153.png]]
+	+ ![[../../../z_images/Pasted image 20220425144131.png]]
+	+ ![[../../../z_images/Pasted image 20220425144153.png]]

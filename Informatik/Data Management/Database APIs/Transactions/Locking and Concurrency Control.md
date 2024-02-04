@@ -1,4 +1,3 @@
-# Locking and Concurrency Control
 + ### Terminology
 + lock
 	+ logical synchronization of TXs
@@ -21,9 +20,9 @@
 	+ might return synchronization errors (deadlocks)
 
 ### Serializability Therory
-+ ![[Pasted image 20220519150007.png]]
-+ ![[Pasted image 20220519150029.png]]
-+ ![[Pasted image 20220519150257.png]]
++ ![[../../../../z_images/Pasted image 20220519150007.png]]
++ ![[../../../../z_images/Pasted image 20220519150029.png]]
++ ![[../../../../z_images/Pasted image 20220519150257.png]]
 
 ### Locking Schemes
 + exclusive/write x-lock
@@ -33,9 +32,9 @@
 + multi-granularity-locking
 	+ abuses hierarchy of db ojects
 	+ intentional x/s-lock
-	+ ![[Pasted image 20220519150801.png]]
+	+ ![[../../../../z_images/Pasted image 20220519150801.png]]
 + lock compatibility
-	+ ![[Pasted image 20220519150717.png]]
+	+ ![[../../../../z_images/Pasted image 20220519150717.png]]
 
 ### Two-Phase Locking
 + concurrency protocol that guarantees serializable
@@ -44,13 +43,13 @@
 	+ aquires locks needed by TX
 + shrinking phase
 	+ release locks aquired by TX
-+ ![[Pasted image 20220519151028.png]]
++ ![[../../../../z_images/Pasted image 20220519151028.png]]
 + potential problems fixed
-	+ ![[Pasted image 20220519151117.png]]
+	+ ![[../../../../z_images/Pasted image 20220519151117.png]]
 	+ deadlock
-		+ ![[Pasted image 20220519151148.png]]
-		+ ![[Pasted image 20220519151217.png]]
-		+ ![[Pasted image 20220519151344.png]]
+		+ ![[../../../../z_images/Pasted image 20220519151148.png]]
+		+ ![[../../../../z_images/Pasted image 20220519151217.png]]
+		+ ![[../../../../z_images/Pasted image 20220519151344.png]]
 
 ### Timestamp Ordering
 + optimistic concurrency control
@@ -59,7 +58,7 @@
 + each data object has read and write timestamp
 + timestamp comparison to validate access/abort
 + no locks but latches
-+ ![[Pasted image 20220519152033.png]]
++ ![[../../../../z_images/Pasted image 20220519152033.png]]
 
 ### Optimistic Concurrency Control
-+ ![[Pasted image 20220519152243.png]]
++ ![[../../../../z_images/Pasted image 20220519152243.png]]

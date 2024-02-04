@@ -20,5 +20,5 @@
 	+ sortiert nach i-ter Stelle
 + wiederholen bis alle Stellen durchlaufen
 + führende Nullen für  Zahlen mit zu wenig Stellen
-+ ![[Pasted image 20221028162653.png]]
-+ ![[Pasted image 20221028162857.png]]
++ ![[../../../../z_images/Pasted image 20221028162653.png]]
++ ![[../../../../z_images/Pasted image 20221028162857.png]]

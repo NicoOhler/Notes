@@ -1,4 +1,3 @@
-# Inhomogene DGL mit mit konstanten Koeffizienten
 ### Übersicht
 + analog zu [[Lineare DGL mit konstanten Koeffizienten]] jedoch mit Störfunktion
 + $y^{(n)}+a_{n-1}*y^{(n-1)}+...+a_1*y'+a_0*y=s(t)$
@@ -15,8 +14,8 @@
 ### Ansatz für partikuläre Lösung
 + abhängig von Resonanz und s(x)
 + keine äußere
-	+ ![[Pasted image 20220504123011.png]]
-	+ ![[Pasted image 20220504123016.png]]
+	+ ![[../../../z_images/Pasted image 20220504123011.png]]
+	+ ![[../../../z_images/Pasted image 20220504123016.png]]
 + äußere und keine innere
 	+ Ansatz x multiplizieren
 + äußere und innere
@@ -25,22 +24,22 @@
 + keine äußere und keine innere
 	+ nicht mit Polynom multiplizieren
 + Cheat-Sheet
-	+ ![[Pasted image 20220504154246.png]]
+	+ ![[../../../z_images/Pasted image 20220504154246.png]]
 
 ### Herleitung
-+ ![[Pasted image 20220502143123.png]]
++ ![[../../../z_images/Pasted image 20220502143123.png]]
 
 ### Zusammenfassung
-+ ![[Pasted image 20220509144746.png]]
-+ ![[Pasted image 20220509144715.png]]
++ ![[../../../z_images/Pasted image 20220509144746.png]]
++ ![[../../../z_images/Pasted image 20220509144715.png]]
 
 ### Beispiel
-+ ![[Pasted image 20220502144122.png]]
-+ ![[Pasted image 20220502144426.png]]
-+ ![[Pasted image 20220502152349.png]]
-+ ![[Pasted image 20220502152440.png]]
-+ ![[Pasted image 20220502153239.png]]
-+ ![[Pasted image 20220502153314.png]]
++ ![[../../../z_images/Pasted image 20220502144122.png]]
++ ![[../../../z_images/Pasted image 20220502144426.png]]
++ ![[../../../z_images/Pasted image 20220502152349.png]]
++ ![[../../../z_images/Pasted image 20220502152440.png]]
++ ![[../../../z_images/Pasted image 20220502153239.png]]
++ ![[../../../z_images/Pasted image 20220502153314.png]]
 
 
 

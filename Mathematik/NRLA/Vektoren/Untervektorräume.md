@@ -1,4 +1,3 @@
-# Untervektorräume
 + U ist ein Untervektor von V, wenn:
 	+ U⊆V ≠ {}: (V, +, \*) ein K-VR
 	+ U erbt +,\* von V

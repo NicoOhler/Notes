@@ -2,7 +2,7 @@
 + fixe Größe $n=len(A)$
 + Zugriff auf Elemente via A[i]
 + benachbarte Element im Speicher nebeneinander
-+ ![[Pasted image 20221016133104.png]]
++ ![[../../../../z_images/Pasted image 20221016133104.png]]
 
 ### O-Notation von Operationen
 + Zugriff auf i-tes Element O(1)

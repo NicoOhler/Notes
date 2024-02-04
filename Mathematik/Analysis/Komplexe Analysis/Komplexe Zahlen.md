@@ -1,4 +1,3 @@
-# Komple Zahlen
 + ℂ = { z = x + iy | x,y∈ℝ}
 	+ x - Realteil - Re(z)
 	+ y - Imaginärteil - Im(z)
@@ -40,11 +39,11 @@
 	+ y = Im(z)
 + Rechenoperationen:
 	+ Addition ==> Zahlen zusammenhängen
-		 ![[Pasted image 20211108172201.png]]		
+		 ![[../../../z_images/Pasted image 20211108172201.png]]		
 	+ Konjugieren ==> Spiegeln an Achse des Realteils
-		 ![[Pasted image 20211108172217.png]]
+		 ![[../../../z_images/Pasted image 20211108172217.png]]
 	+ Multiplikation ==> Längen multipliziert und Winkel addiert
-		 ![[Pasted image 20211108172247.png]]
+		 ![[../../../z_images/Pasted image 20211108172247.png]]
 
 ### Wurzel ziehen in ℂ
 + $z^n=w$ w∈ℂ\\{0}, n∈ℕ

@@ -1,4 +1,3 @@
-# Machine Learning
 ### What is Learning
 + long term changes in knowledge, behaviour based on experience
 + for humans: 

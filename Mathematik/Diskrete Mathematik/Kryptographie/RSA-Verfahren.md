@@ -1,4 +1,3 @@
-# RSA-Verfahren
  + m,k∈ℕ mit ggT(m,k)=1, m=pq
 	 + öffentlich
 	 + p,q sind unterschiedliche Primzahlen
@@ -13,7 +12,7 @@
 	 + x --> $x^b$ mod m
  + [[Satz von Euler-Fermat]]
 	 + $φ(m)=(p-1)(q-1)$
-	 + ![[Pasted image 20220325102327.png]]
+	 + ![[../../../z_images/Pasted image 20220325102327.png]]
 
 
 [[Kryptographie]]

@@ -1,4 +1,3 @@
-# Unitäre Räume
 + unitärer Raum, wenn Skalarprodukt und Norm gilt
 	+ siehe unten
 

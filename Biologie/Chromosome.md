@@ -1,4 +1,3 @@
-# Chromosome
  + Chromosome beinhalten DNA, welche Gene enthalten
  + befinden sich im Nucleus einer jeden Zelle
  + Mensch besitzt 23 Chromosompaare

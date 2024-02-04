@@ -1,9 +1,8 @@
-# Item Based CF
 ### Overview
 + asssuming items x and y are similar
 	+ similarity score needs to be above threshhold
 +  if A liked x also recommend y
-+  ![[Pasted image 20220502174918.png]]
++  ![[../../../../z_images/Pasted image 20220502174918.png]]
 +  interests might change over time
 
 ### Similarity Score
@@ -12,10 +11,10 @@
 		+ some easily 10/10, some 8/10 at max
 + cosine similarity of centered item vectors
 	+ normalize user ratings by each user's average rating value
-	+ ![[Pasted image 20220502175140.png]]
+	+ ![[../../../../z_images/Pasted image 20220502175140.png]]
 
 ### Prediction
-+ ![[Pasted image 20220502175336.png]]
++ ![[../../../../z_images/Pasted image 20220502175336.png]]
 + fine tuning via
 	+ more similarity if users agree on controversial items
 		+ controversial if high variance in ratings

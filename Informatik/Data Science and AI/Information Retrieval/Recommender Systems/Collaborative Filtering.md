@@ -1,4 +1,3 @@
-# Collaborative Filtering
 ### Overview
 + recommandation based on user interactions with items in a system
 + interactions such as
@@ -15,7 +14,7 @@
 	+ matrix entry
 
 ### Example
-+ ![[Pasted image 20220502172300.png]]
++ ![[../../../../z_images/Pasted image 20220502172300.png]]
 
 ### CF Techniques
 + [[User Based CF]]

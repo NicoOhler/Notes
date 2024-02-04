@@ -1,4 +1,3 @@
-# Physical Operators
 ### (Volcano) Iterator Model
 + everything implements ONC interface
 	+ open
@@ -11,8 +10,8 @@
 	+ sorting/grouping/aggregation/hash joins
 	+ require knowledge of all tuples not just one
 + e.g. 
-	+ ![[Pasted image 20220406161042.png]]
-	+ ![[Pasted image 20220406161145.png]]
+	+ ![[../../../z_images/Pasted image 20220406161042.png]]
+	+ ![[../../../z_images/Pasted image 20220406161145.png]]
 
 ### Physical Table Access Operator
 + seq scan
@@ -56,8 +55,8 @@
 	+  physical operators instead of SQL operators
 +  EXPLAIN does not update regularly
 	+  ANALYZE beforehand necessary
-+  ![[Pasted image 20220406163536.png]]
++  ![[../../../z_images/Pasted image 20220406163536.png]]
 +  Visual EXPLAIN
-	+  ![[Pasted image 20220406163735.png]]
+	+  ![[../../../z_images/Pasted image 20220406163735.png]]
 
 [[Relational Algebra]]

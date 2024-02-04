@@ -1,4 +1,3 @@
-# Potentialgleichung
 ### Potentialgleichung
 + $\bigtriangleup u=0$
 	+ Lösung dieser Gleichung kommt mit zweiter Funktion v
@@ -10,31 +9,31 @@
 		+ $grad(u)$ senkrecht auf  $grad(v)$ <==> $<grad(u),grad(v)>=0$
 		+ Äquipotentiallinien (Niveaulinien) von u und v senkrecht aufeinander
 			+ außer $grad(v)=grad(u)=0$
-			+ ![[Pasted image 20220516124134.png]]
+			+ ![[../../../z_images/Pasted image 20220516124134.png]]
 
 ### Bestimmen von v(x,y) 
 + Gradientenfeld gegeben ==> v(x,y) als Integral
-	+ ![[Pasted image 20220516132026.png]]
+	+ ![[../../../z_images/Pasted image 20220516132026.png]]
 	+ Integrabilitätsbedingung prüfen ==> wegunabhängig
 		+ $u_{xx}=u_{yy}$
 	+ $u_x=v_y$
 	+ $u_y=-v_x$
 	+ Beispiel WTF?
-		+ ![[Pasted image 20220516132229.png]]
-		+ ![[Pasted image 20220516132238.png]]
-		+ ![[Pasted image 20220516132258.png]]
-		+ ![[Pasted image 20220516132352.png]]
+		+ ![[../../../z_images/Pasted image 20220516132229.png]]
+		+ ![[../../../z_images/Pasted image 20220516132238.png]]
+		+ ![[../../../z_images/Pasted image 20220516132258.png]]
+		+ ![[../../../z_images/Pasted image 20220516132352.png]]
 
 ### Randwertaufgabe
-+ ![[Pasted image 20220516132432.png]]
++ ![[../../../z_images/Pasted image 20220516132432.png]]
 
 ### Poissonsche Integralformel
 + sei g: $[0,2\pi]$->ℝ eine Funktion
 	+ $u(rcos(φ),rsin(φ))=\frac{1}{2\pi}\int_0^{2\pi}g(t)\frac{1-r^2}{1-2rcos(t-φ)+r^2}dt$
 	+ Lösung der Potentialgleichung $\bigtriangleup u=0$ mit
-		+ ![[Pasted image 20220525191526.png]]
+		+ ![[../../../z_images/Pasted image 20220525191526.png]]
 + Beispiel
-	+  ![[Pasted image 20220525193346.png]]
+	+  ![[../../../z_images/Pasted image 20220525193346.png]]
 
 ### Fourier-Reihe
 + sei g: $I$->ℝ
@@ -47,9 +46,9 @@
 	+ $g(φ)=\alpha_0+\sum_{n=1}^\infty(\alpha_n cos(nφ)+\beta_n sin(nφ))$
 + Lösung der Potentialgleichung
 	+ $u(rcos(φ),rsin(φ))=\alpha_0+\sum_{n=1}^\infty r^n(\alpha_n cos(nφ)+\beta_n sin(nφ))$
-	+ ![[Pasted image 20220525194148.png]]
+	+ ![[../../../z_images/Pasted image 20220525194148.png]]
 + Beispiele:
-	+ ![[Pasted image 20220525194423.png]]
-	+ ![[Pasted image 20220525194635.png]]
+	+ ![[../../../z_images/Pasted image 20220525194423.png]]
+	+ ![[../../../z_images/Pasted image 20220525194635.png]]
 
 [[Komplexe Kurvenintegrale]]

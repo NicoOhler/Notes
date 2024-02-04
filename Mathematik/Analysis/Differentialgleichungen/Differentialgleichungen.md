@@ -1,4 +1,3 @@
-# Differentialgleichungen
 ### Definition
 + Sei F: $ℝ^{n+2}$-->ℝ
 	+ $F(x,y,y',...,y^{(n)})$ ist eine Differentialgleichung
@@ -10,7 +9,7 @@
 		+ gesucht y=y(x)
 
 ### Herkömmliche Methode
-+ ![[Pasted image 20220404173350.png]]
++ ![[../../../z_images/Pasted image 20220404173350.png]]
 + nur wenn x und y auf verschiedene Seiten bringen möglich ist
 + unendlich viele Lösungen
 
@@ -23,9 +22,9 @@
 		+ sei M so, dass $∀x,y∈ℝ:|f(x,y)≤M|$
 	+ dann hat das AWP genau eine Lösung y=y(x) auf das Intervall $[a,m]$
 		+ $m=min(b,a+\frac{b}{M})$
-		+ ![[Pasted image 20220404174640.png]]
+		+ ![[../../../z_images/Pasted image 20220404174640.png]]
 + Beispiele: keine Eindeutigkeit
-	+ ![[Pasted image 20220412171519.png]]
+	+ ![[../../../z_images/Pasted image 20220412171519.png]]
 	+ für y=0 gibt es ∞ Lösungen
 
 ### Euler-Verfahren
@@ -35,6 +34,6 @@
 	+ Steigung $k_i$ in Punkt wird bestimmt
 	+ Gerade (Steigung $k_i$, Länge h) bis zu nächstem Punkt
 	+ dies wird x mal wiederholt
-+ ![[Pasted image 20220412172308.png]]
++ ![[../../../z_images/Pasted image 20220412172308.png]]
 
 [[Mehrdimensionale Differentialrechnung]]

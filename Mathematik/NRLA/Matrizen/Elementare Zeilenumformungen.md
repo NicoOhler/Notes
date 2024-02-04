@@ -1,4 +1,3 @@
-# Elementare Zeilenumformungen
 1. Vertauschung zweier Zeilen
 ![[../../../z_images/Pasted image 20211029194525.png]]
 2. Multiplikation einer Zeile mit einem λ ≠ 0

@@ -1,4 +1,3 @@
-# Kurvendiskussion
 + umfasst folgende Punkte
 	+ Definitionsbereich, Stetigkeit, Differenzierbarkeit
 	+ Nullstellen f(x)=0

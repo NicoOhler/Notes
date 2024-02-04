@@ -1,6 +1,5 @@
-# Central Data Abstractions
 ### Files and Objects
-![[Pasted image 20220610111242.png]]
+![[../../../../z_images/Pasted image 20220610111242.png]]
 
 ### Distributed Collections
 + logical multi-set (bag) of [[Key-Value Pairs]]

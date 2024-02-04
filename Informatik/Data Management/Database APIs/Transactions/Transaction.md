@@ -1,4 +1,3 @@
-# Transaction TX
 ### Overview
 + series of steps viewed as atomic unit
 	+ either fully executed or not
@@ -10,7 +9,7 @@
 	+ dependent on [[Transaction Isolation Level]]
 
 ### [[SQL]] Transaction Examples
-+ ![[Pasted image 20220427124340.png]]
-+ ![[Pasted image 20220519141009.png]]
++ ![[../../../../z_images/Pasted image 20220427124340.png]]
++ ![[../../../../z_images/Pasted image 20220519141009.png]]
 
 

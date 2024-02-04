@@ -1,4 +1,3 @@
-# Potenzreihen
 + $a_n$ - Folge reeller Zahlen
 	+ $f(x) = \sum_{n=0}^∞ a_n x^n$ ist eine Potenzreihe
 	+ f(x) konvergiert für

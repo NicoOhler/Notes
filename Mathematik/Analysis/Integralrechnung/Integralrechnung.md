@@ -1,4 +1,3 @@
-# Integralrechnung
 + Umkehraufgabe der [[Differentialrechnung]]
 + F'=f - gesuchte Funktion F heißt Stammfunktion von f.
 + Da Konstanten beim Differentieren verschwinden, kann auf diese nicht zurückgeschlossen werden
@@ -19,7 +18,7 @@
 	+ $\int f(x)G(x)dx=F(x)G(x)dx-\int F(x)g(x)dx$
 	+ $\int v'u =vu-\int v u' + C$
 + Substitutionsregel
-	+ ![[Pasted image 20211215170747.png]]
+	+ ![[../../../z_images/Pasted image 20211215170747.png]]
 + $\frac{1}{a}F(ax+b)$ ist Stammfunktion von f(ax+b)
 + logarithmische Regel
 	+ $\int \frac{f'(x)}{f(x)}=ln|f(x)|+C$

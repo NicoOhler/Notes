@@ -14,4 +14,4 @@
 + time divided in discrete slices
 + clock period
 	+ time between two rising clock edges
-+ ![[Pasted image 20221031163122.png]]
++ ![[../../../z_images/Pasted image 20221031163122.png]]

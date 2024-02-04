@@ -1,10 +1,9 @@
-# Wege und Kreise
 ### Weg
 + Weg/Walk ist Folge von alternieren Knoten und Kanten
 	+ Kurzschreibweise beinhaltet nur Knoten
-		+ ![[Pasted image 20220508154436.png]] 
+		+ ![[../../../z_images/Pasted image 20220508154436.png]] 
 	+ vollständige Schreibweise
-		+ ![[Pasted image 20220508154253.png]]
+		+ ![[../../../z_images/Pasted image 20220508154253.png]]
 + geschlossener Weg
 	+ Anfangs- und Endpunkt sind ident
 + Weg der Länge 0
@@ -20,8 +19,8 @@
 ### Kreis
 + geschlossener Pfad <==> Zyklus <==> Kreis
 + mindestens Länge 3
-	+ ![[Pasted image 20220508154921.png]]
-+ ![[Pasted image 20220508154744.png]]
+	+ ![[../../../z_images/Pasted image 20220508154921.png]]
++ ![[../../../z_images/Pasted image 20220508154744.png]]
 + Weg, welcher jede Kante genau einmal verwendet heißt eulerisch
 + Weg, welcher alle Knoten genau einmal verwendet heißt Hamilton-Weg
 	+ G ist hamiltonisch, wenn Hamilton-Weg existiert

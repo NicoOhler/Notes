@@ -1,4 +1,3 @@
-# Binomische Lehrsatz
  + (x+y)<sup>n</sup> = Σ von k = 0 bis n ($\binom{n}{k}$x<sup>n-k</sup>y<sup>k</sup>)
 
 ### Binomialkoeffizient $\binom{n}{k}$

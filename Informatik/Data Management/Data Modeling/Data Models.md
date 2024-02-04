@@ -1,4 +1,3 @@
-# Data Models
 ### Conceptual Data
 + Entity Relationship Model ERM
 	+ focus on data

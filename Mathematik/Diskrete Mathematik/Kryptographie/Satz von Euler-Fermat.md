@@ -1,4 +1,3 @@
-# Satz von Euler-Fermat
 + $G_m:={[x_m]∈Z_m:ggT(x,m)=1}$
 	+ Repräsentantensystem $R:={0,1,...,m-1}$
 ### Eulersche Phi-Funktion
@@ -11,10 +10,10 @@
 +  für $ggT(p,n)=1$ gilt
 	+ $a^{p-1}≡_p1$
 	+ Beweis
-		+  ![[Pasted image 20220325095038.png]]
-		+  ![[Pasted image 20220325095238.png]]
-		+  ![[Pasted image 20220325095327.png]]
-		+  ![[Pasted image 20220325095509.png]]
+		+  ![[../../../z_images/Pasted image 20220325095038.png]]
+		+  ![[../../../z_images/Pasted image 20220325095238.png]]
+		+  ![[../../../z_images/Pasted image 20220325095327.png]]
+		+  ![[../../../z_images/Pasted image 20220325095509.png]]
 
 
 ### Satz von Euler-Fermat

@@ -1,4 +1,3 @@
-# Wahrscheinlichkeitstheorie
 ### Motivation
 + Zufallsexperimente mit unsicherem Ausgang mathematisch zu beschreiben
 + Hauptziel [[Ereignisse]] [[Wahrscheinlichkeit]] zuordnen

@@ -1,5 +1,5 @@
 ### Overview
-+  ![[Pasted image 20221112163652.png]]
++  ![[../../../z_images/Pasted image 20221112163652.png]]
 + alternative to [[Single Cycle Datapath]]
 + operations needed for one instruction
 	+ split up into more fine granular operations
