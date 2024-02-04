@@ -54,4 +54,12 @@
 			+ used for propaganda and advertisement
 		+ same applies for rhymes, easy to pronounce names, easy to read fonts
 			+ [Using Long Words Needlessly](Using%20Long%20Words%20Needlessly.md)
-		+ 
++ norms and causes
+	+ humans are desperate for plausible explanations
+		+ create explanation out of nowhere even if it may be irrelevant (or the opposite might be true)
+	+ very little repetition is needed for new experiences to feel normal
++ Halo Effect
+	+ initial view influences how new information is perceived
+		+ teacher rating two assignments of the same pupil
+			+ good first assignment => less critical/benefit of the doubt for second
+		+ liking a person at first makes future negative 
