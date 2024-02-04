@@ -12,5 +12,7 @@
   "useMarkdownLinks": true,
   "newFileLocation": "current",
   "readableLineLength": true,
-  "showLineNumber": false
+  "showLineNumber": false,
+  "rightToLeft": false,
+  "strictLineBreaks": false
 }
