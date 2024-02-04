@@ -35,14 +35,14 @@ def update_image_paths(contents, images, current_file):
         image_path = None
         for img in images:
             if img.name == image_name:
-                image_path = img
+                image_path = str(img)
 
         if image_path is None:
             print("Image not found: " + image_name + " in " + str(current_file))
             continue
 
         # both image_path and current_file share same root
-        # make image_path relative to current_file
+        # traverse current_file's path to get the relative path to image_path
 
         contents = re.sub(
             r"!\[\[" + image_name + r"\]\]",
