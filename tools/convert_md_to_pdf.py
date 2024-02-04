@@ -9,8 +9,6 @@ def get_md_files(path):
         for file in f:
             file_extension = os.path.splitext(file)[1]
             if file_extension == ".md":
-                if "Min-Max" not in file:
-                    continue
                 md_files.append(os.path.join(r, file)[3:-3])  # remove .md
     return md_files
 
