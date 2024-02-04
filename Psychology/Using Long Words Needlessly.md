@@ -23,4 +23,7 @@
 		+ same effects as described above
 	+ bad fluency due to obvious external factors 
 		+ e.g. documents printed from a printer that is low in toner
-		+ 
+		+ if readers are aware of these external factors their perception of the author is surprisingly positive
+			+ negative correlation
+			+ readers overcompensate the obvious negative effects on fluency
+			+ author perceived as more sympathetic and intelligent

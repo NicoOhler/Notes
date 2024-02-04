@@ -51,14 +51,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psychology/Using Long Words Needlessly.md",
+                "file": "Psychology/Psychology.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "df68f6ac7ab2367b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Psychology/Thinking, Fast and Slow.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -124,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psychology/Using Long Words Needlessly.md",
+                "file": "Psychology/Thinking, Fast and Slow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,9 +163,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "34453eace0f6a8d3",
+  "active": "df68f6ac7ab2367b",
   "lastOpenFiles": [
     "Psychology/Psychology.md",
+    "Psychology/Thinking, Fast and Slow.md",
     "Psychology/Using Long Words Needlessly.md",
     "Psychology/Consequences of Erudite Vernacular.md",
     "Informatik/Algorithms/Algorithms and Games/Examples of Combinatorial Games.md",
@@ -194,7 +207,6 @@
     "Mathematik/Analysis/Vektoranalysis/Sternförmig.md",
     "Mathematik/Analysis/Vektoranalysis/Oberflächenintegral.md",
     "Mathematik/Analysis/Vektoranalysis/Integralsätze.md",
-    "Mathematik/Analysis/Integralrechnung/Substitution rationaler Funktionen.md",
     "z_images/Pasted image 20240128102705.png",
     "z_images/Pasted image 20240128102610.png",
     "z_images/Pasted image 20240119141652.png",
