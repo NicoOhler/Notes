@@ -16,6 +16,14 @@ if not os.path.isdir(directory):
     sys.exit(1)
 """
 
+
+def remove_header(contents):
+    # remove first line if it starts with "# "
+    if contents.startswith("# "):
+        contents = contents[contents.find("\n") + 1 :]
+    return contents
+
+
 # get all files in the directory and its subdirectories
 directory = "./test"
 directory = pathlib.Path(directory)
@@ -30,11 +38,7 @@ for file in list(directory.iterdir()):
             md_files.append(file)
 
 
-# iterate over all markdown files
-for file_path in files:
-    if file_path.suffix != ".md":
-        continue
-
+for file_path in md_files:
     with open(file_path, "r") as file:
         contents = file.read()
 
