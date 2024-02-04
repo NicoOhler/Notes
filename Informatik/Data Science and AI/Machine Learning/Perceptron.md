@@ -2,15 +2,15 @@
 + [[Artificial Neural Networks]] neutron
 + inputs are now real numbers instead of just true or false
 + each input has a certain weight
-+ ![[../../../z_images/Pasted image 20220508203903.png]]
++ ![](../../../z_images/Pasted%20image%2020220508203903.png)
 + perceptron networks allow non-linear separation
 
 ### Perceptron Learning Algorithm
-+ ![[../../../z_images/Pasted image 20220514131436.png]]
++ ![](../../../z_images/Pasted%20image%2020220514131436.png)
 + Variables:
-	+ ![[../../../z_images/Pasted image 20220514131522.png]]
+	+ ![](../../../z_images/Pasted%20image%2020220514131522.png)
 + Algorithm:
-	+ ![[../../../z_images/Pasted image 20220514132201.png]]
+	+ ![](../../../z_images/Pasted%20image%2020220514132201.png)
 	+ correct guess ==> weights stay the same
 	+ bad guess ==>
 		+ output too small ==>
@@ -22,7 +22,7 @@
 + repeated until 
 	+ average error below pre-defined threshold
 	+ or after pre-determined number of iterations
-+ ![[../../../z_images/Pasted image 20220514133250.png]]
++ ![](../../../z_images/Pasted%20image%2020220514133250.png)
 
 ### PLA Properties
 + goes over set of examples

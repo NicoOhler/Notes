@@ -34,8 +34,8 @@
 + relational algebra expressions can be represented as data flow graph tree
 	+ leaf...tables
 	+ root/top...result
-+ ![[../../../z_images/Pasted image 20220406144328.png]]
-+ ![[../../../z_images/Pasted image 20220406155242.png]]
++ ![](../../../z_images/Pasted%20image%2020220406144328.png)
++ ![](../../../z_images/Pasted%20image%2020220406155242.png)
 
 
 [[Relational Algebra]]

@@ -12,7 +12,7 @@
 	+ Definitionsbereich von f sternförming
 	+ $\oint f(z)dz=0$
 		+ wegen Cauchy-Riemann-Gleichungen
-		+ ![[../../../z_images/Pasted image 20220511141142.png]]
+		+ ![](../../../z_images/Pasted%20image%2020220511141142.png)
 		
 ### Cauchyscher Integralsatz
 + $\oint f(z)dz=0$, wenn
@@ -20,19 +20,19 @@
 	+ f holomorph
 	+ C geschlossen in U
 + Beispiele:
-	+ ![[../../../z_images/Pasted image 20220511142112.png]]
-	+ ![[../../../z_images/Pasted image 20220511142302.png]]
-	+ ![[../../../z_images/Pasted image 20220511142346.png]]
+	+ ![](../../../z_images/Pasted%20image%2020220511142112.png)
+	+ ![](../../../z_images/Pasted%20image%2020220511142302.png)
+	+ ![](../../../z_images/Pasted%20image%2020220511142346.png)
 + Umläufe zählen
-	+ ![[../../../z_images/Pasted image 20220511150220.png]]
-	+ ![[../../../z_images/Pasted image 20220511150743.png]]
-	+ ![[../../../z_images/Pasted image 20220511151006.png]]
-	+ ![[../../../z_images/Pasted image 20220511151330.png]]
+	+ ![](../../../z_images/Pasted%20image%2020220511150220.png)
+	+ ![](../../../z_images/Pasted%20image%2020220511150743.png)
+	+ ![](../../../z_images/Pasted%20image%2020220511151006.png)
+	+ ![](../../../z_images/Pasted%20image%2020220511151330.png)
 + Cauchysche Integralformel
 	+ $f(z_0)*Ind_C(z_0)=\frac{1}{2\pi}\oint_C\frac{f(z)}{z-z_0}dz$
 + Erkenntnisse
-	+ ![[../../../z_images/Pasted image 20220511151750.png]]
-	+ ![[../../../z_images/Pasted image 20220511151805.png]]
+	+ ![](../../../z_images/Pasted%20image%2020220511151750.png)
+	+ ![](../../../z_images/Pasted%20image%2020220511151805.png)
 	+ f lässt sich als Potenzreihe mit Konvergenzradius ≥R darstellen
 	+ f beliebig oft differenzierbar
 	+ $a_n=\frac{f^{(n)}(z_0)}{n!}=\frac{1}{2\pi}\oint_{|ζ-z_0| } \frac{f(ζ)}{(ζ-z_0)^{n+1}}dζ$
@@ -41,20 +41,20 @@
 + Cauchy-Abschätzung
 	+ Maximumprinzip
 		+ $|a_n|≤$ Maximum am Rand des Kreises
-		+ ![[../../../z_images/Pasted image 20220516101649.png]]
+		+ ![](../../../z_images/Pasted%20image%2020220516101649.png)
 	+ Satz von Liouville
 		+ Sei f eine ganze Funktion und beschränkt ==> f ist konstant
-		+ ![[../../../z_images/Pasted image 20220516102124.png]]
+		+ ![](../../../z_images/Pasted%20image%2020220516102124.png)
 	+ Fundamentalsatz der Algebra
 		+ Polynom p(z) mit Grad n≥1
 		+ $∃z_0: p(z_0)=0$
 		+ jedes Polynom hat eine komplexe Nullstelle
 		+ Beweis
-			+ ![[../../../z_images/Pasted image 20220516102832.png]]
+			+ ![](../../../z_images/Pasted%20image%2020220516102832.png)
 + Nullstellen holomorpher Funktionen
 	+ $N_f=\{z∈U|f(z)=0\}$ Nullstellenmenge
 	+ $N_f$ entweder ganz U oder kein Häufungspunkt laut [[Satz von Bolzano-Weierstraß]]]
-	+ ![[../../../z_images/Pasted image 20220516105419.png]]
+	+ ![](../../../z_images/Pasted%20image%2020220516105419.png)
 + Seien f,g holomorph auf U, C eine Kurve aus U
 	+ $∀z∈ℂ:f(z)=g(z)$ ==> $f(z)=g(z):∀z∈U$
 	+ Definitionen der elementaren Funktionen (exp,log,...) für $z∈ℂ$ sind die einzig möglichen Fortsetzungen der reellen elementaren Funktionen

@@ -8,7 +8,7 @@
 	+ double free
 	+ use of uninitialized memory
 + stack frame layout
-	+ ![[../../z_images/Pasted image 20240115174301.png]]
+	+ ![](../../z_images/Pasted%20image%2020240115174301.png)
 + prevent (some) buffer overflows with
 	+ stack canary
 		+ random number stored below stack frame and buffer
@@ -20,7 +20,7 @@
 		+ requires large enough randomization range
 		+ addresses must not be leaked
 + control flow integrity CFI
-	+ ![[../../z_images/Pasted image 20240115175552.png]]
+	+ ![](../../z_images/Pasted%20image%2020240115175552.png)
 
 ### Side-channel attacks
 + passively observe physical properties
@@ -31,7 +31,7 @@
 	+ CPU caches
 		+ fast on cache hit, slow on miss
 + set associative cache
-	+ ![[../../z_images/Pasted image 20240115180323.png]]
+	+ ![](../../z_images/Pasted%20image%2020240115180323.png)
 	+ each memory address has a designated cache set to be cached in
 + Flush+Reload
 	+ requires shared memory
@@ -43,12 +43,12 @@
 	+ keystrokes can be retrieved because they cause code execution in shared library (e.g. libgdk)
 + covert channel
 	+ two processes communicate over secret channel
-	+ ![[../../z_images/Pasted image 20240115181739.png]]
+	+ ![](../../z_images/Pasted%20image%2020240115181739.png)
 
 ### transient execution attacks
 + meltdown
 	+ read data at any address using out-of-order execution
-		+ ![[../../z_images/Pasted image 20240115182006.png]]
+		+ ![](../../z_images/Pasted%20image%2020240115182006.png)
 	+ combined with Flush+Reload
 	+ index of cache hit reveals data
 	+ preventable with KAISER/KPTI
@@ -59,7 +59,7 @@
 + spectre
 	+ exploit control flow predictions
 	+ speculative execution runs
-		+ ![[../../z_images/Pasted image 20240115184502.png]]
+		+ ![](../../z_images/Pasted%20image%2020240115184502.png)
 		+ array1 is a valid buffer
 		+ x is a way too big and causes an overread into the victim's memory
 		+ array2 is uncached shared memory
@@ -83,7 +83,7 @@
 
 ### Sandboxing and Isolation
 + Principle of Least Privilege
-	+ ![[../../z_images/Pasted image 20240116183746.png]]
+	+ ![](../../z_images/Pasted%20image%2020240116183746.png)
 	+ e.g. x86 Protection Rings
 	+ drivers have higher privileges than user-space applications
 		+ only accept drivers signed by trusted vendor
@@ -92,7 +92,7 @@
 	+ UEFI ROMs, boot loader, kernel must be signed
 	+ public key in firmware to verify signatures
 	+ execute after verification
-	+ ![[../../z_images/Pasted image 20240116203021.png]]
+	+ ![](../../z_images/Pasted%20image%2020240116203021.png)
 + Supervisor Mode Access/Execution Prevention
 	+ prevent access to user-space data
 	+ prevent execution of user-space code

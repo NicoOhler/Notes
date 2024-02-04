@@ -1,14 +1,14 @@
 + Taylor Polynom P(x,...,y) mit mehreren Variablen
 	+ nähert f(x,...,y) für die ersten Ableitungen gut an
 	+ $a_{n_1 n_2}=\frac{1}{n_1!n_2!}\frac{\partial^{n_1 + n_2} f}{\partial x^{n_1}\partial y^{n_2}}(0,0)$
-	+ ![[../../../z_images/Pasted image 20220301085740.png]]
+	+ ![](../../../z_images/Pasted%20image%2020220301085740.png)
 + Multinomialkoeffizient
 	+ $\binom{n}{n_1,...,n_p} = \frac{n!}{n_1!...n_p!}$
 	+ Parameteranzahl in zweiter Zeile = n
 	+ Binomialkoeffizient $\binom{n}{k}=\binom{n}{k,n-k}$
 + Multinomialer Lehrsatz
-	+ ![[../../../z_images/Pasted image 20220301090151.png]]
-	+ ![[../../../z_images/Pasted image 20220301090413.png]]
+	+ ![](../../../z_images/Pasted%20image%2020220301090151.png)
+	+ ![](../../../z_images/Pasted%20image%2020220301090413.png)
 	+ 
 ### Satz von Taylor
 + $U⊆ℝ^p$ offen
@@ -30,18 +30,18 @@
 	+ semidefinit ==> keine Aussagekraft
 	+ Definitheit
 		+ quadratische Form $Q_A(x)$
-			+ ![[../../../z_images/Pasted image 20220301092217.png]]
+			+ ![](../../../z_images/Pasted%20image%2020220301092217.png)
 		+ positiv definit <==> $Q_A(x)>0 ∀x≠0$
 		+ negativ definit <==> $Q_A(x)<0 ∀x≠0$
 		+ positiv semidefinit <==> $Q_A(x)≥0 ∀x≠0$
 		+ negativ semidefinit <==> $Q_A(x)≤0 ∀x≠0$
 		+ ansonsten indefinit
 + Rechnerische Bestimmung von Extrema im mehrdimensionalen
-	+ ![[../../../z_images/Pasted image 20220301092715.png]]
+	+ ![](../../../z_images/Pasted%20image%2020220301092715.png)
 	+ Vorzeichen von Unterdeterminanten
 		+ positiv def. <==> positives Vorzeichen
 		+ negativ def. <==> alternierendes Vorzeichen
-		+ ![[../../../z_images/Pasted image 20220301092945.png]]
+		+ ![](../../../z_images/Pasted%20image%2020220301092945.png)
 	+ Aussagekraft der $Δ_j$
 		+ eins der Δ = 0 ==> keine Aussagekraft
 		+ alle Δ > 0 ==> Min

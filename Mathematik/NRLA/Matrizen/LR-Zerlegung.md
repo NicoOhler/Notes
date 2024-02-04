@@ -19,6 +19,6 @@
 		+ Ly = b
 		+ Rx = y
 	+ leicht zu lösen wegen △-Matrix
-![[../../../z_images/Pasted image 20211028131447.png]]
+![](../../../z_images/Pasted%20image%2020211028131447.png)
 
 [[Matrix]]

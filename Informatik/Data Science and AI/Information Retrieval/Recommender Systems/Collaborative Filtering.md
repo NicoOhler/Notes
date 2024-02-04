@@ -14,7 +14,7 @@
 	+ matrix entry
 
 ### Example
-+ ![[../../../../z_images/Pasted image 20220502172300.png]]
++ ![](../../../../z_images/Pasted%20image%2020220502172300.png)
 
 ### CF Techniques
 + [[User Based CF]]

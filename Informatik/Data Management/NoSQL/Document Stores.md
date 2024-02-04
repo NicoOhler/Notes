@@ -1,6 +1,6 @@
 ### Overview
 + collection of key document [[Key-Value Pairs]]
-	+ ![[../../../z_images/Pasted image 20220608182801.png]]
+	+ ![](../../../z_images/Pasted%20image%2020220608182801.png)
 + documents are often
 	+ [[JSON]]
 	+ [[XML]]

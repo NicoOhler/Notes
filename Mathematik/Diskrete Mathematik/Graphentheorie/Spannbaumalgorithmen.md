@@ -8,11 +8,11 @@
 			+ entferne $l_i$  und inzidente Kante von $T_i-1$
 			+ definiere i-te Folgenglied $s_i$ als Nachbar von $l_i$
 + Verfahren retourniert Folge $S_T$
-+ ![[../../../z_images/Pasted image 20220513135223.png]]
++ ![](../../../z_images/Pasted%20image%2020220513135223.png)
 
 ###  Bread-First-Search
 + branching progress
-+ ![[../../../z_images/Pasted image 20220513135916.png]]
++ ![](../../../z_images/Pasted%20image%2020220513135916.png)
 + Input: zusammenhängender Graph G
 + Output: Spannbaum T
 + Verfahren:
@@ -26,20 +26,20 @@
 			+ entfern x aus L
 		+ sonst
 			+ füg einen Nachbarn y aus $N(x)/V(T)$ zu T und L hinzu
-			+ ![[../../../z_images/Pasted image 20220513143532.png]]
+			+ ![](../../../z_images/Pasted%20image%2020220513143532.png)
 	+ return T
 + Beispiel
-	+ ![[../../../z_images/Pasted image 20220513144115.png]]
-	+ ![[../../../z_images/Pasted image 20220513144220.png]]
+	+ ![](../../../z_images/Pasted%20image%2020220513144115.png)
+	+ ![](../../../z_images/Pasted%20image%2020220513144220.png)
 
 ### Depth-First-Search
 + findet langen Pfad
-+ ![[../../../z_images/Pasted image 20220513135946.png]]
++ ![](../../../z_images/Pasted%20image%2020220513135946.png)
 + Input: zusammenhängender Graph G
 + Output: Spannbaum T
 + Verfahren fast ident zu BFS
 	+ jedoch wird y am Anfang von L hinzugefügt
-		+ ![[../../../z_images/Pasted image 20220513143908.png]]
+		+ ![](../../../z_images/Pasted%20image%2020220513143908.png)
 
 ### Algorithmus von Kruskal
 + Input: 
@@ -50,10 +50,10 @@
 + Output:
 	+ Spannbaum T von G mit minimalem Gewicht
 	+ Summe aller Kantengewichte ist minimal
-	+ ![[../../../z_images/Pasted image 20220513145234.png]]
+	+ ![](../../../z_images/Pasted%20image%2020220513145234.png)
 + Verfahren
 	+ sortiere (nummeriere) Kanten aufsteigend nach Gewicht
-		+ ![[../../../z_images/Pasted image 20220513145554.png]]
+		+ ![](../../../z_images/Pasted%20image%2020220513145554.png)
 	+ setze E(T)=∅
 	+ Loop bis $|E(T)|=n-1$
 		+ nimm die kleinste Kante $e_n$

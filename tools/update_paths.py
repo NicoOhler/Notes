@@ -6,7 +6,7 @@ import sys
 import pathlib
 
 
-def handle_args():
+def handle_args(default_directory="../"):
     if len(sys.argv) != 2:
         print("Usage: python3 update_paths.py <directory>")
         sys.exit(1)
@@ -79,7 +79,7 @@ def convert_to_md_path(contents):
 
         contents = re.sub(
             r"!\[\[" + image_name + r"\]\]",
-            r"!()[" + image_name_url_encoded + r"]",
+            r"![](" + image_name_url_encoded + r")",
             contents,
         )
 
@@ -87,8 +87,7 @@ def convert_to_md_path(contents):
 
 
 if __name__ == "__main__":
-    # path = handle_args()
-    path = "../"
+    path = handle_args()
     md_files, images = get_md_and_images(path)
     for file_path in md_files:
         with open(file_path, "r") as file:

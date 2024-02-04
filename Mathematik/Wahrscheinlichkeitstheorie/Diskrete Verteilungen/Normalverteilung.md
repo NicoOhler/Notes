@@ -1,7 +1,7 @@
 ### Definition
-+ ![[../../../z_images/Pasted image 20221013094605.png]]
-+ ![[../../../z_images/Pasted image 20221013094757.png]]
-	+ ![[../../../z_images/Pasted image 20221013095137.png]]
++ ![](../../../z_images/Pasted%20image%2020221013094605.png)
++ ![](../../../z_images/Pasted%20image%2020221013094757.png)
+	+ ![](../../../z_images/Pasted%20image%2020221013095137.png)
 	
 	
 	### Standardnormalverteilung
@@ -10,9 +10,9 @@
 	+  Varianz $σ^2=1$
 
 ### Beispiel
-+ ![[../../../z_images/Pasted image 20221013095254.png]]
-+ ![[../../../z_images/Pasted image 20221013095620.png]]
++ ![](../../../z_images/Pasted%20image%2020221013095254.png)
++ ![](../../../z_images/Pasted%20image%2020221013095620.png)
 
 ### Tabelle
-![[../../../z_images/Pasted image 20221121163032.png]]
+![](../../../z_images/Pasted%20image%2020221121163032.png)
 

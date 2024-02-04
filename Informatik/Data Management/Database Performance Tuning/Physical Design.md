@@ -3,7 +3,7 @@
 	+ either manually by DBA or
 	+ via advisor tools
 		+ which analyse your workflow and optimise them
-+ ![[../../../z_images/Pasted image 20220505104037.png]]
++ ![](../../../z_images/Pasted%20image%2020220505104037.png)
 	+ can be optimised by 
 		+ sorting/indexing
 		+ only retrieve actually needed columns

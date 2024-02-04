@@ -12,7 +12,7 @@
 + lineares Feld $T[0...m-1]$
 + Wert $w∈U$ wird in $T[h(w)]$ gespeichert
 + Hashfunktion $h:$ $U→\{0,1,...,m-1\}$
-+ ![[../../../../z_images/Pasted image 20221113105055.png]]
++ ![](../../../../z_images/Pasted%20image%2020221113105055.png)
 
 ### Kollisionsproblem
 + endlich große Tabelle
@@ -24,25 +24,25 @@
 ### Kollisionsbehandlung
 + Überläuferlisten (Chaining)
 	+ Daten in verkettete Liste speichern bei Kollision
-	+ ![[../../../../z_images/Pasted image 20221113111059.png]]
+	+ ![](../../../../z_images/Pasted%20image%2020221113111059.png)
 	+ Laufzeiten
 		+ worst case $Θ(n)$ für Suchen, Löschen
 			+ sehr unwahrscheinlich
-			+ ![[../../../../z_images/Pasted image 20221113111441.png]]
-		+ ![[../../../../z_images/Pasted image 20221113111156.png]]
+			+ ![](../../../../z_images/Pasted%20image%2020221113111441.png)
+		+ ![](../../../../z_images/Pasted%20image%2020221113111156.png)
 + Offene Adressierung
 	+ Werte direkt in Tabelle speichern
-		+ ![[../../../../z_images/Pasted image 20221113112247.png]]
+		+ ![](../../../../z_images/Pasted%20image%2020221113112247.png)
 	+ Bei Kollision wird neue Adresse berechnet bis freie gefunden
-		+ ![[../../../../z_images/Pasted image 20221113112344.png]]
+		+ ![](../../../../z_images/Pasted%20image%2020221113112344.png)
 	+ Näherungen
-		+ ![[../../../../z_images/Pasted image 20221113112524.png]]
+		+ ![](../../../../z_images/Pasted%20image%2020221113112524.png)
 	+ Löschproblem
-		+ ![[../../../../z_images/Pasted image 20221113113048.png]]
+		+ ![](../../../../z_images/Pasted%20image%2020221113113048.png)
 		+ Lösung
-			+ ![[../../../../z_images/Pasted image 20221113113114.png]]
+			+ ![](../../../../z_images/Pasted%20image%2020221113113114.png)
 	+ Operationen
-		+ ![[../../../../z_images/Pasted image 20221113113151.png]]
+		+ ![](../../../../z_images/Pasted%20image%2020221113113151.png)
 
 ### Hashfunktion
 + Ziel: Werte gleich auf Feld zu verteilen
@@ -54,11 +54,11 @@
 		+ unabhängig von Mustern in den Daten
 + theoretische ideale Hashfunktion
 	+ jeder Index ist gleich wahrscheinlich
-	+ ![[../../../../z_images/Pasted image 20221113105721.png]]
+	+ ![](../../../../z_images/Pasted%20image%2020221113105721.png)
 
 ### Arten von Hashfunktionen
 + Divisionsmethode
-	+ ![[../../../../z_images/Pasted image 20221113105906.png]]
+	+ ![](../../../../z_images/Pasted%20image%2020221113105906.png)
 	+ schnell berechenbar
 	+ nicht für alle m geeignet
 		+ gutes m, wenn prim
@@ -67,8 +67,8 @@
 + Multiplikationsmethode
 	+ Nachkommastellen von Multiplikation mit Konstante $A$
 	+ Multiplikation mit m abrunden
-	+ ![[../../../../z_images/Pasted image 20221113110623.png]]
+	+ ![](../../../../z_images/Pasted%20image%2020221113110623.png)
 	+ unabhängig vom m
 
 ### Laufzeiten
-+ ![[../../../../z_images/Pasted image 20221113113249.png]]
++ ![](../../../../z_images/Pasted%20image%2020221113113249.png)

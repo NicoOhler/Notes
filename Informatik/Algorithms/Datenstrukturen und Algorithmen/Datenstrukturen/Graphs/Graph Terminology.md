@@ -1,29 +1,29 @@
 ### Terminology
-+ ![[../../../../../z_images/Pasted image 20221227223659.png]]
-	+ ![[../../../../../z_images/Pasted image 20221227223706.png]]
-+ ![[../../../../../z_images/Pasted image 20221227223742.png]]
-+ ![[../../../../../z_images/Pasted image 20221227223856.png]]
-+ ![[../../../../../z_images/Pasted image 20221227223955.png]]
-+ ![[../../../../../z_images/Pasted image 20221227224044.png]]
-+ ![[../../../../../z_images/Pasted image 20221227224106.png]]
-+ ![[../../../../../z_images/Pasted image 20221227224141.png]]
-+ ![[../../../../../z_images/Pasted image 20221227224201.png]]
-+ ![[../../../../../z_images/Pasted image 20221227224235.png]]
-+ ![[../../../../../z_images/Pasted image 20221227224300.png]]
-+ ![[../../../../../z_images/Pasted image 20221227224326.png]]
-+ ![[../../../../../z_images/Pasted image 20221228090840.png]]
-+ ![[../../../../../z_images/Pasted image 20221228091154.png]]
-+ ![[../../../../../z_images/Pasted image 20221228092913.png]]
-+ ![[../../../../../z_images/Pasted image 20221228093043.png]]
-+ ![[../../../../../z_images/Pasted image 20221228093131.png]]
-+ ![[../../../../../z_images/Pasted image 20221228093207.png]]
-+ ![[../../../../../z_images/Pasted image 20221228093344.png]]
-+ ![[../../../../../z_images/Pasted image 20221228093543.png]]
++ ![](../../../../../z_images/Pasted%20image%2020221227223659.png)
+	+ ![](../../../../../z_images/Pasted%20image%2020221227223706.png)
++ ![](../../../../../z_images/Pasted%20image%2020221227223742.png)
++ ![](../../../../../z_images/Pasted%20image%2020221227223856.png)
++ ![](../../../../../z_images/Pasted%20image%2020221227223955.png)
++ ![](../../../../../z_images/Pasted%20image%2020221227224044.png)
++ ![](../../../../../z_images/Pasted%20image%2020221227224106.png)
++ ![](../../../../../z_images/Pasted%20image%2020221227224141.png)
++ ![](../../../../../z_images/Pasted%20image%2020221227224201.png)
++ ![](../../../../../z_images/Pasted%20image%2020221227224235.png)
++ ![](../../../../../z_images/Pasted%20image%2020221227224300.png)
++ ![](../../../../../z_images/Pasted%20image%2020221227224326.png)
++ ![](../../../../../z_images/Pasted%20image%2020221228090840.png)
++ ![](../../../../../z_images/Pasted%20image%2020221228091154.png)
++ ![](../../../../../z_images/Pasted%20image%2020221228092913.png)
++ ![](../../../../../z_images/Pasted%20image%2020221228093043.png)
++ ![](../../../../../z_images/Pasted%20image%2020221228093131.png)
++ ![](../../../../../z_images/Pasted%20image%2020221228093207.png)
++ ![](../../../../../z_images/Pasted%20image%2020221228093344.png)
++ ![](../../../../../z_images/Pasted%20image%2020221228093543.png)
 	+ also applies for polyhedrons
-	+ ![[../../../../../z_images/Pasted image 20221228094026.png]]
+	+ ![](../../../../../z_images/Pasted%20image%2020221228094026.png)
 	+ Planarity
-		+ ![[../../../../../z_images/Pasted image 20221228094647.png]]
-			+ ![[../../../../../z_images/Pasted image 20221228094846.png]]
-		+ ![[../../../../../z_images/Pasted image 20221228095110.png]] 
-			+ ![[../../../../../z_images/Pasted image 20221228095000.png]]
-			+ ![[../../../../../z_images/Pasted image 20221228095136.png]]
+		+ ![](../../../../../z_images/Pasted%20image%2020221228094647.png)
+			+ ![](../../../../../z_images/Pasted%20image%2020221228094846.png)
+		+ ![](../../../../../z_images/Pasted%20image%2020221228095110.png) 
+			+ ![](../../../../../z_images/Pasted%20image%2020221228095000.png)
+			+ ![](../../../../../z_images/Pasted%20image%2020221228095136.png)

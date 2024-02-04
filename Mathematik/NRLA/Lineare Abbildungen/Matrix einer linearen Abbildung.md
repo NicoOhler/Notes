@@ -5,7 +5,7 @@
 		+ Spaltenvektoren der die lineare Abbildung F darstellenden Matrix M sind die Koordinatenvektoren der Bilder des Basisvektoren
 			+ $C_B(F(v_1)),...,C_B(F(v_n))$
 		+ Beispiel
-			+ ![[../../../z_images/Pasted image 20211204184201.png]]
+			+ ![](../../../z_images/Pasted%20image%2020211204184201.png)
 
 ### Komposition von linearen Abbildungen
 + Komposition wird wird durch das Produkt der darstellenden Transformationsmatrizen beschrieben

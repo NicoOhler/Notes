@@ -5,12 +5,12 @@
 	+ ohne Kreis <==> $|E|=|v|-1$
 + für je zwei Knoten, gibt es genau einen Pfad
 + Wurzel $x_0$ ist "Spitze" von Baum
-	+ ![[../../../z_images/Pasted image 20220512164947.png]]
+	+ ![](../../../z_images/Pasted%20image%2020220512164947.png)
 	+ jeder Knoten (außer $x_0$) hat genau einen (ersten) Vorgänger $v(x)$
 		+ $d(x_0,v(x))<d(x_0,y)$
 		+ $v^{k}(x)=$ k-te Vorgänger 
 	+ Nachfolger sind Nachbarn ohne Vorgänger
-		+ ![[../../../z_images/Pasted image 20220512165341.png]]
+		+ ![](../../../z_images/Pasted%20image%2020220512165341.png)
 		+ Blätter Nachfolger ohne Nachfolger
 	+ Höhe von x $h(x)=d(x_0,x)$
 + Binärbaum
@@ -27,27 +27,27 @@
 		+ automatisch kürzeste Pfad
 	+ bestimme Pfad $P_y$ von y bis $x_0$
 	+ bestimme kleinsten gemeinsamen Vorgänger j
-		+ ![[../../../z_images/Pasted image 20220512170005.png]]
+		+ ![](../../../z_images/Pasted%20image%2020220512170005.png)
 	+ return Pfad von x zu j nach y
-		+ ![[../../../z_images/Pasted image 20220512170121.png]]
+		+ ![](../../../z_images/Pasted%20image%2020220512170121.png)
 
 ### Spannbäume
 + Baum T ist Spannbaum von G, wenn
 	+ $V(T)=V(G)$
 	+ $E(T)⊆E(G)$
-	+ ![[../../../z_images/Pasted image 20220512170337.png]]
+	+ ![](../../../z_images/Pasted%20image%2020220512170337.png)
 + Laplace-Matrix L(G)
 	+ n×n Matrix mit bis zu n Eigenwerten $λ_1,λ_2,...,λ_{n-1}$
 		+ $∀0≤i≤n-1: λ_i≥0$
 		+ kleinste λ = 0
-		+ ![[../../../z_images/Pasted image 20220512173159.png]]
+		+ ![](../../../z_images/Pasted%20image%2020220512173159.png)
 + Matrix-Baum-Satz von Kirchhoff
 	+ sei G ein zusammenhängender Graph mit n Knoten
 	+ \#Spannbäume von G = $\frac{1}{n} λ_1*...*λ_{n-1}$
 + Cayley-Formel
 	+ \#Spannbäume von $K^n=n^{n-2}$
-	+ ![[../../../z_images/Pasted image 20220513134027.png]]
-	+ ![[../../../z_images/Pasted image 20220512173648.png]]
-	+ ![[../../../z_images/Pasted image 20220512173715.png]]
+	+ ![](../../../z_images/Pasted%20image%2020220513134027.png)
+	+ ![](../../../z_images/Pasted%20image%2020220512173648.png)
+	+ ![](../../../z_images/Pasted%20image%2020220512173715.png)
 
 [[Wege und Kreise]]

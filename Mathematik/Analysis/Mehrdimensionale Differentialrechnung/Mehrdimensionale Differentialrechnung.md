@@ -32,13 +32,13 @@
 	+ partielle Ableitung entlang einer Richtung möglich
 	+ entspricht Änderungsrate entlang des Vektor n
 	+ Richtung ≠ Achsen/Variablen
-	+ ![[../../../z_images/Pasted image 20220121171531.png]]
+	+ ![](../../../z_images/Pasted%20image%2020220121171531.png)
 	+ $\frac{\partial f}{\partial \overrightarrow{n}}=l(\overrightarrow{n})$
 		+ gilt wenn f in $x_0$ differenzierbar
 
 ### Gradient von f
 + Koordinaten der linearen Abbildung als Vektor
-+ ![[../../../z_images/Pasted image 20220121172207.png]]
++ ![](../../../z_images/Pasted%20image%2020220121172207.png)
 + $\frac{\partial f}{\partial \overrightarrow{n}}=<grad(f)(\overrightarrow{x_0}),\overrightarrow{n}>$
 	+ Richtungsableitung = Skalarprodukt von Gradient und Richtungsvektor
 	+ $<grad(f)(\overrightarrow{x_0}),\overrightarrow{n}>$

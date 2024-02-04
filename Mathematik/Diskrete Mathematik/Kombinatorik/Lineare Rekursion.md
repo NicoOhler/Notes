@@ -10,8 +10,8 @@
 		+  $a_n=α_1*ß^n_1+α_2*ß^n_2+...+α_l*ß^n_l$
 		+  Konstanten $α_1, α_2,...,α_l$, sodass Anfangsbedingungen erfüllt
 +  Beispiel: Fibonacci-Folge
-	+ ![[../../../z_images/Pasted image 20220411163659.png]]
-	+ ![[../../../z_images/Pasted image 20220411163705.png]]
+	+ ![](../../../z_images/Pasted%20image%2020220411163659.png)
+	+ ![](../../../z_images/Pasted%20image%2020220411163705.png)
 
 ### Erzeugende Funktionen
 + formale Potenzreihe
@@ -29,13 +29,13 @@
 	+ $A(z)=\frac{1}{B(z)}$
 	+ Beispiele:
 		+ geometrische Reihe
-			+ ![[../../../z_images/Pasted image 20220428144758.png]]
+			+ ![](../../../z_images/Pasted%20image%2020220428144758.png)
 		+ Fibonacci
-			+ ![[../../../z_images/Pasted image 20220428145740.png]]
-			+ ![[../../../z_images/Pasted image 20220428145813.png]]
-			+ ![[../../../z_images/Pasted image 20220428145823.png]]
+			+ ![](../../../z_images/Pasted%20image%2020220428145740.png)
+			+ ![](../../../z_images/Pasted%20image%2020220428145813.png)
+			+ ![](../../../z_images/Pasted%20image%2020220428145823.png)
 + $a_n$ bestimmen?
-	+ ![[../../../z_images/Pasted image 20220428151212.png]]
+	+ ![](../../../z_images/Pasted%20image%2020220428151212.png)
 
 
 [[Kombinatorik]]

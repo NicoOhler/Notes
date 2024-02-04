@@ -5,7 +5,7 @@
 + other segment's endpoints must be on different sides
 + for both segments
 + check 4 triple-orientations 
-	+ ![[../../../../z_images/Pasted image 20230113210908.png]]
+	+ ![](../../../../z_images/Pasted%20image%2020230113210908.png)
 	+ $counterclockwise=left$
 
 ### Observations
@@ -23,9 +23,9 @@
 		+ check for intersection
 	+ intersections must be neighboured on $L$ 
 		+ at some point
-+ ![[../../../../z_images/Pasted image 20230113211847.png]]
++ ![](../../../../z_images/Pasted%20image%2020230113211847.png)
 + events
-	+ ![[../../../../z_images/Pasted image 20230113211908.png]]
+	+ ![](../../../../z_images/Pasted%20image%2020230113211908.png)
 
 ### Implementation
 + used data structures
@@ -44,21 +44,21 @@
 			+ switch neighbours (intersection)
 			+ dictionary, [[(2-4)-Bäume]]
 + pseudocode
-	+ ![[../../../../z_images/Pasted image 20230113213608.png]]
+	+ ![](../../../../z_images/Pasted%20image%2020230113213608.png)
 + $y$-order depends on actual $y$-coordinates at this $x$-coordinate
-	+ ![[../../../../z_images/Pasted image 20230113214133.png]]
+	+ ![](../../../../z_images/Pasted%20image%2020230113214133.png)
 + at most two new neighbours
 	+ above and below new minimum $x$
 	+ easier to find if linked
 		+ maybe link leaves of [[(2-4)-Bäume]] with pointers
 
 ### Analysis
-+ ![[../../../../z_images/Pasted image 20230113214527.png]]
++ ![](../../../../z_images/Pasted%20image%2020230113214527.png)
 + detecting same intersection twice possible
 	+ must be prevented with check
 	 + does not affect time complexity
-+ ![[../../../../z_images/Pasted image 20230113214944.png]]
++ ![](../../../../z_images/Pasted%20image%2020230113214944.png)
 + can be further reduced to
 	+ $O(n\ log n + k)$
 + stop at first intersection possible
-	+ ![[../../../../z_images/Pasted image 20230113215052.png]]
+	+ ![](../../../../z_images/Pasted%20image%2020230113215052.png)

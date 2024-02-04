@@ -12,7 +12,7 @@
 
 ### Adjacency Matrix
 + represents distance/adjacency between all nodes of a graph
-+ ![[../../../../z_images/Pasted image 20220331095313.png]]
++ ![](../../../../z_images/Pasted%20image%2020220331095313.png)
 
 ### Use Cases
 + Shortest Path 
@@ -25,7 +25,7 @@
 		+ number of incoming connections
 	+ closeness centrality
 		+ the closer to all other nodes the more central
-		+ ![[../../../../z_images/Pasted image 20220622174312.png]]
+		+ ![](../../../../z_images/Pasted%20image%2020220622174312.png)
 
 
 [[Knowledge Representation]]

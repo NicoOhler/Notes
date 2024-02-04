@@ -4,30 +4,30 @@
 	+ sonst 0
 + immer symmetrisch entlang der Diagonale
 + $(A^k)_{ij}=$# Wege mit Länge k von $v_i$ nach $v_j$
-	+ ![[../../../z_images/Pasted image 20220512162757.png]]
+	+ ![](../../../z_images/Pasted%20image%2020220512162757.png)
 + Beispiel:
-	+ ![[../../../z_images/Pasted image 20220508150829.png]]
+	+ ![](../../../z_images/Pasted%20image%2020220508150829.png)
 	+ Sanity Check - Probe
-		+ ![[../../../z_images/Pasted image 20220508151129.png]]
+		+ ![](../../../z_images/Pasted%20image%2020220508151129.png)
 
 ### Inzidenzmatrix
 + analog zur Adjazenzmatrix
 	+ 1 wenn inzident
 	+ sonst 0
 + Beispiel:
-	+ ![[../../../z_images/Pasted image 20220508151314.png]]
-	+ ![[../../../z_images/Pasted image 20220508151256.png]]
+	+ ![](../../../z_images/Pasted%20image%2020220508151314.png)
+	+ ![](../../../z_images/Pasted%20image%2020220508151256.png)
 
 ### Diagonalmatrix/Gradmatrix
 + auf der Diagonale befindet sich Grad des jeweiligen Knoten
-+ ![[../../../z_images/Pasted image 20220508151638.png]]
++ ![](../../../z_images/Pasted%20image%2020220508151638.png)
 
 ### Laplace Matrix
 + auf der Diagonale befindet sich Grad des jeweiligen Knoten
 + ansonsten -1 falls verbunden, sonst 0
-+ ![[../../../z_images/Pasted image 20220508151831.png]]
++ ![](../../../z_images/Pasted%20image%2020220508151831.png)
 + auch über Adjazenz- und Diagonalmatrix bestimmbar
 	+ $L=D-A$
-	+ ![[../../../z_images/Pasted image 20220508152102.png]]
+	+ ![](../../../z_images/Pasted%20image%2020220508152102.png)
 
 [[Graphentheorie]] [[Matrix]]

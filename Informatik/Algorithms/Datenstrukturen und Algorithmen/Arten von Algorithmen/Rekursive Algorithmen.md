@@ -7,18 +7,18 @@
 	+ Eigenschaften
 		+ unendlicher Umfang
 		+ begrenzte Fläche
-		+ ![[../../../../z_images/Pasted image 20221016222045.png]]
-		+ ![[../../../../z_images/Pasted image 20221016222121.png]]
+		+ ![](../../../../z_images/Pasted%20image%2020221016222045.png)
+		+ ![](../../../../z_images/Pasted%20image%2020221016222121.png)
 
 ### Vergleich zwischen rekursiver und iterativer Implementation
 + Koch Flocke
 	+ rekursive Implementation
-		+ ![[../../../../z_images/Pasted image 20221016222520.png]]
+		+ ![](../../../../z_images/Pasted%20image%2020221016222520.png)
 	  + iterative Implementation
-		  + ![[../../../../z_images/Pasted image 20221016222541.png]]
+		  + ![](../../../../z_images/Pasted%20image%2020221016222541.png)
 + Fibonacci-Zahlen
 	+ unterschiedliche Komplexität
-	+ ![[../../../../z_images/Pasted image 20221016222846.png]]
-	+ ![[../../../../z_images/Pasted image 20221016225242.png]]
+	+ ![](../../../../z_images/Pasted%20image%2020221016222846.png)
+	+ ![](../../../../z_images/Pasted%20image%2020221016225242.png)
 	+ Optimierung durch Speichern von Zwischenergebnissen
-		+ ![[../../../../z_images/Pasted image 20221016225606.png]]
+		+ ![](../../../../z_images/Pasted%20image%2020221016225606.png)

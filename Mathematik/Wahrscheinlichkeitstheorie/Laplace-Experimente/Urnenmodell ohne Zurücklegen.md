@@ -13,14 +13,14 @@
 
 ### Berechnung
 + mittels [[Hypergeometrische Verteilung]]
-+ ![[../../../z_images/Pasted image 20221004161550.png]] 
++ ![](../../../z_images/Pasted%20image%2020221004161550.png) 
 
 ### Beispiele  
 + Lotto
-	+ ![[../../../z_images/Pasted image 20221004155732.png]]
-	+ ![[../../../z_images/Pasted image 20221004160202.png]]
+	+ ![](../../../z_images/Pasted%20image%2020221004155732.png)
+	+ ![](../../../z_images/Pasted%20image%2020221004160202.png)
 + Fragenkatalog
-	+ ![[../../../z_images/Pasted image 20221004160235.png]]
-	+ ![[../../../z_images/Pasted image 20221004160638.png]]
+	+ ![](../../../z_images/Pasted%20image%2020221004160235.png)
+	+ ![](../../../z_images/Pasted%20image%2020221004160638.png)
 
 [[Laplace-Experimente]] [[Binomische Lehrsatz]]

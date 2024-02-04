@@ -32,7 +32,7 @@
 	+ explains the reasoning
 	+ optional
 + User Interface
-![[../../../z_images/Pasted image 20220331093929.png]]
-![[../../../z_images/Pasted image 20220331093939.png]]
+![](../../../z_images/Pasted%20image%2020220331093929.png)
+![](../../../z_images/Pasted%20image%2020220331093939.png)
 
 [[Data Science and AI]] [[General Knowledge vs Facts]]

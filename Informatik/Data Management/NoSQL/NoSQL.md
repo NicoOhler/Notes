@@ -17,7 +17,7 @@
 	+ scaling
 
 ### MongoDB Example
-![[../../../z_images/Pasted image 20220609165804.png]]
+![](../../../z_images/Pasted%20image%2020220609165804.png)
 
 
 [[Data Models]]

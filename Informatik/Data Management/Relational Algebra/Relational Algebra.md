@@ -11,8 +11,8 @@
 		+ [[Derived Operators]]
 		+ extended
 	+ e.g.
-		+ ![[../../../z_images/Pasted image 20220406142243.png]]
-	+ ![[../../../z_images/Pasted image 20220406142441.png]]
+		+ ![](../../../z_images/Pasted%20image%2020220406142243.png)
+	+ ![](../../../z_images/Pasted%20image%2020220406142441.png)
 
 [[Data Models]]
 

@@ -6,4 +6,4 @@
 +  usually makes model hard to understand
 	+  only use to convey important information
 
-![[../../../../../z_images/Pasted image 20220315123303.png]]
+![](../../../../../z_images/Pasted%20image%2020220315123303.png)

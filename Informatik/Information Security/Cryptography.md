@@ -24,7 +24,7 @@
 	+ e.g. TOTP
 
 ### Authenticity using hash functions
-+ ![[../../z_images/Pasted image 20240115170331.png]]
++ ![](../../z_images/Pasted%20image%2020240115170331.png)
 + birthday paradox
 	+ $2^{t/2}$ messages => $2^{t-1}$ message pairs
 	+ collision probability for one pair is $\frac{1}{2^t}=2^{-t}$
@@ -70,7 +70,7 @@
 + key-alternating using key schedule
 	+ each round/iteration depends on different round key which has been derived from K
 	+ e.g. AES
-		+ ![[../../z_images/Pasted image 20240115093758.png]]
+		+ ![](../../z_images/Pasted%20image%2020240115093758.png)
 		+ SubBytes
 			+ substitute using lookup table S-box with original byte as key
 			+ $b_{ij} = S[a_{ij}]$
@@ -79,26 +79,26 @@
 			+ $b_{ij} = a_{i(j+i\%4)}$
 		+ MixColumns
 			+ multiplication of each column with constant matrix M
-			+ ![[../../z_images/Pasted image 20240115094429.png]]
+			+ ![](../../z_images/Pasted%20image%2020240115094429.png)
 		+ AddRoundKey
 			+ XOR with $k^{(r)}$
 			+ $b_{ij} = a_{ij}⊕k^{(r)}$
 + regular encryption
 	+ does not provide authentication
 	+ ECB
-		+ ![[../../z_images/Pasted image 20240115094730.png]]
-		+ ![[../../z_images/Pasted image 20240115094743.png]]
+		+ ![](../../z_images/Pasted%20image%2020240115094730.png)
+		+ ![](../../z_images/Pasted%20image%2020240115094743.png)
 	+ CBC
-		+ ![[../../z_images/Pasted image 20240115094825.png]]
+		+ ![](../../z_images/Pasted%20image%2020240115094825.png)
 		+ C also depends on nonce and previous blocks
 	+ CTR
-		+ ![[../../z_images/Pasted image 20240115094928.png]]
+		+ ![](../../z_images/Pasted%20image%2020240115094928.png)
 		+ C also depends on nonce and block index
 	+ Authenticated Encryption (with Associated Data)
 		+ produces cipher text C and tag T for message M using symmetric key K, nonce N and associated data A (e.g. metadata or system parameters)
 		+ some TLS 1.3 authenticated ciphers
 			+ AES-CCM (CTR using AES encryption with CBC-MAC authentication)
-				+ ![[../../z_images/Pasted image 20240115095527.png]]
+				+ ![](../../z_images/Pasted%20image%2020240115095527.png)
 			+ AES-GCM (default)
 + Asymmetric encryption schemes
 	+ Preliminary maths
@@ -106,10 +106,10 @@
 			+ $\upvarphi(n)=\upvarphi(pq)=(p-1)(q-1)$
 		+ Euler theorem
 			+ a,n are coprime $\Leftrightarrow a^{\upvarphi(n)}\equiv 1 \pmod{n}$
-		+ ![[../../z_images/Pasted image 20240115100753.png]]
-		+ ![[../../z_images/Pasted image 20240115100804.png]]
-		+ ![[../../z_images/Pasted image 20240115101326.png]]
-		+ ![[../../z_images/Pasted image 20240115101307.png]]
+		+ ![](../../z_images/Pasted%20image%2020240115100753.png)
+		+ ![](../../z_images/Pasted%20image%2020240115100804.png)
+		+ ![](../../z_images/Pasted%20image%2020240115101326.png)
+		+ ![](../../z_images/Pasted%20image%2020240115101307.png)
 	+ Key exchange
 		+ agree on shared symmetric key while communicating over insecure channel
 		+ Diffie-Hellman
@@ -120,7 +120,7 @@
 	+ Asymmetric encryption
 		+ uses private and public key
 		+ RSA
-			+ ![[../../z_images/Pasted image 20240115101959.png]]
+			+ ![](../../z_images/Pasted%20image%2020240115101959.png)
 			+ Square-and-Multiply $b^e$
 				+ $result:=1$
 				+ for each bit in e
@@ -129,7 +129,7 @@
 						+ $result := result*b$
 			+ textbook RSA is deterministic
 				+ use padding scheme
-				+ ![[../../z_images/Pasted image 20240115102437.png]]
+				+ ![](../../z_images/Pasted%20image%2020240115102437.png)
 				+ e.g. RSAES-OAEP
 
 ### Protocols
@@ -150,13 +150,13 @@
 + Transport Layer Security TLS
 	+ Key exchange using DHE
 		+ exchange ephemeral public DH key, randomness and list of preferred symmetric ciphers
-		+ ![[../../z_images/Pasted image 20240115103730.png]]
+		+ ![](../../z_images/Pasted%20image%2020240115103730.png)
 	+ Authentication
 		+ server sends certificate, signature over transcript and HMAC of transcript
 			+ signature using long term private key
 			+ HMAC using $K_AB$
 		+ client sends HMAC of transcript back
-		+ ![[../../z_images/Pasted image 20240115104150.png]]
+		+ ![](../../z_images/Pasted%20image%2020240115104150.png)
 	+ Sending application data
 		+ send messages encrypted with new symmetric keys derived from $K_{AB}$ with HKDF
 			+ HMAC-based key derivation function
@@ -172,13 +172,13 @@
 
 ### Miscellaneous 
 + Kerckhoffs' Principle
-	+ ![[../../z_images/Pasted image 20240115171311.png]]
-	+ ![[../../z_images/Pasted image 20240115171327.png]]
+	+ ![](../../z_images/Pasted%20image%2020240115171311.png)
+	+ ![](../../z_images/Pasted%20image%2020240115171327.png)
 + Elliptic Curve Cryptography ECC
-	+ ![[../../z_images/Pasted image 20240115104641.png]]
+	+ ![](../../z_images/Pasted%20image%2020240115104641.png)
 + End-to-End Encryption
 	+ may require more security properties
-		+ ![[../../z_images/Pasted image 20240115104730.png]]
+		+ ![](../../z_images/Pasted%20image%2020240115104730.png)
 + Secure Multiparty Computation
 	+ multiple parties compute a result together without sharing their inputs
 	+ e.g. compute sum of consumed electricity without exposing each household's individual consumption

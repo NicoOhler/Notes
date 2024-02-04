@@ -7,8 +7,8 @@
 		+ Umkehrschluss gilt
 	
 ### Logische Rechengesetze
-![[../../../z_images/Pasted image 20220401143005.png]]
-![[../../../z_images/Pasted image 20220401143023.png]]
+![](../../../z_images/Pasted%20image%2020220401143005.png)
+![](../../../z_images/Pasted%20image%2020220401143023.png)
 + aus Falschen folgt Beliebiges
 + aus Beliebigem folgt Wahres
 

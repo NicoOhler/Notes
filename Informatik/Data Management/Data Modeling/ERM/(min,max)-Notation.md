@@ -5,9 +5,9 @@
 ### Comparison to Chen-Notation
 + (min,max)-Notation focus on relationships
 + Chen-Notation focus on entities
-+ ![[../../../../z_images/Pasted image 20220315121456.png]]
++ ![](../../../../z_images/Pasted%20image%2020220315121456.png)
 
 ### Example
-+ ![[../../../../z_images/Pasted image 20220315121315.png]]
++ ![](../../../../z_images/Pasted%20image%2020220315121315.png)
 
 [[ER Diagram]]
