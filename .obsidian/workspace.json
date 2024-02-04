@@ -20,8 +20,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "f8a56e8077fa1778",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Informatik/OOP2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -79,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematik/Allgemeine Mathematik/Zeichensammlung.md",
+                "file": "Informatik/OOP2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,8 +117,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3d0cd11fd505c6a9",
+  "active": "f8a56e8077fa1778",
   "lastOpenFiles": [
+    "Mathematik/Allgemeine Mathematik/Zeichensammlung.md",
     "head.tex",
     "Informatik/output.pdf",
     "Mathematik/Statistik/Regression/Verteilung der Schätzer.md",
@@ -117,7 +131,6 @@
     "Biologie/Allel.md",
     "z_images/Pasted image 20240204172651.png",
     "z_images/Pasted image 20240204172357.png",
-    "Mathematik/Allgemeine Mathematik/Zeichensammlung.md",
     "Psychology/Psychology.md",
     "Psychology/Thinking, Fast and Slow.md",
     "tools/head.tex",
