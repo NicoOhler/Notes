@@ -13,10 +13,17 @@ def get_md_files(path):
     return md_files
 
 
+def extract_path(file):
+    last_slash = md_file.rfind("/")
+    last_slash = last_slash if last_slash != -1 else 0
+    return file[: file.rfind("/")]
+
+
 pandoc = 'pandoc -H ../tools/head.tex --pdf-engine=pdflatex "../FILENAME.md" -o "../pdf/FILENAME.pdf" -s -V fontsize=12pt -V geometry:"top=2cm, bottom=1.5cm, left=2cm, right=2cm"'
 path = "../"
 md_files = get_md_files(path)
 for md_file in md_files:
     last_slash = md_file.rfind("/")
+    last_slash = last_slash if last_slash != -1 else 0
     os.makedirs("../pdf/" + md_file[:last_slash], exist_ok=True)
     os.system(pandoc.replace("FILENAME", str(md_file)))

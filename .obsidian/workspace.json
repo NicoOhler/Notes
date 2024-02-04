@@ -23,6 +23,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Sudoku 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "baddd18aebbdf94c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Informatik/Algorithms/Algorithms and Games/Sudoku.md",
                 "mode": "source",
                 "source": false
@@ -72,7 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 433.5
+    "width": 200
   },
   "right": {
     "id": "d1219e90b492538d",
@@ -88,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Algorithms/Algorithms and Games/Sudoku.md",
+                "file": "Sudoku 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +127,8 @@
   },
   "active": "08b79aa8f346c35f",
   "lastOpenFiles": [
+    "Informatik/Algorithms/Algorithms and Games/Sudoku.md",
+    "Sudoku 1.md",
     "pdf/Biologie/Allel.pdf",
     "pdf/Biologie",
     "pdf",
@@ -125,7 +139,6 @@
     "pdf/Informatik/Computer Organization/Computer Organization.pdf",
     "pdf/Informatik/Algorithms/Design and Analysis of Algorithms/Shortest Path Algorithms/Shortest Path Algorithms.pdf",
     "pdf/Informatik/Algorithms/Design and Analysis of Algorithms/Shortest Path Algorithms/Floyd-Warshall Algorithm.pdf",
-    "pdf/Informatik/Algorithms/Design and Analysis of Algorithms/Shortest Path Algorithms/Dijkstra’s Algorithm.pdf",
     "z_images/Punnett Square.png",
     "z_images/Pasted image 20240204172651.png",
     "z_images/Pasted image 20240204172357.png",
@@ -160,7 +173,6 @@
     "Mathematik/Wahrscheinlichkeitstheorie/Momente/Momenterzeugende Funktion.md",
     "Mathematik/Wahrscheinlichkeitstheorie/Momente/Moment.md",
     "Mathematik/Wahrscheinlichkeitstheorie/Momente/Kovarianz und Korrelation.md",
-    "Mathematik/Wahrscheinlichkeitstheorie/Laplace-Experimente/Urnenmodell ohne Zurücklegen.md",
     "Informatik/Untitled.canvas",
     "Untitled.canvas"
   ]
