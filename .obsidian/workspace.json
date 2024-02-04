@@ -16,8 +16,21 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "08b79aa8f346c35f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Informatik/Algorithms/Algorithms and Games/Sudoku.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -75,6 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Informatik/Algorithms/Algorithms and Games/Sudoku.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +113,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "097b9a58ea336072",
+  "active": "08b79aa8f346c35f",
   "lastOpenFiles": [
     "pdf/Biologie/Allel.pdf",
     "pdf/Biologie",
