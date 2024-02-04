@@ -62,4 +62,12 @@
 	+ initial view influences how new information is perceived
 		+ teacher rating two assignments of the same pupil
 			+ good first assignment => less critical/benefit of the doubt for second
-		+ liking a person at first makes future negative 
+		+ liking a person at first makes future negative actions seem less bad
+	+ discussion round
+		+ opinions of the first to speak have more weight
+	+ what you see is all there is (WYSIATIS)
+		+ jumping to conclusions despite low quantity and quality of information 
+		+ overconfidence
+		+ framing
+			+ 90% fat free better than 10% fat
+			+ 
