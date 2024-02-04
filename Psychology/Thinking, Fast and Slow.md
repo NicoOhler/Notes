@@ -2,7 +2,9 @@
 + two types/systems of thinking
 	+ System 1
 		+ automatic, intuitive thinking
-		+ makes life easier through automating common for common scenarios
+		+ auto pilot
+		+ makes life easier through automating common scenarios
+			+ based on pattern recognition
 		+ examples
 			+ reading
 			+ understanding simple sentences
@@ -11,6 +13,17 @@
 			+ simple arithmetic
 		+ "activates" system 2 if needed
 		+ susceptible to illusions/tricks
+			+ less critical
+		+ stops working if completely focused on something else
 	+ System 2
 		+ intentional, effortful, manual thinking
-		+ lazy - only used if needed
+		+ lazy
+			+ only used if needed
+			+ usually mentally taxing
+				+ pupil dilating
+				+ increased heart beat
+				+ may cause ego depletion
+					+ auto pilot once exhausted
+			+ unless flow state
++ association
+	+ unconscious 
