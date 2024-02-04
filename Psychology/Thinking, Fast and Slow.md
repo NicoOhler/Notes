@@ -37,4 +37,12 @@
 			+ telling lies over 
 				+ phone => prefer mouthwash
 				+ email => prefer regular soap
-	+ images of flowers/watching eyes influence willingness to pa
+	+ more likely to find mistakes if expecting them
+	+ facial expressions influence mood
+		+ facial expressions can be forced
+			+ tip of pencil in mouth => smile
+			+ pencil between teeth => frown
+		+ forced frowning makes comedies less funny and sad movies even sadder
+		+ the opposite is tu
+	+ images of flowers/watching eyes influence willingness to pay voluntarily
+		+ ![](../z_images/Pasted%20image%2020240204115620.png)
