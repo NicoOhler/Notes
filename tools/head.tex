@@ -1,0 +1,20 @@
+\usepackage{enumitem}
+\usepackage{pifont, graphicx}
+
+\let\oldlabelitemi\labelitemi
+\let\oldlabelitemii\labelitemii
+\let\oldlabelitemiii\labelitemiii
+\let\oldlabelitemiv\labelitemiv
+
+\setlistdepth{9}
+\setlist[itemize, 1]{label=\oldlabelitemi, leftmargin=25pt}
+\setlist[itemize, 2]{label=\oldlabelitemii, leftmargin=25pt}
+\setlist[itemize, 3]{label=\oldlabelitemiii, leftmargin=25pt}
+\setlist[itemize, 4]{label=\scalebox{0.7}{\ding{117}}, leftmargin=25pt}
+\setlist[itemize, 5]{label=\scalebox{0.7}{\ding{110}}, leftmargin=25pt}
+\setlist[itemize, 6]{label=\scalebox{0.7}{\ding{115}}, leftmargin=25pt}
+\setlist[itemize, 7]{label=\scalebox{0.7}{\ding{108}}, leftmargin=25pt}
+\setlist[itemize, 8]{label=\scalebox{0.7}{\ding{53}}, leftmargin=25pt}
+\setlist[itemize, 9]{label=\oldlabelitemiv, leftmargin=25pt}
+
+\renewlist{itemize}{itemize}{9}

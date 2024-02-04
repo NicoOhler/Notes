@@ -22,55 +22,19 @@
             }
           },
           {
-            "id": "b085bd48d15cc48b",
+            "id": "1de8c09986ee919e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psychology/Psychology.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5680157f7f3a40c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psychology/Psychology.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "34453eace0f6a8d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psychology/Psychology.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "df68f6ac7ab2367b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psychology/Thinking, Fast and Slow.md",
+                "file": "Informatik/OOP2.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -128,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psychology/Thinking, Fast and Slow.md",
+                "file": "Informatik/OOP2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,44 +117,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "df68f6ac7ab2367b",
+  "active": "1de8c09986ee919e",
   "lastOpenFiles": [
+    "Mathematik/Allgemeine Mathematik/Zeichensammlung.md",
+    "Psychology/Psychology.md",
+    "Psychology/Thinking, Fast and Slow.md",
+    "tools/head.tex",
+    "Informatik/output.pdf",
+    "Informatik/head.tex",
+    "head.tex",
+    "header-includes.yaml",
     "Untitled Document",
     "Informatik/Data Management/Data Modeling/Database Design.md",
     "Informatik/Data Management/Data Modeling/Normalization.md",
-    "Psychology/Thinking, Fast and Slow.md",
-    "Mathematik/Allgemeine Mathematik/Zeichensammlung.md",
     "Informatik/Untitled.canvas",
     "Informatik/OOP2.md",
     "Mathematik/Statistik/Hypothesentests/output.log",
     "Mathematik/Statistik/Hypothesentests/output.tex",
     "tools/convert_md_to_pdf.py",
     "z_images/Pasted image 20240204115620.png",
-    "Psychology/Psychology.md",
     "Psychology/Using Long Words Needlessly.md",
     "Psychology/Consequences of Erudite Vernacular.md",
     "Informatik/Algorithms/Algorithms and Games/Examples of Combinatorial Games.md",
     "Psychology",
-    "tools/update_paths.py",
     "Mathematik/NRLA/Matrizen/Matrix.md",
     "Mathematik/NRLA/Matrizen/LR-Zerlegung.md",
     "Mathematik/NRLA/Matrizen/Elementare Zeilenumformungen.md",
     "z_images/Pasted image 20211029194525.png",
     "z_images/Pasted image 20211028125806.png",
     "tools/test/img/p.png",
-    "tools/test/img",
     "tools/test/a.md",
     "tools/Untitled.md",
-    "tools/test/sub",
     "tools/test/sub/Analysis.md",
     "test/a.md/Analysis.md",
     "test/a.md",
-    "test",
     "Untitled.canvas",
     "Mathematik/Analysis/Differentialgleichungen/DGL Typen.md",
     "Mathematik/Analysis/Differentialgleichungen/Differentialgleichungen.md",
-    "tools/test",
-    "tools/replace_paths.py",
     "z_images/Pasted image 20240203160722.png",
     "z_images/Pasted image 20240128105450.png",
     "Informatik/Algorithms/Design and Analysis of Algorithms/Design and Analysis of Algorithms.md",
