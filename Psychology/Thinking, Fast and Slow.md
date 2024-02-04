@@ -26,4 +26,15 @@
 					+ auto pilot once exhausted
 			+ unless flow state
 + association
-	+ unconscious 
+	+ unconscious associations made all the time
+	+ specific surprising events are way less surprising after they happened once
+		+ even if the probability even decreased
+	+ WASH, EAT, SOAP and SOUP
+		+ SOUP more likely if hungry/thinking about food
+		+ SOAP if thinking about washing/after morally wrong actions
+		+ Lady Macbeth Effect
+			+ desire to cleanse oneself after morally wrong actions
+			+ telling lies over 
+				+ phone => prefer mouthwash
+				+ email => prefer regular soap
+	+ images of flowers/watching eyes influence willingness to pa
