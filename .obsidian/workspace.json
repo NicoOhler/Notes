@@ -12,29 +12,12 @@
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematik/Allgemeine Mathematik/Zeichensammlung.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "f8a56e8077fa1778",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Informatik/OOP2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +75,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/OOP2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,55 +99,55 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f8a56e8077fa1778",
+  "active": "097b9a58ea336072",
   "lastOpenFiles": [
-    "tools/convert_md_to_pdf copy.py",
-    "head.tex",
-    "z_images/head.tex",
-    "Mathematik/Allgemeine Mathematik/Zeichensammlung.md",
-    "Informatik/output.pdf",
-    "Mathematik/Statistik/Regression/Verteilung der Schätzer.md",
-    "Informatik/OOP2.md",
-    "Biologie/Humane Genome Project.md",
-    "Biologie/Gregor Mendel.md",
-    "Biologie/Gene.md",
-    "Biologie/Chromosome.md",
-    "Biologie/Allel.md",
+    "z_images/Punnett Square.png",
     "z_images/Pasted image 20240204172651.png",
     "z_images/Pasted image 20240204172357.png",
-    "Psychology/Psychology.md",
-    "Psychology/Thinking, Fast and Slow.md",
-    "tools/head.tex",
-    "Informatik/head.tex",
-    "header-includes.yaml",
-    "Untitled Document",
-    "Informatik/Data Management/Data Modeling/Database Design.md",
-    "Informatik/Data Management/Data Modeling/Normalization.md",
-    "Informatik/Untitled.canvas",
-    "Mathematik/Statistik/Hypothesentests/output.log",
-    "Mathematik/Statistik/Hypothesentests/output.tex",
-    "tools/convert_md_to_pdf.py",
     "z_images/Pasted image 20240204115620.png",
-    "Psychology/Using Long Words Needlessly.md",
-    "Psychology/Consequences of Erudite Vernacular.md",
-    "Informatik/Algorithms/Algorithms and Games/Examples of Combinatorial Games.md",
-    "Mathematik/NRLA/Matrizen/Matrix.md",
-    "Mathematik/NRLA/Matrizen/LR-Zerlegung.md",
-    "Mathematik/NRLA/Matrizen/Elementare Zeilenumformungen.md",
-    "z_images/Pasted image 20211029194525.png",
-    "z_images/Pasted image 20211028125806.png",
-    "tools/test/img/p.png",
-    "tools/test/a.md",
-    "tools/Untitled.md",
-    "tools/test/sub/Analysis.md",
-    "test/a.md/Analysis.md",
-    "test/a.md",
-    "Untitled.canvas",
-    "Mathematik/Analysis/Differentialgleichungen/DGL Typen.md",
-    "Mathematik/Analysis/Differentialgleichungen/Differentialgleichungen.md",
-    "z_images/Pasted image 20240203160722.png",
     "z_images/Pasted image 20240128105450.png",
     "z_images/Pasted image 20240128102705.png",
-    "z_images/Pasted image 20240128102610.png"
+    "z_images/Pasted image 20240128102610.png",
+    "z_images/Pasted image 20240119141652.png",
+    "z_images/Pasted image 20240119141501.png",
+    "z_images/Pasted image 20240119141203.png",
+    "z_images/Pasted image 20240119140949.png",
+    "z_images",
+    "Psychology/Using Long Words Needlessly.md",
+    "Psychology/Thinking, Fast and Slow.md",
+    "Psychology/Psychology.md",
+    "Psychology",
+    "Mathematik/Wahrscheinlichkeitstheorie/Momente/Erwartungswert/Erwartungswert für diskrete ZV.md",
+    "Mathematik/Wahrscheinlichkeitstheorie/Momente/Erwartungswert/Erwartungswert für allgemeine ZV.md",
+    "Mathematik/Wahrscheinlichkeitstheorie/Momente/Erwartungswert/Erwartungswert.md",
+    "Mathematik/Wahrscheinlichkeitstheorie/Momente/Erwartungswert/Erwartungswert von linearen Funktionen.md",
+    "Mathematik/Statistik/Schätzer/Konfidenzintervall/Konfidenzintervall.md",
+    "Mathematik/Statistik/Schätzer/Konfidenzintervall/Z-Score Confidence Interval.md",
+    "Mathematik/Statistik/Schätzer/Konfidenzintervall/T-Score Confidence Interval.md",
+    "Mathematik/Wahrscheinlichkeitstheorie/Zufallsvariablen/Zufallsvariable.md",
+    "Mathematik/Wahrscheinlichkeitstheorie/Zufallsvariablen/Wahrscheinlichkeitsfunktion PMF.md",
+    "Mathematik/Wahrscheinlichkeitstheorie/Zufallsvariablen/Verteilungsfunktion CDF.md",
+    "Mathematik/Wahrscheinlichkeitstheorie/Zufallsvariablen/Dichtefunktionen PDF.md",
+    "Mathematik/Wahrscheinlichkeitstheorie/Wahrscheinlichkeitsräume/Wahrscheinlichkeitsräume.md",
+    "Mathematik/Wahrscheinlichkeitstheorie/Wahrscheinlichkeitsräume/Wahrscheinlichkeit.md",
+    "Mathematik/Wahrscheinlichkeitstheorie/Wahrscheinlichkeitsräume/Stichprobenraum.md",
+    "Mathematik/Wahrscheinlichkeitstheorie/Wahrscheinlichkeitsräume/Ereignisse.md",
+    "Mathematik/Wahrscheinlichkeitstheorie/Unabhängigkeit/Unabhängigkeit von Zufallsvariablen.md",
+    "Mathematik/Wahrscheinlichkeitstheorie/Unabhängigkeit/Unabhängigkeit von Ereignissen.md",
+    "Mathematik/Wahrscheinlichkeitstheorie/Momente/Varianz.md",
+    "Mathematik/Wahrscheinlichkeitstheorie/Momente/Momenterzeugende Funktion.md",
+    "Mathematik/Wahrscheinlichkeitstheorie/Momente/Moment.md",
+    "Mathematik/Wahrscheinlichkeitstheorie/Momente/Kovarianz und Korrelation.md",
+    "Mathematik/Wahrscheinlichkeitstheorie/Momente/Erwartungswert",
+    "Mathematik/Wahrscheinlichkeitstheorie/Laplace-Experimente/Urnenmodell ohne Zurücklegen.md",
+    "Mathematik/Statistik/Schätzer/Konfidenzintervall",
+    "Mathematik/Statistik/Hypothesentests/output.tex",
+    "Mathematik/Statistik/Hypothesentests/output.log",
+    "Mathematik/Wahrscheinlichkeitstheorie/Zufallsvariablen",
+    "Mathematik/Wahrscheinlichkeitstheorie/Wahrscheinlichkeitsräume",
+    "Mathematik/Wahrscheinlichkeitstheorie/Unabhängigkeit",
+    "Mathematik/Wahrscheinlichkeitstheorie/Momente",
+    "Informatik/Untitled.canvas",
+    "Untitled.canvas"
   ]
 }
