@@ -63,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psychology/Thinking, Fast and Slow.md",
+                "file": "Informatik/Data Management/Data Modeling/Normalization.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematik/Allgemeine Mathematik/Zeichensammlung.md",
+                "file": "Informatik/Data Management/Data Modeling/Normalization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,11 +153,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "097b9a58ea336072",
+  "active": "df68f6ac7ab2367b",
   "lastOpenFiles": [
+    "Informatik/Data Management/Data Modeling/Database Design.md",
+    "Psychology/Thinking, Fast and Slow.md",
+    "Mathematik/Allgemeine Mathematik/Zeichensammlung.md",
     "Informatik/Untitled.canvas",
     "Informatik/OOP2.md",
-    "Psychology/Thinking, Fast and Slow.md",
     "Mathematik/Statistik/Hypothesentests/output.log",
     "Mathematik/Statistik/Hypothesentests/output.tex",
     "tools/convert_md_to_pdf.py",
@@ -173,7 +175,6 @@
     "Mathematik/NRLA/Matrizen/Elementare Zeilenumformungen.md",
     "z_images/Pasted image 20211029194525.png",
     "z_images/Pasted image 20211028125806.png",
-    "Mathematik/Allgemeine Mathematik/Zeichensammlung.md",
     "tools/test/img/p.png",
     "tools/test/img",
     "tools/test/a.md",
