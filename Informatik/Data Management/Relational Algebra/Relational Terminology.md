@@ -20,8 +20,8 @@
 	+ database instance
 + NULL
 	+ value for unknown/missing values
-	+ ![](../../z_images/Pasted%20image%2020220327145512.png)
-	+ ![](../../z_images/Pasted%20image%2020220327145606.png)	
+	+ ![](Pasted%20image%2020220327145512.png)
+	+ ![](Pasted%20image%2020220327145606.png)	
 + primary key
 	+ minimal set of attributes to uniquely identify tuples in relation
 		+ unique
@@ -33,7 +33,7 @@
 	+ Referential Integrity
 		+ may cause errors when deleting, because tuple may be referenced
 		+ solutions
-			+ ![](../../z_images/Pasted%20image%2020220327151113.png)
+			+ ![](Pasted%20image%2020220327151113.png)
 + domain/semantic constraints
 	+ constraints of attribute value
 	+ unique

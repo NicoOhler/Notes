@@ -4,10 +4,10 @@
 + access typically via REST APIs
 
 ### Key Techniques
-![](../../../z_images/Pasted%20image%2020220610104735.png)
+![](Pasted%20image%2020220610104735.png)
 
 ### Example Object Stores
-![](../../../z_images/Pasted%20image%2020220610104919.png)
-![](../../../z_images/Pasted%20image%2020220610104932.png)
+![](Pasted%20image%2020220610104919.png)
+![](Pasted%20image%2020220610104932.png)
 
 [[Distributed Data Storage]]

@@ -20,4 +20,4 @@
 	+ Ist Reihe absolut konvergent ==> Reihe konvergent
 		+ Ist Reihe konvergent ist sie nicht unbedingt absolut konvergent
 
-[[../../../test/a.md/Analysis]]
+[[test/a.md/Analysis]]

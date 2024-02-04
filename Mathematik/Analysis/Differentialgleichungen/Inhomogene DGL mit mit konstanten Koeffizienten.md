@@ -14,8 +14,8 @@
 ### Ansatz für partikuläre Lösung
 + abhängig von Resonanz und s(x)
 + keine äußere
-	+ ![](../../z_images/Pasted%20image%2020220504123011.png)
-	+ ![](../../z_images/Pasted%20image%2020220504123016.png)
+	+ ![](Pasted%20image%2020220504123011.png)
+	+ ![](Pasted%20image%2020220504123016.png)
 + äußere und keine innere
 	+ Ansatz x multiplizieren
 + äußere und innere
@@ -24,22 +24,22 @@
 + keine äußere und keine innere
 	+ nicht mit Polynom multiplizieren
 + Cheat-Sheet
-	+ ![](../../z_images/Pasted%20image%2020220504154246.png)
+	+ ![](Pasted%20image%2020220504154246.png)
 
 ### Herleitung
-+ ![](../../z_images/Pasted%20image%2020220502143123.png)
++ ![](Pasted%20image%2020220502143123.png)
 
 ### Zusammenfassung
-+ ![](../../z_images/Pasted%20image%2020220509144746.png)
-+ ![](../../z_images/Pasted%20image%2020220509144715.png)
++ ![](Pasted%20image%2020220509144746.png)
++ ![](Pasted%20image%2020220509144715.png)
 
 ### Beispiel
-+ ![](../../z_images/Pasted%20image%2020220502144122.png)
-+ ![](../../z_images/Pasted%20image%2020220502144426.png)
-+ ![](../../z_images/Pasted%20image%2020220502152349.png)
-+ ![](../../z_images/Pasted%20image%2020220502152440.png)
-+ ![](../../z_images/Pasted%20image%2020220502153239.png)
-+ ![](../../z_images/Pasted%20image%2020220502153314.png)
++ ![](Pasted%20image%2020220502144122.png)
++ ![](Pasted%20image%2020220502144426.png)
++ ![](Pasted%20image%2020220502152349.png)
++ ![](Pasted%20image%2020220502152440.png)
++ ![](Pasted%20image%2020220502153239.png)
++ ![](Pasted%20image%2020220502153314.png)
 
 
 

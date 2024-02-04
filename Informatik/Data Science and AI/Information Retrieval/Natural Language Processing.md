@@ -4,7 +4,7 @@
 	+ linguistics
 	+ computer science
 	+ electrical engineering (speech synthesis)
-+ ![](../../z_images/Pasted%20image%2020220425144557.png)
++ ![](Pasted%20image%2020220425144557.png)
 + NLP is language depending
 	+ most progess made for English
 

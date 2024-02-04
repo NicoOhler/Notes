@@ -14,7 +14,7 @@
 		+ $arctan(x)=\sum_{n=0}^\infty (-1)^{n} \frac{x^{2n+1}}{2n+1})$
 	+  Potenzreihendarstellung  $\sum_{n=0}^\infty \frac{(-1)^{n}}{2n+1} = \frac{π}{4}$
 	+  Annäherung von π möglich
-		+  ![](../../z_images/Pasted%20image%2020211209133537.png)
+		+  ![](Pasted%20image%2020211209133537.png)
 		+  desto größer n, desto mehr Nachkommastellen von π
 
 ### Beweis von Ungleichungen

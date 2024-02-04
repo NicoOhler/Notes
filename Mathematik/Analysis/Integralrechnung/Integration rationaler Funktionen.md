@@ -8,7 +8,7 @@
 		+ Grad(p) ≥ Grad(q)
 	+ analog zur Division mit Rest
 		+ b(x) = Rest < Divisor
-	+ ![](../../z_images/Pasted%20image%2020211228115747.png)
+	+ ![](Pasted%20image%2020211228115747.png)
 + Sei q(x) ein  Polynom, gibt es ein α∈ℂ,  sodass q(α)=0
 	+ unter Berücksichtigung von mehrfach auftretender Nullstellen gilt:
 		+ $q(x)=(x-α_1)^{k_1}(x-α_2)^{k_2}...(x-α_n)^{k_n}$

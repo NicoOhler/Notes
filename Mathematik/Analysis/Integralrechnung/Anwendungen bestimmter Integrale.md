@@ -12,13 +12,13 @@
 	+ $sup L(f,Z)<\infty$
 	+ $L(f,Z)=f'(ξ_i)=R(\sqrt{1+(f')^2},Z,E)$
 + $L=\int^b_a \sqrt{1+(f'(x))^2}dx$
-+ ![](../../z_images/Pasted%20image%2020211231171822.png)
++ ![](Pasted%20image%2020211231171822.png)
 
 ### Fläche eines von Kurve begrenzten Sektor
 + VO#36 1:25
 + Leibnizsche Sektorformel
 	+ $A_{Sektor}=\frac{1}{2}\int_a^b (x(t)y'(t)-x'(t)y(t))dt$
-	+ ![](../../z_images/Pasted%20image%2020211231172742.png)
+	+ ![](Pasted%20image%2020211231172742.png)
 
 ### Bogenlänge von Kurven in Parameterdarstellung
 + $C: \overrightarrow{x}=(x(t),y(t))$

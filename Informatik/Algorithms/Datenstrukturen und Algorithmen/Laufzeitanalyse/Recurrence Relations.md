@@ -1,15 +1,15 @@
 ### Definition
 + equation (inequailty) describing function in terms of its value for smaller inputs
-	+ ![](../../../z_images/Pasted%20image%2020221204105348.png)
+	+ ![](Pasted%20image%2020221204105348.png)
 + relevant for [[Laufzeitanalyse]]
 	+ runtime and consumption analysis
 
 ### Asymptotic Bounds
 + [[O-Notation]] and [[Θ-Notation]]
 + Limit theorem
-	+ ![](../../../z_images/Pasted%20image%2020221204105716.png)
+	+ ![](Pasted%20image%2020221204105716.png)
 + computation
-	+ ![](../../../z_images/Pasted%20image%2020221204105940.png)
+	+ ![](Pasted%20image%2020221204105940.png)
 
 ### Methods to solve recurrence relations
 + [[Iterative Method]]

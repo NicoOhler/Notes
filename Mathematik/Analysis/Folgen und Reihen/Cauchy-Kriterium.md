@@ -7,9 +7,9 @@
 
 + ka, versteh ich nicht. gar nicht. aber schön bunt
 
-![](../../z_images/Pasted%20image%2020211025164615.png)
-![](../../z_images/Pasted%20image%2020211025165019.png)
-![](../../z_images/Pasted%20image%2020211025165140.png)
+![](Pasted%20image%2020211025164615.png)
+![](Pasted%20image%2020211025165019.png)
+![](Pasted%20image%2020211025165140.png)
 
 ### Cauchy-Kriterium für Reihen
 + ähnlich wie Cauchy-Kriterium für Folgen, jedoch werden Partialsummen s statt Folgegliedern a verglichen

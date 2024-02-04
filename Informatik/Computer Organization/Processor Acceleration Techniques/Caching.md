@@ -1,20 +1,20 @@
 ### Speculative Execution
-+ ![](../../z_images/Pasted%20image%2020230117122754.png)
++ ![](Pasted%20image%2020230117122754.png)
 + speculate outcome and which branch will be executed
 	+ store results in ROB
 	+ trash result if prediction incorrect
-+ ![](../../z_images/Pasted%20image%2020230117122950.png)
++ ![](Pasted%20image%2020230117122950.png)
 + side effects
-	+ ![](../../z_images/Pasted%20image%2020230117123027.png)
+	+ ![](Pasted%20image%2020230117123027.png)
 
 ### Memory Hierarchy
 + ideal memory
-	+ ![](../../z_images/Pasted%20image%2020230117123313.png)
+	+ ![](Pasted%20image%2020230117123313.png)
 	+ requirements contradict each other
 		+ more capacity => slower
 		+ higher bandwidth => more expensive
 		+ lower latency => more expensive
-+ ![](../../z_images/Pasted%20image%2020230117123711.png)
++ ![](Pasted%20image%2020230117123711.png)
 + create multiple levels of storage types
 	+ storage with different properties
 		+ register file
@@ -22,32 +22,32 @@
 		+ DRAM
 		+ hard disk
 	+ use fast small as well as big slow memory
-	+ ![](../../z_images/Pasted%20image%2020230117123800.png)
+	+ ![](Pasted%20image%2020230117123800.png)
 
 ### Locality
 + use past behaviour to predict near future
-+ ![](../../z_images/Pasted%20image%2020230117124402.png)
-+ ![](../../z_images/Pasted%20image%2020230117124441.png)
++ ![](Pasted%20image%2020230117124402.png)
++ ![](Pasted%20image%2020230117124441.png)
 
 ### Automatic Memory Management
-+ ![](../../z_images/Pasted%20image%2020230117124507.png)
-+ ![](../../z_images/Pasted%20image%2020230117124557.png)
++ ![](Pasted%20image%2020230117124507.png)
++ ![](Pasted%20image%2020230117124557.png)
 + automatically manage/move data across levels
 	+ handled manually
 		+ registers
 		+ between DRAM and hard disk 
 	+ modern memory hierarchy
-		+ ![](../../z_images/Pasted%20image%2020230117124725.png)
+		+ ![](Pasted%20image%2020230117124725.png)
 
 ### Latency Analysis
-+ ![](../../z_images/Pasted%20image%2020230117125154.png)
++ ![](Pasted%20image%2020230117125154.png)
 
 ### Cache
-+ ![](../../z_images/Pasted%20image%2020230117125309.png)
++ ![](Pasted%20image%2020230117125309.png)
 + design decisions
-	+ ![](../../z_images/Pasted%20image%2020230117125423.png)
+	+ ![](Pasted%20image%2020230117125423.png)
 + abstraction
-	+ ![](../../z_images/Pasted%20image%2020230117125843.png)
+	+ ![](Pasted%20image%2020230117125843.png)
 + implementation
 	+ divide RAM into $2^n$ subsets
 		+ store one subset in cache
@@ -69,4 +69,4 @@
 			+ check if its tag equal to address tag
 			+ if yes, use offset to access data
 + example
-	+ ![](../../z_images/Pasted%20image%2020230117131811.png)
+	+ ![](Pasted%20image%2020230117131811.png)

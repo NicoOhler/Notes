@@ -12,28 +12,28 @@
 	+ unified platform
 
 ### Architecture
-![](../../../z_images/Pasted%20image%2020220610114627.png)
+![](Pasted%20image%2020220610114627.png)
 
 ### Spark Partitions
 + logical key-value collections split into physical partitions 128MB
 + partitiions are granularity of tasks, I/O, shuffling, evictions
-+ ![](../../../z_images/Pasted%20image%2020220610115447.png)
++ ![](Pasted%20image%2020220610115447.png)
 + partitioning preserving
 	+ operations which keep keys unchanged do no change partitions
-	+ ![](../../../z_images/Pasted%20image%2020220610115654.png)
+	+ ![](Pasted%20image%2020220610115654.png)
 
 ### Lazy Evaluation, Caching and Lineage 
-+ ![](../../../z_images/Pasted%20image%2020220610120256.png)
++ ![](Pasted%20image%2020220610120256.png)
 + example: k-means clustering
-	+ ![](../../../z_images/Pasted%20image%2020220610120357.png)
-	+ ![](../../../z_images/Pasted%20image%2020220610120727.png)
+	+ ![](Pasted%20image%2020220610120357.png)
+	+ ![](Pasted%20image%2020220610120727.png)
 
 ### Spark DataFrames and DataSets
-+ ![](../../../z_images/Pasted%20image%2020220610120811.png)
++ ![](Pasted%20image%2020220610120811.png)
 + example
-	+ ![](../../../z_images/Pasted%20image%2020220610120833.png)
+	+ ![](Pasted%20image%2020220610120833.png)
 
 ### Dask
-![](../../../z_images/Pasted%20image%2020220610121102.png)
+![](Pasted%20image%2020220610121102.png)
 
 

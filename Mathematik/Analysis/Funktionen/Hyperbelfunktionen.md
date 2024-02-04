@@ -3,7 +3,7 @@
 + $sinh(x)=\frac{e^x-e^{-x}}{2}=\sum_{n=0}^∞ \frac{x^{2n+1}}{(2n+1)!}$ - Sinus hyperbolicus
 + $cosh(x)^2-sinh(x)^2=1$
 + beschreiben Punkt auf Hyperbel
-	+ ![](../../z_images/Pasted%20image%2020211202110007.png)
+	+ ![](Pasted%20image%2020211202110007.png)
 	+ negative Seite der Hyperbel wird nicht beschrieben
 	+ Abstand zweier Punkte zu cosh(t) ist konstant
 		+ $\overrightarrow{XF_1}=\sqrt[2]{2}cosh(t)+1$

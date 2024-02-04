@@ -6,7 +6,7 @@
 	+ collection of entities
 + [[Weak Entity]]
 	+ entities that are dependent on existing entity
-+ ![](../../../z_images/Pasted%20image%2020220315114927.png)
++ ![](Pasted%20image%2020220315114927.png)
 
 ### Relationship Type
 + defines behaviour between entities
@@ -14,7 +14,7 @@
 + special types:
 	+ [[N-ary Relationships]]
 	+ [[Recursive Relationships]]
-+ ![](../../../z_images/Pasted%20image%2020220315114933.png)
++ ![](Pasted%20image%2020220315114933.png)
 
 ### Attribute
 + entities or relationshiips may have attribute value pairs
@@ -24,35 +24,35 @@
 	+ derived
 	+ composite
 	+ nullable
-+ ![](../../../z_images/Pasted%20image%2020220315115146.png)
++ ![](Pasted%20image%2020220315115146.png)
 
 ### Keys
 + unique attribute to identify entity
 	+ e.g. IDs
 + every entity needs key
-+ ![](../../../z_images/Pasted%20image%2020220315115519.png)
++ ![](Pasted%20image%2020220315115519.png)
 
 ### Role
 + optional description of relationship
-+ ![](../../../z_images/Pasted%20image%2020220315115531.png)
++ ![](Pasted%20image%2020220315115531.png)
 
 ### Cardinality
 + one-to-one 1:1
-	+ ![](../../../z_images/Pasted%20image%2020220315120203.png)
+	+ ![](Pasted%20image%2020220315120203.png)
 + one-to-many 1:N
-	+ ![](../../../z_images/Pasted%20image%2020220315120212.png)
+	+ ![](Pasted%20image%2020220315120212.png)
 + many-to-one N:1
-	+ ![](../../../z_images/Pasted%20image%2020220315120222.png)
+	+ ![](Pasted%20image%2020220315120222.png)
 + many-to-many N:M
-	+ ![](../../../z_images/Pasted%20image%2020220315120234.png)
+	+ ![](Pasted%20image%2020220315120234.png)
 
 ### Employee DB Example
 + without cardinalites
-	+ ![](../../../z_images/Pasted%20image%2020220315115722.png)
+	+ ![](Pasted%20image%2020220315115722.png)
 + with cardinalities
-	+ ![](../../../z_images/Pasted%20image%2020220315120548.png)
+	+ ![](Pasted%20image%2020220315120548.png)
 + with additional information
-	+ ![](../../../z_images/Pasted%20image%2020220315120654.png)
+	+ ![](Pasted%20image%2020220315120654.png)
 
 
 [[ER Diagram]]

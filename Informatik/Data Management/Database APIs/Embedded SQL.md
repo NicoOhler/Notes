@@ -7,5 +7,5 @@
 	+ more overhead
 	+ separate preprocessor
 + examples:
-	+ ![](../../z_images/Pasted%20image%2020220427120442.png)
-	+ ![](../../z_images/Pasted%20image%2020220427120450.png)
+	+ ![](Pasted%20image%2020220427120442.png)
+	+ ![](Pasted%20image%2020220427120450.png)

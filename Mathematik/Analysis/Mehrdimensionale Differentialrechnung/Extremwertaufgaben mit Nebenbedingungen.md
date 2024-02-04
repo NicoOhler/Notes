@@ -21,7 +21,7 @@
 		+ Satz von Weierstraß ==> Min und Max muss existieren
 		+ Min und Max durch logische Vergleiche bestimmen? 
 + Anschauliches Beispiel
-	+ ![](../../z_images/Pasted%20image%2020220301130440.png)
+	+ ![](Pasted%20image%2020220301130440.png)
 
 
 [[Mehrdimensionale Differentialrechnung]]

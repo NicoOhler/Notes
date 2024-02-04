@@ -9,7 +9,7 @@
 	+ dependent on [[Transaction Isolation Level]]
 
 ### [[SQL]] Transaction Examples
-+ ![](../../../z_images/Pasted%20image%2020220427124340.png)
-+ ![](../../../z_images/Pasted%20image%2020220519141009.png)
++ ![](Pasted%20image%2020220427124340.png)
++ ![](Pasted%20image%2020220519141009.png)
 
 

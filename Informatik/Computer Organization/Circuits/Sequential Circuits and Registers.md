@@ -4,17 +4,17 @@
 + storage by creating a feedback loop
 
 ### Set-Reset Latch - NOR Version
-+ ![](../../z_images/Pasted%20image%2020221014143700.png)
++ ![](Pasted%20image%2020221014143700.png)
 + set
-	+ ![](../../z_images/Pasted%20image%2020221031160611.png)
+	+ ![](Pasted%20image%2020221031160611.png)
 + release set input
-	+ ![](../../z_images/Pasted%20image%2020221031160640.png)
+	+ ![](Pasted%20image%2020221031160640.png)
 + reset
-	+ ![](../../z_images/Pasted%20image%2020221031160739.png)
+	+ ![](Pasted%20image%2020221031160739.png)
 + release reset
-	+ ![](../../z_images/Pasted%20image%2020221031160748.png)
+	+ ![](Pasted%20image%2020221031160748.png)
 + illegal action
-	+ ![](../../z_images/Pasted%20image%2020221031160822.png)
+	+ ![](Pasted%20image%2020221031160822.png)
 
 ### (A)synchronous circuits
 + synchronous circuits with global clock signal
@@ -22,11 +22,11 @@
 	+ no latches as storage
 	+ instead uses flip-flops or registers
 		+ sets output to data input on each rising clock edge
-		+ ![](../../z_images/Pasted%20image%2020221031161218.png)
+		+ ![](Pasted%20image%2020221031161218.png)
 	+ 1-bit storage - flip-flop
 	+ n-bit storage - register
 + asychronous circuits
 	+ very rare
 
 ### Combination of Registers and [[Combinational Circuits]]
-+ ![](../../z_images/Pasted%20image%2020221031161649.png)
++ ![](Pasted%20image%2020221031161649.png)

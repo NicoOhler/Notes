@@ -69,10 +69,9 @@ def create_relative_image_paths(contents, images, current_file):
     return contents
 
 
-def remove_parent_directory_from_image_path(contents):
-    # replace all ![](../Pasted%20Image.png) with ![](Pasted%20Image.png)
-    # "../" might be any number of "../"
-    contents = re.sub(r"!\[(\.\./)*", r"![](", contents)
+def remove_substring(contents, substring):
+    # replace "../" with ""
+    contents = re.sub(substring, r"", contents)
     return contents
 
 
@@ -103,7 +102,8 @@ if __name__ == "__main__":
 
         contents = remove_header(contents)
         # contents = create_relative_image_paths(contents, images, file_path)
-        contents = remove_parent_directory_from_image_path(contents)
+        contents = remove_substring(contents, r"\.\./")
+        contents = remove_substring(contents, r"z_images/")
         contents = convert_to_md_path(contents)
 
         # write the new contents to the file

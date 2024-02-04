@@ -19,9 +19,9 @@
 	+ jedes $D_i$ ist duale n-Klausel
 	+ erfüllbare Formel äquivalent zu Formel in n-DNF
 + Beweis:
-	+ ![](../../z_images/Pasted%20image%2020220401144947.png)
+	+ ![](Pasted%20image%2020220401144947.png)
 + Beispiel:
-	+ ![](../../z_images/Pasted%20image%2020220401153212.png)
+	+ ![](Pasted%20image%2020220401153212.png)
 
 
 [[Aussagenlogische Formeln]]

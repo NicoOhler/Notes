@@ -1,6 +1,6 @@
 
 ### Overview
-+ ![](../../z_images/Pasted%20image%2020221112165957.png)
++ ![](Pasted%20image%2020221112165957.png)
 + each instruction takes one cycle to execute
 	+ maximum [[Clock Frequency]] defined by slowest instruction
 

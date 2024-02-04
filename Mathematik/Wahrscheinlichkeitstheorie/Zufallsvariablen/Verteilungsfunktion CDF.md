@@ -2,14 +2,14 @@
 + Funktion F, welche folgende Eigenschaften erfüllt
 	+ monoton steigend
 	+ rechtsstetig
-	+ ![](../../z_images/Pasted%20image%2020221013082126.png)
+	+ ![](Pasted%20image%2020221013082126.png)
 + Außerdem gilt
-	+ ![](../../z_images/Pasted%20image%2020221013082613.png)
+	+ ![](Pasted%20image%2020221013082613.png)
 
 ### Cumulative Distribution Function CDF
 + $F^X(x)=P(X$≤x) mit $x∈ℝ$
 + $P(X∈(a,b])=F(b)-F(a)$
-+ ![](../../z_images/Pasted%20image%2020221013075105.png)
++ ![](Pasted%20image%2020221013075105.png)
 
 ### Zusammenhang [[Wahrscheinlichkeitsfunktion PMF]]  und [[Verteilungsfunktion CDF]]
 + $F^X(x)=\sum_{x_k≤x}p_k$
@@ -18,27 +18,27 @@
 	+ konstant auf $[x_{k-1},x_k)$
 
 ### Parametrische DF
-+ ![](../../z_images/Pasted%20image%2020221013084312.png)
++ ![](Pasted%20image%2020221013084312.png)
 + naiver Ansatz
 	+ funktioniert nicht
-	+ ![](../../z_images/Pasted%20image%2020221013084515.png)
+	+ ![](Pasted%20image%2020221013084515.png)
 + Alternative
-	+ ![](../../z_images/Pasted%20image%2020221013084851.png)
-	+ ![](../../z_images/Pasted%20image%2020221013085032.png)
+	+ ![](Pasted%20image%2020221013084851.png)
+	+ ![](Pasted%20image%2020221013085032.png)
 
 ### Beispiele
 + Würfeln
-	+ ![](../../z_images/Pasted%20image%2020221013080659.png)
-	+ ![](../../z_images/Pasted%20image%2020221013081003.png)
+	+ ![](Pasted%20image%2020221013080659.png)
+	+ ![](Pasted%20image%2020221013081003.png)
 + Gleichverteilung
-	+ ![](../../z_images/Pasted%20image%2020221013081023.png)
-	+ ![](../../z_images/Pasted%20image%2020221013081118.png)
+	+ ![](Pasted%20image%2020221013081023.png)
+	+ ![](Pasted%20image%2020221013081118.png)
 + Binomialverteilung
-	+ ![](../../z_images/Pasted%20image%2020221013081142.png)
-	+ ![](../../z_images/Pasted%20image%2020221013081305.png)
+	+ ![](Pasted%20image%2020221013081142.png)
+	+ ![](Pasted%20image%2020221013081305.png)
 + Ampel
-	+ ![](../../z_images/Pasted%20image%2020221013083453.png)
+	+ ![](Pasted%20image%2020221013083453.png)
 	+ Bergwerk, stetige Gleichverteilung
-		+ ![](../../z_images/Pasted%20image%2020221013083518.png)
-		+ ![](../../z_images/Pasted%20image%2020221013084018.png)
+		+ ![](Pasted%20image%2020221013083518.png)
+		+ ![](Pasted%20image%2020221013084018.png)
 	

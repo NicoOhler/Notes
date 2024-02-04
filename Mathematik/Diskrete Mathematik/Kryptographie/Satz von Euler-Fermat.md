@@ -10,10 +10,10 @@
 +  für $ggT(p,n)=1$ gilt
 	+ $a^{p-1}≡_p1$
 	+ Beweis
-		+  ![](../../z_images/Pasted%20image%2020220325095038.png)
-		+  ![](../../z_images/Pasted%20image%2020220325095238.png)
-		+  ![](../../z_images/Pasted%20image%2020220325095327.png)
-		+  ![](../../z_images/Pasted%20image%2020220325095509.png)
+		+  ![](Pasted%20image%2020220325095038.png)
+		+  ![](Pasted%20image%2020220325095238.png)
+		+  ![](Pasted%20image%2020220325095327.png)
+		+  ![](Pasted%20image%2020220325095509.png)
 
 
 ### Satz von Euler-Fermat

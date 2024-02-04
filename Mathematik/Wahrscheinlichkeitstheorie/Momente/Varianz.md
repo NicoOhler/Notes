@@ -8,10 +8,10 @@
 + Varianz ist 2. zentrale [[Moment]]
 
 ### Eigenschaften
-+ ![](../../z_images/Pasted%20image%2020221030221254.png)
-+ ![](../../z_images/Pasted%20image%2020221030221419.png)
++ ![](Pasted%20image%2020221030221254.png)
++ ![](Pasted%20image%2020221030221419.png)
 
 ### Beispiel
 + Binomialverteilung
-	+ ![](../../z_images/Pasted%20image%2020221030221505.png)
-	+ ![](../../z_images/Pasted%20image%2020221030221706.png)
+	+ ![](Pasted%20image%2020221030221505.png)
+	+ ![](Pasted%20image%2020221030221706.png)

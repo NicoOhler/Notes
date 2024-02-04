@@ -20,9 +20,9 @@
 	+ might return synchronization errors (deadlocks)
 
 ### Serializability Therory
-+ ![](../../../z_images/Pasted%20image%2020220519150007.png)
-+ ![](../../../z_images/Pasted%20image%2020220519150029.png)
-+ ![](../../../z_images/Pasted%20image%2020220519150257.png)
++ ![](Pasted%20image%2020220519150007.png)
++ ![](Pasted%20image%2020220519150029.png)
++ ![](Pasted%20image%2020220519150257.png)
 
 ### Locking Schemes
 + exclusive/write x-lock
@@ -32,9 +32,9 @@
 + multi-granularity-locking
 	+ abuses hierarchy of db ojects
 	+ intentional x/s-lock
-	+ ![](../../../z_images/Pasted%20image%2020220519150801.png)
+	+ ![](Pasted%20image%2020220519150801.png)
 + lock compatibility
-	+ ![](../../../z_images/Pasted%20image%2020220519150717.png)
+	+ ![](Pasted%20image%2020220519150717.png)
 
 ### Two-Phase Locking
 + concurrency protocol that guarantees serializable
@@ -43,13 +43,13 @@
 	+ aquires locks needed by TX
 + shrinking phase
 	+ release locks aquired by TX
-+ ![](../../../z_images/Pasted%20image%2020220519151028.png)
++ ![](Pasted%20image%2020220519151028.png)
 + potential problems fixed
-	+ ![](../../../z_images/Pasted%20image%2020220519151117.png)
+	+ ![](Pasted%20image%2020220519151117.png)
 	+ deadlock
-		+ ![](../../../z_images/Pasted%20image%2020220519151148.png)
-		+ ![](../../../z_images/Pasted%20image%2020220519151217.png)
-		+ ![](../../../z_images/Pasted%20image%2020220519151344.png)
+		+ ![](Pasted%20image%2020220519151148.png)
+		+ ![](Pasted%20image%2020220519151217.png)
+		+ ![](Pasted%20image%2020220519151344.png)
 
 ### Timestamp Ordering
 + optimistic concurrency control
@@ -58,7 +58,7 @@
 + each data object has read and write timestamp
 + timestamp comparison to validate access/abort
 + no locks but latches
-+ ![](../../../z_images/Pasted%20image%2020220519152033.png)
++ ![](Pasted%20image%2020220519152033.png)
 
 ### Optimistic Concurrency Control
-+ ![](../../../z_images/Pasted%20image%2020220519152243.png)
++ ![](Pasted%20image%2020220519152243.png)

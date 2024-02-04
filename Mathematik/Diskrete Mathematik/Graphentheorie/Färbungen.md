@@ -7,11 +7,11 @@
 + Chromatische Zahl $X(G)$ von $G$
 	+ kleinste Zahl $k∈ℕ$, sodass ∃ Färbung mit k Farben
 	+ $a(G)$ größte Zahl $k∈ℕ$, sodass ∃ unabhängige Knotenmenge in G
-	+ ![](../../z_images/Pasted%20image%2020220524140022.png)
+	+ ![](Pasted%20image%2020220524140022.png)
 	+ Kreis mit 
 		+ gerader Länge braucht 3
 		+ ungerader Länge braucht 2
-	+ ![](../../z_images/Pasted%20image%2020220524140317.png)
+	+ ![](Pasted%20image%2020220524140317.png)
 
 ### Greedy-Algorithmus für Färbung
 + Input: $G=(A∪B,E)$ Graph
@@ -23,7 +23,7 @@
 		+ wähle als Farbe $C(V_i)$ die kleinste Zahl, welche nicht als (bisher gewählte) Nachbarfarbe von $V_i$ vorkommt
 	+ setze $m=|{C(V_i)|1≤i≤n}|$ - Anzahl von Farben
 	+ return  c: V --> $[m]$
-		+ ![](../../z_images/Pasted%20image%2020220524144607.png)
+		+ ![](Pasted%20image%2020220524144607.png)
 
 ### Arten von Färbung
 + Knotenfärbungen

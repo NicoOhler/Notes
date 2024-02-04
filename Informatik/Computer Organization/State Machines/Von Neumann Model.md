@@ -5,16 +5,16 @@
 
 ### Von Neumann Model
 + architecture with following components
-	+ ![](../../z_images/Pasted%20image%2020221101163042.png)
+	+ ![](Pasted%20image%2020221101163042.png)
 + CPU connected via bus system to memory and I/O
-	+ ![](../../z_images/Pasted%20image%2020221101163214.png)
+	+ ![](Pasted%20image%2020221101163214.png)
 + Hardvard Architecture Variation
 	+ Memory split into Data and Instruction Memory
 
 ### Arithmetic Logic Unit
 + ALUs are [[Combinational Circuits]] performing calculation operations
 + basic properties
-	+ ![](../../z_images/Pasted%20image%2020221101163430.png)
+	+ ![](Pasted%20image%2020221101163430.png)
 
 ### Register File
 + contatins m n-bit registers
@@ -27,15 +27,15 @@
 + basically memory with
 	+ one write port
 	+ two read ports
-+ ![](../../z_images/Pasted%20image%2020221101163955.png)
++ ![](Pasted%20image%2020221101163955.png)
 + register file with 32 registers
-	+ ![](../../z_images/Pasted%20image%2020221101164143.png)
+	+ ![](Pasted%20image%2020221101164143.png)
 
 ### Processing Unit
 + combines ALU and register file
-	+ ![](../../z_images/Pasted%20image%2020221101183415.png)
+	+ ![](Pasted%20image%2020221101183415.png)
 + instruction register
 	+ stores instruction to execute and parameters
 	+ mapped to control signals by instruction encoder
-	+ ![](../../z_images/Pasted%20image%2020221101164537.png)
+	+ ![](Pasted%20image%2020221101164537.png)
 

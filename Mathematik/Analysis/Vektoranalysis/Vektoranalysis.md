@@ -12,9 +12,9 @@
 + Kurven/Wegintegral ist unabhängig von orientierter Parametrisierung
 	+ lediglich von Kurve und Vektorfeld
 + Bewegung entlang anderer Kurve in selbem Bereich ==> W anders
-	+ ![](../../z_images/Pasted%20image%2020220316090732.png)
-	+ ![](../../z_images/Pasted%20image%2020220316091028.png)
+	+ ![](Pasted%20image%2020220316090732.png)
+	+ ![](Pasted%20image%2020220316091028.png)
 + Weitere Beispiele
-	+ ![](../../z_images/Pasted%20image%2020220316091413.png)
+	+ ![](Pasted%20image%2020220316091413.png)
 
 [[Mehrdimensionale Integralrechnung]] [[Mehrdimensionale Differentialrechnung]]

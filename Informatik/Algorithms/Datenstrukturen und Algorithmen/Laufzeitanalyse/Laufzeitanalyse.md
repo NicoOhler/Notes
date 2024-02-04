@@ -8,10 +8,10 @@
 	+ indirekte Adressierung
 		+ A[k+1]
 + jedem Schritt wird konstante Zeit zugewiesen
-	+ ![](../../../z_images/Pasted%20image%2020221014154512.png)
+	+ ![](Pasted%20image%2020221014154512.png)
 + Laufzeit T(n)
 	+ Summe aller Zeitkosten mal Anzahl
-	+ ![](../../../z_images/Pasted%20image%2020221014154640.png)
+	+ ![](Pasted%20image%2020221014154640.png)
 + Ordnung der Laufzeit interessant
 
 ### Übersicht

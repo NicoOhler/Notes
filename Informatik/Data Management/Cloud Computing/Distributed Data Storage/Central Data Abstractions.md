@@ -1,5 +1,5 @@
 ### Files and Objects
-![](../../../z_images/Pasted%20image%2020220610111242.png)
+![](Pasted%20image%2020220610111242.png)
 
 ### Distributed Collections
 + logical multi-set (bag) of [[Key-Value Pairs]]
