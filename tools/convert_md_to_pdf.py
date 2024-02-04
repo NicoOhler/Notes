@@ -21,7 +21,7 @@ def extract_parent_folder(file):
     return file[:last_slash]
 
 
-pandoc = 'pandoc -H ../tools/head.tex --pdf-engine=xelatex "../FILENAME.md" -o "../pdf/FILENAME.pdf" -s -V fontsize=12pt -V geometry:"top=2cm, bottom=1.5cm, left=2cm, right=2cm" -V CJKmainfont="KaiTi" --resource-path="../z_images"'
+pandoc = 'pandoc -H ../tools/head.tex --pdf-engine=xelatex "../FILENAME.md" -o "../pdf/FILENAME.pdf" -s -V fontsize=12pt -V geometry:"top=2cm, bottom=1.5cm, left=2cm, right=2cm" -V mainfont="Liberation Serif" --resource-path="../z_images"'
 path = "../"
 md_files = get_md_files(path)
 for md_file in md_files:
