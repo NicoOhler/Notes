@@ -1,5 +1,3 @@
-# replaces paths like [[file]] with [[relative/path/to/file.ext]] in all markdown files of a given directory and its subdirectories
-
 import os
 import re
 import sys
@@ -25,11 +23,8 @@ def remove_header(contents):
 
 
 def update_image_paths(contents, images, current_directory):
-    # replace all image paths
-    for image in images:
-        image_name = image.name
-        image_path = str(image.relative_to(directory))
-        contents = contents.replace(image_name, image_path)
+    # replace all image paths ![[file.ext]] with ![[relative/path/to/file.ext]]
+    images[0].relative_to(current_directory)
     return contents
 
 
@@ -44,7 +39,7 @@ for r, d, f in os.walk(path):
     for file in f:
         file_extension = os.path.splitext(file)[1]
         if file_extension == ".md":
-            md_files.append(os.path.join(r, file))
+            md_files.append(pathlib.Path(os.path.join(r, file)))
         elif file_extension in [".png", ".jpg", ".jpeg", ".gif"]:
             images.append(pathlib.Path(os.path.join(r, file)))
 
@@ -54,7 +49,7 @@ for file_path in md_files:
         contents = file.read()
 
     contents = remove_header(contents)
-    contents = update_image_paths(contents, images, path)
+    contents = update_image_paths(contents, images, file_path)
 
     # write the new contents to the file
     exit()
