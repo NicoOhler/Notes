@@ -165,6 +165,9 @@
   },
   "active": "df68f6ac7ab2367b",
   "lastOpenFiles": [
+    "Mathematik/Statistik/Hypothesentests/output.log",
+    "Mathematik/Statistik/Hypothesentests/output.tex",
+    "tools/convert_md_to_pdf.py",
     "z_images/Pasted image 20240204115620.png",
     "Psychology/Psychology.md",
     "Psychology/Thinking, Fast and Slow.md",
@@ -194,10 +197,8 @@
     "tools/test",
     "tools/replace_paths.py",
     "tools",
-    "Untitled Folder",
     "z_images/Pasted image 20240203160722.png",
     "z_images/Pasted image 20240128105450.png",
-    "Informatik/Data Management/Database Performance Tuning/output.pdf",
     "Informatik/Algorithms/Design and Analysis of Algorithms/Design and Analysis of Algorithms.md",
     "Mathematik/Analysis/Differentialgleichungen/Systeme von DGL und Stabilität.md",
     "Mathematik/Analysis/Mehrdimensionale Integralrechnung/Normalbereiche.md",
@@ -210,7 +211,6 @@
     "z_images/Pasted image 20240128102705.png",
     "z_images/Pasted image 20240128102610.png",
     "z_images/Pasted image 20240119141652.png",
-    "z_images/Pasted image 20240119134808.png",
-    "z_images/Pasted image 20240119141501.png"
+    "z_images/Pasted image 20240119134808.png"
   ]
 }

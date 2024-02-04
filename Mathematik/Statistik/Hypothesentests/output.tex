@@ -1,0 +1,366 @@
+\documentclass[10pt]{report}
+\usepackage{minted}
+\usepackage{enumitem}
+\setlistdepth{9}
+
+% Sets the level up to which the numbering will occur on the headers 
+\setcounter{secnumdepth}{3}
+
+% Remove "chapter" from the chapter title
+\usepackage{titlesec}
+\titleformat{\chapter}[display]{\normalfont\huge\bfseries}{}{0pt}{\Huge}
+\titleformat{name=\chapter,numberless}[display]
+  {\normalfont\huge\bfseries}{}{0pt}{\Huge}
+
+\setlist[itemize,1]{label=\textbullet}
+\setlist[itemize,2]{label=\textbullet}
+\setlist[itemize,3]{label=\textbullet}
+\setlist[itemize,4]{label=\textbullet}
+\setlist[itemize,5]{label=\textbullet}
+\setlist[itemize,6]{label=\textbullet}
+\setlist[itemize,7]{label=\textbullet}
+\setlist[itemize,8]{label=\textbullet}
+\setlist[itemize,9]{label=\textbullet}
+
+\renewlist{itemize}{itemize}{9}
+
+\usepackage{graphicx}
+
+\usepackage{csquotes}
+
+\usepackage[hidelinks]{hyperref}
+
+\usepackage[T1]{fontenc}
+
+\usepackage[most]{tcolorbox}
+\definecolor{block-gray}{gray}{0.95}
+\newtcolorbox{advtcolorbox}{
+    %colback=block-gray,
+    boxrule=0pt,
+    boxsep=0pt,
+    breakable,
+    enhanced jigsaw,
+    borderline west={4pt}{0pt}{gray},
+}
+
+% Remove paragraph indentation
+\setlength{\parindent}{0pt}
+
+\newtcbox{\pill}[1][blue]{on line,
+arc=7pt,colback=#1!10!white,colframe=#1!50!black,
+before upper={\rule[-3pt]{0pt}{10pt}},boxrule=1pt,
+boxsep=0pt,left=6pt,right=6pt,top=2pt,bottom=2pt}
+
+\usepackage{amsmath}
+\usepackage[dvipsnames]{xcolor} % to access the named colour LightGray
+\usepackage{soul}
+% \usepackage{sectsty}
+\definecolor{LightGray}{rgb}{0.9, 0.9, 0.9}
+\definecolor{inlinecodecolor}{rgb}{0, 0.3, 0.6}
+\usepackage{lmodern}
+
+\makeatletter
+\renewcommand\subparagraph{%
+\@startsection{subparagraph}{5}{0pt}%
+{3.25ex \@plus 1ex \@minus .2ex}{-1em}%
+{\normalfont\normalsize}}
+\makeatother
+
+\makeatletter
+\renewcommand\paragraph{%
+\@startsection{paragraph}{4}{0pt}%
+{3.25ex \@plus -1ex \@minus .2ex}{-1em}%
+{\normalfont\normalsize\bfseries}}
+\makeatother
+\sethlcolor{yellow}
+\newrobustcmd*\inlinecode[2][]{\textcolor{inlinecodecolor}{\mintinline[#1]{python}{#2}}}
+\newcommand{\myparagraph}[1]{\paragraph{\textcolor{black}{#1}}\mbox{}\\}
+\newcommand{\mysubparagraph}[1]{\subparagraph{\textcolor{black}{#1}}\mbox{}\\}
+\begin{document}
+
+
+\chapter{Hypothesentests}\label{ch:Hypothesentests}
+
+\subsubsection{Übersicht}
+
++ liefert Entscheidungsregel, für welche Stichproben wird
+
++ $H_0$ akzeptiert
+
++ $H_0$ zugunsten von $H_1$ verworfen
+
++ kritische Bereich
+
++ ![[../../../z\_images/Pasted image 20221208115108.png]]
+
++ Menge der Stichproben
+
++ für die $H_0$ verworfen wird
+
++ Beispiele
+
++ Münzwurf
+
++ ![[../../../z\_images/Pasted image 20221208115312.png]]
+
++ Medikament
+
++ ![[../../../z\_images/Pasted image 20221208115354.png]]
+
+
+\subsubsection{Ausgänge}
+
++ ![[../../../z\_images/Pasted image 20221208115452.png]]
+
++ ![[../../../z\_images/Pasted image 20221208115501.png]]
+
++ Level-$\alpha$-Test
+
++ $\alpha$ beschränkt Fehler 1. Art
+
++ ![[../../../z\_images/Pasted image 20221208115645.png]]
+
++ \hyperref[ch:P-Wert]{p-Wert}
+
++ Beispiele
+
++ Medikament
+
++ ![[../../../z\_images/Pasted image 20221208115842.png]]
+
++ ![[../../../z\_images/Pasted image 20221208115930.png]]
+
++ ![[../../../z\_images/Pasted image 20221208120118.png]]
+
++ Münzwurf
+
++ ![[../../../z\_images/Pasted image 20221208120318.png]]
+
+
+\subsubsection{Vorgehensweise}
+
++ ![[../../../z\_images/Pasted image 20221208120346.png]]
+
+
+\subsubsection{Einstichprobenproblem}
+
++ statistische Tests um Eigenschaften einer [[Stichprobe]] von [[Zufallsvariable]]n zu studieren
+
++ ![[../../../z\_images/Pasted image 20221208120550.png]]
+
++ Unterscheidung in zwei Fälle
+
++ \hyperref[ch:Gauß-Test]{Gauß-Test}, wenn Varianz $\sigma^2$ bekannt
+
++ \hyperref[ch:T-Test]{t-Test}, wenn Varianz $\sigma^2$ unbekannt
+
+
+\subsubsection{Zweistichprobenproblem}
+
++ ![[../../../z\_images/Pasted image 20221208123736.png]]
+
++ Untersuchung von Hypothesenpaar für $\omega_0∈ℝ$
+
++ ![[../../../z\_images/Pasted image 20221208123756.png]]
+
++ Unterscheidung in zwei Fälle
+
++ \hyperref[ch:Zweistichproben-Gauß-Test]{Zweistichproben-Gauß-Test}, wenn Varianzen bekannt
+
++ \hyperref[ch:Zweistichproben-T-Test]{Zweistichproben-t-Test}, wenn Varianzen unbekannt
+
+
+\hyperref[ch:Testen]{Testen}
+\chapter{P-Wert}\label{ch:P-Wert}
+
+\subsubsection{Motivation}
+
++ ![[../../../z\_images/Pasted image 20221208124621.png]]
+
+
+\subsubsection{Definition}
+
++ ![[../../../z\_images/Pasted image 20221208124743.png]]
+
+
+\subsubsection{Misconceptions}
+
++ ![[../../../z\_images/Pasted image 20230115143024.png]]
+
+
+\subsubsection{Beispiel}
+
++ ![[../../../z\_images/Pasted image 20221208124847.png]]
+
++ ![[../../../z\_images/Pasted image 20221208125106.png]]
+
++ ![[../../../z\_images/Pasted image 20221208125131.png]]
+
++ ![[../../../z\_images/Pasted image 20221208125254.png]]
+
++ ![[../../../z\_images/Pasted image 20221208125336.png]]
+
++ ![[../../../z\_images/Pasted image 20221208125358.png]]
+
++ ![[../../../z\_images/Pasted image 20221208125412.png]]
+\chapter{Gauß-Test}\label{ch:Gauß-Test}
+
+\subsubsection{Definition}
+
++ Varianz $\sigma^2$ bekannt
+
++ Test von
+
++ ![[../../../z\_images/Pasted image 20221208122252.png]]
+
++ ![[../../../z\_images/Pasted image 20221208122243.png]]
+
++ ![[../../../z\_images/Pasted image 20221208120724.png]]
+
++ Es gilt
+
++ ![[../../../z\_images/Pasted image 20221208120847.png]]
+
++ ![[../../../z\_images/Pasted image 20221208120900.png]]
+
++ Gauß-Test mit kritischem Bereich $K$
+
++ ![[../../../z\_images/Pasted image 20221208121037.png]]
+
+
+\subsubsection{Verwerfungsbereiche}
+
++ ![[../../../z\_images/Pasted image 20221208122006.png]]
+
++ ![[../../../z\_images/Pasted image 20221208122012.png]]
+
++ ![[../../../z\_images/Pasted image 20221208122123.png]]
+
+
+\subsubsection{Anwendung}
+
++ ![[../../../z\_images/Pasted image 20221208121335.png]]
+
++ ![[../../../z\_images/Pasted image 20221208121351.png]]
+
+
+\subsubsection{Beispiele}
+
++ Befüllanlage
+
++ ![[../../../z\_images/Pasted image 20221208123329.png]]
+
++ ![[../../../z\_images/Pasted image 20221208123345.png]]
+
++ ![[../../../z\_images/Pasted image 20221208123637.png]]
+\chapter{T-Test}\label{ch:T-Test}
+
++ Varianz $\sigma^2$ unbekannt
+
++ Test von
+
++ ![[../../../z\_images/Pasted image 20221208122219.png]]
+
++ Unter $H_0$ ist
+
++ ![[../../../z\_images/Pasted image 20221208122314.png]]
+
++ wesentlich größerer Wert deutet auf Verletzung der Nullhypothese hin
+
++ ![[../../../z\_images/Pasted image 20221208122401.png]]
+
++ Es gilt
+
++ ![[../../../z\_images/Pasted image 20221208122452.png]]
+
++ t-Test mit kritischem Bereich
+
++ ![[../../../z\_images/Pasted image 20221208122524.png]]
+
++ ![[../../../z\_images/Pasted image 20221208122513.png]]
+
+
+\subsubsection{Verwerfungsbereiche}
+
++ ![[../../../z\_images/Pasted image 20221208122541.png]]
+
++ ![[../../../z\_images/Pasted image 20221208122551.png]]
+
+
+\subsubsection{Anwendung}
+
++ ![[../../../z\_images/Pasted image 20221208122720.png]]
+
++ ![[../../../z\_images/Pasted image 20221208122825.png]]
+
++ R
+
++ ![[../../../z\_images/Pasted image 20221208123235.png]]
+\chapter{Zweistichproben-Gauß-Test}\label{ch:Zweistichproben-Gauß-Test}
+
+\subsubsection{Definition}
+
++ ![[../../../z\_images/Pasted image 20221208124139.png]]
+
++ unter $H_0$ gilt
+
++ ![[../../../z\_images/Pasted image 20221208124152.png]]
+
++ Es folgt aufgrund der [[Unabhängigkeit von Zufallsvariablen]]
+
++ ![[../../../z\_images/Pasted image 20221208124324.png]]
+
++ ![[../../../z\_images/Pasted image 20221208124222.png]]
+
+
+\subsubsection{Verwerfungsbereiche}
+
++ ![[../../../z\_images/Pasted image 20221208124433.png]]
+
++ ![[../../../z\_images/Pasted image 20221208124438.png]]
+\chapter{Zweistichproben-T-Test}\label{ch:Zweistichproben-T-Test}
+
+\chapter{Testen}\label{ch:Testen}
+
++ ![[../../../z\_images/Pasted image 20221215181741.png]]
+
++ ![[../../../z\_images/Pasted image 20221215181749.png]]
+
++ wird $H_0$ verworfen
+
++ Einfluss des Prädiktors signifikant
+
+
+\subsubsection{Kritische Bereiche}
+
++ ![[../../../z\_images/Pasted image 20221215182234.png]]
+
++ ![[../../../z\_images/Pasted image 20221215182239.png]]
+
+
+\subsubsection{Beispiel}
+
++ ![[../../../z\_images/Pasted image 20221215182927.png]]
+
++ ![[../../../z\_images/Pasted image 20221215183203.png]]
+
+
+\subsubsection{Bestimmtheitsmaß $R^2$}
+
++ Gesamtstreuung der Response SST wird zerlegt in
+
++ durch Regressionsmodell erklärte Streuung SSR
+
++ Reststreuung SSE
+
++ ![[../../../z\_images/Pasted image 20221215183722.png]]
+
++ ![[../../../z\_images/Pasted image 20221215183856.png]]
+
++ ![[../../../z\_images/Pasted image 20221215183921.png]]
+
+
+\subsubsection{Beispiel}
+
++ ![[../../../z\_images/Pasted image 20221215184634.png]]
+\end{document}
