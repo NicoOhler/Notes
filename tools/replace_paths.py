@@ -24,36 +24,36 @@ def remove_header(contents):
     return contents
 
 
+def update_image_paths(contents, images):
+    # replace all image paths
+    for image in images:
+        image_name = image.name
+        image_path = str(image.relative_to(directory))
+        contents = contents.replace(image_name, image_path)
+    return contents
+
+
 # get all files in the directory and its subdirectories
 directory = "./test"
 directory = pathlib.Path(directory)
 
 # create map with all file names and their relative paths
 md_files = []
-files = {}
+images = []
 for file in list(directory.iterdir()):
     if file.is_file():
-        files[file.name] = file.relative_to(directory)
         if file.suffix == ".md":
             md_files.append(file)
+        elif file.suffix in [".png", ".jpg", ".jpeg", ".gif", ".svg"]:
+            images.append(file)
 
 
 for file_path in md_files:
     with open(file_path, "r") as file:
         contents = file.read()
 
-    # replace each link with the relative path from map
-    new_contents = contents
-    for file_name in files:
-        new_contents = re.sub(
-            r"\[\[" + file_name + r"\]\]",
-            r"[[./" + str(files[file_name]) + r"]]",
-            new_contents,
-        )
-
-    # add ".md" to all links that don't have an extension
-    new_contents = re.sub(r"\[\[(.*?)\]\]", r"[[\1.md]]", new_contents)
+    contents = remove_header(contents)
 
     # write the new contents to the file
     with open(file_path, "w") as file:
-        file.write(new_contents)
+        file.write(contents)

@@ -1,2 +1,3 @@
-[[sub/Analysis]]
-![[sub/image.png]]
+# Header
+[[Analysis]]
+![[image.png]]
