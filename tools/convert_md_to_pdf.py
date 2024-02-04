@@ -9,13 +9,15 @@ response = requests.get(
     verify=False,  # disable SSL verification
 )
 
-print(response.text)
+# print(response.text)
 
-
+# Obsidian Git: List changed files
+# command-palette:open
+# obsidian-git:list-changed-files
 response = requests.put(
-    ENDPOINT + "/commands/",
-    headers={"accept": "text/markdown", "Authorization": "Bearer " + API_KEY},
+    ENDPOINT + "/commands/" + "editor:save-file",
+    headers={"accept": "*/*", "Authorization": "Bearer " + API_KEY},
     verify=False,  # disable SSL verification
-    json={
-        "command": "list-changed-files",
-        "repo": "
+)
+
+print(response.text)

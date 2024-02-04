@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psychology/Thinking, Fast and Slow.md",
+                "file": "Mathematik/Allgemeine Mathematik/Zeichensammlung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,8 +150,7 @@
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false
+      "command-palette:Open command palette": false
     }
   },
   "active": "097b9a58ea336072",
