@@ -2,6 +2,8 @@
 # sudo apt install pandoc
 import os
 
+VERBOSE = False
+
 
 def get_md_files(path):
     md_files = []
@@ -22,6 +24,10 @@ def extract_parent_folder(file):
 pandoc = 'pandoc -H ../tools/head.tex --pdf-engine=xelatex "../FILENAME.md" -o "../pdf/FILENAME.pdf" -s -V fontsize=12pt -V geometry:"top=2cm, bottom=1.5cm, left=2cm, right=2cm" -V mainfont="Liberation Serif" --resource-path="../z_images"'
 path = "../"
 md_files = get_md_files(path)
+if VERBOSE:
+    print("Found " + str(len(md_files)) + " markdown files")
 for md_file in md_files:
+    if VERBOSE:
+        print("Converting " + md_file)
     os.makedirs("../pdf/" + extract_parent_folder(md_file), exist_ok=True)
     os.system(pandoc.replace("FILENAME", str(md_file)))
