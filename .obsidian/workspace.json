@@ -10,11 +10,9 @@
           {
             "id": "3d0cd11fd505c6a9",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "empty",
-              "state": {},
-              "pinned": true
+              "state": {}
             }
           },
           {
@@ -29,8 +27,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Algorithms/Algorithms and Games/NIM Theory/NIM Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,8 +109,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4ba3a157ae0c950d",
+  "active": "3d0cd11fd505c6a9",
   "lastOpenFiles": [
+    "Informatik/Algorithms/Algorithms and Games/NIM Theory/NIM Theory.md",
     "pdf/Informatik",
     "Biologie/Humane Genome Project.md",
     "Biologie/Gregor Mendel.md",
@@ -131,7 +128,6 @@
     "pdf/Informatik/Computer Organization/Processor/Instruction Set Architecture.pdf",
     "pdf/Informatik/Computer Organization/Circuits/Combinational Circuits.pdf",
     "pdf/Informatik/Computer Organization/Circuits/Clock Frequency.pdf",
-    "pdf/Informatik/Computer Organization/Logic Gates.pdf",
     "z_images/Punnett Square.png",
     "z_images/Pasted image 20240204172651.png",
     "z_images/Pasted image 20240204172357.png",
