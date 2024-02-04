@@ -3,5 +3,8 @@
   "translucency": false,
   "accentColor": "",
   "theme": "obsidian",
-  "nativeMenus": false
+  "nativeMenus": false,
+  "enabledCssSnippets": [
+    "obsidian"
+  ]
 }

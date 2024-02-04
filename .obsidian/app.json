@@ -14,5 +14,6 @@
   "readableLineLength": true,
   "showLineNumber": false,
   "rightToLeft": false,
-  "strictLineBreaks": false
+  "strictLineBreaks": false,
+  "showUnsupportedFiles": true
 }

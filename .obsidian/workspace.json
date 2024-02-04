@@ -84,7 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 349.51103591918945
+    "width": 433.5
   },
   "right": {
     "id": "d1219e90b492538d",
@@ -127,7 +127,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "b085bd48d15cc48b",
+  "active": "097b9a58ea336072",
   "lastOpenFiles": [
     "tools/update_paths.py",
     "Mathematik/NRLA/Matrizen/Matrix.md",
