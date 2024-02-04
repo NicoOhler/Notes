@@ -18,18 +18,6 @@
             }
           },
           {
-            "id": "08b79aa8f346c35f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sudoku 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "baddd18aebbdf94c",
             "type": "leaf",
             "state": {
@@ -40,9 +28,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "10f29d9142bc50e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sudoku 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -125,21 +125,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "097b9a58ea336072",
+  "active": "10f29d9142bc50e4",
   "lastOpenFiles": [
     "pdf/Sudoku 1.pdf",
-    "Informatik/Algorithms/Algorithms and Games/Sudoku.md",
+    "pdf",
+    "pdf/pdf/Sudoku 1.pdf",
     "Sudoku 1.md",
+    "pdf/pdf",
+    "Informatik/Algorithms/Algorithms and Games/Sudoku.md",
     "pdf/Biologie/Allel.pdf",
     "pdf/Biologie",
-    "pdf",
     "pdf/Informatik/Computer Organization/Processor/Instruction Set Architecture.pdf",
     "pdf/Informatik/Computer Organization/Circuits/Combinational Circuits.pdf",
     "pdf/Informatik/Computer Organization/Circuits/Clock Frequency.pdf",
     "pdf/Informatik/Computer Organization/Logic Gates.pdf",
-    "pdf/Informatik/Computer Organization/Computer Organization.pdf",
-    "pdf/Informatik/Algorithms/Design and Analysis of Algorithms/Shortest Path Algorithms/Shortest Path Algorithms.pdf",
-    "pdf/Informatik/Algorithms/Design and Analysis of Algorithms/Shortest Path Algorithms/Floyd-Warshall Algorithm.pdf",
     "z_images/Punnett Square.png",
     "z_images/Pasted image 20240204172651.png",
     "z_images/Pasted image 20240204172357.png",
