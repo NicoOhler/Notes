@@ -1,3 +1,2 @@
-# Header
 [[Analysis]]
-![[p.png]]
+![[img/p.png]]

@@ -22,7 +22,7 @@ def remove_header(contents):
     return contents
 
 
-def update_image_paths(contents, images, current_directory):
+def update_image_paths(contents, images, current_file):
     # replace all image paths ![[file.ext]] with ![[relative/path/to/file.ext]]
     # images[0].relative_to(current_directory)
 
@@ -30,23 +30,24 @@ def update_image_paths(contents, images, current_directory):
     to_replace = re.findall(r"!\[\[.*\]\]", contents)
     for image in to_replace:
         image_name = image[3:-2]
-        image_path = pathlib.Path(image_name)
-        # ! crashes if the image is not found
-        image_path = image_path.relative_to(current_directory)
+
+        # find the image in the images list
+        image_path = None
+        for img in images:
+            if img.name == image_name:
+                image_path = img
+
+        if image_path is None:
+            print("Image not found: " + image_name + " in " + str(current_file))
+            continue
+
+        image_path = image_path.relative_to(current_file.parent)
         contents = re.sub(
             r"!\[\[" + image_name + r"\]\]",
             r"![[" + str(image_path) + r"]]",
             contents,
         )
 
-    for image in images:
-        image_name = image.name
-        image_path = image.relative_to(current_directory)
-        contents = re.sub(
-            r"!\[\[" + image_name + r"\]\]",
-            r"![[" + str(image_path) + r"]]",
-            contents,
-        )
     return contents
 
 
@@ -71,9 +72,8 @@ for file_path in md_files:
         contents = file.read()
 
     contents = remove_header(contents)
-    contents = update_image_paths(contents, images, file_path.parent)
+    contents = update_image_paths(contents, images, file_path)
 
     # write the new contents to the file
-    exit()
     with open(file_path, "w") as file:
         file.write(contents)
