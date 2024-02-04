@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/OOP2.md",
+                "file": "Biologie/Allel.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/OOP2.md",
+                "file": "Biologie/Allel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,8 +119,8 @@
   },
   "active": "1de8c09986ee919e",
   "lastOpenFiles": [
-    "z_images/Pasted image 20240204172651.png",
     "Informatik/OOP2.md",
+    "z_images/Pasted image 20240204172651.png",
     "z_images/Pasted image 20240204172357.png",
     "Mathematik/Allgemeine Mathematik/Zeichensammlung.md",
     "Psychology/Psychology.md",
@@ -165,7 +165,6 @@
     "Mathematik/Analysis/Mehrdimensionale Integralrechnung/Dreifachintegral.md",
     "Mathematik/Analysis/Vektoranalysis/Wegunabhängigkeit.md",
     "z_images/Pasted image 20240128102705.png",
-    "z_images/Pasted image 20240128102610.png",
-    "z_images/Pasted image 20240119141652.png"
+    "z_images/Pasted image 20240128102610.png"
   ]
 }

@@ -74,12 +74,12 @@ def convert_to_md_path(contents):
     to_replace = re.findall(r"!\[\[.*\]\]", contents)
     for image in to_replace:
         image_name = image[3:-2]
-        if "/" in image_name:
-            continue
+
+        image_name_url_encoded = image_name.replace(" ", "%20")
 
         contents = re.sub(
             r"!\[\[" + image_name + r"\]\]",
-            r"!()[" + image_name + r"]",
+            r"!()[" + image_name_url_encoded + r"]",
             contents,
         )
 
@@ -87,7 +87,8 @@ def convert_to_md_path(contents):
 
 
 if __name__ == "__main__":
-    path = handle_args()
+    # path = handle_args()
+    path = "../"
     md_files, images = get_md_and_images(path)
     for file_path in md_files:
         with open(file_path, "r") as file:
