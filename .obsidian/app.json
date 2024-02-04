@@ -10,5 +10,7 @@
   "attachmentFolderPath": "z_images",
   "newLinkFormat": "relative",
   "useMarkdownLinks": true,
-  "newFileLocation": "current"
+  "newFileLocation": "current",
+  "readableLineLength": true,
+  "showLineNumber": false
 }
