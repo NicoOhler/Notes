@@ -24,7 +24,7 @@ def remove_header(contents):
     return contents
 
 
-def update_image_paths(contents, images):
+def update_image_paths(contents, images, current_directory):
     # replace all image paths
     for image in images:
         image_name = image.name
@@ -34,18 +34,19 @@ def update_image_paths(contents, images):
 
 
 # get all files in the directory and its subdirectories
-directory = "./test"
-directory = pathlib.Path(directory)
+path = "./test"
+path = pathlib.Path(path)
 
 # create map with all file names and their relative paths
 md_files = []
 images = []
-for file in list(directory.iterdir()):
-    if file.is_file():
-        if file.suffix == ".md":
-            md_files.append(file)
-        elif file.suffix in [".png", ".jpg", ".jpeg", ".gif", ".svg"]:
-            images.append(file)
+for r, d, f in os.walk(path):
+    for file in f:
+        file_extension = os.path.splitext(file)[1]
+        if file_extension == ".md":
+            md_files.append(os.path.join(r, file))
+        elif file_extension in [".png", ".jpg", ".jpeg", ".gif"]:
+            images.append(pathlib.Path(os.path.join(r, file)))
 
 
 for file_path in md_files:
@@ -53,7 +54,9 @@ for file_path in md_files:
         contents = file.read()
 
     contents = remove_header(contents)
+    contents = update_image_paths(contents, images, path)
 
     # write the new contents to the file
+    exit()
     with open(file_path, "w") as file:
         file.write(contents)
