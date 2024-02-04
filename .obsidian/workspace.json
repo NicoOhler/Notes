@@ -23,26 +23,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Algorithms/Algorithms and Games/Sudoku.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "10f29d9142bc50e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sudoku 1.md",
+                "file": "Biologie/Allel.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sudoku 1.md",
+                "file": "Biologie/Allel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,16 +113,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "10f29d9142bc50e4",
+  "active": "baddd18aebbdf94c",
   "lastOpenFiles": [
+    "Informatik/Algorithms/Algorithms and Games/Sudoku.md",
+    "Sudoku 1.md",
+    "pdf/Biologie",
     "pdf/Sudoku 1.pdf",
     "pdf",
     "pdf/pdf/Sudoku 1.pdf",
-    "Sudoku 1.md",
     "pdf/pdf",
-    "Informatik/Algorithms/Algorithms and Games/Sudoku.md",
     "pdf/Biologie/Allel.pdf",
-    "pdf/Biologie",
     "pdf/Informatik/Computer Organization/Processor/Instruction Set Architecture.pdf",
     "pdf/Informatik/Computer Organization/Circuits/Combinational Circuits.pdf",
     "pdf/Informatik/Computer Organization/Circuits/Clock Frequency.pdf",
