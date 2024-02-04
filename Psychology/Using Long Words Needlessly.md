@@ -11,6 +11,13 @@
 	+ use only if sure terminology is known
 + long words
 	+ not necessarily bad
-	+ usually plain and simple terms are preferre
-+ makes the author less sympathetic
-+ author is even perceived as less intelligent
+	+ usually plain and simple terms are preferred
+	+ however sometimes a single rarely used word can convey information in an accurate and efficient manner
++ perception of the author
+	+ less sympathetic
+	+ less intelligent
++ Richard Feynman
+	+ If you can't explain something in simple terms, you don't understand it
++ style
+	+ same effects occur for hard to read fonts
+	+ negative 
