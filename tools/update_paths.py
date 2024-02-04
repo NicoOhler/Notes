@@ -39,7 +39,7 @@ def remove_header(contents):
     return contents
 
 
-def update_image_paths(contents, images, current_file):
+def create_relative_image_paths(contents, images, current_file):
     # replace all image paths ![[file.ext]] with ![[relative/path/to/file.ext]]
     # extract all ![[file.ext]] from the contents
     to_replace = re.findall(r"!\[\[.*\]\]", contents)
@@ -69,6 +69,23 @@ def update_image_paths(contents, images, current_file):
     return contents
 
 
+def convert_to_md_path(contents):
+    # replace all ![[Pasted Image.png]] with !()[Pasted%20Image.png]
+    to_replace = re.findall(r"!\[\[.*\]\]", contents)
+    for image in to_replace:
+        image_name = image[3:-2]
+        if "/" in image_name:
+            continue
+
+        contents = re.sub(
+            r"!\[\[" + image_name + r"\]\]",
+            r"!()[" + image_name + r"]",
+            contents,
+        )
+
+    return contents
+
+
 if __name__ == "__main__":
     path = handle_args()
     md_files, images = get_md_and_images(path)
@@ -77,7 +94,8 @@ if __name__ == "__main__":
             contents = file.read()
 
         contents = remove_header(contents)
-        contents = update_image_paths(contents, images, file_path)
+        contents = create_relative_image_paths(contents, images, file_path)
+        contents = convert_to_md_path(contents)
 
         # write the new contents to the file
         with open(file_path, "w") as file:

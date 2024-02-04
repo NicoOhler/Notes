@@ -174,6 +174,7 @@
 + parallel processing
 	+ executed in threads parallel for batches of the stream
 	+ ![[../z_images/Pasted image 20230121182514.png]]
+	+ ![](../z_images/Pasted%20image%2020240204172651.png)
 
 ### [[Networking]]
 + network types
