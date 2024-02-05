@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "∈",
+                "query": "ℝ",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.5
+    "width": 374.5
   },
   "right": {
     "id": "d1219e90b492538d",
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematik/Allgemeine Mathematik/Zeichensammlung.md",
+                "file": "Informatik/Algorithms/Algorithms and Games/NIM Theory/NIM Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0bb29dea2baa8749",
+  "active": "67d43403474fe91c",
   "lastOpenFiles": [
     "Informatik/Algorithms/Algorithms and Games/NIM Theory/NIM Theory.md",
     "pdf/Psychology/Using Long Words Needlessly.pdf",
