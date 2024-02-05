@@ -11,6 +11,8 @@ def get_md_files(path):
         for file in f:
             file_extension = os.path.splitext(file)[1]
             if file_extension == ".md":
+                if "Zeichensammlung" not in file:
+                    continue
                 md_files.append(os.path.join(r, file)[3:-3])  # remove .md
     return md_files
 
@@ -21,7 +23,7 @@ def extract_parent_folder(file):
     return file[:last_slash]
 
 
-pandoc = 'pandoc -H ../tools/head.tex --pdf-engine=xelatex "../FILENAME.md" -o "../pdf/FILENAME.pdf" -s -V fontsize=12pt -V geometry:"top=2cm, bottom=1.5cm, left=2cm, right=2cm" -V mainfont="Liberation Serif" --resource-path="../z_images"'
+pandoc = 'pandoc -H ../tools/head.tex --pdf-engine=xelatex "../FILENAME.md" -o "../pdf/FILENAME.pdf" -s -V fontsize=12pt -V geometry:"top=2cm, bottom=1.5cm, left=2cm, right=2cm" --resource-path="../z_images"'
 path = "../"
 md_files = get_md_files(path)
 if VERBOSE:
