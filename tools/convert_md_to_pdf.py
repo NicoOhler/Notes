@@ -1,5 +1,6 @@
 # sudo apt install texlive-latex-recommended
 # sudo apt install pandoc
+# python3 convert_md_to_pdf.py -sf ../ -df ../pdf/ -th ../tools/head.tex -r ../z_images
 import os
 import subprocess
 import argparse
@@ -72,9 +73,6 @@ def extract_parent_folder(file):
 
 if __name__ == "__main__":
     args, folder_mode = handle_args()
-    # python3 convert_md_to_pdf.py -sf ../ -df ../pdf/ -th ../tools/head.tex -r ../z_images
-    # pandoc = 'pandoc -H ../tools/head.tex --pdf-engine=xelatex "../FILENAME.md" -o "../pdf/FILENAME.pdf" -s -V fontsize=12pt -V geometry:"top=2cm, bottom=1.5cm, left=2cm, right=2cm" --resource-path="../z_images"'
-
     pandoc = create_pandoc_command(args)
     if args.verbose:
         print(pandoc)

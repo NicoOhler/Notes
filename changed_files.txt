@@ -1,0 +1,5 @@
+.obsidian/workspace.json
+Mathematik/Allgemeine Mathematik/Mengenlehre.md
+Mathematik/Statistik/Hypothesentests/output.log
+Mathematik/Statistik/Hypothesentests/output.tex
+tools/convert_md_to_pdf.py

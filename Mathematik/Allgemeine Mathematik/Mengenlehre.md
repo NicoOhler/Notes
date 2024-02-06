@@ -13,12 +13,13 @@
 		+ a∈M∪N wenn a∈M oder a∈N
 	+ M∩N: Schnittmenge von M und N (sprich: M geschnitten N)
 		+  a∈M∩N wenn a∈M und a∈N
-	+  M\N: Differenz Menge von M und N
-		+  a∈M\N wenn a∈M und b∉N
+	+  M\\N: Differenz Menge von M und N
+		+  a∈M\\N wenn a∈M und b∉N
 	+  M⊆N: N ist Teilmenge von M
 	+  M⊄N: N ist keine Teilmenge von M
 	+  M=N: M und N sind gleich
 		+  M=N: M⊆N und N⊆M
 	+  MxN: kartesische Produkt von M und N
 
-[[Allgemeine Mathematik]][[Quantoren]]
+[[Allgemeine Mathematik]]
+[[Quantoren]]

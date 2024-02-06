@@ -1,4 +1,4 @@
-name: Convert all MD files to PDF
+name: Create a new PDF for each changed MD file
 
 on:
   push:
@@ -30,7 +30,7 @@ jobs:
         run: |
           while IFS= read -r file; do
             if [[ $file == *.md ]]; then
-              pandoc -H ../tools/head.tex --pdf-engine=xelatex "$file" -o "${file%.md}.pdf" -s -V fontsize=12pt -V geometry:"top=2cm, bottom=1.5cm, left=2cm, right=2cm" --resource-path="../z_images"
+              pandoc -H ../tools/head.tex --pdf-engine=xelatex "$file" -o "pdf/${file%.md}.pdf" -s -V fontsize=12pt -V geometry:"top=2cm, bottom=1.5cm, left=2cm, right=2cm" --resource-path="z_images"
             fi
           done < changed_files.txt
 ```
