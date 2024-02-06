@@ -1,0 +1,36 @@
+name: Convert all MD files to PDF
+
+on:
+  push:
+    branches:
+      - master
+  pull_request:
+    branches:
+      - master
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+      - uses: actions/checkout@v4
+
+      - name: List changed files
+        run: |
+          CHANGED_FILES=$(git diff --name-only HEAD^ HEAD)
+          echo "$CHANGED_FILES" > changed_files.txt
+
+      - name: Install pandoc
+        run: |
+          sudo apt-get update
+          sudo apt-get install pandoc
+          sudo apt-get install texlive-latex-recommended
+
+      - name: Convert each changed MD file to PDF
+        run: |
+          while IFS= read -r file; do
+            if [[ $file == *.md ]]; then
+              pandoc -H ../tools/head.tex --pdf-engine=xelatex "$file" -o "${file%.md}.pdf" -s -V fontsize=12pt -V geometry:"top=2cm, bottom=1.5cm, left=2cm, right=2cm" --resource-path="../z_images"
+            fi
+          done < changed_files.txt
+```

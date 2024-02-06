@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "3207584f040a39d3",
+        "id": "6fed36a79e8ba7be",
         "type": "tabs",
         "children": [
           {
-            "id": "4ba3a157ae0c950d",
+            "id": "6ca98052261de173",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Algorithms/Algorithms and Games/NIM Theory/NIM Theory.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0bb29dea2baa8749",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematik/Allgemeine Mathematik/Zeichensammlung.md",
+                "file": "Mathematik/NRLA/Lineare Abbildungen/Lineare Abbildungen.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ℝ",
+                "query": "http",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Algorithms/Algorithms and Games/NIM Theory/NIM Theory.md",
+                "file": "Mathematik/NRLA/Lineare Abbildungen/Lineare Abbildungen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,9 +103,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "67d43403474fe91c",
+  "active": "6ca98052261de173",
   "lastOpenFiles": [
+    "Mathematik/Analysis/Funktionen/Funktionen.md",
+    "Mathematik/Analysis/Folgen und Reihen/Sandwich Theorem.md",
+    "Mathematik/Analysis/Differentialrechnung/Anwendungen der  Differentialrechnung.md",
     "Informatik/Algorithms/Algorithms and Games/NIM Theory/NIM Theory.md",
+    "Mathematik/Allgemeine Mathematik/Zeichensammlung.md",
+    "pdf/Informatik/Data Management/Database Performance Tuning/Query Optimization/Join Ordering.pdf",
+    "Untitled Folder",
+    "Psychology/Using Long Words Needlessly.md",
+    "Informatik/Information Security/Network Security.md",
+    "Mathematik/Analysis/Folgen und Reihen/Intervallschachtelung.md",
+    "Informatik/Algorithms/Algorithms and Games/Examples of Combinatorial Games.md",
     "pdf/Psychology/Using Long Words Needlessly.pdf",
     "pdf/Psychology/Thinking, Fast and Slow.pdf",
     "pdf/Psychology/Psychology.pdf",
@@ -127,8 +124,6 @@
     "pdf/Mathematik/Wahrscheinlichkeitstheorie/Zufallsvariablen/Wahrscheinlichkeitsfunktion PMF.pdf",
     "pdf/Mathematik/Wahrscheinlichkeitstheorie/Zufallsvariablen/Verteilungsfunktion CDF.pdf",
     "pdf/Mathematik/Wahrscheinlichkeitstheorie/Zufallsvariablen/Dichtefunktionen PDF.pdf",
-    "pdf/Mathematik/Wahrscheinlichkeitstheorie/Zufallsvariablen",
-    "pdf/Mathematik/Wahrscheinlichkeitstheorie/Wahrscheinlichkeitsräume/Wahrscheinlichkeitsräume.pdf",
     "Biologie/Humane Genome Project.md",
     "Biologie/Gregor Mendel.md",
     "Biologie/Gene.md",
@@ -145,7 +140,6 @@
     "z_images/Pasted image 20240119141652.png",
     "z_images/Pasted image 20240119141501.png",
     "z_images/Pasted image 20240119141203.png",
-    "Psychology/Using Long Words Needlessly.md",
     "Psychology/Thinking, Fast and Slow.md",
     "Psychology/Psychology.md",
     "Mathematik/Wahrscheinlichkeitstheorie/Momente/Erwartungswert/Erwartungswert für diskrete ZV.md",
@@ -157,12 +151,6 @@
     "Mathematik/Statistik/Schätzer/Konfidenzintervall/T-Score Confidence Interval.md",
     "Mathematik/Wahrscheinlichkeitstheorie/Zufallsvariablen/Zufallsvariable.md",
     "Mathematik/Wahrscheinlichkeitstheorie/Zufallsvariablen/Wahrscheinlichkeitsfunktion PMF.md",
-    "Mathematik/Wahrscheinlichkeitstheorie/Zufallsvariablen/Verteilungsfunktion CDF.md",
-    "Mathematik/Wahrscheinlichkeitstheorie/Zufallsvariablen/Dichtefunktionen PDF.md",
-    "Mathematik/Wahrscheinlichkeitstheorie/Wahrscheinlichkeitsräume/Wahrscheinlichkeitsräume.md",
-    "Mathematik/Wahrscheinlichkeitstheorie/Wahrscheinlichkeitsräume/Wahrscheinlichkeit.md",
-    "Mathematik/Wahrscheinlichkeitstheorie/Wahrscheinlichkeitsräume/Stichprobenraum.md",
-    "Mathematik/Wahrscheinlichkeitstheorie/Wahrscheinlichkeitsräume/Ereignisse.md",
     "Informatik/Untitled.canvas",
     "Untitled.canvas"
   ]

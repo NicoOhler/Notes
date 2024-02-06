@@ -29,7 +29,7 @@
 	+ V-->V
 	+ jeder Vektor bildet sich selber ab
 + Gerade
-	+ F: ℝ-->ℝ³
+	+ F: $ℝ-->ℝ^3$
 	+ $λ$-->$λ\overrightarrow{v}$
 	+ Fallunterscheidung:
 		+ $\overrightarrow{v}=\overrightarrow{0}$
@@ -39,7 +39,7 @@
 			+ Kern(F)=$\{\overrightarrow{0}\}$
 			+ Bild(F)=Span($\{\overrightarrow{v}\})$
 +  Ebene
-	+ F: ℝ²-->ℝ³
+	+ F: $ℝ^2-->ℝ^3$
 	+ $λ$-->$λ\overrightarrow{v}$
 	+ Fallunterscheidungen
 + Matrix

@@ -31,7 +31,7 @@
 		+ only 765 states when stopping after winning
 
 ### Nine Men’s Morris - Mühle
-+ http://ninemensmorris.ist.tugraz.at:8080/
++ [Nine Men's Morris - TUG](http://ninemensmorris.ist.tugraz.at:8080/)
 + 3 phases
 	+ placing stones
 	+ moving stones 
@@ -45,7 +45,7 @@
 	+ ![](Pasted%20image%2020231004161837.png)
 
 ### Connect 4
-+ http://connect4.ist.tugraz.at:8080/
++ [Connect 4 - TUG](http://connect4.ist.tugraz.at:8080/)
 + First-Player Win
 + states (7x6 board)
 	+ 0 to 42 fields which have a

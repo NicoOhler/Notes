@@ -10,8 +10,8 @@
 	+ {(x,y)∈I×B | y=f(x)}
 	+ x und y=f(x) als Achsen des Graphen
 + Beispiel
-	+  f: ℝ --> ℝ, x ==> x² + 1
-	+ Kurzform: f(x) = x² + 1
+	+  f: ℝ --> ℝ, $x ==> x^2 + 1$
+	+ Kurzform: $f(x) = x^2 + 1$
 
 ### Eigenschaften von Funktionen
 + x ist ein Fixpunkt, wenn f(x) = x

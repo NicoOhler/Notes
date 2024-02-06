@@ -123,7 +123,7 @@
 					+ ...
 				+ ![](Pasted%20image%2020240119140938.png)
 					+ ![](Pasted%20image%2020240119140949.png)
-				+ https://csp-evaluator.withgoogle.com/
+				+ [Google CSP Evaluator](https://csp-evaluator.withgoogle.com/)
 			+ Strict Origin Separation
 				+ have multiple origins for different kinds of data
 					+ ![](Pasted%20image%2020240119141203.png)

@@ -12,8 +12,8 @@
 	+ x<sub>0</sub> ist lokale Extremstelle ==> f'(x<sub>0</sub>)=0
 		+ f'(x<sub>0</sub>) = 0 = Steigung ==> Hochpunkt/Tiefpunkt
 		+ Umkehrschluss gilt nicht
-		+ Gegenbeispiel: f(x)=x³
-		+ 
+		+ Gegenbeispiel: $f(x)=x^3$
+		
 ### Satz von Rolle
 + f: [a,b]-->ℝ differenzierbar
 + f(a)=f(b) ==> ∃x<sub>0</sub>∈(a, b): f'(x<sub>0</sub>) = 0

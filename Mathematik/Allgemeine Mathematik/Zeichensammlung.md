@@ -52,7 +52,7 @@
 	+ $\lim_{x \to x_0} f(x)$
 	+ $\bar{S}-\underline{S}$
 
-https://learninglab.gitlabpages.inria.fr/mooc-rr/mooc-rr-ressources/module1/ressources/introduction_to_markdown.html#fractions-binomial-coefficients-square-roots
-https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols
+[Introduction to Markdown](https://learninglab.gitlabpages.inria.fr/mooc-rr/mooc-rr-ressources/module1/ressources/introduction_to_markdown.html#fractions-binomial-coefficients-square-roots)
+[List_of_LaTeX_mathematical_symbols](https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols)
 
 [[Allgemeine Mathematik]]
