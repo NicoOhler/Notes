@@ -96,7 +96,7 @@ if __name__ == "__main__":
                 failed_files.append((md_file, output.stderr))
 
         if len(failed_files) > 0:
-            print("Failed to convert " + str(len(failed_files)) + " files")
+            print("\nFailed to convert " + str(len(failed_files)) + " files")
             print("Check failed_files.txt for more information")
             with open("failed_files.txt", "w") as file:
                 for failed_file in failed_files:

@@ -1,11 +1,11 @@
 + Eine Menge ist eine Sammlung zusammengehörender, unterscheidbarer Objekte. 
- > M = {1, 2, ... }
+	+ M = {1, 2, ... }
 + kann mit [[Logische Verknüpfungen]] verbunden werden
 + Naive Mengenlehre verhindert Selbstreferenzierung.
 + Leere Menge: {}, ∅
 + Potenzmenge: P(M) enthält alle Teilmengen der Menge M inklusive ∅
-> M = {1, 2, 3 }
-> P(M) = {{}, {1}, {2}, {3}, {1, 2}, {1, 3}, {2, 3}, {1, 2, 3}}
+	+ M = {1, 2, 3 }
+	+ P(M) = {{}, {1}, {2}, {3}, {1, 2}, {1, 3}, {2, 3}, {1, 2, 3}}
 + Notationen:
 	+ a∈A: a ist Element von A
 	+ a∉A: a ist kein Element von A

@@ -11,8 +11,12 @@
             "id": "6ca98052261de173",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Mathematik/Allgemeine Mathematik/Mengenlehre.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -53,8 +57,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -74,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Mathematik/Allgemeine Mathematik/Mengenlehre.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +104,10 @@
   },
   "active": "6ca98052261de173",
   "lastOpenFiles": [
+    "Mathematik/Allgemeine Mathematik/Untitled.md",
+    "Mathematik/Statistik/Hypothesentests/Zweistichproben-t-Test.md",
+    "Mathematik/Allgemeine Mathematik/Mengenlehre.md",
+    "Informatik/Data Management/Data Management.md",
     "Mathematik/NRLA/Lineare Abbildungen/Lineare Abbildungen.md",
     "Mathematik/Analysis/Funktionen/Funktionen.md",
     "Mathematik/Analysis/Folgen und Reihen/Sandwich Theorem.md",
@@ -142,10 +150,6 @@
     "Mathematik/Wahrscheinlichkeitstheorie/Momente/Erwartungswert/Erwartungswert für allgemeine ZV.md",
     "Mathematik/Wahrscheinlichkeitstheorie/Momente/Erwartungswert/Erwartungswert.md",
     "Mathematik/Wahrscheinlichkeitstheorie/Momente/Erwartungswert/Erwartungswert von linearen Funktionen.md",
-    "Mathematik/Statistik/Schätzer/Konfidenzintervall/Konfidenzintervall.md",
-    "Mathematik/Statistik/Schätzer/Konfidenzintervall/Z-Score Confidence Interval.md",
-    "Mathematik/Statistik/Schätzer/Konfidenzintervall/T-Score Confidence Interval.md",
-    "Mathematik/Wahrscheinlichkeitstheorie/Zufallsvariablen/Zufallsvariable.md",
     "Informatik/Untitled.canvas",
     "Untitled.canvas"
   ]
