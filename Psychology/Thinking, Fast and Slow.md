@@ -78,8 +78,8 @@
 		+ same goes for counties with the lowest cancer rates
 		+ due to small sample size
 + todo
+	+ substituting questions
 	+ mental shotgun
 		+ vote note
 		+ vote goat
-	+ substituting questions
 	+ anchor effect
