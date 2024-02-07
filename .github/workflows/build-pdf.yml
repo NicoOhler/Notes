@@ -17,7 +17,11 @@ jobs:
 
       - name: List changed files
         run: |
-          CHANGED_FILES=$(git diff --name-only HEAD^ HEAD)
+          if git rev-parse --verify HEAD >/dev/null 2>&1; then
+            CHANGED_FILES=$(git diff --name-only $(git rev-list --max-parents=0 HEAD) HEAD)
+          else
+            CHANGED_FILES=$(git log --name-only --pretty=format: --diff-filter=A | sort -u)
+          fi
           echo "$CHANGED_FILES" > changed_files.txt
 
       - name: Install pandoc
