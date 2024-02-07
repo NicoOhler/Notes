@@ -84,4 +84,4 @@
 		+ vote goat
 	+ anchor effect
 
-ab
+abs
