@@ -26,7 +26,6 @@ jobs:
         env:
           ALL_CHANGED_FILES: ${{ steps.changed-files.outputs.all_changed_files }}
         run: |
-          rm changed_files.txt
           while IFS= read -r -d$'\n' line; do
             echo "$line" >> changed_files.txt
             echo "Added \"$line\" to changed_files.txt"
