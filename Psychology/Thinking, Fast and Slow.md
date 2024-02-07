@@ -83,5 +83,3 @@
 		+ vote note
 		+ vote goat
 	+ anchor effect
-
-abs

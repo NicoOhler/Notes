@@ -29,10 +29,11 @@ jobs:
         run: |
           echo "All changed files: $ALL_CHANGED_FILES"
           for file in ${ALL_CHANGED_FILES}; do
-            echo "$file was changed"
             echo "$file" >> changed_files.txt
           done
+          sed -i 's/\.\([a-zA-Z0-9]*\) /\.\1\n/g' changed_files.txt
           echo "Changed files: $(cat changed_files.txt)"
+
 
       - name: Install pandoc
         run: |
