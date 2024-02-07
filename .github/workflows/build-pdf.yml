@@ -37,6 +37,7 @@ jobs:
           sudo apt-get update
           sudo apt-get install pandoc
           sudo apt-get install texlive-latex-recommended
+          sudo apt-get install texlive-xetex  
 
       - name: Convert each changed MD file to PDF
         run: |
