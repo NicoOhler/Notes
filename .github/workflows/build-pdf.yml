@@ -26,19 +26,11 @@ jobs:
         env:
           ALL_CHANGED_FILES: ${{ steps.changed-files.outputs.all_changed_files }}
         run: |
-          while IFS= read -r -d$'\n' line; do
-            echo "$line" >> changed_files.txt
-            echo "Added \"$line\" to changed_files.txt"
-          done <<< "${ALL_CHANGED_FILES}"
-          echo "Changed files: $(cat changed_files.txt)"
-
-          rm changed_files.txt
           while IFS= read -r -d$"\\n" line; do
             echo "$line" >> changed_files.txt
-            echo "Added \"$line\" to changed_files.txt"
           done <<< "${ALL_CHANGED_FILES}"
+          echo "$line" >> a.txt
           echo "Changed files: $(cat changed_files.txt)"
-
 
       - name: Install pandoc
         run: |
