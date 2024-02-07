@@ -65,9 +65,8 @@
 		+ liking a person at first makes future negative actions seem less bad
 	+ discussion round
 		+ opinions of the first to speak have more weight
-	+ what you see is all there is (WYSIATIS)
+	+ what you see is all there is (WYSIATI)
 		+ jumping to conclusions despite low quantity and quality of information 
 		+ overconfidence
 		+ framing
 			+ 90% fat free better than 10% fat
-			+ 

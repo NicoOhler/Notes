@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6fed36a79e8ba7be",
+        "id": "3d00cdc667ced62c",
         "type": "tabs",
         "children": [
           {
-            "id": "6ca98052261de173",
+            "id": "e7f19a3297227eeb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematik/Allgemeine Mathematik/Mengenlehre.md",
+                "file": "Psychology/Thinking, Fast and Slow.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematik/Allgemeine Mathematik/Mengenlehre.md",
+                "file": "Psychology/Thinking, Fast and Slow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,12 +102,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6ca98052261de173",
+  "active": "e7f19a3297227eeb",
   "lastOpenFiles": [
+    "Mathematik/Allgemeine Mathematik/Mengenlehre.md",
     "pdf/Mathematik/Allgemeine Mathematik/Mengenlehre.pdf",
     "Mathematik/Allgemeine Mathematik/Untitled.md",
     "Mathematik/Statistik/Hypothesentests/Zweistichproben-t-Test.md",
-    "Mathematik/Allgemeine Mathematik/Mengenlehre.md",
     "Informatik/Data Management/Data Management.md",
     "Mathematik/NRLA/Lineare Abbildungen/Lineare Abbildungen.md",
     "Mathematik/Analysis/Funktionen/Funktionen.md",
@@ -128,7 +128,6 @@
     "pdf/Mathematik/Wahrscheinlichkeitstheorie/Zufallsvariablen/Zufallsvariable.pdf",
     "pdf/Mathematik/Wahrscheinlichkeitstheorie/Zufallsvariablen/Wahrscheinlichkeitsfunktion PMF.pdf",
     "pdf/Mathematik/Wahrscheinlichkeitstheorie/Zufallsvariablen/Verteilungsfunktion CDF.pdf",
-    "pdf/Mathematik/Wahrscheinlichkeitstheorie/Zufallsvariablen/Dichtefunktionen PDF.pdf",
     "Biologie/Humane Genome Project.md",
     "Biologie/Gregor Mendel.md",
     "Biologie/Gene.md",
