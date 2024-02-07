@@ -19,8 +19,8 @@ jobs:
       - name: Get changed files
         id: changed-files
         uses: tj-actions/changed-files@v42
-          with:
-            separator: '\n'
+        with:
+          separator: '\n'
 
       - name: List all changed files
         env:
