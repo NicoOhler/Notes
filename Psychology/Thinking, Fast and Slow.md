@@ -76,5 +76,10 @@
 		+ vote goat
 	+ substituting questions
 	+ law of small numbers
-		+ [Gesetz der großen Zahlen](../Mathematik/Wahrscheinlichkeitstheorie/Konvergenz%20von%20Zufallszahlen/Gesetz%20der%20großen%20Zahlen.md)
+		+ counter part to [Gesetz der großen Zahlen](../Mathematik/Wahrscheinlichkeitstheorie/Konvergenz%20von%20Zufallszahlen/Gesetz%20der%20großen%20Zahlen.md)
+		+ small sample size => must not draw conclusions
+		+ example
+			+ counties with highest cancer rates are small, rural and republican counties in the Midwest, South and West
+			+ same goes for counties with the lowest cancer rates
+			+ due to small sample size
 	+ anchor effect
