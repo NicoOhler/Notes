@@ -23,6 +23,8 @@ jobs:
             CHANGED_FILES=$(git log --name-only --pretty=format: --diff-filter=A | sort -u)
           fi
           echo "$CHANGED_FILES" > changed_files.txt
+          echo "Changed files:"
+          cat changed_files.txt
 
       - name: Install pandoc
         run: |
