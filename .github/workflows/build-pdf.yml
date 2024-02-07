@@ -30,6 +30,7 @@ jobs:
             echo "$file was changed"
             echo "$file" >> changed_files.txt
           done
+        echo "Changed files: $(cat changed_files.txt)"
 
       - name: Install pandoc
         run: |
