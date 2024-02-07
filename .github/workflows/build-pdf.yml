@@ -37,7 +37,8 @@ jobs:
               pandoc -H ../tools/head.tex --pdf-engine=xelatex "$file" -o "pdf/${file%.md}.pdf" -s -V fontsize=12pt -V geometry:"top=2cm, bottom=1.5cm, left=2cm, right=2cm" --resource-path="z_images"
             fi
           done < changed_files.txt
-          
+          rm changed_files.txt
+
       - name: Commit and push PDFs
         run: |
           git config --global user.email "actions@github.com"

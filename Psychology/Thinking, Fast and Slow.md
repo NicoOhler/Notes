@@ -72,7 +72,8 @@
 			+ 90% fat free better than 10% fat
 + todo
 	+ mental shotgun
-		+ vote note goat
+		+ vote note
+		+ vote goat
 	+ substituting questions
 	+ law of small numbers
 	+ anchor effect
