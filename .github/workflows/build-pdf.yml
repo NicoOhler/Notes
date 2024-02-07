@@ -26,11 +26,10 @@ jobs:
         env:
           ALL_CHANGED_FILES: ${{ steps.changed-files.outputs.all_changed_files }}
         run: |
-          echo "All changed files: $ALL_CHANGED_FILES"
-          for file in ${ALL_CHANGED_FILES}; do
-            echo "$file" >> changed_files.txt
-            echo "Added $file to changed_files.txt"
-          done
+          while IFS= read -r line; do
+            echo "$line" >> changed_files.txt
+            echo "Added \"$line\" to changed_files.txt"
+          done <<< "${ALL_CHANGED_FILES}"
           echo "Changed files: $(cat changed_files.txt)"
 
 
