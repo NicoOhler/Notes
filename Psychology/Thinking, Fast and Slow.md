@@ -76,4 +76,5 @@
 		+ vote goat
 	+ substituting questions
 	+ law of small numbers
+		+ [Gesetz der großen Zahlen](../Mathematik/Wahrscheinlichkeitstheorie/Konvergenz%20von%20Zufallszahlen/Gesetz%20der%20großen%20Zahlen.md)
 	+ anchor effect
