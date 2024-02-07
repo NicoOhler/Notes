@@ -29,7 +29,7 @@ jobs:
           while IFS= read -r -d$"|" line; do
             echo "$line" >> changed_files.txt
           done <<< "${ALL_CHANGED_FILES}"
-          echo "$line" >> a.txt
+          echo "$line" >> changed_files.txt
           echo "Changed files: $(cat changed_files.txt)"
 
       - name: Install pandoc

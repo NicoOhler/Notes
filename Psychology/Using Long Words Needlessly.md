@@ -27,4 +27,3 @@
 			+ negative correlation
 			+ readers overcompensate the obvious negative effects on fluency
 			+ author perceived as more sympathetic and intelligent
-			
