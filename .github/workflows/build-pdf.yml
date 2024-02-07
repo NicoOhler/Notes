@@ -20,13 +20,13 @@ jobs:
         id: changed-files
         uses: tj-actions/changed-files@v42
         with:
-          separator: '\n'
+          separator: '|'
 
       - name: List all changed files
         env:
           ALL_CHANGED_FILES: ${{ steps.changed-files.outputs.all_changed_files }}
         run: |
-          while IFS= read -r -d$"\\n" line; do
+          while IFS= read -r -d$"|" line; do
             echo "$line" >> changed_files.txt
           done <<< "${ALL_CHANGED_FILES}"
           echo "$line" >> a.txt
