@@ -31,7 +31,6 @@ jobs:
             echo "$file" >> changed_files.txt
             echo "Added $file to changed_files.txt"
           done
-        #sed -i 's/\.\([a-zA-Z0-9]*\) /\.\1\n/g' changed_files.txt
           echo "Changed files: $(cat changed_files.txt)"
 
 
