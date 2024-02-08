@@ -24,5 +24,5 @@
 		+ ![](Pasted%20image%2020221208153732.png)
 	+ 
 
-### Parameterräume für  [[Wahrsceinlich]]
+### Parameterräume für  [Wahrscheinlichkeitsverteilungen](../../Wahrscheinlichkeitstheorie/Wahrscheinlichkeitsverteilungen/Wahrscheinlichkeitsverteilungen.md)
 + ![](Pasted%20image%2020221208152432.png)
