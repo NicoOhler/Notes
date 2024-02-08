@@ -24,8 +24,5 @@
 		+ ![](Pasted%20image%2020221208153732.png)
 	+ 
 
-### Verteilung $\bar{X}$ als Schätzer für $\mu$
-+ ![](Pasted%20image%2020221208153643.png)
-
-### Parameterräume
+### Parameterräume für  [[Wahrsceinlich]]
 + ![](Pasted%20image%2020221208152432.png)
