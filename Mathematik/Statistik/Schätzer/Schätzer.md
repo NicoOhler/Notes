@@ -14,7 +14,7 @@
 	+ ![](Pasted%20image%2020221208152900.png)
 	+ ![](Pasted%20image%2020221208152904.png)
 
-### Eigenschaften der [[/Normalverteilung]]
+### Eigenschaften der [[Normalverteilung]]
 + ![](Pasted%20image%2020221208153313.png)
 + ![](Pasted%20image%2020221208153331.png)
 + Linearkombination unabhängiger, normalverteilter Zufallsvariablen ist normalverteilt
