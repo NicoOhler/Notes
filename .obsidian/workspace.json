@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematik/Statistik/Schätzer/Mean Squared Error.md",
+                "file": "Mathematik/Statistik/Schätzer/MLE under Normality Assumption.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematik/Statistik/Schätzer/Mean Squared Error.md",
+                "file": "Mathematik/Statistik/Schätzer/MLE under Normality Assumption.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +117,9 @@
   },
   "active": "9fe0993e1adeebf9",
   "lastOpenFiles": [
+    "Mathematik/Wahrscheinlichkeitstheorie/Wahrscheinlichkeitsverteilungen/Normalverteilung.md",
+    "Mathematik/Statistik/Schätzer/MLE under Normality Assumption.md",
+    "Mathematik/Statistik/Schätzer/Mean Squared Error.md",
     "Mathematik/Statistik/Schätzer/Maximum-Likelihood-Schätzer.md",
     "Mathematik/Statistik/Schätzer/Schätzer.md",
     "Mathematik/Wahrscheinlichkeitstheorie/Wahrscheinlichkeitsverteilungen/Exponentialverteilung.md",
@@ -128,7 +131,6 @@
     "Mathematik/Statistik/Empirische Datenanalyse/Statistiken.md",
     "Mathematik/Statistik/Empirische Datenanalyse/Multivariate Daten.md",
     "Mathematik/Statistik/Empirische Datenanalyse/Empirische Datenanalyse.md",
-    "Mathematik/Wahrscheinlichkeitstheorie/Wahrscheinlichkeitsverteilungen/Normalverteilung.md",
     "Mathematik/Wahrscheinlichkeitstheorie/Wahrscheinlichkeitsverteilungen/Wahrscheinlichkeitsverteilungen.md",
     "Mathematik/Wahrscheinlichkeitstheorie/Wahrscheinlichkeitsverteilungen/Zusammenhang zwischen hypergeometrischer und Binomialverteilung.md",
     "Mathematik/Wahrscheinlichkeitstheorie/Wahrscheinlichkeitsverteilungen/Hypergeometrische Verteilung.md",
@@ -144,8 +146,6 @@
     "Mathematik/NRLA/Lineare Abbildungen/Lineare Abbildungen.md",
     "Mathematik/Analysis/Funktionen/Funktionen.md",
     "Mathematik/Analysis/Folgen und Reihen/Sandwich Theorem.md",
-    "Mathematik/Analysis/Differentialrechnung/Anwendungen der  Differentialrechnung.md",
-    "Informatik/Algorithms/Algorithms and Games/NIM Theory/NIM Theory.md",
     "pdf/Informatik/Data Management/Database Performance Tuning/Query Optimization/Join Ordering.pdf",
     "Untitled Folder",
     "pdf/Psychology/Using Long Words Needlessly.pdf",
