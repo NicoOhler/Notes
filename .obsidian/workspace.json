@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematik/Statistik/Schätzer/MLE under Normality Assumption.md",
+                "file": "Mathematik/Statistik/Schätzer/Konfidenzintervall/Konfidenzintervall.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematik/Statistik/Schätzer/MLE under Normality Assumption.md",
+                "file": "Mathematik/Statistik/Schätzer/Konfidenzintervall/Konfidenzintervall.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,8 +117,8 @@
   },
   "active": "9fe0993e1adeebf9",
   "lastOpenFiles": [
-    "Mathematik/Wahrscheinlichkeitstheorie/Wahrscheinlichkeitsverteilungen/Normalverteilung.md",
     "Mathematik/Statistik/Schätzer/MLE under Normality Assumption.md",
+    "Mathematik/Wahrscheinlichkeitstheorie/Wahrscheinlichkeitsverteilungen/Normalverteilung.md",
     "Mathematik/Statistik/Schätzer/Mean Squared Error.md",
     "Mathematik/Statistik/Schätzer/Maximum-Likelihood-Schätzer.md",
     "Mathematik/Statistik/Schätzer/Schätzer.md",
