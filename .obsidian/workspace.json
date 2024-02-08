@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematik/Wahrscheinlichkeitstheorie/Wahrscheinlichkeitstheorie.md",
+                "file": "Mathematik/Wahrscheinlichkeitstheorie/Wahrscheinlichkeitsverteilungen/Normalverteilung.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematik/Wahrscheinlichkeitstheorie/Wahrscheinlichkeitstheorie.md",
+                "file": "Mathematik/Wahrscheinlichkeitstheorie/Wahrscheinlichkeitsverteilungen/Normalverteilung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +117,7 @@
   },
   "active": "9fe0993e1adeebf9",
   "lastOpenFiles": [
+    "Mathematik/Wahrscheinlichkeitstheorie/Wahrscheinlichkeitstheorie.md",
     "Mathematik/Wahrscheinlichkeitstheorie/Wahrscheinlichkeitsverteilungen/Normalverteilung.md",
     "Mathematik/Statistik/Schätzer/Konfidenzintervall/Konfidenzintervall.md",
     "Mathematik/Statistik/Schätzer/MLE under Normality Assumption.md",
@@ -145,7 +146,6 @@
     "Mathematik/Statistik/Hypothesentests/Zweistichproben-t-Test.md",
     "Informatik/Data Management/Data Management.md",
     "Mathematik/NRLA/Lineare Abbildungen/Lineare Abbildungen.md",
-    "Mathematik/Analysis/Funktionen/Funktionen.md",
     "pdf/Informatik/Data Management/Database Performance Tuning/Query Optimization/Join Ordering.pdf",
     "Untitled Folder",
     "pdf/Psychology/Using Long Words Needlessly.pdf",
