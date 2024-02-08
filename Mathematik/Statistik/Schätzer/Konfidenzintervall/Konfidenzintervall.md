@@ -16,7 +16,7 @@
 + ![](Pasted%20image%2020221208171903.png)
 + ![](Pasted%20image%2020221208171921.png)
 + ![](Pasted%20image%2020221208171930.png)
-	+ symmetrisch wie [[Normalverteilung]]
+	+ symmetrisch wie [[../../../Wahrscheinlichkeitstheorie/Wahrscheinlichkeitsverteilungen/Normalverteilung]]
 	+ ![](Pasted%20image%2020221208172036.png)
 
 ### Beispiel

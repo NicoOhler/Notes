@@ -5,7 +5,7 @@
 	+ ![](Pasted%20image%2020221202175817.png)
 
 ### Stichprobe (sample)
-+ Untermenge der Population
++ Teilmenge der Population
 + Stichprobenumfang $n$
 + Folge von [[Zufallsvariable]] oder deren Realisierung
 	+ ![](Pasted%20image%2020221202182212.png)

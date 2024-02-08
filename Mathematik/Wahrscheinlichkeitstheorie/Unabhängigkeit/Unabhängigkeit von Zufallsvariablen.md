@@ -17,10 +17,10 @@
 	+ ![](Pasted%20image%2020221114095521.png)
 	+ ![](Pasted%20image%2020221114095540.png)
 
-### Alternative Herleitung für [[Diskrete Verteillungen]]
-+ [[Binomialverteilung]] hergeleitet
+### Alternative Herleitung für [[../Wahrscheinlichkeitsverteilungen/Wahrscheinlichkeitsverteilungen]]
++ [[../Wahrscheinlichkeitsverteilungen/Binomialverteilung]] hergeleitet
 	+ ![](Pasted%20image%2020221114095823.png)
 	+ ![](Pasted%20image%2020221114100347.png)
-+ [[Geometrische Verteilung]] hergeleitet
++ [[../Wahrscheinlichkeitsverteilungen/Geometrische Verteilung]] hergeleitet
 	+ ![](Pasted%20image%2020221114100415.png)
 	+ ![](Pasted%20image%2020221114100724.png)

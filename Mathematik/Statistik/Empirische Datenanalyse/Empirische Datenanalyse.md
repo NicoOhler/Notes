@@ -6,7 +6,7 @@
 		+ z.B. Note, Gefahrenstufe
 	+ numerische Daten
 		+ z.B. Alter, Gewicht
-+ univariate Daten
++ [Univariate Daten](Univariate%20Daten.md)
 	+ Objekt mit einziger Ausprägung
 + [[Multivariate Daten]]
 	+ Objekt mit mehreren Ausprägungen

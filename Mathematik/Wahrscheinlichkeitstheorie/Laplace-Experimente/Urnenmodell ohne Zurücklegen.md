@@ -12,7 +12,7 @@
 	+ $P(A)=\frac{|A|}{\binom{N}{n}}$
 
 ### Berechnung
-+ mittels [[Hypergeometrische Verteilung]]
++ mittels [[../Wahrscheinlichkeitsverteilungen/Hypergeometrische Verteilung]]
 + ![](Pasted%20image%2020221004161550.png) 
 
 ### Beispiele  

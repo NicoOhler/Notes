@@ -5,7 +5,7 @@
 ### Themengebiete
 + [[Wahrscheinlichkeitsräume]]
 + [[Laplace-Experimente]]
-+ [[Diskrete Verteillungen]]
++ [[Wahrscheinlichkeitsverteilungen/Wahrscheinlichkeitsverteilungen]]
 + [[Zufallsvariable]]
 + [[Zufallsvektoren]]
 + [[Moment]]

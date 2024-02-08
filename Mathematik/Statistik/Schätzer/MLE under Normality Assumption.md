@@ -1,5 +1,5 @@
 ### Meaning
-+ [[Maximum-Likelihood-Schätzer]] and assumption error is [[Normalverteilung]]
++ [[Maximum-Likelihood-Schätzer]] and assumption error is [[../../Wahrscheinlichkeitstheorie/Wahrscheinlichkeitsverteilungen/Normalverteilung]]
 	+ ![](Pasted%20image%2020230116151211.png)
 + ![](Pasted%20image%2020230116151241.png)
 + likelihood function

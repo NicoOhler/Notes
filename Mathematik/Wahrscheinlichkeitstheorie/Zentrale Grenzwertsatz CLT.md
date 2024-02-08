@@ -1,6 +1,6 @@
 ### Definition mit emprischem Mittel
  + Mittelwert ist normal verteilt
-	 + konvergiert gegen [[Normalverteilung]]
+	 + konvergiert gegen [[Wahrscheinlichkeitsverteilungen/Normalverteilung]]
  + ![](Pasted%20image%2020221114111305.png)
  + ![](Pasted%20image%2020221114111327.png)
 

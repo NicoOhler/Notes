@@ -34,7 +34,7 @@
 + ![](Pasted%20image%2020221202232031.png)
 + beschreibt (A)Symmetrie
 	+ ![](Pasted%20image%2020221202232228.png)
-+ Normalverteilung 
++ z.B. [Normalverteilung](../../Wahrscheinlichkeitstheorie/Wahrscheinlichkeitsverteilungen/Normalverteilung.md) 
 	+ Schiefe null, somit symmetrisch
 	+ weicht die empirische Schiefe von null ab
 	+ Annahme der Normalverteilung womöglich falsch

@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "6cf9be8bcd8f3286",
+        "id": "a55a3467170b39b0",
         "type": "tabs",
         "children": [
           {
-            "id": "1fa58f64eb156649",
+            "id": "7692e6844d1d972f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psychology/Thinking, Fast and Slow.md",
+                "file": "Mathematik/Statistik/Statistik.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9fe0993e1adeebf9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathematik/Statistik/Schätzer/Schätzer.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psychology/Thinking, Fast and Slow.md",
+                "file": "Mathematik/Statistik/Schätzer/Schätzer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,8 +115,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1fa58f64eb156649",
+  "active": "9fe0993e1adeebf9",
   "lastOpenFiles": [
+    "Mathematik/Wahrscheinlichkeitstheorie/Wahrscheinlichkeitsverteilungen/Exponentialverteilung.md",
+    "Mathematik/Statistik/Schätzer/Schätzer.md",
+    "Mathematik/Statistik/Regression/Regression.md",
+    "Mathematik/Statistik/Statistik.md",
+    "Mathematik/Statistik/Computational Methods/4_CompStat_VU23-Hypothesis-Testing.pdf",
+    "Mathematik/Statistik/Empirische Datenanalyse/Univariate Daten.md",
+    "Mathematik/Statistik/Empirische Datenanalyse/Stichprobe.md",
+    "Mathematik/Statistik/Empirische Datenanalyse/Statistiken.md",
+    "Mathematik/Statistik/Empirische Datenanalyse/Multivariate Daten.md",
+    "Mathematik/Statistik/Empirische Datenanalyse/Empirische Datenanalyse.md",
+    "Mathematik/Wahrscheinlichkeitstheorie/Wahrscheinlichkeitsverteilungen/Normalverteilung.md",
+    "Mathematik/Wahrscheinlichkeitstheorie/Wahrscheinlichkeitsverteilungen/Wahrscheinlichkeitsverteilungen.md",
+    "Mathematik/Wahrscheinlichkeitstheorie/Wahrscheinlichkeitsverteilungen/Zusammenhang zwischen hypergeometrischer und Binomialverteilung.md",
+    "Mathematik/Wahrscheinlichkeitstheorie/Wahrscheinlichkeitsverteilungen/Hypergeometrische Verteilung.md",
+    "Mathematik/Wahrscheinlichkeitstheorie/Wahrscheinlichkeitsverteilungen/Multinomialverteilung.md",
+    "Mathematik/Wahrscheinlichkeitstheorie/Wahrscheinlichkeitsverteilungen/Poisson Verteilung.md",
+    "Mathematik/Statistik/Computational Methods/Sampling.pdf",
     "Psychology/Thinking, Fast and Slow.md",
     "Mathematik/Allgemeine Mathematik/Mengenlehre.md",
     "pdf/Mathematik/Allgemeine Mathematik/Mengenlehre.pdf",
@@ -118,23 +148,11 @@
     "Mathematik/Allgemeine Mathematik/Zeichensammlung.md",
     "pdf/Informatik/Data Management/Database Performance Tuning/Query Optimization/Join Ordering.pdf",
     "Untitled Folder",
-    "Psychology/Using Long Words Needlessly.md",
-    "Informatik/Information Security/Network Security.md",
-    "Mathematik/Analysis/Folgen und Reihen/Intervallschachtelung.md",
-    "Informatik/Algorithms/Algorithms and Games/Examples of Combinatorial Games.md",
     "pdf/Psychology/Using Long Words Needlessly.pdf",
     "pdf/Psychology/Thinking, Fast and Slow.pdf",
     "pdf/Psychology/Psychology.pdf",
     "pdf/Psychology",
     "pdf/Mathematik/Wahrscheinlichkeitstheorie/Zufallsvariablen/Zufallsvariable.pdf",
-    "pdf/Mathematik/Wahrscheinlichkeitstheorie/Zufallsvariablen/Wahrscheinlichkeitsfunktion PMF.pdf",
-    "pdf/Mathematik/Wahrscheinlichkeitstheorie/Zufallsvariablen/Verteilungsfunktion CDF.pdf",
-    "Biologie/Humane Genome Project.md",
-    "Biologie/Gregor Mendel.md",
-    "Biologie/Gene.md",
-    "Biologie/Allel.md",
-    "Informatik/Algorithms/Algorithms and Games/Sudoku.md",
-    "Sudoku 1.md",
     "z_images/Punnett Square.png",
     "z_images/Pasted image 20240204172651.png",
     "z_images/Pasted image 20240204172357.png",
@@ -145,10 +163,6 @@
     "z_images/Pasted image 20240119141652.png",
     "z_images/Pasted image 20240119141501.png",
     "z_images/Pasted image 20240119141203.png",
-    "Psychology/Psychology.md",
-    "Mathematik/Wahrscheinlichkeitstheorie/Momente/Erwartungswert/Erwartungswert für diskrete ZV.md",
-    "Mathematik/Wahrscheinlichkeitstheorie/Momente/Erwartungswert/Erwartungswert für allgemeine ZV.md",
-    "Mathematik/Wahrscheinlichkeitstheorie/Momente/Erwartungswert/Erwartungswert.md",
     "Informatik/Untitled.canvas",
     "Untitled.canvas"
   ]

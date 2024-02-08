@@ -19,7 +19,7 @@
 + Roulette- Setzen auf Zahl
 	+ ![](Pasted%20image%2020221030135233.png)
 	+ ![](Pasted%20image%2020221030135416.png)
-+ E(Y) [[Binomialverteilung]]
++ E(Y) [[../../Wahrscheinlichkeitsverteilungen/Binomialverteilung]]
 	+ ![](Pasted%20image%2020221030151601.png)
 	+ ![](Pasted%20image%2020221030151532.png)
 + E(Y) Gleichverteilung
