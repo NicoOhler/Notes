@@ -25,15 +25,15 @@ jobs:
              **.md
           output_renamed_files_as_deleted_and_added: true
 
-      - name: List all changed files
+      - name: List all modified files
         env:
-          ALL_CHANGED_FILES: ${{ steps.changed-files.outputs.modified_files }}
+          ALL_MODIFIED_FILE: ${{ steps.changed-files.outputs.modified_files }}
         run: |
           while IFS= read -r -d$"|" line; do
-            echo "$line" >> changed_files.txt
-          done <<< "${ALL_CHANGED_FILES}"
-          echo "$line" >> changed_files.txt
-          echo "Changed files: $(cat changed_files.txt)"
+            echo "$line" >> modified_files.txt
+          done <<< "${ALL_MODIFIED_FILE}"
+          echo "$line" >> modified_files.txt
+          echo "Modified files: $(cat modified_files.txt)"
 
       - name: Get deleted files
         id: deleted-files
@@ -80,14 +80,14 @@ jobs:
           sudo apt-get install texlive-latex-recommended
           sudo apt-get install texlive-xetex  
 
-      - name: Convert each changed MD file to PDF
+      - name: Convert each modified MD file to PDF
         run: |
           while IFS= read -r file; do
             if [[ $file == *.md ]]; then
               echo | pandoc -H "../tools/head.tex" --pdf-engine=xelatex "$file" -o "pdf/${file%.md}.pdf" -s -V fontsize=12pt -V geometry:"top=2cm, bottom=1.5cm, left=2cm, right=2cm" --resource-path="z_images"
             fi
-          done < changed_files.txt
-          rm changed_files.txt
+          done < modified_files.txt
+          rm modified_files.txt
 
       - name: Remove PDFs for deleted MD files
         run: |
