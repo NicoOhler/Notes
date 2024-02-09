@@ -43,7 +43,7 @@ jobs:
           files: |
              **.md
           output_renamed_files_as_deleted_and_added: true
-          
+
       - name: List all deleted files
         env:
           ALL_DELETED_FILES: ${{ steps.deleted-files.outputs.deleted_files }}
@@ -53,6 +53,25 @@ jobs:
           done <<< "${ALL_DELETED_FILES}"
           echo "$line" >> deleted_files.txt
           echo "Deleted files: $(cat deleted_files.txt)"
+
+      - name: Get added files
+        id: added-files
+        uses: tj-actions/changed-files@v42
+        with:
+          separator: '|'
+          files: |
+             **.md
+          output_renamed_files_as_deleted_and_added: true
+
+      - name: List all added files
+        env:
+          ALL_ADDED_FILES: ${{ steps.added-files.outputs.added_files }}
+        run: |
+          while IFS= read -r -d$"|" line; do
+            echo "$line" >> added_files.txt
+          done <<< "${ALL_ADDED_FILES}"
+          echo "$line" >> added_files.txt
+          echo "Added files: $(cat added_files.txt)"
 
       - name: Install pandoc
         run: |
@@ -74,10 +93,19 @@ jobs:
         run: |
           while IFS= read -r file; do
             if [[ $file == *.md ]]; then
-              rm "pdf/${file%.md}.pdf"
+              rm -f "pdf/${file%.md}.pdf"
             fi
           done < deleted_files.txt
           rm deleted_files.txt
+
+      - name: Convert each added MD file to PDF
+        run: |
+          while IFS= read -r file; do
+            if [[ $file == *.md ]]; then
+              echo | pandoc -H "../tools/head.tex" --pdf-engine=xelatex "$file" -o "pdf/${file%.md}.pdf" -s -V fontsize=12pt -V geometry:"top=2cm, bottom=1.5cm, left=2cm, right=2cm" --resource-path="z_images"
+            fi
+          done < added_files.txt
+          rm added_files.txt
 
       - name: Commit and push PDFs
         # This may fail if there are no changes to commit ¯\_(ツ)_/¯ 
