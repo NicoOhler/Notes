@@ -40,7 +40,7 @@ jobs:
         id: deleted-files
         uses: tj-actions/changed-files@v42
         with:
-          separator: '|'
+          separator: '='
           files: |
              **.md
           output_renamed_files_as_deleted_and_added: true
@@ -59,7 +59,7 @@ jobs:
         id: added-files
         uses: tj-actions/changed-files@v42
         with:
-          separator: '|'
+          separator: '='
           files: |
              **.md
           output_renamed_files_as_deleted_and_added: true
