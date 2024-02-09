@@ -21,16 +21,38 @@ jobs:
         uses: tj-actions/changed-files@v42
         with:
           separator: '|'
+          files: |
+             **.md
+          output_renamed_files_as_deleted_and_added: true
 
       - name: List all changed files
         env:
-          ALL_CHANGED_FILES: ${{ steps.changed-files.outputs.all_changed_files }}
+          ALL_CHANGED_FILES: ${{ steps.changed-files.outputs.modified_files }}
         run: |
           while IFS= read -r -d$"|" line; do
             echo "$line" >> changed_files.txt
           done <<< "${ALL_CHANGED_FILES}"
           echo "$line" >> changed_files.txt
           echo "Changed files: $(cat changed_files.txt)"
+
+      - name: Get deleted files
+        id: deleted-files
+        uses: tj-actions/changed-files@v42
+        with:
+          separator: '|'
+          files: |
+             **.md
+          output_renamed_files_as_deleted_and_added: true
+          
+      - name: List all deleted files
+        env:
+          ALL_DELETED_FILES: ${{ steps.deleted-files.outputs.deleted_files }}
+        run: |
+          while IFS= read -r -d$"|" line; do
+            echo "$line" >> deleted_files.txt
+          done <<< "${ALL_DELETED_FILES}"
+          echo "$line" >> deleted_files.txt
+          echo "Deleted files: $(cat deleted_files.txt)"
 
       - name: Install pandoc
         run: |
@@ -47,6 +69,15 @@ jobs:
             fi
           done < changed_files.txt
           rm changed_files.txt
+
+      - name: Remove PDFs for deleted MD files
+        run: |
+          while IFS= read -r file; do
+            if [[ $file == *.md ]]; then
+              rm "pdf/${file%.md}.pdf"
+            fi
+          done < deleted_files.txt
+          rm deleted_files.txt
 
       - name: Commit and push PDFs
         # This may fail if there are no changes to commit ¯\_(ツ)_/¯ 
