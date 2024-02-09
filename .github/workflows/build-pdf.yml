@@ -59,3 +59,5 @@ jobs:
             git push
           else
             echo "No PDFs to commit."
+          fi
+        shell: bash
