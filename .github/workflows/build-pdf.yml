@@ -99,7 +99,7 @@ jobs:
             if [[ $file == *.md ]]; then
               echo "Removing pdf/${file%.md}.pdf"
               rm -f "pdf/${file%.md}.pdf"
-              echo "$(dirname $file)""
+              echo "$(dirname $file)"
             fi
           done < deleted_files.txt
           rm deleted_files.txt
