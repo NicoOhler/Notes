@@ -29,7 +29,9 @@ jobs:
         env:
           ALL_MODIFIED_FILE: ${{ steps.changed-files.outputs.modified_files }}
         run: |
+          echo "Modified files: $(cat modified_files.txt)"
           while IFS= read -r -d$"|" line; do
+            line=$(echo $line | sed 's/\/$//')
             echo "$line" >> modified_files.txt
           done <<< "${ALL_MODIFIED_FILE}"
           echo "$line" >> modified_files.txt
@@ -48,6 +50,7 @@ jobs:
         env:
           ALL_DELETED_FILES: ${{ steps.deleted-files.outputs.deleted_files }}
         run: |
+          echo "Deleted files: $(cat deleted_files.txt)"
           while IFS= read -r -d$"|" line; do
             echo "$line" >> deleted_files.txt
           done <<< "${ALL_DELETED_FILES}"
@@ -67,7 +70,9 @@ jobs:
         env:
           ALL_ADDED_FILES: ${{ steps.added-files.outputs.added_files }}
         run: |
+          echo "Added files: $(cat added_files.txt)"
           while IFS= read -r -d$"|" line; do
+            line=$(echo $line | sed 's/\/$//')
             echo "$line" >> added_files.txt
           done <<< "${ALL_ADDED_FILES}"
           echo "$line" >> added_files.txt
@@ -85,6 +90,7 @@ jobs:
           while IFS= read -r file; do
             if [[ $file == *.md ]]; then
               echo "Converting $file to PDF"
+              mkdir -p pdf/$(dirname $file)
               echo | pandoc -H "../tools/head.tex" --pdf-engine=xelatex "$file" -o "pdf/${file%.md}.pdf" -s -V fontsize=12pt -V geometry:"top=2cm, bottom=1.5cm, left=2cm, right=2cm" --resource-path="z_images"
             fi
           done < modified_files.txt
@@ -96,6 +102,7 @@ jobs:
             if [[ $file == *.md ]]; then
               echo "Removing pdf/${file%.md}.pdf"
               rm -f "pdf/${file%.md}.pdf"
+              rmdir --ignore-fail-on-non-empty -p "pdf/$(dirname $file)"
             fi
           done < deleted_files.txt
           rm deleted_files.txt
@@ -105,6 +112,7 @@ jobs:
           while IFS= read -r file; do
             if [[ $file == *.md ]]; then
               echo "Converting $file to PDF"
+              mkdir -p pdf/$(dirname $file)
               echo | pandoc -H "../tools/head.tex" --pdf-engine=xelatex "$file" -o "pdf/${file%.md}.pdf" -s -V fontsize=12pt -V geometry:"top=2cm, bottom=1.5cm, left=2cm, right=2cm" --resource-path="z_images"
             fi
           done < added_files.txt
