@@ -20,7 +20,7 @@ jobs:
         id: changed-files
         uses: tj-actions/changed-files@v42
         with:
-          separator: '|'
+          separator: '='
           files: |
              **.md
           output_renamed_files_as_deleted_and_added: true
@@ -29,9 +29,8 @@ jobs:
         env:
           ALL_MODIFIED_FILE: ${{ steps.changed-files.outputs.modified_files }}
         run: |
-          echo "Modified files: $(cat modified_files.txt)"
-          while IFS= read -r -d$"|" line; do
-            line=$(echo $line | sed 's/\/$//')
+          while IFS= read -r -d$"=" line; do
+            line=$(echo $line | sed 's/=//')
             echo "$line" >> modified_files.txt
           done <<< "${ALL_MODIFIED_FILE}"
           echo "$line" >> modified_files.txt
@@ -50,8 +49,7 @@ jobs:
         env:
           ALL_DELETED_FILES: ${{ steps.deleted-files.outputs.deleted_files }}
         run: |
-          echo "Deleted files: $(cat deleted_files.txt)"
-          while IFS= read -r -d$"|" line; do
+          while IFS= read -r -d$"=" line; do
             echo "$line" >> deleted_files.txt
           done <<< "${ALL_DELETED_FILES}"
           echo "$line" >> deleted_files.txt
@@ -70,9 +68,8 @@ jobs:
         env:
           ALL_ADDED_FILES: ${{ steps.added-files.outputs.added_files }}
         run: |
-          echo "Added files: $(cat added_files.txt)"
-          while IFS= read -r -d$"|" line; do
-            line=$(echo $line | sed 's/\/$//')
+          while IFS= read -r -d$"=" line; do
+            line=$(echo $line | sed 's/=//')
             echo "$line" >> added_files.txt
           done <<< "${ALL_ADDED_FILES}"
           echo "$line" >> added_files.txt
