@@ -99,6 +99,7 @@ jobs:
             if [[ $file == *.md ]]; then
               echo "Removing pdf/${file%.md}.pdf"
               rm -f "pdf/${file%.md}.pdf"
+              echo "$(dirname $file)""
             fi
           done < deleted_files.txt
           rm deleted_files.txt
@@ -115,7 +116,6 @@ jobs:
           rm added_files.txt
 
       - name: Commit and push PDFs
-        # This may fail if there are no changes to commit ¯\_(ツ)_/¯ 
         run: |
           if [ -n "$(git status --porcelain pdf/**/*)" ]; then
             git config --global user.email "actions@github.com"
