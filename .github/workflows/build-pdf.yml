@@ -51,8 +51,11 @@ jobs:
       - name: Commit and push PDFs
         # This may fail if there are no changes to commit ¯\_(ツ)_/¯ 
         run: |
-          git config --global user.email "actions@github.com"
-          git config --global user.name "GitHub Actions"
-          git add pdf/*.pdf
-          git commit -m "Add generated PDFs"
-          git push
+          if [ -n "$(git status --porcelain pdf/*.pdf)" ]; then
+            git config --global user.email "actions@github.com"
+            git config --global user.name "GitHub Actions"
+            git add pdf/*.pdf
+            git commit -m "Add generated PDFs"
+            git push
+          else
+            echo "No PDFs to commit."
