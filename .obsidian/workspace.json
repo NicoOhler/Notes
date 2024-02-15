@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "a55a3467170b39b0",
+        "id": "ac2abe474ce30fb1",
         "type": "tabs",
         "children": [
           {
-            "id": "7692e6844d1d972f",
+            "id": "a85a561ba5ff3ca5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematik/Statistik/Statistik.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9fe0993e1adeebf9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematik/Wahrscheinlichkeitstheorie/Wahrscheinlichkeitsverteilungen/Normalverteilung.md",
+                "file": "Mathematik/Analysis/Integralrechnung/Bestimmte Integrale.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematik/Wahrscheinlichkeitstheorie/Wahrscheinlichkeitsverteilungen/Normalverteilung.md",
+                "file": "Mathematik/Analysis/Integralrechnung/Bestimmte Integrale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,10 +102,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9fe0993e1adeebf9",
+  "active": "a85a561ba5ff3ca5",
   "lastOpenFiles": [
-    "Mathematik/Wahrscheinlichkeitstheorie/Wahrscheinlichkeitstheorie.md",
     "Mathematik/Wahrscheinlichkeitstheorie/Wahrscheinlichkeitsverteilungen/Normalverteilung.md",
+    "Mathematik/Wahrscheinlichkeitstheorie/Wahrscheinlichkeitstheorie.md",
     "Mathematik/Statistik/Schätzer/Konfidenzintervall/Konfidenzintervall.md",
     "Mathematik/Statistik/Schätzer/MLE under Normality Assumption.md",
     "Mathematik/Statistik/Schätzer/Mean Squared Error.md",

@@ -37,7 +37,7 @@
 	+ Sei f:\[a,b] --> ℝ stetig
 		+ $∃α∈[a,b]: \int_a^bf(x)dx=f(α)(b-a)$
 	+ MWS
-		+ Integralwert liegt zwischenMinimum und Maximum
+		+ Integralwert liegt zwischen Minimum und Maximum
 		+ Laut MWS: jeder Wert zwischen Minimum und Maximum wird angenommen
 
 ### Eigenschaften
