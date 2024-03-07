@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematik/Analysis/Integralrechnung/Bestimmte Integrale.md",
+                "file": "Informatik/Computer Vision/Introduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematik/Analysis/Integralrechnung/Bestimmte Integrale.md",
+                "file": "Informatik/Computer Vision/Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,6 +104,9 @@
   },
   "active": "a85a561ba5ff3ca5",
   "lastOpenFiles": [
+    "Mathematik/Analysis/Integralrechnung/Bestimmte Integrale.md",
+    "Informatik/Computer Vision/Introduction.md",
+    "Informatik/Computer Vision",
     "Mathematik/Wahrscheinlichkeitstheorie/Wahrscheinlichkeitsverteilungen/Normalverteilung.md",
     "Mathematik/Wahrscheinlichkeitstheorie/Wahrscheinlichkeitstheorie.md",
     "Mathematik/Statistik/Schätzer/Konfidenzintervall/Konfidenzintervall.md",
@@ -131,15 +134,12 @@
     "pdf/Mathematik/Allgemeine Mathematik/Mengenlehre.pdf",
     "Mathematik/Allgemeine Mathematik/Untitled.md",
     "Mathematik/Statistik/Hypothesentests/Zweistichproben-t-Test.md",
-    "Informatik/Data Management/Data Management.md",
-    "Mathematik/NRLA/Lineare Abbildungen/Lineare Abbildungen.md",
     "pdf/Informatik/Data Management/Database Performance Tuning/Query Optimization/Join Ordering.pdf",
     "Untitled Folder",
     "pdf/Psychology/Using Long Words Needlessly.pdf",
     "pdf/Psychology/Thinking, Fast and Slow.pdf",
     "pdf/Psychology/Psychology.pdf",
     "pdf/Psychology",
-    "pdf/Mathematik/Wahrscheinlichkeitstheorie/Zufallsvariablen/Zufallsvariable.pdf",
     "z_images/Punnett Square.png",
     "z_images/Pasted image 20240204172651.png",
     "z_images/Pasted image 20240204172357.png",
