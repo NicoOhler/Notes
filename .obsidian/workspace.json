@@ -13,19 +13,21 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematik/Analysis/Integralrechnung/Bestimmte Integrale.md",
+                "file": "Informatik/Algorithms/Datenstrukturen und Algorithmen/Datenstrukturen/Datenstrukturen.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0f58855b8c1145fc",
+            "id": "b296a6a3dee4e734",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.8"
+                "file": "Informatik/Algorithms/Datenstrukturen und Algorithmen/Datenstrukturen/Union Find.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -59,8 +61,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "http",
-                "matchingCase": true,
+                "query": "union",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -68,7 +70,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -88,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematik/Analysis/Integralrechnung/Bestimmte Integrale.md",
+                "file": "Informatik/Algorithms/Datenstrukturen und Algorithmen/Datenstrukturen/Union Find.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,10 +116,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0f58855b8c1145fc",
+  "active": "b296a6a3dee4e734",
   "lastOpenFiles": [
-    "Informatik/Computer Vision/Introduction.md",
+    "Informatik/Algorithms/Datenstrukturen und Algorithmen/Datenstrukturen/Datenstrukturen.md",
     "Mathematik/Analysis/Integralrechnung/Bestimmte Integrale.md",
+    "Informatik/Computer Vision/Introduction.md",
     "Informatik/Computer Vision",
     "Mathematik/Wahrscheinlichkeitstheorie/Wahrscheinlichkeitsverteilungen/Normalverteilung.md",
     "Mathematik/Wahrscheinlichkeitstheorie/Wahrscheinlichkeitstheorie.md",
@@ -144,7 +148,6 @@
     "Mathematik/Allgemeine Mathematik/Mengenlehre.md",
     "pdf/Mathematik/Allgemeine Mathematik/Mengenlehre.pdf",
     "Mathematik/Allgemeine Mathematik/Untitled.md",
-    "Mathematik/Statistik/Hypothesentests/Zweistichproben-t-Test.md",
     "pdf/Informatik/Data Management/Database Performance Tuning/Query Optimization/Join Ordering.pdf",
     "Untitled Folder",
     "pdf/Psychology/Using Long Words Needlessly.pdf",
