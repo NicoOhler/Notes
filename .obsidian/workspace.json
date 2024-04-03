@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Computer Vision/Introduction.md",
+                "file": "Mathematik/Analysis/Integralrechnung/Bestimmte Integrale.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "0f58855b8c1145fc",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Computer Vision/Introduction.md",
+                "file": "Mathematik/Analysis/Integralrechnung/Bestimmte Integrale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,10 +113,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a85a561ba5ff3ca5",
+  "active": "0f58855b8c1145fc",
   "lastOpenFiles": [
-    "Mathematik/Analysis/Integralrechnung/Bestimmte Integrale.md",
     "Informatik/Computer Vision/Introduction.md",
+    "Mathematik/Analysis/Integralrechnung/Bestimmte Integrale.md",
     "Informatik/Computer Vision",
     "Mathematik/Wahrscheinlichkeitstheorie/Wahrscheinlichkeitsverteilungen/Normalverteilung.md",
     "Mathematik/Wahrscheinlichkeitstheorie/Wahrscheinlichkeitstheorie.md",
