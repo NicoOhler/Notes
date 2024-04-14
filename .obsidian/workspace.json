@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Algorithms/Datenstrukturen und Algorithmen/Datenstrukturen/Union Find.md",
+                "file": "Informatik/Algorithms/Datenstrukturen und Algorithmen/Various Algorithms/Maximum Subarray Sum.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,8 +70,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -91,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Algorithms/Datenstrukturen und Algorithmen/Datenstrukturen/Union Find.md",
+                "file": "Informatik/Algorithms/Datenstrukturen und Algorithmen/Various Algorithms/Maximum Subarray Sum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +117,7 @@
   },
   "active": "b296a6a3dee4e734",
   "lastOpenFiles": [
+    "Informatik/Algorithms/Datenstrukturen und Algorithmen/Datenstrukturen/Union Find.md",
     "Informatik/Algorithms/Datenstrukturen und Algorithmen/Datenstrukturen/Datenstrukturen.md",
     "Mathematik/Analysis/Integralrechnung/Bestimmte Integrale.md",
     "Informatik/Computer Vision/Introduction.md",
@@ -147,7 +147,6 @@
     "Psychology/Thinking, Fast and Slow.md",
     "Mathematik/Allgemeine Mathematik/Mengenlehre.md",
     "pdf/Mathematik/Allgemeine Mathematik/Mengenlehre.pdf",
-    "Mathematik/Allgemeine Mathematik/Untitled.md",
     "pdf/Informatik/Data Management/Database Performance Tuning/Query Optimization/Join Ordering.pdf",
     "Untitled Folder",
     "pdf/Psychology/Using Long Words Needlessly.pdf",
