@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Algorithms/Datenstrukturen und Algorithmen/Datenstrukturen/Heap.md",
+                "file": "Informatik/Algorithms/Design and Analysis of Algorithms/Minimum Spanning Tree.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "18475486ad92bbfc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Informatik/Algorithms/Datenstrukturen und Algorithmen/Datenstrukturen/Union Find.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "union",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Algorithms/Datenstrukturen und Algorithmen/Datenstrukturen/Heap.md",
+                "file": "Informatik/Algorithms/Datenstrukturen und Algorithmen/Datenstrukturen/Union Find.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,8 +116,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a85a561ba5ff3ca5",
+  "active": "18475486ad92bbfc",
   "lastOpenFiles": [
+    "Informatik/Algorithms/Design and Analysis of Algorithms/Minimum Spanning Tree.md",
+    "Informatik/Algorithms/Design and Analysis of Algorithms/slides/2021-10-25-Minimum-Spanning-Trees.pdf",
+    "Informatik/Algorithms/Design and Analysis of Algorithms/Shortest Path Algorithms/Shortest Path Algorithms.md",
+    "Informatik/Algorithms/Design and Analysis of Algorithms/Shortest Path Algorithms/Floyd-Warshall Algorithm.md",
+    "Informatik/Algorithms/Design and Analysis of Algorithms/Shortest Path Algorithms/Dijkstra’s Algorithm.md",
+    "Informatik/Algorithms/Design and Analysis of Algorithms/Shortest Path Algorithms/A-Star Algorithm.md",
+    "Informatik/Algorithms/Datenstrukturen und Algorithmen/Datenstrukturen/Heap.md",
     "Informatik/Algorithms/Datenstrukturen und Algorithmen/Datenstrukturen/Datenstrukturen.md",
     "Informatik/Algorithms/Datenstrukturen und Algorithmen/Various Algorithms/Maximum Subarray Sum.md",
     "Informatik/Algorithms/Datenstrukturen und Algorithmen/Datenstrukturen/Union Find.md",
@@ -127,20 +147,13 @@
     "Mathematik/Statistik/Empirische Datenanalyse/Statistiken.md",
     "Mathematik/Statistik/Empirische Datenanalyse/Multivariate Daten.md",
     "Mathematik/Statistik/Empirische Datenanalyse/Empirische Datenanalyse.md",
-    "Mathematik/Wahrscheinlichkeitstheorie/Wahrscheinlichkeitsverteilungen/Wahrscheinlichkeitsverteilungen.md",
-    "Mathematik/Wahrscheinlichkeitstheorie/Wahrscheinlichkeitsverteilungen/Zusammenhang zwischen hypergeometrischer und Binomialverteilung.md",
-    "Mathematik/Wahrscheinlichkeitstheorie/Wahrscheinlichkeitsverteilungen/Hypergeometrische Verteilung.md",
-    "Mathematik/Wahrscheinlichkeitstheorie/Wahrscheinlichkeitsverteilungen/Multinomialverteilung.md",
-    "Mathematik/Wahrscheinlichkeitstheorie/Wahrscheinlichkeitsverteilungen/Poisson Verteilung.md",
     "Mathematik/Statistik/Computational Methods/Sampling.pdf",
-    "Psychology/Thinking, Fast and Slow.md",
     "pdf/Mathematik/Allgemeine Mathematik/Mengenlehre.pdf",
     "pdf/Informatik/Data Management/Database Performance Tuning/Query Optimization/Join Ordering.pdf",
     "Untitled Folder",
     "pdf/Psychology/Using Long Words Needlessly.pdf",
     "pdf/Psychology/Thinking, Fast and Slow.pdf",
     "pdf/Psychology/Psychology.pdf",
-    "pdf/Psychology",
     "z_images/Punnett Square.png",
     "z_images/Pasted image 20240204172651.png",
     "z_images/Pasted image 20240204172357.png",
