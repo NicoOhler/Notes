@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -91,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Algorithms/Datenstrukturen und Algorithmen/Datenstrukturen/Union Find.md",
+                "file": "Informatik/Algorithms/Design and Analysis of Algorithms/Minimum Spanning Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,8 +115,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "18475486ad92bbfc",
+  "active": "a85a561ba5ff3ca5",
   "lastOpenFiles": [
+    "Informatik/Algorithms/Datenstrukturen und Algorithmen/Datenstrukturen/Union Find.md",
     "Informatik/Algorithms/Design and Analysis of Algorithms/Minimum Spanning Tree.md",
     "Informatik/Algorithms/Design and Analysis of Algorithms/slides/2021-10-25-Minimum-Spanning-Trees.pdf",
     "Informatik/Algorithms/Design and Analysis of Algorithms/Shortest Path Algorithms/Shortest Path Algorithms.md",
@@ -127,7 +127,6 @@
     "Informatik/Algorithms/Datenstrukturen und Algorithmen/Datenstrukturen/Heap.md",
     "Informatik/Algorithms/Datenstrukturen und Algorithmen/Datenstrukturen/Datenstrukturen.md",
     "Informatik/Algorithms/Datenstrukturen und Algorithmen/Various Algorithms/Maximum Subarray Sum.md",
-    "Informatik/Algorithms/Datenstrukturen und Algorithmen/Datenstrukturen/Union Find.md",
     "Mathematik/Analysis/Integralrechnung/Bestimmte Integrale.md",
     "Informatik/Computer Vision/Introduction.md",
     "Informatik/Computer Vision",
