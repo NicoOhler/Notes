@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Algorithms/Design and Analysis of Algorithms/Minimum Spanning Tree.md",
+                "file": "Informatik/Algorithms/Design and Analysis of Algorithms/Shortest Path Algorithms/Dijkstra’s Algorithm.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "bell",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Algorithms/Design and Analysis of Algorithms/Minimum Spanning Tree.md",
+                "file": "Informatik/Algorithms/Design and Analysis of Algorithms/Shortest Path Algorithms/Dijkstra’s Algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,8 +117,8 @@
   },
   "active": "a85a561ba5ff3ca5",
   "lastOpenFiles": [
-    "Informatik/Algorithms/Datenstrukturen und Algorithmen/Datenstrukturen/Union Find.md",
     "Informatik/Algorithms/Design and Analysis of Algorithms/Minimum Spanning Tree.md",
+    "Informatik/Algorithms/Datenstrukturen und Algorithmen/Datenstrukturen/Union Find.md",
     "Informatik/Algorithms/Design and Analysis of Algorithms/slides/2021-10-25-Minimum-Spanning-Trees.pdf",
     "Informatik/Algorithms/Design and Analysis of Algorithms/Shortest Path Algorithms/Shortest Path Algorithms.md",
     "Informatik/Algorithms/Design and Analysis of Algorithms/Shortest Path Algorithms/Floyd-Warshall Algorithm.md",
