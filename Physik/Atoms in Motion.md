@@ -26,7 +26,8 @@
 	+ above boiling point => "average" molecular movement greater than pull from other molecules => way more molecules fly away
 	+ reaches an equilibrium in a closed vessel
 		+ "vapor" molecules cannot properly fly away and bounce off the wall back to the liquid water molecules 
-	+ open vessel + dry air => less  
+	+ open vessel + dry air => less water molecules fly back into the water => wind near surface increases drying speed 
+		+ those with most energy leave => water cools off
 
 ### Pressure
 + molecules bouncing in a vessel
@@ -49,5 +50,8 @@
 	+ only known substance
 	+ unless outwards pressure is also applied to make it solid
 
-### Atomic Processes
-+ 
+### Ions
++ atom with extra or too few electrons
++ e.g. salt in water
+	+ crystal groups are not fixed
+	+ 
