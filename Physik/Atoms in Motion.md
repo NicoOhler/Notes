@@ -61,4 +61,7 @@
 ### Chemical Reactions
 + atoms like certain patterns
 	+ remember chemists only have to count to 8
-+ 
++ e.g. carbon and oxide
+	+ carbon "really wants" oxide => enormous pull
+		+ more than oxide and oxide or carbon and carbon  
+	+ little energy required for carbon to connect with oxide  
