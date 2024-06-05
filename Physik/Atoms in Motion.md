@@ -17,8 +17,10 @@
 		+ rotating one atom also rotates any connected atoms
 		+ shrinks/expands depending on crystalline structure
 			+ water and metals shrink
-				+ 
+				+ open crystal structure has holes which collapses
 			+ most substances expand
+				+ closely packed in solid crystal
+				+ melting => need more room to jiggle around
 + pressure
 	+ molecules bouncing in a vessel
 	+ keep knocking on the outer bounds
@@ -30,3 +32,8 @@
 	+ imagine a piston pushing inward a closed vessel
 	+ piston wall is like a ping pong paddle hitting the molecules and increasing their speed => hotter
 	+ expansion => colder
++ absolute zero
+	+ temperature with minimum amount of vibration
+	+ but not zero
+	+ Helium does not freeze at abo
+		+ 
