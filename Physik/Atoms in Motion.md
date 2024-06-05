@@ -12,6 +12,13 @@
 	+ high temperature => more movement => molecules fly away => steam
 		+ single molecules are knocked too far away such that the pull of the other molecules is no longer strong enough
 		+ steam are water molecules spread far apart
+	+ low temperature => less movement => molecules glued/locked => ice
+		+ every atom has a definite place
+		+ rotating one atom also rotates any connected atoms
+		+ shrinks/expands depending on crystalline structure
+			+ water and metals shrink
+				+ 
+			+ most substances expand
 + pressure
 	+ molecules bouncing in a vessel
 	+ keep knocking on the outer bounds
@@ -19,7 +26,7 @@
 		+ double density => twice as many molecules bouncing against wall => double force needed
 		+ double speed => molecules hit harder + more often => more pressure
 		+ $pressure = force * area$
-+ compression and expansion of gas
++ compression
 	+ imagine a piston pushing inward a closed vessel
-	+ piston wall is like a ping pong paddle hitting the molecules and increasing their speed => more heat
-	+ inverse 
+	+ piston wall is like a ping pong paddle hitting the molecules and increasing their speed => hotter
+	+ expansion => colder
