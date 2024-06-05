@@ -21,19 +21,30 @@
 			+ most substances expand
 				+ closely packed in solid crystal
 				+ melting => need more room to jiggle around
-+ pressure
-	+ molecules bouncing in a vessel
-	+ keep knocking on the outer bounds
-	+ requires an outer counter force 
-		+ double density => twice as many molecules bouncing against wall => double force needed
-		+ double speed => molecules hit harder + more often => more pressure
-		+ $pressure = force * area$
-+ compression
-	+ imagine a piston pushing inward a closed vessel
-	+ piston wall is like a ping pong paddle hitting the molecules and increasing their speed => hotter
-	+ expansion => colder
-+ absolute zero
-	+ temperature with minimum amount of vibration
-	+ but not zero
-	+ Helium does not freeze at abo
-		+ 
++ some water molecules fly away, some "outsiders" merge with others
+	+ ratio between incoming and outgoing determines whether it evaporates or condenses
+	+ reaches an q
+
+### Pressure
++ molecules bouncing in a vessel
++ keep knocking on the outer bounds
++ requires an outer counter force 
+	+ double density => twice as many molecules bouncing against wall => double force needed
+	+ double speed => molecules hit harder + more often => more pressure
+	+ $pressure = force * area$
+
+
+### Compression
++ imagine a piston pushing inward a closed vessel
++ piston wall is like a ping pong paddle hitting the molecules and increasing their speed => hotter
++ expansion => colder
+
+### Absolute Zero
++ temperature with minimum amount of vibration
++ but not zero
++ Helium does not freeze at absolute zero
+	+ only known substance
+	+ unless outwards pressure is also applied to make it solid
+
+### Atomic Processes
++ 
