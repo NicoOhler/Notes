@@ -16,7 +16,10 @@
 	+ molecules bouncing in a vessel
 	+ keep knocking on the outer bounds
 	+ requires an outer counter force 
-		+ twice the amount of molecules bouncing against the wall
-		+ twice the amount of counter force needed
+		+ double density => twice as many molecules bouncing against wall => double force needed
+		+ double speed => molecules hit harder + more often => more pressure
 		+ $pressure = force * area$
-	+ twice as many molecules => double density => ~double collisions
++ compression and expansion of gas
+	+ imagine a piston pushing inward a closed vessel
+	+ piston wall is like a ping pong paddle hitting the molecules and increasing their speed => more heat
+	+ inverse 
