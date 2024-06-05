@@ -54,4 +54,11 @@
 + atom with extra or too few electrons
 + e.g. salt in water
 	+ crystal groups are not fixed
-	+ 
+	+ salt and water exchange atoms
+		+ salt dissolves or crystallizes
+		+ depends on ratio of incoming/outgoing atoms and which
+
+### Chemical Reactions
++ atoms like certain patterns
+	+ remember chemists only have to count to 8
++ 
