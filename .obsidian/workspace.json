@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Algorithms/Design and Analysis of Algorithms/Shortest Path Algorithms/Dijkstra’s Algorithm.md",
+                "file": "Physik/Atoms in Motion.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -90,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Algorithms/Design and Analysis of Algorithms/Shortest Path Algorithms/Dijkstra’s Algorithm.md",
+                "file": "Physik/Atoms in Motion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,12 +116,14 @@
   },
   "active": "a85a561ba5ff3ca5",
   "lastOpenFiles": [
+    "Informatik/Algorithms/Design and Analysis of Algorithms/Shortest Path Algorithms/Dijkstra’s Algorithm.md",
+    "Physik/Atoms in Motion.md",
+    "Physik",
     "Informatik/Algorithms/Design and Analysis of Algorithms/Minimum Spanning Tree.md",
     "Informatik/Algorithms/Datenstrukturen und Algorithmen/Datenstrukturen/Union Find.md",
     "Informatik/Algorithms/Design and Analysis of Algorithms/slides/2021-10-25-Minimum-Spanning-Trees.pdf",
     "Informatik/Algorithms/Design and Analysis of Algorithms/Shortest Path Algorithms/Shortest Path Algorithms.md",
     "Informatik/Algorithms/Design and Analysis of Algorithms/Shortest Path Algorithms/Floyd-Warshall Algorithm.md",
-    "Informatik/Algorithms/Design and Analysis of Algorithms/Shortest Path Algorithms/Dijkstra’s Algorithm.md",
     "Informatik/Algorithms/Design and Analysis of Algorithms/Shortest Path Algorithms/A-Star Algorithm.md",
     "Informatik/Algorithms/Datenstrukturen und Algorithmen/Datenstrukturen/Heap.md",
     "Informatik/Algorithms/Datenstrukturen und Algorithmen/Datenstrukturen/Datenstrukturen.md",
@@ -145,14 +146,12 @@
     "Mathematik/Statistik/Empirische Datenanalyse/Stichprobe.md",
     "Mathematik/Statistik/Empirische Datenanalyse/Statistiken.md",
     "Mathematik/Statistik/Empirische Datenanalyse/Multivariate Daten.md",
-    "Mathematik/Statistik/Empirische Datenanalyse/Empirische Datenanalyse.md",
     "Mathematik/Statistik/Computational Methods/Sampling.pdf",
     "pdf/Mathematik/Allgemeine Mathematik/Mengenlehre.pdf",
     "pdf/Informatik/Data Management/Database Performance Tuning/Query Optimization/Join Ordering.pdf",
     "Untitled Folder",
     "pdf/Psychology/Using Long Words Needlessly.pdf",
     "pdf/Psychology/Thinking, Fast and Slow.pdf",
-    "pdf/Psychology/Psychology.pdf",
     "z_images/Punnett Square.png",
     "z_images/Pasted image 20240204172651.png",
     "z_images/Pasted image 20240204172357.png",
