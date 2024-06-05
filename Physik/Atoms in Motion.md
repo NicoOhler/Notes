@@ -23,7 +23,10 @@
 				+ melting => need more room to jiggle around
 + some water molecules fly away, some "outsiders" merge with others
 	+ ratio between incoming and outgoing determines whether it evaporates or condenses
-	+ reaches an q
+	+ above boiling point => "average" molecular movement greater than pull from other molecules => way more molecules fly away
+	+ reaches an equilibrium in a closed vessel
+		+ "vapor" molecules cannot properly fly away and bounce off the wall back to the liquid water molecules 
+	+ open vessel + dry air => less  
 
 ### Pressure
 + molecules bouncing in a vessel
