@@ -12,6 +12,11 @@
 	+ high temperature => more movement => molecules fly away => steam
 		+ single molecules are knocked too far away such that the pull of the other molecules is no longer strong enough
 		+ steam are water molecules spread far apart
-	+ 
-	+ 
-	+ 
++ pressure
+	+ molecules bouncing in a vessel
+	+ keep knocking on the outer bounds
+	+ requires an outer counter force 
+		+ twice the amount of molecules bouncing against the wall
+		+ twice the amount of counter force needed
+		+ $pressure = force * area$
+	+ twice as many molecules => double density => ~double collisions
