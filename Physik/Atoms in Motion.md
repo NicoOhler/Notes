@@ -64,4 +64,8 @@
 + e.g. carbon and oxide
 	+ carbon "really wants" oxide => enormous pull
 		+ more than oxide and oxide or carbon and carbon  
-	+ little energy required for carbon to connect with oxide  
+	+ little energy required for carbon to connect with oxide => clash against each other => lots of kinetic energy => heat or even light (flames)
+
+### Naming of Atom Arrangements
++ many complicated arrangements with different effects
++ naming scheme based on 
