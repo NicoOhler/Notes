@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physik/Atoms in Motion.md",
+                "file": "Informatik/OOP2.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "40206bb3cc790740",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physik/Atoms in Motion.md",
+                "file": "Informatik/OOP2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,14 +113,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a85a561ba5ff3ca5",
+  "active": "40206bb3cc790740",
   "lastOpenFiles": [
+    "Physik/Untitled.md",
+    "Informatik/OOP2.md",
     "Physik/Atoms in Motion.md",
+    "Informatik/Machine Learning/ML1/lecture13.pdf",
+    "Informatik/Machine Learning/ML1/lecture12.pdf",
+    "Informatik/Machine Learning/ML1/lecture11.pdf",
+    "Informatik/Machine Learning/ML1/lecture10.pdf",
+    "Informatik/Machine Learning/ML1/lecture09.pdf",
+    "Informatik/Machine Learning/ML1/lecture08.pdf",
+    "Informatik/Machine Learning/ML1/lecture07.pdf",
+    "Informatik/Machine Learning/ML1/lecture06.pdf",
+    "Informatik/Machine Learning/ML1/lecture05.pdf",
+    "Informatik/Machine Learning/ML1/lecture04.pdf",
     "Informatik/Algorithms/Datenstrukturen und Algorithmen/Datenstrukturen/Union Find.md",
     "Informatik/Algorithms/Design and Analysis of Algorithms/Shortest Path Algorithms/Dijkstra’s Algorithm.md",
-    "Physik",
     "Informatik/Algorithms/Design and Analysis of Algorithms/Minimum Spanning Tree.md",
-    "Informatik/Algorithms/Design and Analysis of Algorithms/slides/2021-10-25-Minimum-Spanning-Trees.pdf",
     "Informatik/Algorithms/Design and Analysis of Algorithms/Shortest Path Algorithms/Shortest Path Algorithms.md",
     "Informatik/Algorithms/Design and Analysis of Algorithms/Shortest Path Algorithms/Floyd-Warshall Algorithm.md",
     "Informatik/Algorithms/Design and Analysis of Algorithms/Shortest Path Algorithms/A-Star Algorithm.md",
@@ -118,7 +139,6 @@
     "Informatik/Algorithms/Datenstrukturen und Algorithmen/Various Algorithms/Maximum Subarray Sum.md",
     "Mathematik/Analysis/Integralrechnung/Bestimmte Integrale.md",
     "Informatik/Computer Vision/Introduction.md",
-    "Informatik/Computer Vision",
     "Mathematik/Wahrscheinlichkeitstheorie/Wahrscheinlichkeitsverteilungen/Normalverteilung.md",
     "Mathematik/Wahrscheinlichkeitstheorie/Wahrscheinlichkeitstheorie.md",
     "Mathematik/Statistik/Schätzer/Konfidenzintervall/Konfidenzintervall.md",
@@ -129,17 +149,8 @@
     "Mathematik/Wahrscheinlichkeitstheorie/Wahrscheinlichkeitsverteilungen/Exponentialverteilung.md",
     "Mathematik/Statistik/Regression/Regression.md",
     "Mathematik/Statistik/Statistik.md",
-    "Mathematik/Statistik/Computational Methods/4_CompStat_VU23-Hypothesis-Testing.pdf",
     "Mathematik/Statistik/Empirische Datenanalyse/Univariate Daten.md",
     "Mathematik/Statistik/Empirische Datenanalyse/Stichprobe.md",
-    "Mathematik/Statistik/Empirische Datenanalyse/Statistiken.md",
-    "Mathematik/Statistik/Empirische Datenanalyse/Multivariate Daten.md",
-    "Mathematik/Statistik/Computational Methods/Sampling.pdf",
-    "pdf/Mathematik/Allgemeine Mathematik/Mengenlehre.pdf",
-    "pdf/Informatik/Data Management/Database Performance Tuning/Query Optimization/Join Ordering.pdf",
-    "Untitled Folder",
-    "pdf/Psychology/Using Long Words Needlessly.pdf",
-    "pdf/Psychology/Thinking, Fast and Slow.pdf",
     "z_images/Punnett Square.png",
     "z_images/Pasted image 20240204172651.png",
     "z_images/Pasted image 20240204172357.png",
