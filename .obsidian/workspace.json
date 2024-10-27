@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/OOP2.md",
+                "file": "Informatik/Data Science and AI/Intelligence.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "40206bb3cc790740",
+            "id": "7b82cb3e824e1040",
             "type": "leaf",
             "state": {
               "type": "release-notes",
               "state": {
-                "currentVersion": "1.6.3"
+                "currentVersion": "1.6.5"
               }
             }
           }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/OOP2.md",
+                "file": "Informatik/Data Science and AI/Intelligence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,8 +113,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "40206bb3cc790740",
+  "active": "7b82cb3e824e1040",
   "lastOpenFiles": [
+    "Informatik/Data Science and AI/Data Science and AI.md",
+    "Informatik/Data Science and AI/Machine Learning/Perceptron.md",
+    "Informatik/Data Science and AI/Machine Learning/Machine Learning.md",
+    "Informatik/Data Science and AI/Machine Learning/Correlation.md",
+    "Informatik/Data Science and AI/Machine Learning/Classification.md",
+    "Informatik/Data Science and AI/Machine Learning/Artificial Neural Networks.md",
     "Physik/Untitled.md",
     "Informatik/OOP2.md",
     "Physik/Atoms in Motion.md",
@@ -145,12 +151,6 @@
     "Mathematik/Statistik/Schätzer/MLE under Normality Assumption.md",
     "Mathematik/Statistik/Schätzer/Mean Squared Error.md",
     "Mathematik/Statistik/Schätzer/Maximum-Likelihood-Schätzer.md",
-    "Mathematik/Statistik/Schätzer/Schätzer.md",
-    "Mathematik/Wahrscheinlichkeitstheorie/Wahrscheinlichkeitsverteilungen/Exponentialverteilung.md",
-    "Mathematik/Statistik/Regression/Regression.md",
-    "Mathematik/Statistik/Statistik.md",
-    "Mathematik/Statistik/Empirische Datenanalyse/Univariate Daten.md",
-    "Mathematik/Statistik/Empirische Datenanalyse/Stichprobe.md",
     "z_images/Punnett Square.png",
     "z_images/Pasted image 20240204172651.png",
     "z_images/Pasted image 20240204172357.png",
