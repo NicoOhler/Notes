@@ -59,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bell",
+                "query": "zeichensamm",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -88,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Data Science and AI/Intelligence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +115,7 @@
   },
   "active": "7b82cb3e824e1040",
   "lastOpenFiles": [
+    "Mathematik/Allgemeine Mathematik/Zeichensammlung.md",
     "Informatik/Data Science and AI/Data Science and AI.md",
     "Informatik/Data Science and AI/Machine Learning/Perceptron.md",
     "Informatik/Data Science and AI/Machine Learning/Machine Learning.md",
@@ -150,7 +151,6 @@
     "Mathematik/Statistik/Schätzer/Konfidenzintervall/Konfidenzintervall.md",
     "Mathematik/Statistik/Schätzer/MLE under Normality Assumption.md",
     "Mathematik/Statistik/Schätzer/Mean Squared Error.md",
-    "Mathematik/Statistik/Schätzer/Maximum-Likelihood-Schätzer.md",
     "z_images/Punnett Square.png",
     "z_images/Pasted image 20240204172651.png",
     "z_images/Pasted image 20240204172357.png",
