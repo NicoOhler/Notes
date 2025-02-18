@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Science, Technology and Society/Actor-Network Theory.md",
+                "file": "Science, Technology and Society/Technology Assessment.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Actor-Network Theory"
+              "title": "Technology Assessment"
             }
           }
         ]
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Science, Technology and Society/Actor-Network Theory.md",
+                "file": "Science, Technology and Society/Technology Assessment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Actor-Network Theory"
+              "title": "Backlinks for Technology Assessment"
             }
           }
         ]
@@ -112,9 +112,11 @@
   },
   "active": "3756ea34c5bc5a0a",
   "lastOpenFiles": [
+    "Science, Technology and Society/Resistance to Science & Technology.md",
+    "Science, Technology and Society/Technology Assessment.md",
+    "Science, Technology and Society/Actor-Network Theory.md",
     "Science, Technology and Society/Affordances and Actor-Network Theory.md",
     "Science, Technology and Society/Technological Determinism.md",
-    "Science, Technology and Society/Actor-Network Theory.md",
     "Science, Technology and Society/Neutral Technology/System Compatibility.md",
     "Science, Technology and Society/Neutral Technology/Circumstances of Production.md",
     "Science, Technology and Society/Neutral Technology/Technology as a Tool.md",
@@ -146,8 +148,6 @@
     "Informatik/Algorithms/Design and Analysis of Algorithms/Shortest Path Algorithms/Shortest Path Algorithms.md",
     "Informatik/Algorithms/Design and Analysis of Algorithms/Shortest Path Algorithms/Floyd-Warshall Algorithm.md",
     "Informatik/Algorithms/Design and Analysis of Algorithms/Shortest Path Algorithms/A-Star Algorithm.md",
-    "Informatik/Algorithms/Datenstrukturen und Algorithmen/Datenstrukturen/Heap.md",
-    "Informatik/Algorithms/Datenstrukturen und Algorithmen/Datenstrukturen/Datenstrukturen.md",
     "z_images/Punnett Square.png",
     "z_images/Pasted image 20240204172651.png",
     "z_images/Pasted image 20240204172357.png",
