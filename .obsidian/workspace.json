@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Science, Technology and Society/Neutral Technology/Technology as a Tool.md",
+                "file": "Science, Technology and Society/Neutral Technology/System Compatibility.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Technology as a Tool"
+              "title": "System Compatibility"
             }
           }
         ]
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Science, Technology and Society/Neutral Technology/Technology as a Tool.md",
+                "file": "Science, Technology and Society/Neutral Technology/System Compatibility.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Technology as a Tool"
+              "title": "Backlinks for System Compatibility"
             }
           }
         ]
@@ -112,8 +112,10 @@
   },
   "active": "a85a561ba5ff3ca5",
   "lastOpenFiles": [
-    "Science, Technology and Society/Technological Determinism.md",
+    "Science, Technology and Society/Neutral Technology/Circumstances of Production.md",
+    "Science, Technology and Society/Neutral Technology/System Compatibility.md",
     "Science, Technology and Society/Neutral Technology/Technology as a Tool.md",
+    "Science, Technology and Society/Technological Determinism.md",
     "Science, Technology and Society/Neutral Technology",
     "Science, Technology and Society/Linear Model of Innovation.md",
     "Informatik/Data Science and AI/Intelligence.md",
@@ -146,8 +148,6 @@
     "Informatik/Algorithms/Datenstrukturen und Algorithmen/Datenstrukturen/Datenstrukturen.md",
     "Informatik/Algorithms/Datenstrukturen und Algorithmen/Various Algorithms/Maximum Subarray Sum.md",
     "Mathematik/Analysis/Integralrechnung/Bestimmte Integrale.md",
-    "Informatik/Computer Vision/Introduction.md",
-    "Mathematik/Wahrscheinlichkeitstheorie/Wahrscheinlichkeitsverteilungen/Normalverteilung.md",
     "z_images/Punnett Square.png",
     "z_images/Pasted image 20240204172651.png",
     "z_images/Pasted image 20240204172357.png",
