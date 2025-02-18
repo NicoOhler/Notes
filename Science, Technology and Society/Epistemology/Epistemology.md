@@ -14,5 +14,6 @@
     - **Shift in Focus**: From philosophical reasoning to empirical studies of scientific practices. It emphasizes credibility over certainty and examines how scientific knowledge gains acceptance.
     - **Laboratory Studies**: Focus on what scientists actually do, how they persuade each other, and how scientific controversies are resolved.
 6. **Contemporary Approaches**:
+    
     - **Diverse Methods**: Includes deductive reasoning, inductive reasoning, hermeneutical approaches, constructivist models, and practical reasoning in engineering.
     - **Open Debate**: There is no single conclusive answer, and epistemology remains an open field with ongoing discussions about the best ways to understand and justify knowledge.

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Science, Technology and Society/Epistemology.md",
+                "file": "Science, Technology and Society/Epistemology/Epistemology.md",
                 "mode": "source",
                 "source": false
               },
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Science, Technology and Society/Epistemology.md",
+                "file": "Science, Technology and Society/Epistemology/Epistemology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,9 +112,10 @@
   },
   "active": "3756ea34c5bc5a0a",
   "lastOpenFiles": [
+    "Science, Technology and Society/Epistemology/Hempel-Oppenheim Scheme.md",
+    "Science, Technology and Society/Epistemology/Epistemology.md",
+    "Science, Technology and Society/Epistemology",
     "Science, Technology and Society/Multi-Level Perspective (MLP).md",
-    "Science, Technology and Society/Epistemology.md",
-    "Science, Technology and Society/Untitled",
     "Science, Technology and Society/Life Cycle Assessment.md",
     "Science, Technology and Society/Technology Assessment.md",
     "Science, Technology and Society/Resistance to Science & Technology.md",
@@ -147,7 +148,6 @@
     "Informatik/Machine Learning/ML1/lecture07.pdf",
     "Informatik/Algorithms/Datenstrukturen und Algorithmen/Datenstrukturen/Union Find.md",
     "Informatik/Algorithms/Design and Analysis of Algorithms/Shortest Path Algorithms/Dijkstra’s Algorithm.md",
-    "Informatik/Algorithms/Design and Analysis of Algorithms/Minimum Spanning Tree.md",
     "z_images/Punnett Square.png",
     "z_images/Pasted image 20240204172651.png",
     "z_images/Pasted image 20240204172357.png",
