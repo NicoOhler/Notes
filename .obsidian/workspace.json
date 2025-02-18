@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Science, Technology and Society/Life Cycle Assessment.md",
+                "file": "Science, Technology and Society/Multi-Level Perspective (MLP).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Life Cycle Assessment"
+              "title": "Multi-Level Perspective (MLP)"
             }
           }
         ]
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Science, Technology and Society/Life Cycle Assessment.md",
+                "file": "Science, Technology and Society/Multi-Level Perspective (MLP).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Life Cycle Assessment"
+              "title": "Backlinks for Multi-Level Perspective (MLP)"
             }
           }
         ]
@@ -112,8 +112,9 @@
   },
   "active": "3756ea34c5bc5a0a",
   "lastOpenFiles": [
-    "Science, Technology and Society/Technology Assessment.md",
     "Science, Technology and Society/Life Cycle Assessment.md",
+    "Science, Technology and Society/Multi-Level Perspective (MLP).md",
+    "Science, Technology and Society/Technology Assessment.md",
     "Science, Technology and Society/Resistance to Science & Technology.md",
     "Science, Technology and Society/Actor-Network Theory.md",
     "Science, Technology and Society/Affordances and Actor-Network Theory.md",
@@ -147,7 +148,6 @@
     "Informatik/Algorithms/Design and Analysis of Algorithms/Shortest Path Algorithms/Dijkstra’s Algorithm.md",
     "Informatik/Algorithms/Design and Analysis of Algorithms/Minimum Spanning Tree.md",
     "Informatik/Algorithms/Design and Analysis of Algorithms/Shortest Path Algorithms/Shortest Path Algorithms.md",
-    "Informatik/Algorithms/Design and Analysis of Algorithms/Shortest Path Algorithms/Floyd-Warshall Algorithm.md",
     "z_images/Punnett Square.png",
     "z_images/Pasted image 20240204172651.png",
     "z_images/Pasted image 20240204172357.png",
