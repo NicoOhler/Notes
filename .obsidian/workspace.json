@@ -63,8 +63,7 @@
               "title": "Search"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -111,7 +110,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "67d43403474fe91c",
+  "active": "097b9a58ea336072",
   "lastOpenFiles": [
     "Science, Technology and Society/Neutral Technology/System Compatibility.md",
     "Science, Technology and Society/Actor-Network-Theory (ANT).md",
