@@ -8,7 +8,6 @@
 ### Key Example:
 - **Berlin Key**: This example illustrates how technology (a key) and social norms (locking doors) are intertwined. The design of the key and keyhole enforces social behavior (locking the door), showing how technology can embody social norms.
 ### ANT's Core Idea:
-- 
 - **Networks**: ANT emphasizes the importance of networks, where both human and non-human elements interact. Understanding these networks is crucial to understanding how technology and society influence each other.
 - **Non-Neutrality**: In ANT, technology is not neutral because it is part of a network that shapes and is shaped by social interactions.
 ### Summary:
