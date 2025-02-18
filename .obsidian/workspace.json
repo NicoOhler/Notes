@@ -16,21 +16,12 @@
                 "file": "Informatik/Data Science and AI/Intelligence.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "7b82cb3e824e1040",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.5"
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Intelligence"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -50,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -59,17 +52,18 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "zeichensamm",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -89,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Informatik/Data Science and AI/Intelligence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +91,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Intelligence"
             }
           }
         ]
@@ -113,8 +110,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7b82cb3e824e1040",
+  "active": "097b9a58ea336072",
   "lastOpenFiles": [
+    "Untitled",
     "Mathematik/Allgemeine Mathematik/Zeichensammlung.md",
     "Informatik/Data Science and AI/Data Science and AI.md",
     "Informatik/Data Science and AI/Machine Learning/Perceptron.md",
@@ -150,7 +148,6 @@
     "Mathematik/Wahrscheinlichkeitstheorie/Wahrscheinlichkeitstheorie.md",
     "Mathematik/Statistik/Schätzer/Konfidenzintervall/Konfidenzintervall.md",
     "Mathematik/Statistik/Schätzer/MLE under Normality Assumption.md",
-    "Mathematik/Statistik/Schätzer/Mean Squared Error.md",
     "z_images/Punnett Square.png",
     "z_images/Pasted image 20240204172651.png",
     "z_images/Pasted image 20240204172357.png",
