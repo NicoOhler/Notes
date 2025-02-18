@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9c8f55c426eb376a",
+        "id": "c39cbef29ace00ca",
         "type": "tabs",
         "children": [
           {
-            "id": "3756ea34c5bc5a0a",
+            "id": "b5f44043f1874df6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -110,10 +110,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3756ea34c5bc5a0a",
+  "active": "b5f44043f1874df6",
   "lastOpenFiles": [
-    "Science, Technology and Society/Epistemology/Hempel-Oppenheim Scheme.md",
+    "Science, Technology and Society/Epistemology/Deductive or Inductive Reasoning.md",
     "Science, Technology and Society/Epistemology/Epistemology.md",
+    "Science, Technology and Society/Epistemology/Inductive Statistical Reasoning.md",
+    "Science, Technology and Society/Epistemology/Hempel-Oppenheim Scheme.md",
     "Science, Technology and Society/Epistemology",
     "Science, Technology and Society/Multi-Level Perspective (MLP).md",
     "Science, Technology and Society/Life Cycle Assessment.md",
@@ -146,8 +148,6 @@
     "Informatik/Machine Learning/ML1/lecture09.pdf",
     "Informatik/Machine Learning/ML1/lecture08.pdf",
     "Informatik/Machine Learning/ML1/lecture07.pdf",
-    "Informatik/Algorithms/Datenstrukturen und Algorithmen/Datenstrukturen/Union Find.md",
-    "Informatik/Algorithms/Design and Analysis of Algorithms/Shortest Path Algorithms/Dijkstra’s Algorithm.md",
     "z_images/Punnett Square.png",
     "z_images/Pasted image 20240204172651.png",
     "z_images/Pasted image 20240204172357.png",
