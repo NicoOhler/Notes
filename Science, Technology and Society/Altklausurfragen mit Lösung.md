@@ -76,12 +76,14 @@
     - ==e) The "deficit model" is used to exclude those who do not understand science from decision-making processes==
     - f) The "deficit model" assumes that the scientists fail to convey scientific knowledge to the public
 16. Identify correct statements below
-	+ According to Merton "
-	+ According to Merton "
+	+ According to Merton "communism" means that science follow socialist state planning
+	+ *According to Merton "universalism" means that knowledge claims need to be true always and everywhere*
+	+ ==According to Merton "disinterestedness" refers to curiosity driven research as an honorable motivation in science==
+	+ According to Merton "organized skepticism" is an anti-science attitude
 17. Which of the following statements explain SCOT?
-    - a) According to Bijker the success of technology depends on the context in which it is being used
+    - ==a) According to Bijker the success of technology depends on the context in which it is being used==
     - b) Wiebe Bijker and Trevor Pinch have been criticised to advocate ideas of technological determinism
-    - c) The social construction of technology (SCOT) wants to explain sociotechnological change
+    - ==c) The social construction of technology (SCOT) wants to explain sociotechnological change==
     - d) SCOT favours the linear model of innovation and thereby counters an evolutionary model of innovation
 18. Which of the following statements explain SCOT?
     - a) The tricycle was a safer alternative to the high-wheeler and quite popular at the time
