@@ -44,15 +44,15 @@
     - ==b) It is important that scientific knowledge used for policy advice is credible in the public eye==
     - ==c) The ways in which scientific knowledge claims obtain credibility is relevant for democratic decision making==
     - ==d) Understanding how knowledge claims obtain credibility is relevant for democratic decision making==
-    - *e) Understanding how knowledge claims obtain credibility is important for the analysis of social media*
+    - ==e) Understanding how knowledge claims obtain credibility is important for the analysis of social media==
 10. Identify correct statements below
     - a) "Public engagement" seeks to overcome the "deficit model" with more efficient dissemination of textbook knowledge
     - b) Public engagement separates the public from scientific knowledge production
-    - *c) Public engagement seeks to include practical knowledge*
+    - ==c) Public engagement seeks to include practical knowledge==
     - ==d) Public controversies (such as the GMO controversy) resulted in attempts to overcome the "deficit model"==
 11. Which of the following statements explain SCOT?
     - ==a) At the end of the 18th Century, within a few years bicycles looked radically different. Bijker ais to explain this change with his SCOT approach.==
-    - *b) Bijker observed a controversy over the safest bicycle design at the end of the 19th Century.*
+    - *==b) Bijker observed a controversy over the safest bicycle design at the end of the 19th Century.*==
     - ==c) Relevant users of technologies define its function. This can vary between different social groups (of users or non-users)==
 12. Which of the following statements is consistent with Multi-Level Perspective (MLP)
     - ==a) The three levels of Multi-Level Perspective help to appreciate the complexity of our understanding of sociotechnical change==
