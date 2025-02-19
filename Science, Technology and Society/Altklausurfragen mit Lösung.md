@@ -119,8 +119,8 @@
     - ==a) Scientists developed an interest in "the public understanding of science" since they feared cuts in governmental funding==
     - b) The discussion over the "public understanding of science" emerged in the United States during the 19th century
     - ==c) One reason why scientists are interested in the "public understanding of science" results from declining numbers of students who chose to study STEM subjects (science, technology, engineering and mathematics)==
-    - d) Public controversies over particular fields of science raise questions over what the public knows about science
+    - *d) Public controversies over particular fields of science raise questions over what the public knows about science*
 25. Which of the following statements explain technology assessment?
     - a) Constructive Technology Assessement (CTA) was developed in the USA and calls for expert advice in policy making
-    - b) Consensus Conference was developed in Denmark and emphasises participatory methods
-    - c) Participation in Technology Assessment means to engage broader groups of society in the knowledge making processes relevant for the shaping technologies and political decisions
+    - ==b) Consensus Conference was developed in Denmark and emphasises participatory methods==
+    - ==c) Participation in Technology Assessment means to engage broader groups of society in the knowledge making processes relevant for the shaping technologies and political decisions==
