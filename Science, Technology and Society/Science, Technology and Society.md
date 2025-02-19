@@ -6,4 +6,4 @@
 + [Sociology of Science](Sociology%20of%20Science/Sociology%20of%20Science.md)
 + [Technology Assessment](Technology%20Assessment.md) and [Life Cycle Assessment](Life%20Cycle%20Assessment.md)
 + [Epistemology](Epistemology/Epistemology.md)
-+ [Altklausurfragen](Altklausurfragen.md) + [Altklausurfragen mit Lösung](Altklausurfragen%20mit%20Lösung.md)
++ [Altklausurfragen](Miscellaneous/Altklausurfragen.md) + [Altklausurfragen mit Lösung](Miscellaneous/Altklausurfragen%20mit%20Lösung.md)
