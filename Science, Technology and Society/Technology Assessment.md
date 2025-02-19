@@ -1,15 +1,34 @@
 1. **What is Technology Assessment (TA)?**:
-    - **Purpose**: TA aims to evaluate the implications of technology, providing scientific expertise and policy advice to guide decision-making.
-    - **Historical Context**: Originated in the U.S. with the Office of Technology Assessment in 1972, and later adopted in Europe.
+    - **Purpose**: TA evaluates the social, economic, and environmental implications of technology, providing scientific expertise and policy advice to guide decision-making.
+	- **Historical Context**:
+	    - Originated in the U.S. with the **Office of Technology Assessment (OTA) in 1972**.
+	    - Later adopted in Europe, where it evolved to include more participatory approaches.
+	    - Driven by the need to **anticipate and mitigate unintended consequences** of technological innovations.
 2. **Conceptual Background**:
-    - **Refuting Technological Determinism**: TA challenges the idea that technology follows an inevitable path, emphasizing that it can be shaped by decisions.
-    - **Public Engagement**: TA has evolved from expert-centered to more participatory forms, involving wider social groups in the decision-making process.
+    - **Refuting Technological Determinism**:
+	    - TA challenges the notion that technological progress is **autonomous and inevitable**.
+	    - Emphasizes that **social, economic, and political decisions** shape technological development.
+	- **Public Engagement**:
+	    - TA evolved from **expert-centered models** to participatory forms.
+	    - Seeks to involve **citizens, stakeholders, and policymakers** in shaping technology.
+	    - Helps democratize technology governance.
 3. **Participatory Technology Assessment**:
-    - **Methods**: Includes citizen juries, round tables, and consensus conferences to engage the public in shaping technology.
-    - **Case Study - Asbestos**: Highlights the long history of recognizing health risks and the eventual policy measures taken to regulate its use.
+	- **Methods**:
+	    - Uses **citizen juries, round tables, and consensus conferences** to engage the public.
+	    - Encourages early intervention in technology development rather than reactive regulation.
+	- **Case Study - Asbestos**:
+	    - Demonstrates how **early warning signs of health risks were ignored** for decades due to economic and industrial interests.
+	    - Eventually led to **policy measures banning or restricting asbestos use**, showing the importance of **proactive assessment**.
 4. **Policy Measures and Stakeholders**:
-    - **Regulatory Framework**: Parliaments play a crucial role in creating regulations for technology, considering scientific evidence and public concerns.
-    - **Hidden Stakeholders**: Trade conflicts and legal challenges illustrate the complex interplay of interests in technology regulation.
+	- **Regulatory Framework**:
+	    - Parliaments and regulatory bodies **balance scientific evidence, public concerns, and economic interests** in decision-making.
+	- **Hidden Stakeholders**:
+	    - Trade conflicts, corporate interests, and legal battles often **influence the trajectory of technology regulation**.
+	    - Example: **Pharmaceutical patents, nuclear energy policies, and digital surveillance technologies**.
 5. **Conclusion**:
-    - **Political Nature of Technology**: Technology is inherently political, and its regulation involves deliberation and decision-making by all stakeholders.
-    - **Expansion of Policy**: Beyond funding and innovation, science and technology policy now includes public participation and engagement in shaping outcomes.
+    - **Political Nature of Technology**:
+	    - Technology is **not neutral**—it embodies social values, power dynamics, and economic interests.
+	    - Decision-making around technology must be **deliberative, inclusive, and transparent**.
+	- **Expansion of Policy**:
+	    - Science and technology policy has **expanded beyond funding and innovation**.
+	    - Now includes **public participation, ethical considerations, and sustainability assessments**.

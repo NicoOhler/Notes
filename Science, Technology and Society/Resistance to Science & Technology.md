@@ -20,10 +20,9 @@
 	- **Regulations**:
 	    - Shifted towards **precautionary principles**, requiring industries to prove safety before widespread adoption.
 4. **Science and Society Relationship**:
-    **Shift in Dynamics**:
-	- Science is no longer viewed as purely objective and autonomous; instead, its development is shaped by **political, economic, and cultural factors**.
-	- Scientists must engage with the public to **gain credibility and legitimacy**.
-#### Dealing with Controversies
-- **Communication and Participation**:
-    - The **deficit model** (assuming the public simply needs more education) has been **replaced by engagement models** that emphasize dialogue.
-    - Transparency, participatory decision-making, and **public trust** are key to resolving scientific controversies.
+	+ **Shift in Dynamics**:
+		- Science is no longer viewed as purely objective and autonomous; instead, its development is shaped by **political, economic, and cultural factors**.
+		- Scientists must engage with the public to **gain credibility and legitimacy**.
+	- **Communication and Participation**:
+	    - The **deficit model** (assuming the public simply needs more education) has been **replaced by engagement models** that emphasize dialogue.
+	    - Transparency, participatory decision-making, and **public trust** are key to resolving scientific controversies.
