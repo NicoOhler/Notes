@@ -97,6 +97,20 @@
         "a": 1,
         "rgb": 14533927
       }
+    },
+    {
+      "query": "path:\"Science, Technology and Society\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16615944
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
     }
   ],
   "collapse-display": true,

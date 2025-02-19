@@ -1,7 +1,10 @@
 ### Key Concepts
 + [Neutral Technology](Neutral%20Technology/Neutral%20Technology.md)
++ [Technological Determinism](Technological%20Determinism.md)
++ [Actor-Network Theory](Actor-Network%20Theory.md) and [Affordances](Affordances.md)
++ [Linear Model of Innovation](Linear%20Model%20of%20Innovation.md)
++ [Multi-Level Perspective (MLP)](Multi-Level%20Perspective%20(MLP).md)
++ [Technology Assessment](Technology%20Assessment.md) and [Life Cycle Assessment](Life%20Cycle%20Assessment.md)
++ [Resistance to Science & Technology](Resistance%20to%20Science%20&%20Technology.md)
 + [Sociology of Science](Sociology%20of%20Science/Sociology%20of%20Science.md)
 + [Epistemology](Epistemology/Epistemology.md)
-+ [Actor-Network Theory](Actor-Network%20Theory.md) and [Affordances](Affordances.md)
-+ 
-+ [Life Cycle Assessment](Life%20Cycle%20Assessment.md)

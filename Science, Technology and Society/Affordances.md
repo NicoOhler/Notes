@@ -39,7 +39,7 @@
     - Demonstrates **how affordances can be used to exclude** specific populations.
 - **Unpredictable Use**:
     - **Social Media**: Originally designed for networking, later used for activism, misinformation, and surveillance.
-    - **Hashtags**: Initially a tool for organization, later used for political movements (#MeToo, #BlackLivesMatter).
+    - **Hashtags**: Initially a tool for organization, later used for political movements (#MeToo,#BlackLivesMatter ).
 ### Summary:
 - **Human-Technology Interplay**: Both affordances and ANT emphasize the 
 	- **mutual shaping** of humans and technology.
