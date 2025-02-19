@@ -1,5 +1,8 @@
 ### Definition: 
-+ The linear model of innovation suggests that scientific knowledge directly leads to economic prosperity and meets social needs. It presents a straightforward, step-by-step process from research to application.
++ The **linear model of innovation** proposes that scientific knowledge directly leads to economic growth and addresses social needs through a straightforward, step-by-step process: 
+	+ **research → development → pilot plant → scale up  → production  → product development**.
+	+ **basic research → applied research → development → production → diffusion**.
+- This model assumes a **unidirectional flow** from scientific discovery to technological advancement and economic impact.
 ### History and Criticism:
 - **Origins**: Developed by U.S. industrialists to gain social recognition and government support.
 - **Criticism**:

@@ -41,6 +41,9 @@
     - **Social Media**: Originally designed for networking, later used for activism, misinformation, and surveillance.
     - **Hashtags**: Initially a tool for organization, later used for political movements (#MeToo, #BlackLivesMatter).
 ### Summary:
-- **Human-Technology Interplay**: Both affordances and ANT emphasize the complex interplay between technological efficacy and human agency.
+- **Human-Technology Interplay**: Both affordances and ANT emphasize the 
+	- **mutual shaping** of humans and technology.
 - **Political and Power-Laden**: Human-technology relations are inherently political and power-laden, with technology reflecting and shaping societal structures.
 + **Open and Dynamic**: Technology use is flexible and evolves over time, sometimes in ways unintended by designers.
+
+![](../z_images/Pasted%20image%2020250219103104.png)
