@@ -37,26 +37,26 @@
 8. Identify correct statements below
     - a) Statistical correlation allow to predict a variable with certainty
     - ==b) Statistical analysis is useful to study patterns that occur most of the time, but not always==
-    - ==c) The inductive logic of reasoning means to conclude from the specific to the general==
+    - c) The deductive statistical model follows the structure of the Hempel-Oppenheim scheme
     - ==d) Inductive logic of reasoning means to conclude from the specific to the general==
 9. Identify correct statements below
-    - a) The sociology of scientific knowledge contributes to a better understanding of how knowledge claims obtain credibility amongst scientific peers
-    - b) It is important that scientific knowledge used for policy advice is credible in the public eye
-    - c) The ways in which scientific knowledge claims obtain credibility is relevant for democratic decision making
-    - d) Understanding how knowledge claims obtain credibility is relevant for democratic decision making
-    - e) Understanding how knowledge claims obtain credibility is important for the analysis of social media
+    - ==a) The sociology of scientific knowledge contributes to a better understanding of how knowledge claims obtain credibility amongst scientific peers==
+    - ==b) It is important that scientific knowledge used for policy advice is credible in the public eye==
+    - ==c) The ways in which scientific knowledge claims obtain credibility is relevant for democratic decision making==
+    - ==d) Understanding how knowledge claims obtain credibility is relevant for democratic decision making==
+    - *e) Understanding how knowledge claims obtain credibility is important for the analysis of social media*
 10. Identify correct statements below
     - a) "Public engagement" seeks to overcome the "deficit model" with more efficient dissemination of textbook knowledge
     - b) Public engagement separates the public from scientific knowledge production
-    - c) Public engagement seeks to include practical knowledge
-    - d) Public controversies (such as the GMO controversy) resulted in attempts to overcome the "deficit model"
+    - *c) Public engagement seeks to include practical knowledge*
+    - ==d) Public controversies (such as the GMO controversy) resulted in attempts to overcome the "deficit model"==
 11. Which of the following statements explain SCOT?
-    - a) At the end of the 18th Century, within a few years bicycles looked radically different. Bijker ais to explain this change with his SCOT approach.
-    - b) Bijker observed a controversy over the safest bicycle design at the end of the 19th Century.
-    - c) Relevant users of technologies define its function. This can vary between different social groups (of users or non-users)
+    - ==a) At the end of the 18th Century, within a few years bicycles looked radically different. Bijker ais to explain this change with his SCOT approach.==
+    - *b) Bijker observed a controversy over the safest bicycle design at the end of the 19th Century.*
+    - ==c) Relevant users of technologies define its function. This can vary between different social groups (of users or non-users)==
 12. Which of the following statements is consistent with Multi-Level Perspective (MLP)
-    - a) The three levels of Multi-Level Perspective help to appreciate the complexity of our understanding of sociotechnical change
-    - b) Multi-Level Perspective seeks to contribute to promoting sustainable transition
+    - ==a) The three levels of Multi-Level Perspective help to appreciate the complexity of our understanding of sociotechnical change==
+    - ==b) Multi-Level Perspective seeks to contribute to promoting sustainable transition==
     - c) Multi-Level Perspective is the only theory that explains sociotechnical change
 13. Identify correct statements below
     - a) Nomological reasoning is highly context specific
