@@ -14,3 +14,4 @@
 4. **Summary of SCOT**:
     - **Technological Development**: Viewed as a social process where the definition of problems and solutions is influenced by social groups.
     - **No Inherent Logic**: Technology's design and success depend on social perspectives and interactions, not on an inherent technological logic.
+    - **Black-boxing**: Once a technology becomes widely accepted, its social construction is forgotten, and it appears as a "natural" or "inevitable" development.
