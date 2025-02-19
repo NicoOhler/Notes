@@ -59,63 +59,66 @@
     - ==b) Multi-Level Perspective seeks to contribute to promoting sustainable transition==
     - c) Multi-Level Perspective is the only theory that explains sociotechnical change
 13. Identify correct statements below
-    - a) Nomological reasoning is highly context specific
+    - *a) Nomological reasoning is highly context specific*
     - b) Nomological explanations does not allow to predict
-    - c) The Hempel-Oppenheim scheme describes nomological reasoning
+    - ==c) The Hempel-Oppenheim scheme describes nomological reasoning==
     - d) Deductive reasoning means to explain a general law (of nature) based on the case at hand
 14. Identify correct statements below
-    - a) Inductive statistical reasoning draws on a pragmatic justification of its knowledge claims
-    - b) Against the backdrop of the Hempel-Oppenheim Scheme inductive statistical reasoning leads to scientific knowledge
-    - c) Inductive statistical reasoning has been criticised that it does not quantify its predictive value
-    - d) Many studies using statistical methods were found impossible to replicate
+    - a) ==Inductive statistical reasoning draws on a pragmatic justification of its knowledge claims==
+    - *b) Against the backdrop of the Hempel-Oppenheim Scheme inductive statistical reasoning leads to scientific knowledge*
+    - *c) Inductive statistical reasoning has been criticized that it does not quantify its predictive value*
+    - ==d) Many studies using statistical methods were found impossible to replicate==
 15. Identify correct statements below
-    - a) The "deficit model" means that the public does not know enough about science
+    - ==a) The "deficit model" means that the public does not know enough about science==
     - b) The "deficit model" undermines scientists' authority over knowledge claims
     - c) The "deficit model" promotes dialogue between scientists and the public
-    - d) The deficit model explains critical views as a result of ignorance
-    - e) The "deficit model" is used to exclude those who do not understand science from decision-making processes
+    - ==d) The deficit model explains critical views as a result of ignorance==
+    - ==e) The "deficit model" is used to exclude those who do not understand science from decision-making processes==
     - f) The "deficit model" assumes that the scientists fail to convey scientific knowledge to the public
-16. Which of the following statements explain SCOT?
+16. Identify correct statements below
+	+ According to Merton "
+	+ According to Merton "
+17. Which of the following statements explain SCOT?
     - a) According to Bijker the success of technology depends on the context in which it is being used
     - b) Wiebe Bijker and Trevor Pinch have been criticised to advocate ideas of technological determinism
     - c) The social construction of technology (SCOT) wants to explain sociotechnological change
     - d) SCOT favours the linear model of innovation and thereby counters an evolutionary model of innovation
-17. Which of the following statements explain SCOT?
+18. Which of the following statements explain SCOT?
     - a) The tricycle was a safer alternative to the high-wheeler and quite popular at the time
     - b) The controversy over the perfect bicycle design came to a closure. According to Bijker the key to this was the air tyre because it made the cycling safer
     - c) Risk-averse men interpreted high-wheelers as bicycle that works well.
     - d) Women wanted to ride bicycles, but they could not do that without compromising the existing dress norms.
-18. Which of the following statements is consistent with Multi-Level Perspective (MLP)?
+19. Which of the following statements is consistent with Multi-Level Perspective (MLP)?
     - a) In oder to instigate sustainable transition we need to discover the laws of historical change
     - b) Sustainable change can be promoted by strategic niche management.
     - c) Historical examples of how the transition from sailing to steam ships happened hold clues how we can overcome fossil fuel based transport systems.
     - d) Niche innovation require support structures as provided by the state in order to enhance sustainable transition
-19. Identify correct statements below
+20. Identify correct statements below
     - a) Analytical philosophy looks into the practial reasoning to understand how to obtain new knowledge
     - b) Modern Science emerged in the 20th century
     - c) Philosophers have reflected upon epistemological questions since ancient times
     - d) The logic of research studies the structure of scientific arguments
-20. Which of the following statements explain resistance to science and technology?
+21. Which of the following statements explain resistance to science and technology?
     - a) In 1975 public protests over recombinant RNA technologies demanded a moratorium of recombinant RNA technologies to which scientists such as Paul Berg eventually gave in.
     - b) Medicalisation of pregnancy means to treat it as if it was an illness.
     - c) Self-governance means that scientists should not interfere into free market dynamics.
     - d) Reproductive technologies such as IVF, prenatal testing met resistance because these technologies were seen as male dominance over female bodies.
-21. Which of the following statements explain technology assessment?
+22. Which of the following statements explain technology assessment?
     - a) As soon as health risks of asbestos were known it became banned.
     - b) The case of asbestos shows how the media gave voice to public concerns and in such a way exercised pressure on policy makers.
     - c) For a long time, scientific evidence was contested denying that asbestos was cancerogenic at all.
-22. Identify correct statements below
+23. Identify correct statements below
     - a) Technologies are not neutral, because it is necessary to take the conditions of production into account.
     - b) If technologies are produced responsibly they can be uses as neutral tools.
     - c) If the conditions of production matter, its neutrality depend only on how technologies are being used.
     - d) Environmental effects of production are relevant properties of a technology.
     - e) Framing technology as neutral tool, allows us to better understand health and environmental hazards of production processes.
-23. Identify correct statements below
+24. Identify correct statements below
     - a) Scientists developed an interest in "the public understanding of science" since they feared cuts in governmental funding
     - b) The discussion over the "public understanding of science" emerged in the United States during the 19th century
     - c) One reason why scientists are interested in the "public understanding of science" results from declining numbers of students who chose to study STEM subjects (science, technology, engineering and mathematics)
     - d) Public controversies over particular fields of science raise questions over what the public knows about science
-24. Which of the following statements explain technology assessment?
+25. Which of the following statements explain technology assessment?
     - a) Constructive Technology Assessement (CTA) was developed in the USA and calls for expert advice in policy making
     - b) Consensus Conference was developed in Denmark and emphasises participatory methods
     - c) Participation in Technology Assessment means to engage broader groups of society in the knowledge making processes relevant for the shaping technologies and political decisions
