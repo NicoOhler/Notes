@@ -18,27 +18,27 @@
     - d) Because of its effects on the environment
 5. Identify correct statements below
     - ==a) System compatibility means that particular type of social and political order are more favorable for a given technology than alternative ones.==
-    - b) Today system compatibility can be applied to neoliberal forms of political order, it does not only apply to the totalitarian state
+    - ==b) Today system compatibility can be applied to neoliberal forms of political order, it does not only apply to the totalitarian state==
     - c) Because the cold war is over Winner's argument of system compatibility does not apply to modern technologies such as the internet.
-    - d) If we argue that the political context does not effect technology and it implies the claim that the respective technology is neutral
+    - *d) If we argue that the political context does not effect technology and it implies the claim that the respective technology is neutral*
     - e) Winner argues why democratic political order is compatible with nuclear energy.
     - f) System compatibility means that democratic societies are more compatible with neutral technologies
 6. Identify correct statements below
-    - a) Once the linear model of innovation reflected the structures of industrial companies, governments began to collect data and performed statistical analysis.
+    - ==a) Once the linear model of innovation reflected the structures of industrial companies, governments began to collect data and performed statistical analysis.==
     - b) The linear model of innovation is irrelevant for neo-classical economic thought.
-    - c) Benoit Godin argues that we do not replace the linear model of innovation because there is is no qualitative alternative to it.
-    - d) The OECD plays a key role in promoting the linear model of innovation through its methodological guidelines.
-    - e) Vannevar Bush was not the first to suggest a the linear model of innovation
+    - *c) Benoit Godin argues that we do not replace the linear model of innovation because there is is no qualitative alternative to it.*
+    - ==d) The OECD plays a key role in promoting the linear model of innovation through its methodological guidelines.==
+    - *e) Vannevar Bush was not the first to suggest a the linear model of innovation*
 7. Identify correct statements below
-    - a) The metaphor of a black swan means that a nomological explanations always contain some exemptions
+    - *a) The metaphor of a black swan means that a nomological explanations always contain some exemptions*
     - b) The philosopher Karl Popper argues that the verification of scientific knowledge claims is possible
-    - c) Popper argues that if we cannot falsify a knowledge claim, we may assume it as preliminary valid.
-    - d) The nomological model does not explain how we discover new laws of nature
+    - ==c) Popper argues that if we cannot falsify a knowledge claim, we may assume it as preliminary valid.==
+    - ==d) The nomological model does not explain how we discover new laws of nature==
 8. Identify correct statements below
     - a) Statistical correlation allow to predict a variable with certainty
-    - b) Statistical analysis is useful to study patterns that occur most of the time, but not always
-    - c) The inductive logic of reasoning means to conclude from the specific to the general
-    - d) Inductive logic of reasoning means to conclude from the specific to the general
+    - ==b) Statistical analysis is useful to study patterns that occur most of the time, but not always==
+    - ==c) The inductive logic of reasoning means to conclude from the specific to the general==
+    - ==d) Inductive logic of reasoning means to conclude from the specific to the general==
 9. Identify correct statements below
     - a) The sociology of scientific knowledge contributes to a better understanding of how knowledge claims obtain credibility amongst scientific peers
     - b) It is important that scientific knowledge used for policy advice is credible in the public eye

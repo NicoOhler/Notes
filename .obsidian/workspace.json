@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Science, Technology and Society/Altklausurfragen + Lösung.md",
+                "file": "Science, Technology and Society/Altklausurfragen mit Lösung.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Altklausurfragen + Lösung"
+              "title": "Altklausurfragen mit Lösung"
+            }
+          },
+          {
+            "id": "ebc4559c50a913ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Science, Technology and Society/Linear Model of Innovation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Linear Model of Innovation"
             }
           }
         ]
@@ -113,8 +127,9 @@
   },
   "active": "af57d5969c8356d2",
   "lastOpenFiles": [
+    "Science, Technology and Society/Linear Model of Innovation.md",
+    "Science, Technology and Society/Altklausurfragen mit Lösung.md",
     "Science, Technology and Society/Science, Technology and Society.md",
-    "Science, Technology and Society/Altklausurfragen + Lösung.md",
     "Science, Technology and Society/Sociology of Science/Sociology of Science.md",
     "Science, Technology and Society/Altklausurfragen.md",
     "Science, Technology and Society/Sociology of Science/Public Communication of Science and Technology (PCST).md",
@@ -128,7 +143,6 @@
     "Science, Technology and Society/Technological Determinism.md",
     "Science, Technology and Society/Sociology of Science/Resistance to Science & Technology.md",
     "Science, Technology and Society/Sociology of Science/Multi-Level Perspective (MLP).md",
-    "Science, Technology and Society/Linear Model of Innovation.md",
     "Science, Technology and Society/Life Cycle Assessment.md",
     "Science, Technology and Society/Neutral Technology/Circumstances of Production.md",
     "Science, Technology and Society/Epistemology/Deductive or Inductive Reasoning.md",
