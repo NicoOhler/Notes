@@ -7,10 +7,16 @@
 		- Common in statistical and empirical research, where conclusions are probabilistic rather than absolute.
 2. **The Sociological Turn**:
     - **Shift in Focus**: Moves from philosophical reasoning to empirical studies of scientific practices, emphasizing credibility over certainty.
-    - **STS Approach**: The sociology of scientific knowledge (STS) examines how scientific claims gain credibility and how scientists persuade each other and the public.
+    + **Science and Technology Studies (STS)**:
+		- Investigates how scientific claims gain credibility.
+		- Explores how persuasion and institutional structures shape scientific consensus.
 3. **Popper's Critique of Inductive Reasoning**:
     - **Black Swan Problem**: Popper argued that empirical verification is impossible because there can always be exceptions (black swans). Instead, he proposed falsification as a method to test scientific theories.
     - **Falsification**: If an exception is found, the supposed law is considered wrong. Until then, it can be assumed correct temporarily.
 4. **Criticism of the Deductive-Nomological Model**:
-    - **Limitations**: The model presupposes the existence of known laws and focuses on applying them to specific cases. It struggles with exceptions, which are common in many sciences.
-    - **Inductive and Probabilistic Nature**: Most scientific research is inductive and probabilistic, relying on statistical models rather than strict deductive reasoning.
+    - **Limitations**: 
+		+ Assumes the existence of universal laws, which may not apply in complex sciences like biology, psychology, and meteorology.
+	    - Struggles with uncertainty and exceptions that arise in real-world cases.
+    - **Inductive and Probabilistic Nature**: 
+		- Most scientific research is not strictly deductive but relies on statistical models.
+		- Many sciences incorporate a mix of inductive and deductive reasoning.
