@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Public Understanding of Science"
             }
+          },
+          {
+            "id": "4aada29c529b1582",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -40,7 +53,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -110,7 +124,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b5f44043f1874df6",
+  "active": "4aada29c529b1582",
   "lastOpenFiles": [
     "Science, Technology and Society/Sociology of Science/Social Construction of Technology.md",
     "Science, Technology and Society/Sociology of Science/Public Understanding of Science.md",
