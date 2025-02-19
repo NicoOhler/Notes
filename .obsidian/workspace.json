@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Science, Technology and Society/Altklausurfragen.md",
+                "file": "Science, Technology and Society/Altklausurfragen + Lösung.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Altklausurfragen"
+              "title": "Altklausurfragen + Lösung"
             }
           }
         ],
@@ -128,8 +128,9 @@
   },
   "active": "b41e532da8608ff7",
   "lastOpenFiles": [
-    "Science, Technology and Society/Sociology of Science/Public Communication of Science and Technology (PCST).md",
     "Science, Technology and Society/Altklausurfragen.md",
+    "Science, Technology and Society/Altklausurfragen + Lösung.md",
+    "Science, Technology and Society/Sociology of Science/Public Communication of Science and Technology (PCST).md",
     "Science, Technology and Society/Sociology of Science/Sociology of Science.md",
     "Science, Technology and Society/Sociology of Science/Public Understanding of Science (PUS).md",
     "Science, Technology and Society/Sociology of Science/Sociology of Scientific Knowledge (SSK).md",
@@ -158,7 +159,6 @@
     "Informatik/Data Science and AI/Intelligence.md",
     "Science, Technology and Society",
     "Mathematik/Allgemeine Mathematik/Zeichensammlung.md",
-    "Informatik/Data Science and AI/Data Science and AI.md",
     "Informatik/Machine Learning/ML1/lecture13.pdf",
     "Informatik/Machine Learning/ML1/lecture12.pdf",
     "Informatik/Machine Learning/ML1/lecture11.pdf",
