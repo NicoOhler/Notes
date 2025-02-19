@@ -1,23 +1,23 @@
 1. Which of the following statements explain resistance to science and technology?
     - a) Protests against the Vietnam war and activism for civil rights and gender equality and environmental protection are unrelated to resistance to science and technology during the 1970s.
-    - b) During the 1970s, resistance to science and technology called materialist values into question and could henceforth no longer be taken for granted.
+    - ==b) During the 1970s, resistance to science and technology called materialist values into question and could henceforth no longer be taken for granted.==
     - c) Understanding the social context does not explain resistance to science and technology, because science and technology develop independent of social circumstances.
 2. Which of the following statements is correct?
-    - a) If technology is understood to be neutral, it has no effect on human action and how we assess it.
+    - *a) If technology is understood to be neutral, it has no effect on human action and how we assess it.*
     - b) If technology is conceptualized as an actor, it means that it is a tool.
-    - c) If we argue that we can master technology. Our intentions count in order to use these technologies responsibly.
+    - ==c) If we argue that we can master technology. Our intentions count in order to use these technologies responsibly.==
     - d) If technology is neutral, it can act on its own.
 3. Identify correct statements below.
     - a) The strong emphasis on the collective, public goods (commons) and collective decision making is a characteristic feature of neoliberal positions.
-    - b) Neoliberalism means a revival of classical liberalism.
-    - c) Neoliberalism suggests the application of the logic of profit maximization and optimization to other domains of life (e.g. education, healthcare, …)
+    - *b) Neoliberalism means a revival of classical liberalism.*
+    - ==c) Neoliberalism suggests the application of the logic of profit maximization and optimization to other domains of life (e.g. education, healthcare, …)==
 4. Choose the statements that claim why technology is neutral
-    - a) Because technologies are best understood as tools
+    - ==a) Because technologies are best understood as tools==
     - b) Because technologies can act on their own
     - c) Because it depends on the design of a technology and not how it is used.
     - d) Because of its effects on the environment
 5. Identify correct statements below
-    - a) System compatibility means that particular type of social and political order are more favorable for a given technology than alternative ones.
+    - ==a) System compatibility means that particular type of social and political order are more favorable for a given technology than alternative ones.==
     - b) Today system compatibility can be applied to neoliberal forms of political order, it does not only apply to the totalitarian state
     - c) Because the cold war is over Winner's argument of system compatibility does not apply to modern technologies such as the internet.
     - d) If we argue that the political context does not effect technology and it implies the claim that the respective technology is neutral

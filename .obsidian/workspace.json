@@ -13,20 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Science, Technology and Society/Sociology of Science/Sociology of Science.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sociology of Science"
-            }
-          },
-          {
-            "id": "b41e532da8608ff7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Science, Technology and Society/Altklausurfragen + Lösung.md",
                 "mode": "source",
                 "source": false
@@ -35,8 +21,7 @@
               "title": "Altklausurfragen + Lösung"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,16 +111,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b41e532da8608ff7",
+  "active": "af57d5969c8356d2",
   "lastOpenFiles": [
-    "Science, Technology and Society/Altklausurfragen.md",
+    "Science, Technology and Society/Science, Technology and Society.md",
     "Science, Technology and Society/Altklausurfragen + Lösung.md",
-    "Science, Technology and Society/Sociology of Science/Public Communication of Science and Technology (PCST).md",
     "Science, Technology and Society/Sociology of Science/Sociology of Science.md",
+    "Science, Technology and Society/Altklausurfragen.md",
+    "Science, Technology and Society/Sociology of Science/Public Communication of Science and Technology (PCST).md",
     "Science, Technology and Society/Sociology of Science/Public Understanding of Science (PUS).md",
     "Science, Technology and Society/Sociology of Science/Sociology of Scientific Knowledge (SSK).md",
     "Science, Technology and Society/Sociology of Science/Social Construction of Technology (SCOT).md",
-    "Science, Technology and Society/Science, Technology and Society.md",
     "Science, Technology and Society/Neutral Technology/Neutral Technology.md",
     "Science, Technology and Society/Affordances.md",
     "Science, Technology and Society/Actor-Network Theory.md",
