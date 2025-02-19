@@ -1,4 +1,4 @@
-#### **Definition and Purpose**
+#### Definition and Purpose
 - **LCA** is a **structured, comprehensive, and internationally standardized method** for evaluating environmental impacts **across a product's entire life cycle**, from **resource extraction** to **disposal**.
 - Standardized by **ISO 14040/14044**, providing a **consistent and quality-assured framework**.
 - Additional guidance from **the ILCD Handbook (European Commission)** ensures **reliable LCA data and studies**.
@@ -6,7 +6,7 @@
     - **Environmental impacts** (climate change, pollution, resource depletion).
     - **Social considerations** (labor conditions, human rights).
     - **Economic factors** (costs, resource efficiency, feasibility).
-#### **LCA Components**
+#### LCA Components
 1. **Goal and Scope Definition** (ISO 14040)
     - Defines **intended application, target audience, and reasons for conducting the study**.
     - Establishes **system boundaries** (cradle-to-gate, cradle-to-grave, cradle-to-cradle).
@@ -32,43 +32,29 @@
     - Analyzes **data completeness, consistency, and sensitivity**.
     - **Identifies key environmental hotspots** and trade-offs.
     - Provides **recommendations for decision-making** in industry and policy.
-### **Applications of LCA**
+### Applications of LCA
 - **Public Policy**: Guides environmental regulations (e.g., EU’s **Integrated Product Policy**, green building codes).
 - **Strategic Planning**: Used in **waste management, energy planning**.
 - **Product Development**: Supports **eco-design and responsible innovation**.
 - **Marketing**: Communicates **environmental footprints** to consumers.
-
----
-
-### **Life Cycle Sustainability Assessment (LCSA)**
-
+### Life Cycle Sustainability Assessment (LCSA)
 - **LCSA** expands LCA to **include social and economic aspects**:
     - **Planet**: Life Cycle Assessment (LCA) → Environmental sustainability.
     - **People**: Social Life Cycle Assessment (SLCA) → Labor rights, well-being.
     - **Prosperity**: Life Cycle Costing (LCC) → Economic viability.
-
----
-
-### **Case Study: Digital Content Consumption**
-
+### Case Study: Digital Content Consumption
 - **Findings from Istrate et al. (2024)**:
     - **End-user devices (smartphones, laptops) contribute significantly to total impact**, driven by:
         - **Energy-intensive manufacturing**.
         - **Short product lifespans**.
     - **Data centers account for high operational emissions**, especially in **regions reliant on fossil fuels (North America, Asia-Pacific)**.
     - **Decarbonization of electricity could reduce environmental impacts by up to 70%**.
-
-#### **AI and Sustainability**
-
+#### AI and Sustainability
 - **AI models like ChatGPT have rising energy demands**, with potential long-term environmental consequences:
     - **Training large AI models doubles energy use every ~9 months**.
     - **AI-driven data centers require large-scale electricity investments** (some tech companies investing in **geothermal, solar, and nuclear solutions**).
     - **Trade-offs**: AI may **aid climate modeling and sustainability efforts**, but also **increase digital resource consumption**.
-
----
-
-### **Challenges and Considerations**
-
+### Challenges and Considerations
 - **Burden Shifting**: Solving one problem can create another (e.g., **biodegradable plastics requiring more land use**).
 - **Electricity Mix**: **Data centers' sustainability depends on the grid's energy sources**.
 - **Circular Economy**: LCA highlights the **importance of extending product lifespans and improving recycling systems**.
