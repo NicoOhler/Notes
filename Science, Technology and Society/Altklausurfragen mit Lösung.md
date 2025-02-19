@@ -59,7 +59,7 @@
     - ==b) Multi-Level Perspective seeks to contribute to promoting sustainable transition==
     - c) Multi-Level Perspective is the only theory that explains sociotechnical change
 13. Identify correct statements below
-    - *a) Nomological reasoning is highly context specific*
+    - a) Nomological reasoning is highly context specific
     - b) Nomological explanations does not allow to predict
     - ==c) The Hempel-Oppenheim scheme describes nomological reasoning==
     - d) Deductive reasoning means to explain a general law (of nature) based on the case at hand
@@ -96,7 +96,7 @@
     - ==c) Historical examples of how the transition from sailing to steam ships happened hold clues how we can overcome fossil fuel based transport systems.==
     - ==d) Niche innovation require support structures as provided by the state in order to enhance sustainable transition==
 20. Identify correct statements below
-    - *a) Analytical philosophy looks into the practical reasoning to understand how to obtain new knowledge*
+    - a) Analytical philosophy looks into the practical reasoning to understand how to obtain new knowledge
     - b) Modern Science emerged in the 20th century
     - ==c) Philosophers have reflected upon epistemological questions since ancient times==
     - ==d) The logic of research studies the structure of scientific arguments==
@@ -121,6 +121,6 @@
     - ==c) One reason why scientists are interested in the "public understanding of science" results from declining numbers of students who chose to study STEM subjects (science, technology, engineering and mathematics)==
     - *d) Public controversies over particular fields of science raise questions over what the public knows about science*
 25. Which of the following statements explain technology assessment?
-    - a) Constructive Technology Assessement (CTA) was developed in the USA and calls for expert advice in policy making
-    - ==b) Consensus Conference was developed in Denmark and emphasises participatory methods==
+    - a) Constructive Technology Assessment (CTA) was developed in the USA and calls for expert advice in policy making
+    - ==b) Consensus Conference was developed in Denmark and emphasizes participatory methods==
     - ==c) Participation in Technology Assessment means to engage broader groups of society in the knowledge making processes relevant for the shaping technologies and political decisions==
