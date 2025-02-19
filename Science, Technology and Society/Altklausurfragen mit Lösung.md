@@ -3,7 +3,7 @@
     - ==b) During the 1970s, resistance to science and technology called materialist values into question and could henceforth no longer be taken for granted.==
     - c) Understanding the social context does not explain resistance to science and technology, because science and technology develop independent of social circumstances.
 2. Which of the following statements is correct?
-    - *a) If technology is understood to be neutral, it has no effect on human action and how we assess it.*
+    - a) If technology is understood to be neutral, it has no effect on human action and how we assess it.
     - b) If technology is conceptualized as an actor, it means that it is a tool.
     - ==c) If we argue that we can master technology. Our intentions count in order to use these technologies responsibly.==
     - d) If technology is neutral, it can act on its own.
@@ -20,7 +20,7 @@
     - ==a) System compatibility means that particular type of social and political order are more favorable for a given technology than alternative ones.==
     - ==b) Today system compatibility can be applied to neoliberal forms of political order, it does not only apply to the totalitarian state==
     - c) Because the cold war is over Winner's argument of system compatibility does not apply to modern technologies such as the internet.
-    - *d) If we argue that the political context does not effect technology and it implies the claim that the respective technology is neutral*
+    - *==d) If we argue that the political context does not effect technology and it implies the claim that the respective technology is neutral*==
     - e) Winner argues why democratic political order is compatible with nuclear energy.
     - f) System compatibility means that democratic societies are more compatible with neutral technologies
 6. Identify correct statements below
@@ -28,7 +28,7 @@
     - b) The linear model of innovation is irrelevant for neo-classical economic thought.
     - *c) Benoit Godin argues that we do not replace the linear model of innovation because there is is no qualitative alternative to it.*
     - ==d) The OECD plays a key role in promoting the linear model of innovation through its methodological guidelines.==
-    - *e) Vannevar Bush was not the first to suggest a the linear model of innovation*
+    - ==e) Vannevar Bush was not the first to suggest a the linear model of innovation==
 7. Identify correct statements below
     - *a) The metaphor of a black swan means that a nomological explanations always contain some exemptions*
     - b) The philosopher Karl Popper argues that the verification of scientific knowledge claims is possible
