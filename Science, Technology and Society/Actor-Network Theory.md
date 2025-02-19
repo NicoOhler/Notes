@@ -1,16 +1,29 @@
 ### Concept of Technology:
-- **Bruno Latour**: Proposed and popularized this theory.
-- **Tool vs. Actor**: Traditionally, technology is seen as a neutral tool that humans use. However, ANT challenges this by suggesting that technology can act as an "actor" within a network, influencing outcomes.
-- **Socio-Technical Configuration**: ANT views technology not as an isolated entity but as part of a network of relationships between humans and non-humans (actants).
+- **Bruno Latour**: Developed and popularized ANT, arguing that technology is not merely a passive tool but an active participant in shaping society.
+- **Tool vs. Actor**: Traditionally, technology is viewed as a neutral tool controlled by humans. ANT challenges this by introducing **actants**—both human and non-human elements that influence outcomes.
+- **Socio-Technical Configuration**: Technology should not be analyzed in isolation but as part of a **network** of relationships, where it interacts with social, political, and material factors.
 ### Guns and Agency:
-- **Debate**: There's a debate about whether guns (or technology in general) are neutral tools or active participants in social dynamics. Some argue guns are neutral, while others believe they inherently influence behavior.
-- **Latour's View**: Latour suggests that neither guns nor humans act independently. Instead, it's the relationship between them that matters. This relationship can transform intentions and actions.
-### Key Example:
-- **Berlin Key**: This example illustrates how technology (a key) and social norms (locking doors) are intertwined. The design of the key and keyhole enforces social behavior (locking the door), showing how technology can embody social norms.
+- **Debate**: The question of whether guns (or technology in general) are neutral or inherently influential has been widely discussed.
+- **Latour's View**:
+    - Humans and technologies do not act independently; their interactions shape behavior.
+    - Example: A gun in itself does not kill, and a person without a gun does not have the same capacity to kill. The relationship between the human and the gun creates new possibilities for action.
+    - The presence of certain technologies can change the nature of decisions, actions, and social behaviors.
+### Berlin Key Example:
+- A uniquely designed key that forces users to lock the door before retrieving it from the other side.
+- Illustrates how **technology enforces social norms**—in this case, ensuring doors are always locked.
+- Demonstrates that technology is not neutral but **shapes and constrains** human behavior.
 ### ANT's Core Idea:
-- **Networks**: ANT emphasizes the importance of networks, where both human and non-human elements interact. Understanding these networks is crucial to understanding how technology and society influence each other.
-- **Non-Neutrality**: In ANT, technology is not neutral because it is part of a network that shapes and is shaped by social interactions.
+- - **Networks**:
+    - ANT emphasizes that actions arise from **networks of relationships** rather than isolated human decisions.
+    - These networks include **humans, technologies, institutions, and practices**.
+- **Non-Neutrality**:
+    - Since technology is embedded within social structures, it is not neutral.
+    - Technologies shape and are shaped by social norms, economic conditions, and power dynamics.
+### Criticism of ANT:
+- **Overextension and Symmetry**: Critics argue that ANT attributes too much agency to non-human entities, potentially equating human and technological actions. 
+- **Lack of Power Analysis**: While ANT focuses on relationships, it does not adequately address how **power and inequalities** shape these networks.
+- **Descriptive, Not Prescriptive**: ANT is good at explaining **how things happen** but does not provide clear normative guidelines for change.
 ### Summary:
-- **Technology as a Tool**: In one view, technology is a neutral tool used by humans.
-- **Technology as an Actor**: In another view, technology can act and influence outcomes.
-- **ANT Perspective**: ANT suggests that technology and humans are part of a network, and their interactions are what drive actions and outcomes. This network is not neutral, as it involves complex interdependencies.
+- **Technology as a Tool**: The traditional view sees technology as neutral, merely serving human intentions.
+- **Technology as an Actor**: ANT argues that technology **actively participates** in shaping actions and outcomes.
+- **ANT Perspective**: Actions emerge from **networks** of human and non-human interactions, and technology is deeply intertwined with **social, political, and ethical** structures.
