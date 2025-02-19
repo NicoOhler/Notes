@@ -6,5 +6,7 @@
 - **Design and Access**: Technologies like keys, locks, and digital rights management can restrict access and control usage.
 - **Inclusion and Exclusion**: Technologies can either include or exclude people based on their design and implementation.
 - **Prevention and Encouragement**: Technologies may encourage or discourage certain behaviors.
+- **Power Relations**: Technologies exercise power and reinforce existing power structures. They are embedded in social contexts that determine their effects.
+- **Assumption of Neutrality is Itself a Choice**: The belief that technology is neutral is often a way of ignoring its embedded biases and consequences.
 ### Summary: 
 + Technology is not neutral because it can influence social behavior and power relations. The way technology is designed and used can have significant social implications.
