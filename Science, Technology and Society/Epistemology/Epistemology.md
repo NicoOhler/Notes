@@ -29,6 +29,7 @@
     - **Shift in Focus**: Moves beyond philosophical reasoning to empirical studies of scientific practices, emphasizing how knowledge gains credibility rather than certainty.
     - **Laboratory Studies**: Focus on what scientists do in practice, how they resolve controversies, and how consensus is achieved.
     - **From Certainty to Credibility**: The shift from seeking universal truths to understanding the context and historical changes that shape scientific knowledge.
+    - **Science as a Social Process**: Instead of viewing science as an objective endeavor, this perspective highlights the role of institutions, funding, and social dynamics in shaping knowledge.
 
 [Inductive Statistical Reasoning](Inductive%20Statistical%20Reasoning.md)
 [Deductive or Inductive Reasoning](Deductive%20or%20Inductive%20Reasoning.md)
