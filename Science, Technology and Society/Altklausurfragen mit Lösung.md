@@ -9,7 +9,7 @@
     - d) If technology is neutral, it can act on its own.
 3. Identify correct statements below.
     - a) The strong emphasis on the collective, public goods (commons) and collective decision making is a characteristic feature of neoliberal positions.
-    - *b) Neoliberalism means a revival of classical liberalism.*
+    - *==b) Neoliberalism means a revival of classical liberalism.*==
     - ==c) Neoliberalism suggests the application of the logic of profit maximization and optimization to other domains of life (e.g. education, healthcare, …)==
 4. Choose the statements that claim why technology is neutral
     - ==a) Because technologies are best understood as tools==
@@ -20,17 +20,18 @@
     - ==a) System compatibility means that particular type of social and political order are more favorable for a given technology than alternative ones.==
     - ==b) Today system compatibility can be applied to neoliberal forms of political order, it does not only apply to the totalitarian state==
     - c) Because the cold war is over Winner's argument of system compatibility does not apply to modern technologies such as the internet.
-    - *==d) If we argue that the political context does not effect technology and it implies the claim that the respective technology is neutral*==
+    - ==d) If we argue that the political context does not effect technology and it implies the claim that the respective technology is neutral==
     - e) Winner argues why democratic political order is compatible with nuclear energy.
     - f) System compatibility means that democratic societies are more compatible with neutral technologies
 6. Identify correct statements below
     - ==a) Once the linear model of innovation reflected the structures of industrial companies, governments began to collect data and performed statistical analysis.==
     - b) The linear model of innovation is irrelevant for neo-classical economic thought.
-    - *c) Benoit Godin argues that we do not replace the linear model of innovation because there is is no qualitative alternative to it.*
+    - ==c) Benoit Godin argues that we do not replace the linear model of innovation because there is is no qualitative alternative to it.==
     - ==d) The OECD plays a key role in promoting the linear model of innovation through its methodological guidelines.==
     - ==e) Vannevar Bush was not the first to suggest a the linear model of innovation==
 7. Identify correct statements below
-    - *a) The metaphor of a black swan means that a nomological explanations always contain some exemptions*
+    - **a) The metaphor of a black swan means that a nomological explanations always contain some ==exemptions==**
+	    - exception yes, exemption no
     - b) The philosopher Karl Popper argues that the verification of scientific knowledge claims is possible
     - ==c) Popper argues that if we cannot falsify a knowledge claim, we may assume it as preliminary valid.==
     - ==d) The nomological model does not explain how we discover new laws of nature==
@@ -52,7 +53,7 @@
     - ==d) Public controversies (such as the GMO controversy) resulted in attempts to overcome the "deficit model"==
 11. Which of the following statements explain SCOT?
     - ==a) At the end of the 18th Century, within a few years bicycles looked radically different. Bijker ais to explain this change with his SCOT approach.==
-    - *==b) Bijker observed a controversy over the safest bicycle design at the end of the 19th Century.*==
+    - ==b) Bijker observed a controversy over the safest bicycle design at the end of the 19th Century.==
     - ==c) Relevant users of technologies define its function. This can vary between different social groups (of users or non-users)==
 12. Which of the following statements is consistent with Multi-Level Perspective (MLP)
     - ==a) The three levels of Multi-Level Perspective help to appreciate the complexity of our understanding of sociotechnical change==
@@ -66,7 +67,7 @@
 14. Identify correct statements below
     - a) ==Inductive statistical reasoning draws on a pragmatic justification of its knowledge claims==
     - b) Against the backdrop of the Hempel-Oppenheim Scheme inductive statistical reasoning leads to scientific knowledge
-    - c) Inductive statistical reasoning has been criticized that it does not quantify its predictive value
+    - *c) Inductive statistical reasoning has been criticized that it does not quantify its predictive value*
     - ==d) Many studies using statistical methods were found impossible to replicate==
 15. Identify correct statements below
     - ==a) The "deficit model" means that the public does not know enough about science==
