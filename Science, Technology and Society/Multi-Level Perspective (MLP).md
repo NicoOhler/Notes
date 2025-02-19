@@ -37,5 +37,9 @@
     - **Horse carriages → automobiles** (20th century)
     - **Fossil fuels → renewable energy?** (Ongoing)
 ### Criticism of MLP:
-- **Descriptive Nature**: Critics argue that MLP is more descriptive than prescriptive, explaining why change doesn't happen rather than how to make it happen.
-- **Macro Developments**: Some argue that MLP sidelines long-term sociocultural changes as unchangeable, limiting its ability to guide deliberate transitions.
+- **Descriptive, Not Prescriptive**:
+    - Critics argue that MLP **explains why change doesn’t happen** rather than providing concrete strategies for driving change.
+- **Oversimplification of Macro-Level Factors**:
+    - Some argue that MLP **underestimates** the role of **long-term sociocultural transformations**, treating them as external and unchangeable forces.
+- **Difficult to Operationalize**:
+    - While insightful, MLP lacks **specific guidance** on how to design policies or interventions for transition management.

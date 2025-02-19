@@ -1,5 +1,6 @@
 ### Definition: 
-+ Technological determinism is the idea that technology is the main driver of social change. It suggests that technology shapes society in a one-way direction, where technology is the cause and society is the effect.
++ Technological determinism suggests that technology is the primary force shaping society, driving historical and social change in a **one-way** direction.
+- It implies that technological advancements unfold according to their own internal logic, independent of human intervention.
 ### Criticism:
 - **Dominance**: The belief that technology controls our lives is questioned. Examples include how technology affects traffic, communication, agriculture, and even personal relationships.
 - **Problematic Views**:
