@@ -1,19 +1,41 @@
 ### Purpose and Importance:
-- **Understanding Change**: MLP is a framework for understanding how technology and society change together. It examines the relationship between technological innovations and societal shifts.
-- **Normative Agenda**: It is particularly relevant for addressing issues like climate change and sustainability, helping to explore how deliberate socio-technical transitions can be achieved.
+- **Understanding Socio-Technical Change**:
+    - MLP provides a **framework for analyzing technological transitions**, emphasizing the interaction between **innovation, institutions, and societal structures**.
+    - It helps explain how technologies emerge, stabilize, and replace older systems.
+- **Normative Agenda**:
+    - Particularly useful for **sustainability transitions** (e.g., climate change, renewable energy).
+    - Used to explore how **deliberate socio-technical shifts** can be encouraged.
 ### Challenges of Change:
-- **Resistance to Change**: Technological change is often slow and incremental due to established economic, social, cultural, and regulatory norms, leading to "lock-ins" that resist transition.
-- **Path Dependency**: Existing systems and structures create dependencies that make change difficult.
+- **Resistance to Change**:
+    - Change is often **slow and incremental** due to **existing economic, social, and political norms** that reinforce the status quo.
+    - Technologies and infrastructures create **“lock-ins”**, making it difficult to shift to alternatives.
+- **Path Dependency**:
+    - **Historical choices and investments** shape future possibilities, creating dependencies that hinder radical change.
 ### Three Levels of MLP:
-- **Niche (Micro-Level)**: The source of radical innovations that differ from the prevailing regime. These are often small-scale, voluntary, and occur in protected spaces.
-- **Regime (Meso-Level)**: Represents the current system of structures and practices that are stable and resistant to change. Innovations here are usually incremental.
-- **Landscape (Macro-Level)**: Encompasses larger contextual developments like wars, economic crises, and political upheavals that can influence change but are beyond the control of individual actors.
+- **Niche (Micro-Level)**:
+    - The space where **radical innovations** emerge.
+    - Typically small-scale, **experimental, and shielded from mainstream market pressures** (e.g., government-funded pilot projects, grassroots movements).
+- **Regime (Meso-Level)**:
+    - Represents the **dominant system of practices, institutions, and rules** that guide current technological and societal behaviors.
+    - **Highly resistant to disruption** due to regulatory frameworks, economic interests, and cultural norms.
+- **Landscape (Macro-Level)**:
+    - Encompasses **broader contextual developments** (e.g., economic crises, wars, political shifts, climate change).
+    - Can exert **pressure on regimes**, forcing adaptation or collapse.
 ### How Change Happens:
-- **Interplay of Levels**: Change occurs through the interaction of niches, regimes, and landscapes. Niches and landscapes can destabilize regimes, creating windows of opportunity for change.
-- **Windows of Opportunity**: These arise when internal problems occur within a regime, societal pressures demand change, user needs evolve, or new technologies emerge.
+-- **Interplay of Levels**:
+    - Radical innovations from niches can **gain momentum**, challenging existing regimes.
+    - Landscape pressures (e.g., climate policies, energy crises) can **destabilize dominant systems**, opening space for change.
+- **Windows of Opportunity**:
+    - **Moments of instability** within a regime create opportunities for new technologies to **break through**.
+    - Examples: **Regulatory shifts, public opinion changes, economic incentives, or technological breakthroughs**.
 ### Facilitating Change:
-- **Niche Management**: Encouraging niche innovations and providing support structures can help instigate change. This includes creating legal frameworks and offering incentives.
-- **Historical Examples**: Transitions like the shift from sailing to steam ships or from horse carriages to automobiles illustrate how radical change can occur.
+- **Niche Management**:
+    - **Supporting experimental innovations** through legal frameworks, funding, and institutional backing.
+    - Example: **Renewable energy subsidies helping wind and solar power gain traction**.
+- **Historical Examples**:
+    - **Sailing ships → steamships** (19th century)
+    - **Horse carriages → automobiles** (20th century)
+    - **Fossil fuels → renewable energy?** (Ongoing)
 ### Criticism of MLP:
 - **Descriptive Nature**: Critics argue that MLP is more descriptive than prescriptive, explaining why change doesn't happen rather than how to make it happen.
 - **Macro Developments**: Some argue that MLP sidelines long-term sociocultural changes as unchangeable, limiting its ability to guide deliberate transitions.

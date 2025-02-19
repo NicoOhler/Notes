@@ -35,8 +35,7 @@
               "title": "Linear Model of Innovation"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,10 +125,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6da26308981ca910",
+  "active": "1c2d14465138be2b",
   "lastOpenFiles": [
-    "Science, Technology and Society/Multi-Level Perspective (MLP).md",
     "Science, Technology and Society/Linear Model of Innovation.md",
+    "Science, Technology and Society/Multi-Level Perspective (MLP).md",
     "Science, Technology and Society/Life Cycle Assessment.md",
     "Science, Technology and Society/Affordances.md",
     "z_images/Pasted image 20250219103104.png",

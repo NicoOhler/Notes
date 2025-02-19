@@ -4,13 +4,20 @@
 	+ **basic research → applied research → development → production → diffusion**.
 - This model assumes a **unidirectional flow** from scientific discovery to technological advancement and economic impact.
 ### History and Criticism:
-- **Origins**: Developed by U.S. industrialists to gain social recognition and government support.
+- **Origins**: 
+	- Popularized in the **mid-20th century**, particularly by U.S. industrialists and policymakers seeking **government funding and recognition** for scientific research.
+	- Gained traction through **Vannevar Bush’s 1945 report**, which argued that government investment in science would fuel economic prosperity.
 - **Criticism**:
-	- **Empirical Flaws**: The model is criticized for being overly simplistic and not accounting for failures or detours in innovation.
-	- **Statistics**: The model's success is partly due to its ability to be quantified, even if the numbers don't always support its claims.
-
+	- **Empirical Flaws**:
+	    - The model oversimplifies the complex nature of innovation, ignoring factors such as **feedback loops, trial and error, and non-linear development paths**.
+	    - Innovation rarely follows a strict sequence—unexpected discoveries and market needs often influence research priorities.
+	- **Statistics & Social Construction**:
+	    - The model’s **quantifiability** has contributed to its persistence; policymakers favor it because it offers measurable metrics for funding allocation.
+	    - However, **historical analyses** suggest that many major innovations arose **independently of directed scientific research**.
 ### Implications:
-- **Economic Focus**: The model promotes the idea that science should be economically beneficial, which can limit pure, curiosity-driven research.
-- **Policy Influence**: Despite its flaws, the model persists because it aligns with economic policies and can be easily measured.
-### Why It Persists:
-- **Numbers and Policy**: The model continues to be used because it fits well with economic theories and policy-making, even if it's not entirely accurate.
+- **Economic & Policy Influence**:
+    - **Commercialization of Science**: The model reinforces the idea that research should have immediate economic benefits, potentially undermining **curiosity-driven or fundamental research**.
+    - **Policy Frameworks**: Many science and innovation policies are structured around this model, even though it fails to capture **real-world innovation dynamics**.
+- **Persistence Despite Flaws**:
+    - The model aligns well with **economic theories and policy-making agendas**, making it politically and institutionally difficult to replace.
+    - The belief that **science should "pay off" economically** remains a strong justification for public funding of research.
