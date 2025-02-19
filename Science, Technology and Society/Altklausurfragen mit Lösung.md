@@ -65,8 +65,8 @@
     - d) Deductive reasoning means to explain a general law (of nature) based on the case at hand
 14. Identify correct statements below
     - a) ==Inductive statistical reasoning draws on a pragmatic justification of its knowledge claims==
-    - *b) Against the backdrop of the Hempel-Oppenheim Scheme inductive statistical reasoning leads to scientific knowledge*
-    - *c) Inductive statistical reasoning has been criticized that it does not quantify its predictive value*
+    - b) Against the backdrop of the Hempel-Oppenheim Scheme inductive statistical reasoning leads to scientific knowledge
+    - c) Inductive statistical reasoning has been criticized that it does not quantify its predictive value
     - ==d) Many studies using statistical methods were found impossible to replicate==
 15. Identify correct statements below
     - ==a) The "deficit model" means that the public does not know enough about science==
@@ -77,7 +77,7 @@
     - f) The "deficit model" assumes that the scientists fail to convey scientific knowledge to the public
 16. Identify correct statements below
 	+ According to Merton "communism" means that science follow socialist state planning
-	+ *According to Merton "universalism" means that knowledge claims need to be true always and everywhere*
+	+ According to Merton "universalism" means that knowledge claims need to be true always and everywhere
 	+ ==According to Merton "disinterestedness" refers to curiosity driven research as an honorable motivation in science==
 	+ According to Merton "organized skepticism" is an anti-science attitude
 17. Which of the following statements explain SCOT?
@@ -119,7 +119,7 @@
     - ==a) Scientists developed an interest in "the public understanding of science" since they feared cuts in governmental funding==
     - b) The discussion over the "public understanding of science" emerged in the United States during the 19th century
     - ==c) One reason why scientists are interested in the "public understanding of science" results from declining numbers of students who chose to study STEM subjects (science, technology, engineering and mathematics)==
-    - *d) Public controversies over particular fields of science raise questions over what the public knows about science*
+    - ==d) Public controversies over particular fields of science raise questions over what the public knows about science==
 25. Which of the following statements explain technology assessment?
     - a) Constructive Technology Assessment (CTA) was developed in the USA and calls for expert advice in policy making
     - ==b) Consensus Conference was developed in Denmark and emphasizes participatory methods==
