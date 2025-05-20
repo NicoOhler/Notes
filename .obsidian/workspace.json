@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Machine Learning/Retrieval Augmented Generation/Motivation.md",
+                "file": "Informatik/Machine Learning/Retrieval Augmented Generation/Generation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Motivation"
+              "title": "Generation"
             }
           }
         ]
@@ -131,11 +131,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "23cca8526a38c412",
+  "active": "097b9a58ea336072",
   "lastOpenFiles": [
-    "Informatik/Machine Learning/Retrieval Augmented Generation/Motivation.md",
-    "Informatik/Machine Learning/Retrieval Augmented Generation/Basic Concepts.md",
+    "Informatik/Machine Learning/Retrieval Augmented Generation/Evaluation",
+    "Informatik/Machine Learning/Retrieval Augmented Generation/Generation.md",
+    "Informatik/Machine Learning/Retrieval Augmented Generation/Indexing.md",
     "Informatik/Machine Learning/Retrieval Augmented Generation.md",
+    "Informatik/Machine Learning/Retrieval Augmented Generation/Basic Concepts.md",
+    "Informatik/Machine Learning/Retrieval Augmented Generation/Motivation.md",
     "Informatik/Machine Learning/Retrieval Augmented Generation",
     "Science, Technology and Society/Science, Technology and Society.md",
     "Science, Technology and Society/Miscellaneous/Altklausurfragen mit Lösung.md",
@@ -158,9 +161,6 @@
     "Science, Technology and Society/Neutral Technology/Circumstances of Production.md",
     "Science, Technology and Society/Epistemology/Deductive or Inductive Reasoning.md",
     "Science, Technology and Society/Epistemology/Inductive Statistical Reasoning.md",
-    "Science, Technology and Society/Epistemology/Epistemology.md",
-    "Science, Technology and Society/Neutral Technology/Technology as a Tool.md",
-    "Science, Technology and Society/Neutral Technology/System Compatibility.md",
     "z_images/Pasted image 20250219103104.png",
     "Science, Technology and Society/Sociology of Science",
     "Science, Technology and Society/Epistemology",

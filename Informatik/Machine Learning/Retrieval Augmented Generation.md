@@ -1,149 +1,3 @@
-### 1. RAG Basics
-
-#### **1. A — LLM Limitations**
-
-**Knowledge Cut-off Date**: Training an LLM is an expensive and time-consuming process. It takes massive volumes of data and several weeks, or even months, to train an LLM. The data that LLMs are trained on is therefore not current. For example, [GPT-4o has knowledge only up to October 2023.](https://otterly.ai/blog/knowledge-cutoff/) Any event that happened after this knowledge cut-off date is not available to the model.
-
-**Training Data Limitation**: LLMs are trained on large volumes of data from a variety of public sources — like [Llama 3 has been trained on a whopping 15 trillion tokens (about 7 times more than Llama 2](https://kili-technology.com/large-language-models-llms/llama-3-guide-everything-you-need-to-know-about-meta-s-new-model-and-its-data#training-dataset--quality-and-quantity)) — but they do not have any knowledge of information that is not public. Publicly available LLMs have not been trained on information like internal company documents, customer information, product documents, etc. So, LLMs cannot be expected to respond to queries about such information.
-
-**Hallucinations**: [LLMs are next-word predictors. They are not trained to verify the facts in their responses](https://amistrongeryet.substack.com/p/large-language-models-explained). Thus, it is observed that LLMs sometimes provide responses that are factually incorrect, and despite being incorrect, these responses sound extremely confident and legitimate. This characteristic of "lying with confidence," called hallucination, has proved to be one of the biggest criticisms of LLMs.
-
-**Context Window**: Every LLM, by the nature of the architecture, can process upto a maximum number of tokens. This maximum number of tokens is referred to as the context window of the model. If the prompt is longer than the context window, then the portion of the prompt beyond the limit is discarded.
-
-![None](https://miro.medium.com/v2/resize:fit:700/1*kw9RMVEV5EElOoFqQzeOFQ.png)
-
-Popular LLMs with their cut-off date and context window (Source: Curated by Author)
-
-#### **1.B — RAG Concepts**
-
-**Parametric Memory**: The ability of an LLM to retain information that it has been trained on is solely reliant on its parameters. It can therefore be said that LLMs store factual information in their parameters. This memory that is internally present in the LLM can be referred to as the parametric memory. This parametric memory is limited. It depends upon the number of parameters and is a factor of the data on which the LLM has been trained on.
-
-**Non-parametric Memory**: Information that LLMs do not have in their internal parameters but can access via external retrieval mechanisms, like a search engine or database. RAG provides the LLM with access to this non-parametric memory.
-
-**Knowledge Base**: The non-parametric memory that has been created for the RAG application. This contains information from a variety of pre-determined sources which is processed and stored in persistent memory
-
-**User Query:** The prompt that a user (or a system) wants to send to an LLM for a response
-
-**Retrieval**: The process via which, information pertinent to the user query is searched for and fetched from the knowledge base.
-
-**Augmentation**: The process of adding the retrieved information to the user query.
-
-**Generation**: The process of generating results by the LLM when provided with an augmented prompt.
-
-**Source Citation**: Ability of a RAG system to point out to the information from the knowledge base that was used to generate the response
-
-**Unlimited Memory**: The notion that any number of documents can be added to the RAG knowledge base
-
-![None](https://miro.medium.com/v2/resize:fit:700/1*gl9E75jITNtszyUxaEPQvA.png)
-
-How does RAG help? (Source: Image by Author)
-
-### 2. Core Components
-
-#### **2.A — Indexing**
-
-**Indexing Pipeline:** The set of processes that is employed to create the knowledge base for RAG applications. It is a non real-time pipeline that updates the knowledge base at periodic intervals.
-
-**Source Systems**: The original locations where the data that is desired for the RAG application is stored. These can be data lakes, file systems, CMSs, SQL & NoSQL databases, 3rd party data stores etc.
-
-**Data Loading**: The first step of the indexing pipeline that connects to source systems to extract and parse files for data to be used in the RAG knowledge base.
-
-**Metadata**: A common way of defining metadata is "data about data". Metadata describes other data. It can provide information like a description of the data, time of creation, author, etc. While metadata is useful for managing and organising data, in the context of RAG, metadata enhances the search-ability of data.
-
-**Data Masking:** Obfuscation of sensitive information like PII or confidential data
-
-**Chunking**: The process of breaking down long pieces of text into smaller manageable sizes or "chunks". Chunking is crucial to the efficient creation of knowledge base for RAG systems. Chunking increases the ease of search and overcomes the context window limits of LLMs.
-
-[
-
-## Breaking It Down : Chunking Techniques for Better RAG
-
-### Mastering chunking for efficient retrieval in RAG systems
-
-towardsdatascience.com
-
-
-
-](https://towardsdatascience.com/breaking-it-down-chunking-techniques-for-better-rag-3fd288bf25a0)
-
-**Lost in the middle problem:** Even in those LLMs which have a long context window (Claude 3 by Anthropic has a context window of up to 200,00 tokens), an issue with accurately reading the information has been observed. It has been noticed that [accuracy declines dramatically if the relevant information is somewhere in the middle of the prompt](https://cs.stanford.edu/~nfliu/papers/lost-in-the-middle.arxiv2023.pdf). This problem can be addressed by passing only the relevant information to the LLM instead of the entire document.
-
-**Fixed Size Chunking**: A very common approach is to p[re-determine the size of the chunk and the amount of overlap between the chunks](https://www.geeksforgeeks.org/how-to-chunk-text-data-a-comparative-analysis/). There are several chunking methods that follow a fixed size chunking approach. Chunks are created based on a fixed number of characters, tokens, sentences or paragraphs.
-
-**Structure-Based Chunking**: The aim of chunking is to keep meaningful data together. If we are dealing with data in form of HTML, Markdown, JSON or even computer code, it makes more sense to split the data based on the structure rather than a fixed size.
-
-**Context-Enriched Chunking:** [This method adds the summary of the larger document to each chunk to enrich the context of the smaller chunk](https://adasci.org/chunking-strategies-for-rag-in-generative-ai/). This makes more context available to the LLM without adding too much noise. It also improves the retrieval accuracy and maintains semantic coherence across chunks. This is particularly useful in scenarios where a more holistic view of the information is crucial. While this approach enhances the understanding of the broader context, it adds a level of complexity and comes at the cost of higher computational requirements, increased storage needs and possible latency in retrieval.
-
-**Agentic Chunking**: In [agentic chunking](https://myscale.com/blog/benefits-agentic-chunking-love/), chunks from the text are created based on a goal or a task. Consider an e-commerce platform wanting to analyse customer reviews. The best way for the reviews to be chunked is if the reviews pertaining to a particular topic are put in the same chunk. Similarly, the critical reviews and positive reviews may be put in different chunks. To achieve this kind of chunking, we will need to do sentiment analysis, entity extraction and some kind of clustering. This can be achieved by a multi-agent system. Agentic chunking is still an active area of research and improvement.
-
-**Semantic Chunking:** This method looks at [semantic similarity](https://python.langchain.com/v0.2/docs/how_to/semantic-chunker/) (or similarity in the meaning) between sentences is called semantic chunking. It first creates groups of three sentences and then merges groups that are similar in meaning. To find out the similarity in meaning, this method uses Embeddings. This is still an experimental chunking technique.
-
-**[Small to big chunking](https://towardsdatascience.com/advanced-rag-01-small-to-big-retrieval-172181b396d4)**: A hierarchical chunking method where the text is first broken down into very small units (e.g., sentences, paragraphs), and the small chunks are merged into larger ones until the chunk size is achieved. Sliding window chunking uses overlap between chunks to maintain context across chunk boundaries**.**
-
-![None](https://miro.medium.com/v2/resize:fit:700/1*G8njsa0-GRvbmFQQQ_VGoA.png)
-
-Small to big chunking (Source: Image by Author)
-
-**Chunk Size:** The [size of the chunks, which is measure in the number of tokens in the chunk, can have a significant impact on the quality of the RAG system](https://www.llamaindex.ai/blog/evaluating-the-ideal-chunk-size-for-a-rag-system-using-llamaindex-6207e5d3fec5). While large sized chunks provide better context, they also carry a lot of noise. Smaller chunks, on the other hand, have precise information but they might miss important information.
-
-**Metadata Filtering:** Adding metadata like timestamp, author, category, etc. can enhance the chunks. While retrieving, chunks can first be filtered by relevant metadata information before doing a similarity search. This improves retrieval efficiency and reduces noise in the system. For example, using the timestamp filters can help avoid outdated information in the knowledge base.
-
-**Metadata Enhancement**: Metadata like chunk summary, sentiment, category etc. that can be inferred beyond tags like source, timestamp, author etc. can be used to enhance retrieval.
-
-**Parent Child Indexing:** A document structure where documents are organised hierarchically. The parent document contains overarching themes or summaries, while child documents delve into specific details. During retrieval, the system can first locate the most relevant child documents and then refer to the parent documents for additional context if needed. This approach enhances the precision of retrieval while maintaining the broader context. At the same time, this hierarchical structure can present challenges in terms of memory requirements and computational load.
-
-**Embeddings**: Computers, at the very core, do mathematical calculations. Mathematical calculations are done on numbers. Therefore, for a computer to process any kind of non-numeric data like text or image, it must be first converted into a numerical form. Embeddings is a design pattern that is extremely useful for RAG. Embeddings are vector representations of data. As a general definition, embeddings are data that has been transformed into n-dimensional matrices. A word embedding is a vector representation of words.
-
-[
-
-## Embeddings — The Blueprint of Contextual AI
-
-### Embeddings are vector representations of data. Embeddings are data that has been transformed into n-dimensional…
-
-towardsai.net
-
-
-
-](https://pub.towardsai.net/embeddings-the-blueprint-of-contextual-ai-e72f6781028f)
-
-![None](https://miro.medium.com/v2/resize:fit:700/1*t7v6yp6d3d702NHqj_8adw.png)
-
-Embeddings are vector representations of unstructured data (Source: Image by Author)
-
-**Cosine Similarity**: The reason why embeddings are popular is because they help in establishing semantic relationship between words, phrases, and documents. Cosine similarity is calculated as the cosine value of the angle between the two vectors. Cosine of parallel lines i.e. angle=0 is 1 and cosine of a right angle i.e. 90 is 0. On the other end, the cosine of opposite lines i.e. angle =180 is -1. Therefore, the cosine similarity lies between -1 and 1 where unrelated terms have a value close to 0, and related terms have a value close to 1.
-
-![None](https://miro.medium.com/v2/resize:fit:700/1*YiLBenEmsOVeMxdtT8TkmQ.png)
-
-Cosine similarity calculation (Source: Image by Author)
-
-**Word2Vec**: Word2Vec is a shallow neural network-based model for learning word embeddings developed by researchers at Google. It is one of the earliest embedding techniques
-
-**GloVe**: Global Vectors for Word Representations is an unsupervised learning technique developed by researchers at Stanford University
-
-**FastText**: FastText is an extension of Word2Vec developed by Facebook AI Research. It is particularly useful for handling misspellings and rare words.
-
-**ELMo:** Embeddings from Language Models was developed by researchers at Allen Institute for AI. ELMo embeddings have been shown to improve performance on question answering and sentiment analysis tasks.
-
-**BERT**: Bidirectional Encoder Representations from Transformers, developed by researchers at Google, is a Transformers architecture-based model. It provides contextualized word embeddings by considering bidirectional context, achieving state-of-the-art performance on various natural language processing tasks.
-
-**Pre-trained Embeddings Models**: Embeddings models that have been trained on a large corpus of data can also generalise well across a number of tasks and domains. There are a variety of proprietary and open-source pre-trained embeddings models that are available to use. This is also one of the reasons why the usage of embeddings has exploded in popularity across machine learning applications.
-
-**Vector Databases**: Vector Databases are built to handle high dimensional vectors like embeddings. These databases specialise in indexing and storing vector embeddings for fast semantic search and retrieval.
-
-**Vector Indices**: These are libraries that focus on the core features of indexing and search. They do not support data management, query processing, interfaces etc. They can be considered a bare bones vector database. Examples of vector indices are Facebook AI Similarity Search (FAISS), Non-Metric Space Library (NMSLIB), Approximate Nearest Neighbors Oh Yeah (ANNOY), etc.
-
-[
-
-## Getting the Most from LLMs: Building a Knowledge Brain for Retrieval Augmented Generation
-
-### Source : Image by Author
-
-towardsai.net
-
-
-
-](https://pub.towardsai.net/getting-the-most-from-llms-building-a-knowledge-brain-for-retrieval-augmented-generation-3c1568667742)
-
 #### 2.B — Generation
 
 **Generation Pipeline**: The set of processes that is employed to search and retrieve information from the knowledge base to generate responses to user queries. It facilitates real-time interaction with users.
@@ -158,7 +12,6 @@ towardsai.net
 
 ![None](https://miro.medium.com/v2/resize:fit:700/1*9VLpWevJ2a-Fnf6d-05gkg.png)
 
-TF-IDF calculation (Source: Image by Author)
 
 **BM25**: Best Match 25 is an advanced probabilistic model used to rank documents based on the query terms appearing in each document. It is part of the family of probabilistic information retrieval models and is considered an advancement over the classic TF-IDF model. The improvement that BM25 brings is that it adjusts for the length of the documents so that longer documents do not unfairly get higher scores.
 
@@ -222,8 +75,6 @@ Supervised Fine-tuning (SFT) of an LLM (Source: Image by Author)
 
 **Small Language Models (SLMs)**: Smaller models with parameter sizes in millions or a few billion offer benefits such as faster inference times, lower resource usage and easier deployment on edge devices or resource constrained environments
 
-> You can also Download the pdf version of the taxonomy from Gumroad!
-
 ### 3. Evaluation
 
 #### 3.A — Metrics
@@ -235,18 +86,6 @@ Supervised Fine-tuning (SFT) of an LLM (Source: Image by Author)
 **Precision**: It measures the proportion of retrieved documents that are relevant to the user query. It answers the question, "Of all the documents that were retrieved, how many were actually relevant?"
 
 **Precision@k**: A variation of precision that measures the proportion of relevant documents amongst the top 'k' retrieved results. It is particularly important because it focusses on the top results rather than all the retrieved documents.
-
-[
-
-## 7 Retrieval Metrics for Better RAG Systems
-
-### A Simple Guide to Evaluating Accuracy in Information Retrieval Tasks
-
-towardsai.net
-
-
-
-](https://pub.towardsai.net/7-retrieval-metrics-for-better-rag-systems-f04c098abbe7)
 
 **Recall**: It measures the proportion of the relevant documents retrieved from all the relevant documents in the corpus. It answers the question, "Of all the relevant documents, how many were actually retrieved?". Like precision, recall also doesn't consider the ranking of the retrieved documents. It can also be misleading as retrieving all documents in the knowledge base will result in a perfect recall value.
 
@@ -267,18 +106,6 @@ Precision & Recall (Source: Image by Author)
 Calculating nDCG(Source: Image by Author)
 
 **Context relevance**: Evaluates how well the retrieved documents relate to the original query. The key aspects are topical alignment, information usefulness and redundancy. The retrieved context should contain information only relevant to the query or the prompt. For context relevance, a metric 'S' is estimated. 'S' is the number of sentences in the retrieved context that are relevant for responding to the query or the prompt.
-
-[
-
-## Stop Guessing and Measure Your RAG System to Drive Real Improvements
-
-### Key metrics and techniques to elevate your retrieval-augmented generation performance
-
-towardsdatascience.com
-
-
-
-](https://towardsdatascience.com/stop-guessing-and-measure-your-rag-system-to-drive-real-improvements-bfc03f29ede3)
 
 **Answer Faithfulness**: A measure of the extent to which the response is factually grounded in the retrieved context. Faithfulness ensures that the facts in the response do not contradict the context and can be traced back to the source. It also ensures that the LLM is not hallucinating. Faithfulness first identifies the number of "claims" made in the response and calculates the proportion of those "claims" present in the context.
 
@@ -350,18 +177,6 @@ Four abilities required of RAG systems (Source: [Benchmarking Large Language Mo
 
 **Over-reliance on Context**: It is noticed, sometimes, that the LLM becomes over-reliant on the retrieved context and forgets to draw from its own parametric memory.
 
-[
-
-## Beyond Naïve RAG: Advanced Techniques for Building Smarter and Reliable AI Systems
-
-### A deep dive into advanced indexing, pre-retrieval, retrieval, and post-retrieval techniques to enhance RAG performance
-
-towardsdatascience.com
-
-
-
-](https://towardsdatascience.com/beyond-na%C3%AFve-rag-advanced-techniques-for-building-smarter-and-reliable-ai-systems-c4fbcf8718b8)
-
 #### 4.B — Advanced RAG
 
 **Advanced RAG**: Pipeline with interventions at pre-retrieval, retrieval and post-retrieval stages to overcome the limitations of Naive RAG.
@@ -377,18 +192,6 @@ Advanced RAG as Rewrite-Retrieve-Rerank-Read pattern (Source: Image by Author)
 **Query Optimisation**: The objective of query optimisation is to align the input user query in a manner that makes it better suited for the retrieval tasks
 
 **Query Expansion**: The original user query is enriched with the aim of retrieving more relevant information. This helps in increasing the recall of the system and overcomes the challenge of incomplete or very brief user queries.
-
-[
-
-## Don't miss a post!
-
-### I write about RAG, LLMs, ML and AI
-
-medium.com
-
-
-
-](https://medium.com/@abhinavkimothi/subscribe)
 
 **Multi-query expansion**: In this approach, multiple variations of the original query are generated using an LLM and each variant query is used to search and retrieve chunks from the knowledge base.
 
@@ -472,7 +275,6 @@ Model Layer of the RAGOps stack (Source: Image by Author)
 
 ![None](https://miro.medium.com/v2/resize:fit:700/1*2mcaxzTkYXDvHFUgXydpJA.png)
 
-RAGOps stack with critical and essential layers (Source: Image by Author)
 
 #### 5.C — Enhancement Layers
 
@@ -533,169 +335,6 @@ Mapping data of different modalities into a shared embedding space (Source: Imag
 **Query Planning Agents**: Agents that break down complex queries into sub-queries and manage their execution across different retrieval pipelines.
 
 **Multiple Vectors per Document**: A technique where multiple vector representations are generated for each document to capture different aspects of its content.
-
-> This taxonomy is based on my book, A Simple Guide to Retrieval Augmented Generation published by Manning Publications. If you're interested, do check it out.
-
-### 7. Technology Providers
-
-#### **7.A — Model Access, Training & FineTuning**
-
-- OpenAI
-- HuggingFace
-- Google Vertex AI
-- Anthropic
-- AWS Bedrock
-- AWS Sagemaker
-- Cohere
-- Azure Machine Learning
-- IBM Watson AI
-- Mistral AI
-- Salesforce Einstein
-- Databricks Dolly
-- NVIDIA NeMo
-
-#### **7.B — Data Loading**
-
-- Snorkel AI
-- LlamaIndex
-- LangChain
-- Scale AI
-
-#### **7.C — Vector DB and Indexing**
-
-- Pinecone
-- Milvus
-- Chroma
-- Weaviate
-- Deep Lake
-- Qdrant
-- Elasticsearch
-- Vespa
-- Redis (Vector Search Support)
-- Vald
-- Zilliz
-- Marqo
-- PGVector (PostgreSQL extension)
-- MongoDB (with vector capabilities)
-- SingleStore
-
-#### **7.D — Application Framework**
-
-- LangChain
-- LlamaIndex
-- Haystack
-- CrewAI (Agentic Orchestration)
-- AutoGen (Agentic Orchestration)
-- LangGraph (Agentic Orchestration)
-- Rasa (Conversational AI)
-
-#### **7.E — Prompt Engineering**
-
-- W&B (Weights & Biases)
-- PromptLayer
-- TruEra
-- PromptHero
-- TextSynth
-
-#### **7.F — Deployment Frameworks**
-
-- Vllm
-- TensorRT-LLM
-- ONNX Runtime
-- KubeFlow
-- MLflow
-- Triton Inference Server
-
-#### **7.G — Deployment & Inferencing**
-
-- AWS
-- GCP
-- OpenAI API
-- Azure
-- IBM Cloud
-- Oracle Cloud Infrastructure
-- Heroku
-- DigitalOcean
-- Vercel
-
-#### **7.H — Monitoring**
-
-- HoneyHive
-- TruEra
-- Fiddler AI
-- Arize AI
-- Aporia
-- WhyLabs
-- Evidently AI
-- Superwise
-- Monte Carlo
-- Datadog
-
-#### **7.I — Proprietary LLMs/VLMs**
-
-- GPT series by OpenAI
-- Gemini series by Google
-- Claude series by Anthropic
-- Command series by Cohere
-- Jurassic by AI21 Labs
-- PalM by Google
-- LaMDA by Google
-
-#### **7.J — Open Source LLMs**
-
-- Llama series by Meta
-- Mixtral by Mistral
-- Falcon by TII
-- Vicuna by LMSYS
-- GPT-NeoX by EleutherAI
-- Pythia by EleutherAI
-- Dolly 2.0 by Databricks
-
-#### **7.K — Small Language Models**
-
-- Phi series by Microsoft
-- Gemma series by Google AI
-- GPT-Neo by EleutherAI
-- DistilBERT by HuggingFace
-- TinyBERT
-- ALBERT (A Lite BERT) by Google
-- MiniLM by Microsoft
-- DistilGPT2 by HuggingFace
-- Reformer by Google
-- T5-Base by Google
-
-#### **7.L — Managed RAG solutions**
-
-- OpenAI File Search
-- Amazon Bedrock Knowledge Bases
-- Azure AI File Search
-- Claude Projects
-- Vectorize.io
-
-#### **7.M — Knowledge Graph and Ontology**
-
-- Neo4j
-- Stardog
-- TerminusDB
-- TigerGraph
-
-#### **7.N — Security and Privacy**
-
-- Hazy
-- Duality
-- BigID
-
-#### **7.O — Synthetic Data**
-
-- Mostly AI
-- Tonic.ai
-- Synthesis AI
-
-#### **7.P — Others**
-
-- Cohere reranker
-- Unstructured.io
-
 ### 8. Applied RAG
 
 #### 8.A — Other RAG Patterns
