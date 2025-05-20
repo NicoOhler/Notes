@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Machine Learning/Retrieval Augmented Generation/RAG Pipeline.md",
+                "file": "Informatik/Machine Learning/Retrieval Augmented Generation/Agentic RAGs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RAG Pipeline"
+              "title": "Agentic RAGs"
             }
           }
         ]
@@ -131,10 +131,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dd8865bbb23f7082",
+  "active": "23cca8526a38c412",
   "lastOpenFiles": [
+    "Informatik/Machine Learning/Retrieval Augmented Generation/Agentic RAGs.md",
+    "Informatik/Machine Learning/Retrieval Augmented Generation/GraphRAGs.md",
     "Informatik/Machine Learning/Retrieval Augmented Generation.md",
-    "Informatik/Machine Learning/Retrieval Augmented Generation/RAG Pipeline.md",
+    "Informatik/Machine Learning/Retrieval Augmented Generation/Pipeline Design.md",
     "Informatik/Machine Learning/Retrieval Augmented Generation/Motivation.md",
     "Informatik/Machine Learning/Retrieval Augmented Generation/Metrics.md",
     "Informatik/Machine Learning/Retrieval Augmented Generation/Indexing.md",
@@ -160,8 +162,6 @@
     "Science, Technology and Society/Technology Assessment.md",
     "Science, Technology and Society/Technological Determinism.md",
     "Science, Technology and Society/Sociology of Science/Resistance to Science & Technology.md",
-    "Science, Technology and Society/Sociology of Science/Multi-Level Perspective (MLP).md",
-    "Science, Technology and Society/Life Cycle Assessment.md",
     "z_images/Pasted image 20250219103104.png",
     "Science, Technology and Society/Sociology of Science",
     "Science, Technology and Society/Epistemology",
