@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Machine Learning/Retrieval Augmented Generation/Generation.md",
+                "file": "Informatik/Machine Learning/Retrieval Augmented Generation/RAG Pipeline.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Generation"
+              "title": "RAG Pipeline"
             }
           }
         ]
@@ -131,14 +131,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "097b9a58ea336072",
+  "active": "dd8865bbb23f7082",
   "lastOpenFiles": [
-    "Informatik/Machine Learning/Retrieval Augmented Generation/Evaluation",
-    "Informatik/Machine Learning/Retrieval Augmented Generation/Generation.md",
-    "Informatik/Machine Learning/Retrieval Augmented Generation/Indexing.md",
     "Informatik/Machine Learning/Retrieval Augmented Generation.md",
-    "Informatik/Machine Learning/Retrieval Augmented Generation/Basic Concepts.md",
+    "Informatik/Machine Learning/Retrieval Augmented Generation/RAG Pipeline.md",
     "Informatik/Machine Learning/Retrieval Augmented Generation/Motivation.md",
+    "Informatik/Machine Learning/Retrieval Augmented Generation/Metrics.md",
+    "Informatik/Machine Learning/Retrieval Augmented Generation/Indexing.md",
+    "Informatik/Machine Learning/Retrieval Augmented Generation/Generation.md",
+    "Informatik/Machine Learning/Retrieval Augmented Generation/Basic Concepts.md",
+    "Informatik/Machine Learning/Retrieval Augmented Generation/Evaluation/Benchmarks.md",
+    "Informatik/Machine Learning/Retrieval Augmented Generation/Evaluation/Frameworks.md",
+    "Informatik/Machine Learning/Retrieval Augmented Generation/Evaluation",
     "Informatik/Machine Learning/Retrieval Augmented Generation",
     "Science, Technology and Society/Science, Technology and Society.md",
     "Science, Technology and Society/Miscellaneous/Altklausurfragen mit Lösung.md",
@@ -158,9 +162,6 @@
     "Science, Technology and Society/Sociology of Science/Resistance to Science & Technology.md",
     "Science, Technology and Society/Sociology of Science/Multi-Level Perspective (MLP).md",
     "Science, Technology and Society/Life Cycle Assessment.md",
-    "Science, Technology and Society/Neutral Technology/Circumstances of Production.md",
-    "Science, Technology and Society/Epistemology/Deductive or Inductive Reasoning.md",
-    "Science, Technology and Society/Epistemology/Inductive Statistical Reasoning.md",
     "z_images/Pasted image 20250219103104.png",
     "Science, Technology and Society/Sociology of Science",
     "Science, Technology and Society/Epistemology",
@@ -169,7 +170,6 @@
     "Informatik/Machine Learning/ML1/lecture13.pdf",
     "Informatik/Machine Learning/ML1/lecture12.pdf",
     "Informatik/Machine Learning/ML1/lecture11.pdf",
-    "Informatik/Machine Learning/ML1/lecture10.pdf",
     "z_images/Punnett Square.png",
     "z_images/Pasted image 20240204172651.png",
     "z_images/Pasted image 20240204172357.png",
