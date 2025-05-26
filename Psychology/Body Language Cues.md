@@ -21,6 +21,11 @@
 	+ liking others
 	+ thinking that others like you
 		+ do NOT think they do not like you
-	+ using phrases like
-		+ "I was just thinking about you"
-		+ 
+	+ using phrases like "I was just thinking about you"
++ success, motivation and happiness is contagious
+	+ surround yourself with "high quality" people
+		+ invest in the 5 people you spend the most time with
+		+ they should make you motivated, feel better
+	+ surrounding yourself with high-performers increases your performance
+		+ inverse for low-performers
+
