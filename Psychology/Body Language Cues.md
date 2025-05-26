@@ -37,11 +37,17 @@
 		+ ![](../z_images/Pasted%20image%2020250526175613.png)
 + hands are windows into the souls
 	+ they show intention
-	+ show your hands
-		+ hiding them makes others feel uneasy
-		+ palms in particular
-	+ number of hand gestures directly correlated to people believing/caring
-	+ 
+	+ show your hands (palms in particular)
+		+ hiding your hands makes others feel uneasy
+	+ number of hand gestures 
+		+ directly correlated to people
+			+ believing
+			+ caring
+			+ paying attention
+		+ seem to matter more than intense  facial expressions
+	+ lying with hand gestures is hard
+		+ liars use them less
+		+ 
 
 	+ 
 
