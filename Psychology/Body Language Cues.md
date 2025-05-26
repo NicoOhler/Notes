@@ -16,5 +16,11 @@
 		+ others will perceive this negatively
 		+ facial expressions around the eyes will not look natural
 		+ smiling is not essential for charisma 
-+ being likeable
-	+ confidence 
++ be likeable by
+	+ being  confident
+	+ liking others
+	+ thinking that others like you
+		+ do NOT think they do not like you
+	+ using phrases like
+		+ "I was just thinking about you"
+		+ 
