@@ -28,4 +28,11 @@
 		+ they should make you motivated, feel better
 	+ surrounding yourself with high-performers increases your performance
 		+ inverse for low-performers
+	+ physiological effect
+		+ smelling sweat of fear makes you afraid/careful/tense
+		+ smelling exercise sweat does not
+	+ cue cycle
+		+ reinforcing up/downwards spiral
+		+ 
+		+ ![](../z_images/Pasted%20image%2020250526175613.png)
 
