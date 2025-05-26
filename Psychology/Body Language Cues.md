@@ -33,6 +33,15 @@
 		+ smelling exercise sweat does not
 	+ cue cycle
 		+ reinforcing up/downwards spiral
-		+ 
+		+ can be broken by labelling and understanding received/sent cues
 		+ ![](../z_images/Pasted%20image%2020250526175613.png)
++ hands are windows into the souls
+	+ they show intention
+	+ show your hands
+		+ hiding them makes others feel uneasy
+		+ palms in particular
+	+ number of hand gestures directly correlated to people believing/caring
+	+ 
+
+	+ 
 
