@@ -4,54 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "61d5fc4c402d78e5",
+        "id": "caeb563b868b319b",
         "type": "tabs",
         "children": [
           {
-            "id": "dd8865bbb23f7082",
+            "id": "2ca1ad5f5706565f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Machine Learning/Retrieval Augmented Generation/Notes.md",
+                "file": "Psychology/Body Language Cues.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notes"
-            }
-          },
-          {
-            "id": "4e73462e2364fbee",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "35aeb29240f9ba74",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "23cca8526a38c412",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Informatik/Machine Learning/Retrieval Augmented Generation/Retrieval Augmented Generation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Retrieval Augmented Generation"
+              "title": "Body Language Cues"
             }
           }
         ]
@@ -144,11 +111,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4e73462e2364fbee",
+  "active": "2ca1ad5f5706565f",
   "lastOpenFiles": [
-    "Informatik/Machine Learning/Retrieval Augmented Generation/Applications.md",
-    "Informatik/Machine Learning/Retrieval Augmented Generation/Notes.md",
+    "Psychology/Body Language Cues.md",
     "Informatik/Machine Learning/Retrieval Augmented Generation/Retrieval Augmented Generation.md",
+    "Informatik/Machine Learning/Retrieval Augmented Generation/Notes.md",
+    "Informatik/Machine Learning/Retrieval Augmented Generation/Applications.md",
     "Informatik/Machine Learning/Retrieval Augmented Generation/Basic Concepts.md",
     "Informatik/Machine Learning/Retrieval Augmented Generation/Challenges.md",
     "Informatik/Machine Learning/Retrieval Augmented Generation/More RAG Patterns.md",
@@ -174,7 +142,6 @@
     "Science, Technology and Society/Sociology of Science/Public Understanding of Science (PUS).md",
     "Science, Technology and Society/Sociology of Science/Social Construction of Technology (SCOT).md",
     "Science, Technology and Society/Neutral Technology/Neutral Technology.md",
-    "Science, Technology and Society/Affordances.md",
     "z_images/Pasted image 20250219103104.png",
     "Science, Technology and Society/Sociology of Science",
     "Science, Technology and Society/Epistemology",
