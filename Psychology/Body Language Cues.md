@@ -7,5 +7,11 @@
 	+ meeting -> collaboration
 	+ group -> community
 + resting bitch face
-	+ your default face sends signals
+	+ your default face sends signals (e.g., sad, angry, tired, ...)
 	+ try to counteract those if needed
+	+ what is your resting default?
+		+ mouth, eyes, brows, ...
++ try to be authentic
+	+ look actually happy/confident on profile pictures, CVs
+	+ faking a smile is easy
+	+ facial expressions around the eyes will look 
