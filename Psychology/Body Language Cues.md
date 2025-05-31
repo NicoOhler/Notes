@@ -49,5 +49,7 @@
 	+ lying with hand gestures is hard
 		+ liars use them less
 	+ vocal variety increases with hand gestures
-	+ 
-
++ proximity zones
+	+ best conversations in personal zone
+	+ do not be too close (also in video calls)
+	+ ![](../z_images/Pasted%20image%2020250531102432.png)
