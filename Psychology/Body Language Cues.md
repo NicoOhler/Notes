@@ -22,8 +22,9 @@
 	+ thinking that others like you
 		+ do NOT think they do not like you
 	+ using phrases like 
-		+ "I was just thinking about you"
-		+ "You are always so ..."
+		+ "I was just thinking about you" (You are important to me)
+		+ "You are always so ..." (I perceive you as positive)
+		+ "Last time ..." ( I remember you)
 + success, motivation and happiness is contagious
 	+ surround yourself with "high quality" people
 		+ invest in the 5 people you spend the most time with
@@ -62,7 +63,10 @@
 	+ competent people need people to trust them
 	+ warm people need people care/believe about what they say
 	+ ![](../z_images/Pasted%20image%2020250531103401.png)
-+ important cues
++ signal amplification bias
+	+ overestimating how well other can read you
++ power cues
+	+ use if warm but not competent enough
 	+ Merkel Raute
 		+ signals competence and confidence
 	+ distance between earlobes and shoulders => confidence
@@ -79,13 +83,17 @@
 			+ did you say/do something wrong?
 			+ are they engaged? curious? sceptic? confused?
 	+ vocal cues
-		+ accidental question
+		+ avoid accidental questions
 			+ high pitch at sentence end
-			+ avoid them
 			+ especially when proposing something
 			+ often used by liars
-		+ downward inflection
+		+ use downward inflection
 			+ lower intonation at sentence end
 			+ signals that you are serious about something
-	+ signal amplification bias
-		+ 
++ warmth cues
+	+ use if competent but not warm enough
+		+ e.g., too intimidating
+	+ slow triple nod
+		+ signals "tell me more"
+		+ too fast signals impatience
+	
