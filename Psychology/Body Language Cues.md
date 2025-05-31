@@ -44,10 +44,10 @@
 			+ believing
 			+ caring
 			+ paying attention
-		+ seem to matter more than intense  facial expressions
+			+ engaging
+		+ seem to matter more than intense facial expressions
 	+ lying with hand gestures is hard
 		+ liars use them less
-		+ 
-
+	+ vocal variety increases with hand gestures
 	+ 
 
