@@ -95,5 +95,13 @@
 		+ e.g., too intimidating
 	+ slow triple nod
 		+ signals "tell me more"
+		+ makes people talk more
 		+ too fast signals impatience
+	+ head tilt
+		+ signals empathy and engagement
+		+ deliver bad news with head tilt
+		+ can be used to avoid nodding too much
++ manipulative
+	+ 
+
 	
