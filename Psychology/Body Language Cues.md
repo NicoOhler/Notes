@@ -51,5 +51,8 @@
 	+ vocal variety increases with hand gestures
 + proximity zones
 	+ best conversations in personal zone
-	+ do not be too close (also in video calls)
+	+ be careful about intimate zone (also in video calls)
+	+ loud nightclubs => people cannot understand each other => move close => intimacy enforced
 	+ ![](../z_images/Pasted%20image%2020250531102432.png)
++ charisma = competence + warmth
+	+ 
