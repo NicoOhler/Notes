@@ -55,4 +55,7 @@
 	+ loud nightclubs => people cannot understand each other => move close => intimacy enforced
 	+ ![](../z_images/Pasted%20image%2020250531102432.png)
 + charisma = competence + warmth
-	+ 
+	+ competent = powerful, reliable, capable
+	+ warm = trustworthy, likable, friendly
+	+ competence needs people to trust them
+	+ ![](../z_images/Pasted%20image%2020250531103401.png)
