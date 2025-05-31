@@ -21,7 +21,9 @@
 	+ liking others
 	+ thinking that others like you
 		+ do NOT think they do not like you
-	+ using phrases like "I was just thinking about you"
+	+ using phrases like 
+		+ "I was just thinking about you"
+		+ "You are always so ..."
 + success, motivation and happiness is contagious
 	+ surround yourself with "high quality" people
 		+ invest in the 5 people you spend the most time with
@@ -78,4 +80,12 @@
 			+ are they engaged? curious? sceptic? confused?
 	+ vocal cues
 		+ accidental question
+			+ high pitch at sentence end
+			+ avoid them
+			+ especially when proposing something
 			+ often used by liars
+		+ downward inflection
+			+ lower intonation at sentence end
+			+ signals that you are serious about something
+	+ signal amplification bias
+		+ 
