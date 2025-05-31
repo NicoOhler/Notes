@@ -57,5 +57,10 @@
 + charisma = competence + warmth
 	+ competent = powerful, reliable, capable
 	+ warm = trustworthy, likable, friendly
-	+ competence needs people to trust them
+	+ competent people need people to trust them
+	+ warm people need people care/believe about what they say
+	+ related gestures
+		+ Merkel Raute => competence + confidence
+		+ distance between earlobes and shoulders => confidence
+		+ eye contact at specific times (end of sentence, when the opposite says something importa)
 	+ ![](../z_images/Pasted%20image%2020250531103401.png)
