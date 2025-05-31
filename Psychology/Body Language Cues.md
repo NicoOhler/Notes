@@ -101,7 +101,17 @@
 		+ signals empathy and engagement
 		+ deliver bad news with head tilt
 		+ can be used to avoid nodding too much
-+ manipulative
+	+ authentic smile
+		+ see above
+	+ leaning close
+		+ signals trying to
+			+ be closer
+			+ be more intimate
+			+ listen better
+	+ 
++ highly manipulative
+	+ move hand in circular motion
+		+ makes people nod => people think they agree with you
 	+ 
 
 	
