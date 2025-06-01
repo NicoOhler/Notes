@@ -33,3 +33,31 @@
 		+ signals that you are serious about something
 
 ### Warmth Cues
++ use if competent but not warm enough
+	+ e.g., too intimidating
++ slow triple nod
+	+ signals "tell me more"
+	+ makes people talk more
+	+ too fast signals impatience
++ head tilt
+	+ signals empathy and engagement
+	+ deliver bad news with head tilt
+	+ can be used to avoid nodding too much
++ authentic smile
+	+ see above
++ briefly lean in
+	+ use at highlight in important moments
+	+ signals trying to
+		+ be closer
+		+ be more intimate
+		+ listen better
+	+ leaning too much/all the time
+		+ signal submissive behavior
+		+ people however look for equals
++ non verbal bridge
+	+ briefly bridge distance between each other
+	+ examples
+		+ lean in
+		+ reach into each other (with or without touching)
+		+ light touches
+		+ give/hand people something

@@ -20,15 +20,44 @@
               "icon": "lucide-file",
               "title": "Charisma, Warmth and Competence"
             }
+          },
+          {
+            "id": "c41d76fe20779366",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Psychology/Body Language Cues/Hand Gestures.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hand Gestures"
+            }
+          },
+          {
+            "id": "30e9b2c764c032db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Psychology/Body Language Cues/Connect With Others.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Connect With Others"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
-        "id": "0301546b13add437",
+        "id": "fdc50738fc893296",
         "type": "tabs",
         "children": [
           {
-            "id": "c41d76fe20779366",
+            "id": "771d2f4ecb28f3cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -131,10 +160,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2ca1ad5f5706565f",
+  "active": "30e9b2c764c032db",
   "lastOpenFiles": [
     "Psychology/Body Language Cues/Body Language Cues.md",
+    "Psychology/Body Language Cues/Connect With Others.md",
+    "Psychology/Body Language Cues/Hand Gestures.md",
     "Psychology/Body Language Cues/Charisma, Warmth and Competence.md",
+    "Psychology/Body Language Cues/Lies and Manipulations.md",
     "Psychology/Body Language Cues",
     "z_images/Pasted image 20250531103401.png",
     "z_images/Pasted image 20250531103315.png",
@@ -164,9 +196,6 @@
     "Science, Technology and Society/Miscellaneous",
     "Science, Technology and Society/Linear Model of Innovation.md",
     "Science, Technology and Society/Sociology of Science/Sociology of Science.md",
-    "Science, Technology and Society/Sociology of Science/Public Communication of Science and Technology (PCST).md",
-    "Science, Technology and Society/Sociology of Science/Public Understanding of Science (PUS).md",
-    "Science, Technology and Society/Sociology of Science/Social Construction of Technology (SCOT).md",
     "z_images/Pasted image 20250219103104.png",
     "Science, Technology and Society/Sociology of Science",
     "Science, Technology and Society/Epistemology",
