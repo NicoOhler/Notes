@@ -139,4 +139,13 @@
 		+ stretched out hand => handshake
 		+ both hands => hug
 		+ fist => fist bump
-	+ 
+	+ good hugs
+		+ no asymmetry
+		+ no patting 
+		+ smaller person puts hands up and vice versa
+	+ good handshake
+		+ thumb up
+			+ palm up => submissive
+			+ palm down => dominating
+		+ do not pull
++ presentations/
