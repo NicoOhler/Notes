@@ -10,21 +10,8 @@
 	+ try to counteract those if needed
 	+ what is your resting default?
 		+ mouth, eyes, brows, ...
-+ be authentic
-	+ be actually happy/confident on profile pictures, CVs
-	+ faking a smile is easy but ineffective
-		+ others will perceive this negatively
-		+ facial expressions around the eyes will not look natural
-		+ smiling is not essential for charisma 
-+ be likeable by
-	+ being  confident
-	+ liking others
-	+ thinking that others like you
-		+ do NOT think they do not like you
-	+ using phrases like 
-		+ "I was just thinking about you" (You are important to me)
-		+ "You are always so ..." (I perceive you as positive)
-		+ "Last time ..." ( I remember you)
+
+
 + success, motivation and happiness is contagious
 	+ surround yourself with "high quality" people
 		+ invest in the 5 people you spend the most time with
@@ -38,25 +25,10 @@
 		+ reinforcing up/downwards spiral
 		+ can be broken by labelling and understanding received/sent cues
 		+ ![](../../z_images/Pasted%20image%2020250526175613.png)
-+ proximity zones
-	+ best conversations in personal zone
-	+ be careful about intimate zone (also in video calls)
-	+ loud nightclubs => people cannot understand each other => move close => intimacy enforced
-	+ ![](../../z_images/Pasted%20image%2020250531102432.png)
++
 + signal amplification bias
 	+ overestimating how well other can read you
 + subconsciousness is great at reading subtle cues
-+ questions to connect with someone
-	+ "Are you working on anything exciting recently?"
-		+ variations (doing, next/last weekend, ...)
-	+ "What is your goal right now?"
-		+ both enable future follow-up question
-		+ "Hey, what happened to ..."
-	+ "What book/movie/... character is most like you?"
-		+ potentially shocking answers
-		+ learn how people view themselves 
-		+ instead of how you view them
-	+ ...
 + avoid awkward hugs/handshakes
 	+ clearly signal your intention beforehand
 	+ walk towards someone with 
@@ -84,7 +56,6 @@
 		+ do not try to be perfect
 		+ job interviewers rate people with small imperfections higher
 	+ just do not go too far :^)
-+ 
 + ambivalent relationships are mentally draining
 	+ ambivalent = you do not know how you feel about them
 	+ clearly knowing who you do not like is easier
