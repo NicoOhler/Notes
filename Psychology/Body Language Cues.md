@@ -112,5 +112,13 @@
 	+ move hand in circular motion
 		+ makes people nod => people think they agree with you
 + subconsciousness is great at reading subtle cues
-+ question to connect with someone
-	+ 
++ questions to connect with someone
+	+ "Are you working on anything exciting recently?"
+	+ "What is your goal right now?"
+		+ both enable future follow-up question
+		+ "Hey, what happened to ..."
+	+ "What book/movie/... character is most like you?"
+		+ potentially shocking answers
+		+ learn how people view themselves 
+		+ instead of how you view them
+		+ ?
