@@ -150,3 +150,14 @@
 		+ do not pull
 + presentations/on-stage behavior
 	+ walk intentionally to specific point to signal you know what you want
++ imperfections make likable
+	+ drop the shoe
+		+ share vulnerabilities and laugh off mistakes
+		+ open up
+		+ control what others think of you
+	+ "What is wrong with you?"
+		+ people will try to find out
+		+ do not try to be perfect
+		+ job interviewers rate people with small imperfections higher
+	+ just do not go too far :^)
+	+ 
