@@ -160,4 +160,4 @@
 		+ do not try to be perfect
 		+ job interviewers rate people with small imperfections higher
 	+ just do not go too far :^)
-	+ 
++ 
