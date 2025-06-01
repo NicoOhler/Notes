@@ -122,6 +122,7 @@
 + subconsciousness is great at reading subtle cues
 + questions to connect with someone
 	+ "Are you working on anything exciting recently?"
+		+ variations (doing, next/last weekend, ...)
 	+ "What is your goal right now?"
 		+ both enable future follow-up question
 		+ "Hey, what happened to ..."
@@ -173,4 +174,9 @@
 	+ ambivalent = you do not know how you feel about them
 	+ clearly knowing who you do not like is easier
 	+ try to move ambivalent people out
-	+ know them better => classify as g
+	+ know them better => classify as good/bad
++ play to your social strengths?
+	+ what do you excel at? 
+		+ 1o1s/small groups/large parties/presentations
+		+ jokes/compassion/spontaneous/knowledgeable
+		+ ...
