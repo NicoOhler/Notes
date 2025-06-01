@@ -103,15 +103,21 @@
 		+ can be used to avoid nodding too much
 	+ authentic smile
 		+ see above
-	+ leaning close
+	+ briefly lean in
+		+ use at highlight in important moments
 		+ signals trying to
 			+ be closer
 			+ be more intimate
 			+ listen better
-		+ 
 		+ leaning too much/all the time
 			+ signal submissive behavior
 			+ people however look for equals
+	+ non verbal bridge
+		+ briefly bridge distance between each other
+		+ e.g.,
+			+ lean in
+			+ reach into each other (with or without touching)
+			+ light touches
 + highly manipulative
 	+ move hand in circular motion
 		+ makes people nod => people think they agree with you
