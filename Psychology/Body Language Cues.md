@@ -148,4 +148,5 @@
 			+ palm up => submissive
 			+ palm down => dominating
 		+ do not pull
-+ presentations/
++ presentations/on-stage behavior
+	+ walk intentionally to specific point to signal you know what you want
