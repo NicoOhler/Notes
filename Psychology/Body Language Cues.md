@@ -108,10 +108,9 @@
 			+ be closer
 			+ be more intimate
 			+ listen better
-	+ 
 + highly manipulative
 	+ move hand in circular motion
 		+ makes people nod => people think they agree with you
++ subconsciousness is great at reading subtle cues
++ question to connect with someone
 	+ 
-
-	
