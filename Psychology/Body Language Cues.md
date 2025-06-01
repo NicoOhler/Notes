@@ -118,6 +118,7 @@
 			+ lean in
 			+ reach into each other (with or without touching)
 			+ light touches
+			+ give/hand people something
 + highly manipulative
 	+ move hand in circular motion
 		+ makes people nod => people think they agree with you
@@ -132,4 +133,10 @@
 		+ learn how people view themselves 
 		+ instead of how you view them
 	+ ...
++ avoid awkward hugs/handshakes
+	+ clearly signal your intention beforehand
+	+ walk towards someone with 
+		+ stretched out hand => handshake
+		+ both hands => hug
+		+ fist => fist bump
 	+ 
