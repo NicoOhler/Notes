@@ -119,9 +119,6 @@
 			+ reach into each other (with or without touching)
 			+ light touches
 			+ give/hand people something
-+ highly manipulative
-	+ move hand in circular motion
-		+ makes people nod => people think they agree with you
 + subconsciousness is great at reading subtle cues
 + questions to connect with someone
 	+ "Are you working on anything exciting recently?"
@@ -160,4 +157,15 @@
 		+ do not try to be perfect
 		+ job interviewers rate people with small imperfections higher
 	+ just do not go too far :^)
-+ 
++ highly manipulative
+	+ move hand in circular motion
+	+ makes people nod
+	+ people think they agree with you
++ spotting liars
+	+ sudden drop in volume
+	+ accidental questions
+	+ incongruent verbals and nonverbals
+		+ e.g., agreeing while shaking heads
+	+ liars show disgust
+		+ they feel dirty while lying
+	+ 
