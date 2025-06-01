@@ -1,4 +1,4 @@
-+ based on this [video](https://youtu.be/VHUrdELKjDw?si=hzV8YfWOY4IT8XHQ)
+************+ based on this [video](https://youtu.be/VHUrdELKjDw?si=hzV8YfWOY4IT8XHQ)
 + your body language and signals/cues you send to other people influences them
 
 ### Key Concepts
@@ -37,7 +37,7 @@
 	+ cue cycle
 		+ reinforcing up/downwards spiral
 		+ can be broken by labelling and understanding received/sent cues
-		+ ![](../z_images/Pasted%20image%2020250526175613.png)
+		+ ![](../../z_images/Pasted%20image%2020250526175613.png)
 + hands are windows into the souls
 	+ they show intention
 	+ show your hands (palms in particular)
@@ -56,13 +56,13 @@
 	+ best conversations in personal zone
 	+ be careful about intimate zone (also in video calls)
 	+ loud nightclubs => people cannot understand each other => move close => intimacy enforced
-	+ ![](../z_images/Pasted%20image%2020250531102432.png)
+	+ ![](../../z_images/Pasted%20image%2020250531102432.png)
 + charisma = competence + warmth
 	+ competent = powerful, reliable, capable
 	+ warm = trustworthy, likable, friendly
 	+ competent people need people to trust them
 	+ warm people need people care/believe about what they say
-	+ ![](../z_images/Pasted%20image%2020250531103401.png)
+	+ ![](../../z_images/Pasted%20image%2020250531103401.png)
 + signal amplification bias
 	+ overestimating how well other can read you
 + power cues
@@ -90,35 +90,7 @@
 		+ use downward inflection
 			+ lower intonation at sentence end
 			+ signals that you are serious about something
-+ warmth cues
-	+ use if competent but not warm enough
-		+ e.g., too intimidating
-	+ slow triple nod
-		+ signals "tell me more"
-		+ makes people talk more
-		+ too fast signals impatience
-	+ head tilt
-		+ signals empathy and engagement
-		+ deliver bad news with head tilt
-		+ can be used to avoid nodding too much
-	+ authentic smile
-		+ see above
-	+ briefly lean in
-		+ use at highlight in important moments
-		+ signals trying to
-			+ be closer
-			+ be more intimate
-			+ listen better
-		+ leaning too much/all the time
-			+ signal submissive behavior
-			+ people however look for equals
-	+ non verbal bridge
-		+ briefly bridge distance between each other
-		+ e.g.,
-			+ lean in
-			+ reach into each other (with or without touching)
-			+ light touches
-			+ give/hand people something
++
 + subconsciousness is great at reading subtle cues
 + questions to connect with someone
 	+ "Are you working on anything exciting recently?"

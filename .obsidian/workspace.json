@@ -13,7 +13,27 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psychology/Body Language Cues.md",
+                "file": "Psychology/Body Language Cues/Charisma, Warmth and Competence.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Charisma, Warmth and Competence"
+            }
+          }
+        ]
+      },
+      {
+        "id": "0301546b13add437",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c41d76fe20779366",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Psychology/Body Language Cues/Body Language Cues.md",
                 "mode": "source",
                 "source": false
               },
@@ -113,11 +133,13 @@
   },
   "active": "2ca1ad5f5706565f",
   "lastOpenFiles": [
+    "Psychology/Body Language Cues/Body Language Cues.md",
+    "Psychology/Body Language Cues/Charisma, Warmth and Competence.md",
+    "Psychology/Body Language Cues",
     "z_images/Pasted image 20250531103401.png",
     "z_images/Pasted image 20250531103315.png",
     "z_images/Pasted image 20250531102432.png",
     "z_images/Pasted image 20250526175613.png",
-    "Psychology/Body Language Cues.md",
     "Informatik/Machine Learning/Retrieval Augmented Generation/Retrieval Augmented Generation.md",
     "Informatik/Machine Learning/Retrieval Augmented Generation/Notes.md",
     "Informatik/Machine Learning/Retrieval Augmented Generation/Applications.md",
@@ -152,13 +174,11 @@
     "Science, Technology and Society",
     "Informatik/Machine Learning/ML1/lecture13.pdf",
     "Informatik/Machine Learning/ML1/lecture12.pdf",
-    "Informatik/Machine Learning/ML1/lecture11.pdf",
     "z_images/Punnett Square.png",
     "z_images/Pasted image 20240204172651.png",
     "z_images/Pasted image 20240204172357.png",
     "z_images/Pasted image 20240204115620.png",
     "z_images/Pasted image 20240128105450.png",
-    "z_images/Pasted image 20240128102705.png",
     "Informatik/Untitled.canvas",
     "Untitled.canvas"
   ]
