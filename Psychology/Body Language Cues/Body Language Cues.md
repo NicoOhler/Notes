@@ -1,4 +1,4 @@
-************+ based on this [video](https://youtu.be/VHUrdELKjDw?si=hzV8YfWOY4IT8XHQ)
++ based on this [video](https://youtu.be/VHUrdELKjDw?si=hzV8YfWOY4IT8XHQ)
 + your body language and signals/cues you send to other people influences them
 
 ### Key Concepts
@@ -26,24 +26,8 @@
 + signal amplification bias
 	+ overestimating how well other can read you
 + subconsciousness is great at reading subtle cues
-+ avoid awkward hugs/handshakes
-	+ clearly signal your intention beforehand
-	+ walk towards someone with 
-		+ stretched out hand => handshake
-		+ both hands => hug
-		+ fist => fist bump
-	+ good hugs
-		+ no asymmetry
-		+ no patting 
-		+ smaller person puts hands up and vice versa
-	+ good handshake
-		+ thumb up
-			+ palm up => submissive
-			+ palm down => dominating
-		+ do not pull
 + ambivalent relationships are mentally draining
 	+ ambivalent = you do not know how you feel about them
 	+ clearly knowing who you do not like is easier
 	+ try to move ambivalent people out
 	+ know them better => classify as good/bad
-+ 

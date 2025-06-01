@@ -40,3 +40,8 @@
 	+ do not try to be perfect
 	+ job interviewers rate people with small imperfections higher
 + just do not go too far :^)
+### Proximity Zones
++ best conversations in personal zone
++ be careful about intimate zone (also in video calls)
++ loud nightclubs => people cannot understand each other => move close => intimacy enforced
++ ![](../../z_images/Pasted%20image%2020250531102432.png)
