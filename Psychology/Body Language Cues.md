@@ -167,5 +167,10 @@
 	+ incongruent verbals and nonverbals
 		+ e.g., agreeing while shaking heads
 	+ liars show disgust
+		+ e.g., disgust facial, sniff
 		+ they feel dirty while lying
-	+ 
++ ambivalent relationships are mentally draining
+	+ ambivalent = you do not know how you feel about them
+	+ clearly knowing who you do not like is easier
+	+ try to move ambivalent people out
+	+ know them better => classify as g
