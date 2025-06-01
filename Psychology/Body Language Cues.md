@@ -108,6 +108,10 @@
 			+ be closer
 			+ be more intimate
 			+ listen better
+		+ 
+		+ leaning too much/all the time
+			+ signal submissive behavior
+			+ people however look for equals
 + highly manipulative
 	+ move hand in circular motion
 		+ makes people nod => people think they agree with you
@@ -121,4 +125,5 @@
 		+ potentially shocking answers
 		+ learn how people view themselves 
 		+ instead of how you view them
-	+ ""
+	+ ...
+	+ 
