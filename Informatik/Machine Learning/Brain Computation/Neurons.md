@@ -15,7 +15,7 @@
 + via action potential and spikes
 + fluids in and outside of the neuron cell
 	+ which contain ions (charged atoms)
-	+ act as capacitance
+	+ act as capacitance (charge storage)
 + membrane separates these fluids
 	+ acts as resistor with low conductance
 	+ causes membrane potential

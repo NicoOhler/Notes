@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Machine Learning/Brain Computation/Brain Models/LIF Model.md",
+                "file": "Informatik/Machine Learning/Brain Computation/Ion Channels.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LIF Model"
+              "title": "Ion Channels"
             }
           }
         ],
@@ -128,15 +128,15 @@
   },
   "active": "8f257ff3ba56f61a",
   "lastOpenFiles": [
+    "Informatik/Machine Learning/Brain Computation/Brain Models/LIF Model.md",
+    "Informatik/Machine Learning/Brain Computation/Neurons.md",
+    "Informatik/Machine Learning/Brain Computation/Plasticity.md",
     "z_images/Pasted image 20250616112630.png",
     "z_images/Pasted image 20250616111851.png",
-    "Informatik/Machine Learning/Brain Computation/Neurons.md",
     "z_images/Pasted image 20250616111048.png",
     "z_images/Pasted image 20250616111024.png",
     "Informatik/Machine Learning/Brain Computation/Computation/Computation.md",
-    "Informatik/Machine Learning/Brain Computation/Plasticity.md",
     "Informatik/Machine Learning/Brain Computation/Brain Anatomy.md",
-    "Informatik/Machine Learning/Brain Computation/Brain Models/LIF Model.md",
     "Informatik/Machine Learning/Brain Computation/Brain Models/Brain Models.md",
     "Informatik/Machine Learning/Brain Computation/Synapses.md",
     "Informatik/Machine Learning/Brain Computation/Computation",
@@ -173,7 +173,6 @@
     "Biologie/Genetik/Humane Genome Project.md",
     "Psychology/Body Language Cues/Nonverbal Communication.md",
     "Psychology/Body Language Cues/Body Language Cues.md",
-    "z_images/Pasted image 20250531103401.png",
     "Informatik/Untitled.canvas",
     "Untitled.canvas"
   ]
