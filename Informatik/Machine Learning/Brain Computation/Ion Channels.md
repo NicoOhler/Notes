@@ -20,9 +20,10 @@
 		+ cations (positive) move towards negative regions
 		+ affects all ions no matter the type
 		+ see [40-Phys-ETTE-Elektrizitaet-Magnetismus-2022](../../../Mathematik/Physik/40-Phys-ETTE-Elektrizitaet-Magnetismus-2022.pdf)
-	+ equilibrium potential
+	+ equilibrium potential $E$
 		+ potential at which these two forces cancel each other
 		+ $I=-g(u-E)=0$
+			+ controls how quickly equilibrium is reached
 		+ $E_{ion}$ different for each ion type
 			+ computable via Nernst equation
 		+ neuron's resting potential is interplay of all ion types
@@ -32,9 +33,8 @@
 	+ causes potential difference (membrane potential)
 ### Ion Channels
 + channels which allow ions to pass through the membrane
-+ often selective
++ affected by membrane potential+ often selective
 	+ i.e. only one ion type may pass
 + often gating mechanism
 	+ opens and closes if conditions are met
 	+ e.g., open if membrane potential above certain threshold
-+ 
