@@ -9,7 +9,18 @@
 + different regions and parts of the brain associated with different functionalities
 
 ### General Structure
-+ outer par
++ three main parts
+	+ cerebrum
+		+ outer layer called cerebral cortex
+			+ mainly somas
+			+ grey matter
+		+ inner layer
+			+ mainly axons
+			+ white matter
+		+ further division into
+			+ 
+	+ cerebellum
+	+ brain stem
 + ![](../../../z_images/Pasted%20image%2020250616095619.png)
 + ![](../../../z_images/Pasted%20image%2020250616095736.png)
 ### Important Parts of the Brain
