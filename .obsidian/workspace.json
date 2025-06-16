@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Machine Learning/Brain Computation/Brain Models/Brain Models.md",
+                "file": "Informatik/Machine Learning/Brain Computation/Brain Models/Nonlinear IAF Models.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Brain Models"
+              "title": "Nonlinear IAF Models"
             }
           }
         ]
@@ -113,11 +113,11 @@
   },
   "active": "8f257ff3ba56f61a",
   "lastOpenFiles": [
+    "Informatik/Machine Learning/Brain Computation/Brain Models/Brain Models.md",
     "Informatik/Machine Learning/Brain Computation/Brain Models/Dynamical Systems.md",
     "z_images/Pasted image 20250616130944.png",
     "z_images/Pasted image 20250616130931.png",
     "z_images/Pasted image 20250616130918.png",
-    "Informatik/Machine Learning/Brain Computation/Brain Models/Brain Models.md",
     "Mathematik/Analysis/Differentialgleichungen/DGL Typen.md",
     "Mathematik/Analysis/Differentialgleichungen/Differentialgleichungen.md",
     "Mathematik/Analysis/Differentialgleichungen/Inhomogene DGL mit mit konstanten Koeffizienten.md",
