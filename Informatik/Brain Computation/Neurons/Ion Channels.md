@@ -29,7 +29,7 @@
 		+ neuron's resting potential is interplay of all ion types
 			+ computable via Goldman equation
 			+ $u_{rest}=E_{ion}$ if only one ion type is present
-+ different ion concentrations in and outside of [Neurons](Neurons/Neurons.md)
++ different ion concentrations in and outside of [Neurons](Neurons.md)
 	+ causes potential difference (membrane potential)
 ### Ion Channels
 + channels which allow ions to pass through the membrane

@@ -44,6 +44,7 @@
 		+ excitability
 		+ plasticity
 	+ difference to neurotransmitter
-		+ slow acting
-		+ widespread and diffuse
 		+ alters neuron properties instead of sending them signals
+		+ slow but long lasting
+		+ widespread, non-local
+	+ 

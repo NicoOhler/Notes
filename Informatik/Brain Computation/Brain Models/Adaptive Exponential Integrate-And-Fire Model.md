@@ -1,5 +1,5 @@
 ### Motivation
-+ some [Neurons](Neurons/Neurons.md) adapt their behavior
++ some [Neurons](../Neurons/Neurons.md) adapt their behavior
 + neuron types
 	+ type I neurons increase their firing rate proportional to current
 	+ type II neurons fire only at one specific frequency
