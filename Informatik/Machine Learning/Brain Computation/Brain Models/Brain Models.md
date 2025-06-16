@@ -13,14 +13,22 @@
 		+ [Neurons](../Neurons.md) are highly interconnected
 		+ via [Synapses](../Synapses.md) with different effects
 	+ sheer volume	
++ interdisciplinary
+	+ ![](../../../../z_images/Pasted%20image%2020250616104713.png)
 
 ### Modeling the Brain
 + computer scientists contribute models and theory for simulation and testing
 + the goal is a better understanding of the brain
 	+ generate predictions
 	+ test and verify theories
-+ approaches
++ approaches with varying levels of abstraction and realism
 	+ top-down
 		+ start from the psychology side
-		+ e.g., cognitivism and artic
-+ 
+		+ e.g., cognitivism, probabilistic modeling
+	+ bottom-up
+		+ start from biology side
+		+ e.g., biophysical modeling, connectionism, artificial life
+
+### Common Models
++ [[LIF Model]]
++ [[]]
