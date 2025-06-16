@@ -1,5 +1,5 @@
 ### What is Learning
-+ long term changes in knowledge, behaviour based on experience
++ long term changes in knowledge, behavior based on experience
 + for humans: 
 	+ change in brain structure
 + for machines: 
@@ -18,5 +18,8 @@
 	+ example input/output pairs given
 	+ e.g. [[Classification]]
 	+ people are bad at specifying rules but good at giving examples
+
+### Selected Topics
++ [Retrieval Augmented Generation](Retrieval%20Augmented%20Generation/Retrieval%20Augmented%20Generation.md)
 
 [[Data Science and AI]]

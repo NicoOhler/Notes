@@ -3,7 +3,7 @@
 + given input x, determine y=f(x)
 	+ $y∈{y_1...y_n}$
 	+ finite number of classes
-+ typical [[Machine Learning]] task
++ typical [[../../Machine Learning/Machine Learning]] task
 	+ if classification rules are too complex
 
 ### Classification as Supervised Learning

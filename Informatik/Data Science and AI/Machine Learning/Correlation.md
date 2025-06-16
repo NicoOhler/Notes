@@ -57,4 +57,4 @@
 	+ $y_i$ dependent outcome variable
 	+ $x_i$ independent input variable
 
-[[Machine Learning]]
+[[../../Machine Learning/Machine Learning]]
