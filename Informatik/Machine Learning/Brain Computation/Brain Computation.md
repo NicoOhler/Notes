@@ -10,6 +10,6 @@
 + [Neurons](Neurons.md)
 + [Brain Models](Brain%20Models/Brain%20Models.md)
 + [Synapses](Synapses.md)
-+ [Dendrites](Dendrites.md)
 + [Plasticity](Plasticity.md)
++ [Dendrites](Dendrites.md)
 + [Neuromorphic Computing](Neuromorphic%20Computing.md)
