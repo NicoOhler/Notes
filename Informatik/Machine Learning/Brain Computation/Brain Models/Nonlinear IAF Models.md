@@ -10,10 +10,16 @@
 + parabola with roots (intersection with x-axis)
 	+ shifted up/downwards depending on $I(t)$
 	+ two equilibrium points
-		+ stable point ($u_{rest}$ for $I(t)=0$)
+		+ stable point
+			+ at $u_{rest}$ for $I(t)=0$
+		+ unstable point
+			+ at $u_{c}$ for $I(t)=0$
 	+ no intersection with x-axis causes
 		+ potential to always increase followed by a reset
 		+ repeated/tonic spiking
-	+ 
+	+ ![](../../../../z_images/Pasted%20image%2020250616140856.png)
 
 ### Exponential Integrate-And-Fire Model
++ $F(u)=-(u-E_L)+\Delta_T exp(\frac{u-\vartheta_{rh}}{\Delta_T})$
+	+ linear term dominates for $u\ll \vartheta_{rh}$
+	+ exponential 
