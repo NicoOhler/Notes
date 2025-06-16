@@ -21,5 +21,7 @@
 	3. $Ca^{2+}$ enters presynaptic terminal and triggers synaptic vesicles 
 		+ containers full of neurotransmitter cocktails
 	4. synaptic vesicles fuse with membrane
-		+ neurotransmitters are released into synaptic cleft
-	5. 
+		+ neurotransmitters released into synaptic cleft
+	5. diffusion with [Ion Channels](Ion%20Channels.md) on postsynaptic side
+	6. postsynaptic conductance changes and thus also the current
+		1. $I_{syn}(t)=-g_{syn}(t)$ 
