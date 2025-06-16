@@ -7,21 +7,35 @@
 + weighs ~1.5 kg 
 + volume ~2000 cm²
 + different regions and parts of the brain associated with different functionalities
-
 ### General Structure
-+ three main parts
-	+ cerebrum
-		+ outer layer called cerebral cortex
-			+ mainly somas
-			+ grey matter
-		+ inner layer
-			+ mainly axons
-			+ white matter
-		+ further division into
-			+ 
-	+ cerebellum
-	+ brain stem
++ cerebrum
+	+ outer layer called cerebral cortex
+		+ mainly somas
+		+ grey matter
+	+ inner layer
+		+ mainly axons
+		+ white matter
+	+ further division into
+		+ frontal lobe
+		+ parietal lobe
+		+ temporal lobe
+		+ occipital lobe
++ cerebellum
++ brain stem
 + ![](../../../z_images/Pasted%20image%2020250616095619.png)
+
+### Important Parts of the Brain
++ brain stem
+	+ connects brain with the spinal chord
+		+ thus also to the remaining nervous system/body
+	+ regulates vital body functions
+		+ breathing
+		+ heart rate
+		+ ...
+	+ 
++ cerebellum
+	+ responsible for motor coordination and muscle control
++ 
 + ![](../../../z_images/Pasted%20image%2020250616095736.png)
 ### Important Parts of the Brain
 + 
