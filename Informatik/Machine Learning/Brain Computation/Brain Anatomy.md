@@ -13,12 +13,9 @@
 		+ "Gehirnrinde"
 		+ mainly somas
 		+ grey matter
-		+ mostly responsible for cognitive functions
-			+ thinking, learning, memory, language
 	+ inner layer
 		+ mainly axons
 		+ white matter
-		+ mostly responsible for motoric, emotions, ...
 	+ further division into
 		+ frontal lobe
 		+ parietal lobe
@@ -40,7 +37,8 @@
 + cerebellum
 	+ responsible for motor coordination and muscle control
 + subcortical areas
-	+ responsible for various functions
+	 + mostly responsible for less cognitive functions
+		 + motoric, emotions, connections, ...
 	+ amygdala
 		+ emotion control
 		+ emitting neurotransmitters and hormones based on emotion
@@ -50,8 +48,16 @@
 		+ connects cerebrum and midbrain
 		+ acts as relay station for sensory inputs
 	+ hypothalamus
-		+ regulates vital functions
-		+ reg
+		+ coordination of vital functions
+		+ regulates water, salt, body temperature, ...
+	+ hippocampus 
+		+ responsible for memory formation and spatial cognition (orientation)
+		+ located in temporal lobe
++ cortex
+	+ mostly responsible for cognitive functions
+		+ thinking, learning, memory, language, ...
+	+ prefrontal cortex
+		+ 
 + ![](../../../z_images/Pasted%20image%2020250616095736.png)
 ### Important Parts of the Brain
 + 
