@@ -10,6 +10,5 @@
 + requires 2D [Dynamical Systems](Dynamical%20Systems.md)
 	+ $\tau_m\frac{du}{dt}=F(u,w)+R_mI(t)$
 	+ $\frac{dw}{dt}=g(u,w)$
-+ can be represented in an x/y plane
-+ 
+
 

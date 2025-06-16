@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Machine Learning/Brain Computation/Brain Models/Adaptive Models.md",
+                "file": "Informatik/Machine Learning/Brain Computation/Brain Models/Dynamical Systems.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Adaptive Models"
+              "title": "Dynamical Systems"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "stabil",
+                "query": "Jacob",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -64,7 +64,8 @@
               "title": "Search"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -113,16 +114,19 @@
   },
   "active": "8f257ff3ba56f61a",
   "lastOpenFiles": [
+    "Mathematik/Analysis/Komplexe Analysis/Komplexe Analysis.md",
+    "Mathematik/Analysis/Mehrdimensionale Differentialrechnung/Funktionen ℝ^p auf ℝ^q.md",
+    "Mathematik/Analysis/Mehrdimensionale Integralrechnung/Mehrdimensionale Integralrechnung.md",
+    "Informatik/Machine Learning/Brain Computation/Brain Models/Dynamical Systems.md",
     "Informatik/Machine Learning/Brain Computation/Brain Models/Adaptive Models.md",
-    "Informatik/Machine Learning/Brain Computation/Brain Models/Nonlinear IAF Models.md",
     "Informatik/Machine Learning/Brain Computation/Neurons/Neurons.md",
+    "Informatik/Machine Learning/Brain Computation/Brain Models/Nonlinear IAF Models.md",
     "Informatik/Machine Learning/Brain Computation/Untitled",
     "z_images/Pasted image 20250616151154.png",
     "Informatik/Machine Learning/Brain Computation/Brain Models/LIF Model.md",
     "z_images/Pasted image 20250616140856.png",
     "z_images/Pasted image 20250616140840.png",
     "Informatik/Machine Learning/Brain Computation/Brain Models/Brain Models.md",
-    "Informatik/Machine Learning/Brain Computation/Brain Models/Dynamical Systems.md",
     "z_images/Pasted image 20250616130944.png",
     "z_images/Pasted image 20250616130931.png",
     "z_images/Pasted image 20250616130918.png",
@@ -143,8 +147,6 @@
     "Mathematik/Analysis/Differentialgleichungen/Systeme von DGL und Stabilität.md",
     "Mathematik/Analysis/Differentialrechnung/Anwendungen der  Differentialrechnung.md",
     "Mathematik/Analysis/Differentialrechnung/Anwendungen des MWS.md",
-    "Mathematik/Analysis/Differentialrechnung/Differentialrechnung.md",
-    "Mathematik/Analysis/Differentialrechnung/Kurvendiskussion.md",
     "z_images/Pasted image 20250616122352.png",
     "z_images/Pasted image 20250616121053.png",
     "Informatik/Machine Learning/Brain Computation/Neurons/Untitled",
