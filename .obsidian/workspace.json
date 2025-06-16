@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Machine Learning/Brain Computation/Ion Channels.md",
+                "file": "Informatik/Machine Learning/Brain Computation/Neurons/Spike Generation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ion Channels"
+              "title": "Spike Generation"
             }
           }
         ],
@@ -128,11 +128,14 @@
   },
   "active": "8f257ff3ba56f61a",
   "lastOpenFiles": [
+    "Informatik/Machine Learning/Brain Computation/Neurons/Ion Channels.md",
+    "Informatik/Machine Learning/Brain Computation/Neurons/Plasticity.md",
+    "Informatik/Machine Learning/Brain Computation/Neurons/Spike Generation.md",
+    "Informatik/Machine Learning/Brain Computation/Neurons/Untitled",
+    "Informatik/Machine Learning/Brain Computation/Neurons",
     "Informatik/Machine Learning/Brain Computation/Brain Models/LIF Model.md",
-    "Informatik/Machine Learning/Brain Computation/Neurons.md",
-    "Informatik/Machine Learning/Brain Computation/Plasticity.md",
-    "Informatik/Machine Learning/Brain Computation/Ion Channels.md",
-    "Informatik/Machine Learning/Brain Computation/Neuromorphic Computing.md",
+    "Informatik/Machine Learning/Brain Computation/Neurons/Neurons.md",
+    "Informatik/Machine Learning/Brain Computation/Computation/Neuromorphic Computing.md",
     "z_images/Pasted image 20250616112630.png",
     "z_images/Pasted image 20250616111851.png",
     "z_images/Pasted image 20250616111048.png",
@@ -140,7 +143,7 @@
     "Informatik/Machine Learning/Brain Computation/Computation/Computation.md",
     "Informatik/Machine Learning/Brain Computation/Brain Anatomy.md",
     "Informatik/Machine Learning/Brain Computation/Brain Models/Brain Models.md",
-    "Informatik/Machine Learning/Brain Computation/Synapses.md",
+    "Informatik/Machine Learning/Brain Computation/Neurons/Synapses.md",
     "Informatik/Machine Learning/Brain Computation/Computation",
     "Informatik/Machine Learning/Brain Computation/Untitled.md",
     "Informatik/Machine Learning/Brain Computation/Brain Models/Nonlinear IAF Models.md",
@@ -153,8 +156,6 @@
     "Informatik/Machine Learning/ML1/lecture09.pdf",
     "Informatik/Machine Learning/ML1/lecture11.pdf",
     "Informatik/Machine Learning/ML1/lecture12.pdf",
-    "Informatik/Machine Learning/ML1/lecture13.pdf",
-    "Informatik/Machine Learning/ML1/lecture05.pdf",
     "z_images/Pasted image 20250616102838.png",
     "z_images/Pasted image 20250616095736.png",
     "z_images/Pasted image 20250616095619.png",
@@ -163,7 +164,7 @@
     "Informatik/Machine Learning/Brain Computation/Brain Models/Hodgkin-Haxley Model.md",
     "Informatik/Machine Learning/Brain Computation/Computation/Liquid State Machines.md",
     "Informatik/Machine Learning/Brain Computation/Computation/Spiking Neural Networks.md",
-    "Informatik/Machine Learning/Brain Computation/Dendrites.md",
+    "Informatik/Machine Learning/Brain Computation/Neurons/Dendrites.md",
     "Mathematik/Allgemeine Mathematik/Allgemeine Mathematik.md",
     "Mathematik/Physik/Physik.md",
     "Biologie/Genetik/Allel.md",

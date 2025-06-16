@@ -24,4 +24,4 @@
 + receive currents via dendrites
 + [Ion Channels](Ion%20Channels.md) through membrane
 	+ ions flow through them and cause electrical current
- ![](../../../z_images/Pasted%20image%2020250616111048.png)
+ ![](../../../../z_images/Pasted%20image%2020250616111048.png)
