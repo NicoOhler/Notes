@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Brain Models"
             }
+          },
+          {
+            "id": "8f257ff3ba56f61a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Informatik/Machine Learning/Brain Computation/Neurons.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Neurons"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -111,12 +126,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "de2a4d20de4b65f4",
+  "active": "8f257ff3ba56f61a",
   "lastOpenFiles": [
-    "z_images/Pasted image 20250616104713.png",
-    "Informatik/Machine Learning/Brain Computation/Brain Models/Brain Models.md",
-    "Informatik/Machine Learning/Brain Computation/Brain Computation.md",
+    "Informatik/Machine Learning/Brain Computation/Plasticity.md",
+    "Informatik/Machine Learning/Brain Computation/Neurons.md",
+    "Informatik/Machine Learning/Brain Computation/Computation/Computation.md",
     "Informatik/Machine Learning/Brain Computation/Brain Anatomy.md",
+    "Informatik/Machine Learning/Brain Computation/Brain Models/LIF Model.md",
+    "Informatik/Machine Learning/Brain Computation/Brain Models/Brain Models.md",
+    "Informatik/Machine Learning/Brain Computation/Synapses.md",
+    "Informatik/Machine Learning/Brain Computation/Computation",
+    "Informatik/Machine Learning/Brain Computation/Untitled.md",
+    "Informatik/Machine Learning/Brain Computation/Brain Models/Nonlinear IAF Models.md",
+    "Informatik/Machine Learning/Brain Computation/Ion Channels.md",
+    "z_images/Pasted image 20250616104713.png",
+    "Informatik/Machine Learning/Brain Computation/Brain Computation.md",
     "Informatik/Machine Learning/ML1/lecture07.pdf",
     "Informatik/Machine Learning/ML1/lecture06.pdf",
     "Informatik/Machine Learning/ML1/lecture08.pdf",
@@ -126,21 +150,15 @@
     "Informatik/Machine Learning/ML1/lecture12.pdf",
     "Informatik/Machine Learning/ML1/lecture13.pdf",
     "Informatik/Machine Learning/ML1/lecture05.pdf",
-    "Informatik/Machine Learning/ML1/lecture03.pdf",
     "z_images/Pasted image 20250616102838.png",
     "z_images/Pasted image 20250616095736.png",
     "z_images/Pasted image 20250616095619.png",
     "z_images/Pasted image 20250616095617.png",
     "z_images/Pasted image 20250616095614.png",
-    "Informatik/Machine Learning/Brain Computation/Untitled.md",
-    "Informatik/Machine Learning/Brain Computation/Brain Models/Untitled.md",
     "Informatik/Machine Learning/Brain Computation/Neuromorphic Computing.md",
     "Informatik/Machine Learning/Brain Computation/Brain Models/Hodgkin-Haxley Model.md",
-    "Informatik/Machine Learning/Brain Computation/Brain Models/Liquid State Machines.md",
-    "Informatik/Machine Learning/Brain Computation/Brain Models/Spiking Neural Networks.md",
-    "Informatik/Machine Learning/Brain Computation/Neurons.md",
-    "Informatik/Machine Learning/Brain Computation/Synapses.md",
-    "Informatik/Machine Learning/Brain Computation/Plasticity.md",
+    "Informatik/Machine Learning/Brain Computation/Computation/Liquid State Machines.md",
+    "Informatik/Machine Learning/Brain Computation/Computation/Spiking Neural Networks.md",
     "Informatik/Machine Learning/Brain Computation/Dendrites.md",
     "Mathematik/Allgemeine Mathematik/Allgemeine Mathematik.md",
     "Mathematik/Physik/Physik.md",
@@ -152,13 +170,10 @@
     "Psychology/Body Language Cues/Nonverbal Communication.md",
     "Psychology/Body Language Cues/Body Language Cues.md",
     "Psychology/Psychology.md",
-    "Psychology/Body Language Cues/Connecting and Being Likable.md",
-    "Psychology/Body Language Cues/Charisma, Warmth and Competence.md",
     "z_images/Pasted image 20250531103401.png",
     "z_images/Pasted image 20250531103315.png",
     "z_images/Pasted image 20250531102432.png",
     "z_images/Pasted image 20250526175613.png",
-    "z_images/Pasted image 20250219103104.png",
     "Informatik/Untitled.canvas",
     "Untitled.canvas"
   ]
