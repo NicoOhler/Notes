@@ -37,5 +37,13 @@
 		+ long term [Plasticity](Plasticity.md)
 		+ homeostasis
 	+ multiple release sites per synapse
-		+ $\Rightarrow$ 
-	+ synaptic weight = average
+		+ $\Rightarrow$ postsynaptic potential varies
+		+ synaptic weight = average
++ neuromodulators
+	+ chemicals regulating neuron properties
+		+ excitability
+		+ plasticity
+	+ difference to neurotransmitter
+		+ slow acting
+		+ widespread and diffuse
+		+ alters neuron properties instead of sending them signals
