@@ -35,3 +35,11 @@
 	+ way simpler than [Hodgkin-Huxley Model](Hodgkin-Huxley%20Model.md) allowing for easy parameter fitting
 	+ decent reproduction of recorded spike trains
 + TODO: Skizze
+
+### Fitting IAF Models
++ possible goals
+	+ reproduce spike train $S(t)$ to fit recorded relationship $I(t) \rightarrow S(t)$
+	+ reproduce subthreshold behavior $V(t)$ to fit recorded relationship $I(t) \rightarrow V(t)$
++ record $V(t)$ for known (injected) $I(t)$
+	+ easy to construct $S(t)$ from $V(t)$
+	+ in vitro
