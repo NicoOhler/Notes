@@ -8,3 +8,4 @@
 	+ connected to axons of other neurons via [Synapses](Synapses.md)
 + axons
 	+ relay output action potentials to other neurons
+	+ spikes generated in axon hillocks
