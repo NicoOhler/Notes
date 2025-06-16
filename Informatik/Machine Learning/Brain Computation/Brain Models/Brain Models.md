@@ -32,9 +32,23 @@
 ### Using Dynamical Systems
 + brain models are often expressed as dynamical systems
 + mathematical models describing how a system changes over time
+	+ $\frac{ds}{dt}=F(s)$
 + equilibrium points
 	+ fix points where states no longer change
-	+ in reality 
+	+ types
+		+ stable for $F'(s)\lt0$
+			+ attractor
+			+ stay there for small perturbations like noise
+		+ unstable for $F'(s)\gt0$
+			+ repeller
+			+ move away for small perturbations like noise
+		+ semi-stable for $F'(s)=0$
+			+ saddle node bifurcation
+				+ i.e. 
+			+ stay for one direction, move away for other
+	+ in reality noise will always slightly alter the state
+		+ never settle at unstable point
+		+ always jump over saddle nodes
 
 ### Common Models
 + [[LIF Model]]
