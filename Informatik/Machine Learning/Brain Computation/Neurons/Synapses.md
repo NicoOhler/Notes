@@ -23,5 +23,7 @@
 	4. synaptic vesicles fuse with membrane
 		+ neurotransmitters released into synaptic cleft
 	5. diffusion with [Ion Channels](Ion%20Channels.md) on postsynaptic side
-	6. postsynaptic conductance changes and thus also the current
-		1. $I_{syn}(t)=-g_{syn}(t)$ 
+	6. postsynaptic conductance change causes postsynaptic current 
+		+ $I_{syn}(t)=-g_{syn}(t)(u(t)-E_{syn})$ 
+	7. current causes postsynaptic potential
+		+ $C_m\frac{du}{dt}=-g_{L}(u(t)-u_{rest}) + I_{syn}(t)$ 
