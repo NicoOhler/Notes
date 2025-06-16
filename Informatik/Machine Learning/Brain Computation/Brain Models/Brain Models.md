@@ -8,7 +8,19 @@
 	+ different spatial scales
 		+ molecular, cellular, regions, behavior
 	+ different temporal scales
-		+ activity, plasticity ranges from milliseconds to years
+		+ activity, [[Plasticity]] ranges from milliseconds to years
 	+ many interdependencies
-		+ [Neurons](../Neurons.md) are highly interconnected via [[S]]
-		+ 
+		+ [Neurons](../Neurons.md) are highly interconnected
+		+ via [Synapses](../Synapses.md) with different effects
+	+ sheer volume	
+
+### Modeling the Brain
++ computer scientists contribute models and theory for simulation and testing
++ the goal is a better understanding of the brain
+	+ generate predictions
+	+ test and verify theories
++ approaches
+	+ top-down
+		+ start from the psychology side
+		+ e.g., cognitivism and artic
++ 
