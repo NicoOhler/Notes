@@ -16,5 +16,16 @@
 			+ potassium channels close
 			+ return to resting potential
 	+ ![](../../../../z_images/Pasted%20image%2020250616121053.png)
-+ additional spikes blocked during absolute refractory period (1-2 ms)
-+ less likely to fire during und
++ absolute refractory period
+	+ additional spikes blocked during
+	+ 1-2 ms
++ relative refractory period
+	+ less likely to fire during undershoot
++ action potential travels unidirectionally 
+	+ wave from one end of the neuron (dendrite, axon) to the other
+	+ due to refractory period
++ myelination
+	+ protective wrapper around axons
+	+ enables faster and more reliable transmission
+	+ action po
+	+ ![](../../../../z_images/Pasted%20image%2020250616122352.png)
