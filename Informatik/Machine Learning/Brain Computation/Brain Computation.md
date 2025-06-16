@@ -4,5 +4,12 @@
 	+ [[Electrical Studies]]
 	+ [[Biology]]
 	+ [[Physik]]
-	+ 
+	+ [Allgemeine Mathematik](../../../Mathematik/Allgemeine%20Mathematik/Allgemeine%20Mathematik.md)
 ### Overview
++ [Brain Anatomy](Brain%20Anatomy.md)
++ [Neurons](Neurons.md)
++ [Brain Models](Brain%20Models/Brain%20Models.md)
++ [Synapses](Synapses.md)
++ [Dendrites](Dendrites.md)
++ [Plasticity](Plasticity.md)
++ [Neuromorphic Computing](Neuromorphic%20Computing.md)
