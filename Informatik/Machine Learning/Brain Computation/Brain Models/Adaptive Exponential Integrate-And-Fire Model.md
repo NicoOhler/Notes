@@ -20,6 +20,12 @@
 	+ steady change via subthreshold adaptation
 	+ incremental spike triggered adaptation
 		+ i.e. $w\rightarrow w+b$ whenever a spike occurs
-	+ 
-
+	+ usually steady converge to $u_{rest}$ due to $a>0$
++ adaptation parameters $a$
++ adaptation parameters $b$
+	
+	+ b
+	+ $b<0\Rightarrow$ increased excitability after spikes
+	+ $b>0\Rightarrow$ reduced excitability after spikes
++ $a=b=0\Rightarrow$ [Exponential Integrate-And-Fire Model](Exponential%20Integrate-And-Fire%20Model.md)
 
