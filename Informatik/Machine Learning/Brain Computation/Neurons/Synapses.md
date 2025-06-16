@@ -18,5 +18,8 @@
 + transmission sequence
 	1. action potential arrives at presynaptic terminal (axon end)
 	2. depolarization open $Ca^{2+}$ channels
-	3. $Ca^{2+}$ enters presynaptic terminal and triggers synaptic vesicles
-	4. 
+	3. $Ca^{2+}$ enters presynaptic terminal and triggers synaptic vesicles 
+		+ containers full of neurotransmitter cocktails
+	4. synaptic vesicles fuse with membrane
+		+ neurotransmitters are released into synaptic cleft
+	5. 
