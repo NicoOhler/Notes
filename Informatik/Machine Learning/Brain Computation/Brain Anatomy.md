@@ -24,7 +24,7 @@
 + brain stem
 + ![](../../../z_images/Pasted%20image%2020250616095619.png)
 
-### Important Parts of the Brain
+### Important Parts of the Brain and their Function
 + brain stem
 	+ connects brain with the spinal chord
 		+ thus also to the remaining nervous system/body
@@ -35,7 +35,14 @@
 	+ 
 + cerebellum
 	+ responsible for motor coordination and muscle control
-+ 
++ subcortical areas
+	+ responsible for various functions
+	+ amygdala
+		+ emotion control
+		+ emitting neurotransmitters and hormones based on emotion
+			+ e.g., emission of cortisol under stress for heightened awareness 
+		+ increasing memory formation under strong emotional load
+	+ 
 + ![](../../../z_images/Pasted%20image%2020250616095736.png)
 ### Important Parts of the Brain
 + 
