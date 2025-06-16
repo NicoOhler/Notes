@@ -20,6 +20,8 @@
 	+ acts as resistor with low conductance
 	+ causes membrane potential
 		+ electrical potential difference across a cell's membrane
-	+ 
++ receive currents via dendrites
++ [Ion Channels](Ion%20Channels.md) through membrane
+	+ ions flow through them and cause electrical current
 + 
 + ![](../../../z_images/Pasted%20image%2020250616111048.png)

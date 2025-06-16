@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Machine Learning/Brain Computation/Neurons.md",
+                "file": "Informatik/Machine Learning/Brain Computation/Brain Models/LIF Model.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Neurons"
+              "title": "LIF Model"
             }
           }
         ],
@@ -128,10 +128,11 @@
   },
   "active": "8f257ff3ba56f61a",
   "lastOpenFiles": [
+    "z_images/Pasted image 20250616111851.png",
+    "Informatik/Machine Learning/Brain Computation/Neurons.md",
     "z_images/Pasted image 20250616111048.png",
     "z_images/Pasted image 20250616111024.png",
     "Informatik/Machine Learning/Brain Computation/Computation/Computation.md",
-    "Informatik/Machine Learning/Brain Computation/Neurons.md",
     "Informatik/Machine Learning/Brain Computation/Plasticity.md",
     "Informatik/Machine Learning/Brain Computation/Brain Anatomy.md",
     "Informatik/Machine Learning/Brain Computation/Brain Models/LIF Model.md",
@@ -173,7 +174,6 @@
     "Psychology/Body Language Cues/Body Language Cues.md",
     "z_images/Pasted image 20250531103401.png",
     "z_images/Pasted image 20250531103315.png",
-    "z_images/Pasted image 20250531102432.png",
     "Informatik/Untitled.canvas",
     "Untitled.canvas"
   ]
