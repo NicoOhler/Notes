@@ -1,7 +1,6 @@
 + mathematical models describing how a system changes over time
 	+ $\frac{ds}{dt}=F(s)$
 + often used by [Brain Models](Brain%20Models.md)
-
 ### Equilibrium Points
 + fix points where states no longer change
 + types
@@ -19,3 +18,4 @@
 + in reality noise will always slightly alter the state
 	+ never settle at unstable point
 	+ always jump over saddle nodes
++ 
