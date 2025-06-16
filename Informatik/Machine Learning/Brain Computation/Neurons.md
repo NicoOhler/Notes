@@ -13,6 +13,7 @@
 
 ### Communication
 + via action potential and spikes
+	+ resting potential is potential at which no signals are sent
 + fluids in and outside of the neuron cell
 	+ which contain ions (charged atoms)
 	+ act as capacitance (charge storage)
@@ -23,5 +24,4 @@
 + receive currents via dendrites
 + [Ion Channels](Ion%20Channels.md) through membrane
 	+ ions flow through them and cause electrical current
-+ 
-+ ![](../../../z_images/Pasted%20image%2020250616111048.png)
+ ![](../../../z_images/Pasted%20image%2020250616111048.png)
