@@ -27,5 +27,6 @@
 + myelination
 	+ protective wrapper around axons
 	+ enables faster and more reliable transmission
-	+ action po
+	+ potential slowly decays during transmission
+	+ refreshed at Nodes of Ranvier
 	+ ![](../../../../z_images/Pasted%20image%2020250616122352.png)

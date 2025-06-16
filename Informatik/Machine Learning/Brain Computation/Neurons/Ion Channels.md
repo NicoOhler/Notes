@@ -38,7 +38,3 @@
 + often gating mechanism
 	+ opens and closes if conditions are met
 	+ e.g., open if membrane potential above certain threshold
-
-### Relation to [[Spike Generation]]
-+
-	+ 

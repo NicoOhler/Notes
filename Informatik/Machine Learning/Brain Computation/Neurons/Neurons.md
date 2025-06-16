@@ -12,8 +12,8 @@
 		+ they connect axons to soma
 
 ### Communication
-+ via action potential and spikes
-	+ resting potential is potential at which no signals are sent
++ via [Spike Generation](Spike%20Generation.md) and action potential
++ resting potential is potential at which no signals are sent
 + fluids in and outside of the neuron cell
 	+ which contain ions (charged atoms)
 	+ act as capacitance (charge storage)
