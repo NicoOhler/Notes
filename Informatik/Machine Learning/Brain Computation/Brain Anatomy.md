@@ -52,7 +52,7 @@
 		+ regulates water, salt, body temperature, ...
 	+ hippocampus 
 		+ responsible for memory formation and spatial cognition (orientation)
-		+ located in temporal lobe
+		+ located in temporal lobe, right below cortex and strongly connected to it
 + cortex
 	+ mostly responsible for cognitive functions
 		+ thinking, learning, memory, language, ...
@@ -60,7 +60,7 @@
 		+ responsible for planning, decision making, working memory, impulse and emotion control
 	+ divides into several functional regions
 		+ not well separated though
-		+ 
+		+ follows processing hierarchy similar to CNNs
+		+ ![](../../../z_images/Pasted%20image%2020250616102838.png)
 + ![](../../../z_images/Pasted%20image%2020250616095736.png)
-### Important Parts of the Brain
-+ 
+
