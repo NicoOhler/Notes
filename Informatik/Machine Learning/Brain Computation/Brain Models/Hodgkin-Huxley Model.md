@@ -5,5 +5,11 @@
 		+ $p_{ion}(V)=a_{ion}^A(V)b_{ion}^B(V)$
 			+ a...activation
 			+ b...inactivation
-			+ A...number of gating events  
-		+ channel dynamics fit to data
+			+ A...number of gating events needed for activation
+			+ B...number of gating events needed for inactivation
+		+ parameters representing the channel dynamics fit to data
++ $C_m \frac{du}{dt}=-g_L(V-E_L)+\sum_\limits\text{ion types} -g_{ion}(V-E_{ion})p_{ion}(V) + I_{ext}$
++ simulation via numerical integration
+	+ Euler's Method
+	+ Zero-Order Hold
++ complex and computationally expensive $\implies$ 
