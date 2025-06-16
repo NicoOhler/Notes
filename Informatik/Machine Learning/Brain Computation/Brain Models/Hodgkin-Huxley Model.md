@@ -18,6 +18,8 @@
 + neglecting ion types with minor contributions
 	+ i.e. model only sodium and potassium
 + combine into single ionic current $I_{fast}$
-	+ $C_m \frac{du}{dt}=-g_L(V-E_L)-g_{fast}(V-E_{fast})p_{fast}(V) + I_{ext}$
-	+ express $p_{fast}(V)$ as constant 
+	+ $C_m \frac{du}{dt}=-g_L(V-E_L)-g_{fast}(V-E_{fast})p_{fast,\infty} + I_{ext}$
+	+ express $p_{fast}(V)$ as constant $p_{fast,\infty}$ 
+		+ via simplifying assumption
 		+ reduce differential equation to constant
+	+ one differential equation per neuron

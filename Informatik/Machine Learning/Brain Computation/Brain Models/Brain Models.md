@@ -29,6 +29,13 @@
 		+ start from biology side
 		+ e.g., biophysical modeling, connectionism, artificial life
 
+### Using Dynamical Systems
++ brain models are often expressed as dynamical systems
++ mathematical models describing how a system changes over time
++ equilibrium points
+	+ fix points where states no longer change
+	+ in reality 
+
 ### Common Models
 + [[LIF Model]]
 + [Hodgkin-Huxley Model](Hodgkin-Huxley%20Model.md)
