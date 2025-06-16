@@ -10,11 +10,15 @@
 ### General Structure
 + cerebrum
 	+ outer layer called cerebral cortex
+		+ "Gehirnrinde"
 		+ mainly somas
 		+ grey matter
+		+ mostly responsible for cognitive functions
+			+ thinking, learning, memory, language
 	+ inner layer
 		+ mainly axons
 		+ white matter
+		+ mostly responsible for motoric, emotions, ...
 	+ further division into
 		+ frontal lobe
 		+ parietal lobe
@@ -42,7 +46,12 @@
 		+ emitting neurotransmitters and hormones based on emotion
 			+ e.g., emission of cortisol under stress for heightened awareness 
 		+ increasing memory formation under strong emotional load
-	+ 
+	+ thalamus
+		+ connects cerebrum and midbrain
+		+ acts as relay station for sensory inputs
+	+ hypothalamus
+		+ regulates vital functions
+		+ reg
 + ![](../../../z_images/Pasted%20image%2020250616095736.png)
 ### Important Parts of the Brain
 + 
