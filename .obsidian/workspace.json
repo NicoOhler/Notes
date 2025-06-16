@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Machine Learning/Brain Computation/Brain Models/Hodgkin-Haxley Model.md",
+                "file": "Informatik/Machine Learning/Brain Computation/Brain Models/Hodgkin-Huxley Model.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hodgkin-Haxley Model"
+              "title": "Hodgkin-Huxley Model"
             }
           }
         ],
@@ -128,6 +128,8 @@
   },
   "active": "8f257ff3ba56f61a",
   "lastOpenFiles": [
+    "Informatik/Machine Learning/Brain Computation/Brain Models/Brain Models.md",
+    "Informatik/Machine Learning/Brain Computation/Brain Models/Hodgkin-Huxley Model.md",
     "Informatik/Machine Learning/Brain Computation/Neurons/Ion Channels.md",
     "Informatik/Machine Learning/Brain Computation/Neurons/Dendrites.md",
     "Informatik/Machine Learning/Brain Computation/Neurons/Spike Generation.md",
@@ -145,7 +147,6 @@
     "z_images/Pasted image 20250616111024.png",
     "Informatik/Machine Learning/Brain Computation/Computation/Computation.md",
     "Informatik/Machine Learning/Brain Computation/Brain Anatomy.md",
-    "Informatik/Machine Learning/Brain Computation/Brain Models/Brain Models.md",
     "Informatik/Machine Learning/Brain Computation/Neurons/Synapses.md",
     "Informatik/Machine Learning/Brain Computation/Computation",
     "Informatik/Machine Learning/Brain Computation/Untitled.md",
@@ -162,7 +163,6 @@
     "z_images/Pasted image 20250616102838.png",
     "z_images/Pasted image 20250616095736.png",
     "z_images/Pasted image 20250616095619.png",
-    "Informatik/Machine Learning/Brain Computation/Brain Models/Hodgkin-Haxley Model.md",
     "Informatik/Machine Learning/Brain Computation/Computation/Liquid State Machines.md",
     "Informatik/Machine Learning/Brain Computation/Computation/Spiking Neural Networks.md",
     "Mathematik/Allgemeine Mathematik/Allgemeine Mathematik.md",

@@ -31,6 +31,6 @@
 
 ### Common Models
 + [[LIF Model]]
-+ [Hodgkin-Haxley Model](Hodgkin-Haxley%20Model.md)
++ [Hodgkin-Huxley Model](Hodgkin-Huxley%20Model.md)
 + [Nonlinear IAF Models](Nonlinear%20IAF%20Models.md)
 + 
