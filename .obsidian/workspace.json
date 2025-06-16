@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Machine Learning/Brain Computation/Adaptation.md",
+                "file": "Informatik/Machine Learning/Brain Computation/Brain Models/Adaptive Models.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Adaptation"
+              "title": "Adaptive Models"
             }
           }
         ]
@@ -113,8 +113,11 @@
   },
   "active": "8f257ff3ba56f61a",
   "lastOpenFiles": [
+    "Informatik/Machine Learning/Brain Computation/Brain Models/Adaptive Models.md",
     "Informatik/Machine Learning/Brain Computation/Brain Models/Nonlinear IAF Models.md",
-    "Informatik/Machine Learning/Brain Computation/Adaptation.md",
+    "Informatik/Machine Learning/Brain Computation/Neurons/Neurons.md",
+    "Informatik/Machine Learning/Brain Computation/Untitled",
+    "z_images/Pasted image 20250616151154.png",
     "Informatik/Machine Learning/Brain Computation/Brain Models/LIF Model.md",
     "z_images/Pasted image 20250616140856.png",
     "z_images/Pasted image 20250616140840.png",
@@ -142,15 +145,12 @@
     "Mathematik/Analysis/Differentialrechnung/Anwendungen des MWS.md",
     "Mathematik/Analysis/Differentialrechnung/Differentialrechnung.md",
     "Mathematik/Analysis/Differentialrechnung/Kurvendiskussion.md",
-    "Mathematik/Analysis/Differentialrechnung/Taylorsche Formel.md",
-    "Mathematik/Analysis/Mehrdimensionale Differentialrechnung/Mehrdimensionale Differentialrechnung.md",
     "z_images/Pasted image 20250616122352.png",
     "z_images/Pasted image 20250616121053.png",
     "Informatik/Machine Learning/Brain Computation/Neurons/Untitled",
     "Informatik/Machine Learning/Brain Computation/Neurons",
     "z_images/Pasted image 20250616112630.png",
     "z_images/Pasted image 20250616111851.png",
-    "z_images/Pasted image 20250616111048.png",
     "Informatik/Machine Learning/Brain Computation/Computation",
     "Informatik/Machine Learning/ML1/lecture07.pdf",
     "Informatik/Machine Learning/ML1/lecture06.pdf",
@@ -158,7 +158,6 @@
     "Informatik/Machine Learning/ML1/lecture10.pdf",
     "Informatik/Machine Learning/ML1/lecture09.pdf",
     "Informatik/Machine Learning/ML1/lecture11.pdf",
-    "Informatik/Machine Learning/ML1/lecture12.pdf",
     "Informatik/Untitled.canvas",
     "Untitled.canvas"
   ]
