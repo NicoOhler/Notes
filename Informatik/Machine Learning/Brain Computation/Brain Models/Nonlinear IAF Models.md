@@ -29,5 +29,9 @@
 	+ threshold at rheobase $\vartheta_{rh}$
 		+ voltage at injection of $I_{rh}$
 	+ steepness parameter $\Delta_T$
-+ 
+		+ converges to [LIF Model](LIF%20Model.md) for $\Delta_T \rightarrow 0$
++ advantages
+	+ realistic compared to [LIF Model](LIF%20Model.md)
+	+ way simpler than [Hodgkin-Huxley Model](Hodgkin-Huxley%20Model.md) allowing for easy parameter fitting
+	+ decent reproduction of recorded spike trains
 + TODO: Skizze
