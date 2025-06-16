@@ -12,4 +12,12 @@
 + simulation via numerical integration
 	+ Euler's Method
 	+ Zero-Order Hold
-+ complex and computationally expensive $\implies$ 
++ complex and computationally expensive
+	+ need for simplification
+### Simplification Approaches
++ neglecting ion types with minor contributions
+	+ i.e. model only sodium and potassium
++ combine into single ionic current $I_{fast}$
+	+ $C_m \frac{du}{dt}=-g_L(V-E_L)-g_{fast}(V-E_{fast})p_{fast}(V) + I_{ext}$
+	+ express $p_{fast}(V)$ as constant 
+		+ reduce differential equation to constant
