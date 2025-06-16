@@ -1,4 +1,3 @@
-### Leaky Integrate-And-Fire Model
 + extreme simple neuron model
 + ![](../../../../z_images/Pasted%20image%2020250616112630.png)
 + $\tau_m \frac{du}{dt} = -(u(t)-u_{rest}) + R_m I(t)$ with $\tau_m = R_m C_m$

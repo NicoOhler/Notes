@@ -31,7 +31,7 @@
 		+ e.g., biophysical modeling, connectionism, artificial life
 
 ### Common Models
-+ [[LIF Model]]
++ [[Leaky Integrate-And-Fire Model]]
 + [Hodgkin-Huxley Model](Hodgkin-Huxley%20Model.md)
-+ [Nonlinear IAF Models](Nonlinear%20IAF%20Models.md)
++ [Nonlinear Integrate-And-Fire Models](Nonlinear%20Integrate-And-Fire%20Models.md)
 + 
