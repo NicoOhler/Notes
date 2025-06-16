@@ -20,12 +20,13 @@
 	+ steady change via subthreshold adaptation
 	+ incremental spike triggered adaptation
 		+ i.e. $w\rightarrow w+b$ whenever a spike occurs
-	+ usually steady converge to $u_{rest}$ due to $a>0$
 + adaptation parameters $a$
+	+ usually steady converge to $u_{rest}$ due to $a>0$
+	+ changes slope of w-nullcline
 + adaptation parameters $b$
-	
-	+ b
 	+ $b<0\Rightarrow$ increased excitability after spikes
 	+ $b>0\Rightarrow$ reduced excitability after spikes
+	+ moves plane up or down?
++ $I(t)>0$ pushes u-nullcline upwards
 + $a=b=0\Rightarrow$ [Exponential Integrate-And-Fire Model](Exponential%20Integrate-And-Fire%20Model.md)
 
