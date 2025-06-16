@@ -37,7 +37,7 @@
 + cerebellum
 	+ responsible for motor coordination and muscle control
 + subcortical areas
-	 + mostly responsible for less cognitive functions
+	 + mostly responsible for various less cognitive functions
 		 + motoric, emotions, connections, ...
 	+ amygdala
 		+ emotion control
@@ -57,6 +57,9 @@
 	+ mostly responsible for cognitive functions
 		+ thinking, learning, memory, language, ...
 	+ prefrontal cortex
+		+ responsible for planning, decision making, working memory, impulse and emotion control
+	+ divides into several functional regions
+		+ not well separated though
 		+ 
 + ![](../../../z_images/Pasted%20image%2020250616095736.png)
 ### Important Parts of the Brain
