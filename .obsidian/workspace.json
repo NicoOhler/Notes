@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Machine Learning/Brain Computation/Brain Models/Brain Models.md",
+                "file": "Mathematik/Analysis/Differentialrechnung/Kurvendiskussion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Brain Models"
+              "title": "Kurvendiskussion"
             }
           }
         ]
@@ -113,9 +113,21 @@
   },
   "active": "8f257ff3ba56f61a",
   "lastOpenFiles": [
+    "Mathematik/Analysis/Differentialrechnung/Taylorsche Formel.md",
+    "Mathematik/Analysis/Differentialrechnung/Kurvendiskussion.md",
+    "Mathematik/Analysis/Differentialrechnung/Differentialrechnung.md",
+    "Mathematik/Analysis/Differentialrechnung/Anwendungen des MWS.md",
+    "Mathematik/Analysis/Differentialrechnung/Anwendungen der  Differentialrechnung.md",
+    "Mathematik/Analysis/Differentialgleichungen/Systeme von DGL und Stabilität.md",
+    "Mathematik/Analysis/Differentialgleichungen/Lineare DGL mit konstanten Koeffizienten.md",
+    "Mathematik/Analysis/Differentialgleichungen/Inhomogene DGL mit mit konstanten Koeffizienten.md",
+    "Mathematik/Analysis/Differentialgleichungen/Differentialgleichungen.md",
+    "Mathematik/Analysis/Differentialgleichungen/DGL Typen.md",
+    "Informatik/Machine Learning/Brain Computation/Brain Models/Brain Models.md",
+    "Mathematik/Analysis/Komplexe Analysis/Anwendungen der Residuenrechnung.md",
+    "Mathematik/Analysis/Komplexe Analysis/Potentialgleichung.md",
     "Informatik/Machine Learning/Brain Computation/Brain Models/Dynamical Systems.md",
     "Informatik/Machine Learning/Brain Computation/Brain Models/Hodgkin-Huxley Model.md",
-    "Informatik/Machine Learning/Brain Computation/Brain Models/Brain Models.md",
     "Informatik/Machine Learning/Brain Computation/Neurons/Ion Channels.md",
     "Informatik/Machine Learning/Brain Computation/Neurons/Dendrites.md",
     "Informatik/Machine Learning/Brain Computation/Neurons/Spike Generation.md",
@@ -136,9 +148,7 @@
     "Informatik/Machine Learning/Brain Computation/Neurons/Synapses.md",
     "Informatik/Machine Learning/Brain Computation/Computation",
     "Informatik/Machine Learning/Brain Computation/Untitled.md",
-    "Informatik/Machine Learning/Brain Computation/Brain Models/Nonlinear IAF Models.md",
     "z_images/Pasted image 20250616104713.png",
-    "Informatik/Machine Learning/Brain Computation/Brain Computation.md",
     "Informatik/Machine Learning/ML1/lecture07.pdf",
     "Informatik/Machine Learning/ML1/lecture06.pdf",
     "Informatik/Machine Learning/ML1/lecture08.pdf",
@@ -149,16 +159,6 @@
     "z_images/Pasted image 20250616102838.png",
     "z_images/Pasted image 20250616095736.png",
     "z_images/Pasted image 20250616095619.png",
-    "Informatik/Machine Learning/Brain Computation/Computation/Liquid State Machines.md",
-    "Informatik/Machine Learning/Brain Computation/Computation/Spiking Neural Networks.md",
-    "Mathematik/Allgemeine Mathematik/Allgemeine Mathematik.md",
-    "Mathematik/Physik/Physik.md",
-    "Biologie/Genetik/Allel.md",
-    "Biologie/Genetik/Chromosome.md",
-    "Biologie/Genetik/Gene.md",
-    "Biologie/Genetik/Gregor Mendel.md",
-    "Biologie/Genetik/Humane Genome Project.md",
-    "Psychology/Body Language Cues/Nonverbal Communication.md",
     "Informatik/Untitled.canvas",
     "Untitled.canvas"
   ]
