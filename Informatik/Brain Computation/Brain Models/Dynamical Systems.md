@@ -33,3 +33,17 @@
 		+ real with mixed signs $\Rightarrow$ saddle node
 		+ real and positive $\Rightarrow$ attractor
 		+ ? $\Rightarrow$ repeller
+### High-Dimensional Dynamical Systems
++ stable point attractors
++ stable periodic motions due to multiple attractors
+	+ initial chaos settles into order after transient phase
++ ongoing a periodic motion
++  chaos
+	+ confined subspace
+	+ deterministic
+	+ only short term predictions possible
+	+ infinite transient phase
+	+ quantifiable via Lyapunov exponent $\lambda$
+		+ $||\delta(t)||\approx ||\delta_0(t)||e^{\lambda t}$
+		+ $\lambda > 0 \iff$chaos
+		+ $\lambda \approx 0, \lambda < 0 \iff$edge of chaos
