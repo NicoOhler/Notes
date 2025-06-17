@@ -11,11 +11,9 @@
 	+ excitatory (e.g. glutamate) or inhibitory effect (e.g. GABA)
 7. current causes postsynaptic potential
 	+ $C_m\frac{du}{dt}=-g_{L}(u(t)-u_{rest}) + I_{syn}(t)$ 
-
 ###  Dale's principle
 + neurons perform same chemical action at all their outgoing synapses
 + thus neurons either excitatory or inhibitory
-
 ### Stochastic Neurotransmitter Release
 + probability depends on pre/postsynaptic factors such as
 	+ recent activity
