@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Machine Learning/Retrieval Augmented Generation/Retrieval Augmented Generation.md",
+                "file": "Informatik/Brain Computation/Brain Models/Dynamical Systems.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Retrieval Augmented Generation"
+              "title": "Dynamical Systems"
             }
           }
         ],
@@ -128,6 +128,7 @@
   },
   "active": "43b3241bf388833c",
   "lastOpenFiles": [
+    "Informatik/Machine Learning/Retrieval Augmented Generation/Retrieval Augmented Generation.md",
     "Informatik/Brain Computation/Brain Models/Dynamical Systems.md",
     "Informatik/Brain Computation/Computation/Spiking Neural Networks.md",
     "Informatik/Brain Computation/Computation/Computation Modeling Approaches.md",
@@ -160,7 +161,6 @@
     "Informatik/Brain Computation/Brain Computation.md",
     "Informatik/Data Science and AI/Data Science and AI.md",
     "Informatik/Data Science and AI/Machine Learning/Artificial Neural Networks.md",
-    "Mathematik/Physik/Physik.md",
     "Informatik/Machine Learning/Brain Computation/Untitled",
     "z_images/Pasted image 20250616151154.png",
     "z_images/Pasted image 20250616140856.png",
