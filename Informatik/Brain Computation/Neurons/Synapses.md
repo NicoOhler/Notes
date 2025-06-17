@@ -12,5 +12,6 @@
 ### Chemical Synapses
 + common throughout the brain and used by most models
 + electrical signal from axon causes chemical transmission at synapse which causes electrical signal at dendrite
-+ slow, unidirectional [Synaptic Transmission](Synaptic%20Transmission.md)
++ slow, unidirectional transmission
 	+ presynaptic activity influences postsynaptic neuron
++ see [Synaptic Transmission](Synaptic%20Transmission.md)

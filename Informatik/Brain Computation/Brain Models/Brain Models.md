@@ -37,4 +37,4 @@
 + [Quadratic Integrate-And-Fire Model](Quadratic%20Integrate-And-Fire%20Model.md)
 + [Exponential Integrate-And-Fire Model](Exponential%20Integrate-And-Fire%20Model.md)
 + [Adaptive Exponential Integrate-And-Fire Model](Adaptive%20Exponential%20Integrate-And-Fire%20Model.md)
-+ [Modeling Synaptic Transmissions](Modeling%20Synaptic%20Transmissions.md)
++ [Simple Synaptic Model](Simple%20Synaptic%20Model.md)

@@ -24,12 +24,10 @@
 + multiple release sites per synapse
 	+ $\Rightarrow$ postsynaptic potential varies
 	+ synaptic weight = average
-+ fast but short lasting effect on single neuron
-	+ via transmission of action potential
-	+ like a single additional signal
++ transmit signals to individual neurons via synapses
++ fast but short lasting effect
 ### Release of Neuromodulators
-+ chemicals regulating neuron properties
++ chemicals regulating neuron properties of larger networks
 	+ excitability
 	+ plasticity
-+ difference to neurotransmitter
-	+ slow but long lasting effect on a whole neuron area widespread, non-local
++ slow but long lasting non-local effect 
