@@ -34,4 +34,7 @@
 + [[Leaky Integrate-And-Fire Model]]
 + [Hodgkin-Huxley Model](Hodgkin-Huxley%20Model.md)
 + [Nonlinear Integrate-And-Fire Models](Nonlinear%20Integrate-And-Fire%20Models.md)
-+ 
++ [Quadratic Integrate-And-Fire Model](Quadratic%20Integrate-And-Fire%20Model.md)
++ [Exponential Integrate-And-Fire Model](Exponential%20Integrate-And-Fire%20Model.md)
++ [Adaptive Exponential Integrate-And-Fire Model](Adaptive%20Exponential%20Integrate-And-Fire%20Model.md)
++ [Modeling Synaptic Transmissions](Modeling%20Synaptic%20Transmissions.md)
