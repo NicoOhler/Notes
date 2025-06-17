@@ -1,4 +1,5 @@
 + expresses short term [plasticity](../Neurons/Plasticity.md) as synaptic resources
+	+ complex behaviors arises from resource consumption and recovery
 	+ loosely related to vesicle pools
 + $A(t)=Au_+(t)R_-(t)$ with
 	+ max amplitude or synaptic efficacy $A$
@@ -11,4 +12,6 @@
 		+ fraction of resources to recover after use $z$
 + incremental solution
 	+ $A_n=Au_nR_n$
-	+ $u_n=U+u_{n-1}(1-U)e^{}
+	+ $u_n=U+u_{n-1}(1-U)exp(\frac{-\Delta t}{\tau_{fac}})$
+	+ $R_n=1+(R_{n-1}-R_{n-1}u_{n-1} - 1)exp(\frac{-\Delta t}{\tau_{rec}})$
+	+ $u_1=U, R_1=1$

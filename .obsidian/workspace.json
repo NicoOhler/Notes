@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Brain Computation/Brain Models/Tsodyks Synapse Model.md",
+                "file": "Informatik/Brain Computation/Brain Models/Hebbian Learning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tsodyks Synapse Model"
+              "title": "Hebbian Learning"
             }
           }
         ]
@@ -113,9 +113,10 @@
   },
   "active": "95a66c3185b3cc78",
   "lastOpenFiles": [
+    "Informatik/Brain Computation/Brain Models/Tsodyks Synapse Model.md",
+    "Informatik/Brain Computation/Brain Models/Hebbian Learning.md",
     "Informatik/Brain Computation/Neurons/Plasticity.md",
     "Informatik/Brain Computation/Neurons/Neurons.md",
-    "Informatik/Brain Computation/Brain Models/Tsodyks Synapse Model.md",
     "Informatik/Brain Computation/Neurons/Synapses.md",
     "Informatik/Brain Computation/Neurons/Synaptic Transmission.md",
     "Informatik/Brain Computation/Neurons/Spike Generation.md",
@@ -141,7 +142,6 @@
     "Mathematik/Statistik/Computational Methods/Bonferroni Correction.md",
     "Mathematik/Allgemeine Mathematik/Untitled.md",
     "Informatik/Brain Computation/Brain Models/Nonlinear Integrate-And-Fire Models.md",
-    "Informatik/Brain Computation/Brain Models/Leaky Integrate-And-Fire Model.md",
     "Informatik/Machine Learning/Brain Computation/Untitled",
     "z_images/Pasted image 20250616151154.png",
     "z_images/Pasted image 20250616140856.png",
