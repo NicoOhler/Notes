@@ -62,8 +62,9 @@
 	+ thinking, learning, memory, language, ...
 + prefrontal cortex
 	+ responsible for planning, decision making, working memory, impulse and emotion control
-+ mostly regular
-	+ i.e. same patter
++ complex with many different neuron types and patterns
+	+ mostly regular
+	+ i.e. recurring patterns in different regions
 + divides into several functional regions
 	+ not well separated though
 	+ follows processing hierarchy similar to CNNs
