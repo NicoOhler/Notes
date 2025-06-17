@@ -13,7 +13,13 @@
 	+ depression reduces PSP amplitudes
 	+ facilitation increases PSP amplitudes
 	+ mixed usually an increase followed by a decrease
-+ 
++ gives rise to
+	+ novelty detection
+		+ i.e. only react to change
+	+ low/high pass filter of spike trains
+	+ stabilization of network dynamics
+		+ i.e. prevent infinite growth and complete silence
++ [Tsodyks Synapse Model](../Brain%20Models/Tsodyks%20Synapse%20Model.md)
 
 ### Long Term Plasticity
 + change last hours to days
