@@ -1,4 +1,4 @@
-+ expresses short term [plasticity](../Neurons/Plasticity.md) as synaptic resources
++ expresses short term [plasticity](../Plasticity/Plasticity.md) as synaptic resources
 	+ complex behaviors arises from resource consumption and recovery
 	+ loosely related to vesicle pools
 + $A(t)=Au_+(t)R_-(t)$ with

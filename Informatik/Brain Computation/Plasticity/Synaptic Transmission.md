@@ -17,7 +17,7 @@
 ### Stochastic Neurotransmitter Release
 + probability depends on pre/postsynaptic factors such as
 	+ recent activity
-	+ long term [Plasticity](Plasticity.md)
+	+ long term [Plasticity](../Plasticity/Plasticity.md)
 	+ homeostasis
 + multiple release sites per synapse
 	+ $\Rightarrow$ postsynaptic potential varies

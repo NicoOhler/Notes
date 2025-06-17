@@ -1,4 +1,4 @@
-+ [Synaptic Transmissions](../Neurons/Synaptic%20Transmission.md) lead to postsynaptic potentials (PSPs)
++ [Synaptic Transmissions](../Plasticity/Synaptic%20Transmission.md) lead to postsynaptic potentials (PSPs)
 + some [ion channels](../Neurons/Ion%20Channels.md) have nonlinear voltage dependencies
 	+ $I_{syn}(t)=-g_{syn}(t)\gamma(u(t))$
 ### Conductance-Based [Synapse](../Neurons/Synapses.md)
