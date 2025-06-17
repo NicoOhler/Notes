@@ -5,7 +5,6 @@
 	+ pre/postsynaptic spike train
 	+ stochasticity
 	+ neuromodulators
-
 ### Short Term Plasticity
 + change last a few milliseconds
 + recovers afterwards
@@ -20,9 +19,9 @@
 	+ stabilization of network dynamics
 		+ i.e. prevent infinite growth and complete silence
 + [Tsodyks Synapse Model](../Brain%20Models/Tsodyks%20Synapse%20Model.md)
-
 ### Long Term Plasticity
 + change last hours to days
 + divided into
 	+ potentiation LTP
 	+ depression LTD
++ [Hebbian Learning](../Brain%20Models/Hebbian%20Learning.md)
