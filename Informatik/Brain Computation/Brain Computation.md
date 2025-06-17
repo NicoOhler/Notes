@@ -6,7 +6,7 @@
 	+ [[Physik]]
 	+ [Allgemeine Mathematik](../../../Mathematik/Allgemeine%20Mathematik/Allgemeine%20Mathematik.md)
 ### Overview
-+ [Brain Anatomy](Brain%20Anatomy.md)
++ [Neuroanatomy](Neuroanatomy.md)
 + [Neurons](Neurons/Neurons.md)
 + [Brain Models](Brain%20Models/Brain%20Models.md)
 + [Synapses](Neurons/Synapses.md)

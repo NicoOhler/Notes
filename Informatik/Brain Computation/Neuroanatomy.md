@@ -13,6 +13,10 @@
 		+ "Gehirnrinde"
 		+ mainly somas
 		+ grey matter
+		+ divided into
+			+ neocortex
+				+ new
+				+ 90% of b
 	+ inner layer
 		+ mainly axons
 		+ white matter
