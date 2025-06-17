@@ -26,8 +26,7 @@
  ![](../../../../z_images/Pasted%20image%2020250616111048.png)
 
 ### In Vivo Stochasticity
-+ neurons by themselves are entirely deterministic
++ neurons by themselves show deterministic behavior in vitro
 + stochasticity arises from synaptic bombardment
-	+ many, many inputs with variable membrane potentials
+	+ many, many inputs with variable membrane potentials?
 	+ modeled as [Poisson](../../../Mathematik/Wahrscheinlichkeitstheorie/Wahrscheinlichkeitsverteilungen/Poisson%20Verteilung.md) background noise
-
