@@ -1,6 +1,10 @@
 + [Synaptic Transmissions](../Neurons/Synaptic%20Transmission.md) lead to postsynaptic potentials (PSPs)
-+ conductance 
-	+ membrane conductance is superposition of individual input weighted by synaptic weight
++ some [ion channels](../Neurons/Ion%20Channels.md) have nonlinear voltage dependencies
+	+ $I_{syn}(t)=-g_{syn}(t)\gamma(u(t))$
+
+
+### Conductance-Based Synapse
++ membrane conductance is superposition of individual input weighted by synaptic weight
 	+ $g_{syn}(t)=\bar g_{syn} \sum_\limits f \alpha(t-t^{(f)})$
 	+ $I_{syn}(t)=-g_{syn}(t)(u(t)-E_{syn})$ 
 + typical choices for $\alpha$ 
@@ -18,5 +22,14 @@
 		+ slow onset and decay
 		+ way easier to implement
 	+ ![](../../../z_images/Pasted%20image%2020250617095008.png)
-+ some [ion channels](../Neurons/Ion%20Channels.md) have nonlinear voltage dependencies
-	+ $I_{syn}(t)=-g_{syn}(t)\gamma(u(t))$
+
+
+### Current-Based Synapse
++ relation to others?
++ simplification using abstract synaptic weight
+	+ $I_{syn}(t)=w_{syn}\sum_\limits f \alpha(t-t^{(f)})$
++ properties
+	+ no reliance on $u(t)$
+	+ may grow infinitely
+	+ constant amplitude
+	+ 

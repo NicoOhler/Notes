@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Brain Computation/Brain Models/Simple Synaptic Model.md",
+                "file": "Informatik/Brain Computation/Brain Models/Synaptic Models.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Simple Synaptic Model"
+              "title": "Synaptic Models"
             }
           }
         ]
@@ -134,7 +134,7 @@
   "active": "95a66c3185b3cc78",
   "lastOpenFiles": [
     "Informatik/Brain Computation/Neurons/Synaptic Transmission.md",
-    "Informatik/Brain Computation/Brain Models/Simple Synaptic Model.md",
+    "Informatik/Brain Computation/Brain Models/Synaptic Models.md",
     "z_images/Pasted image 20250617095124.png",
     "z_images/Pasted image 20250617095008.png",
     "z_images/Pasted image 20250617094947.png",
