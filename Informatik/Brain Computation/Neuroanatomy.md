@@ -13,11 +13,13 @@
 		+ "Gehirnrinde"
 		+ mainly somas
 		+ grey matter
-		+ divided into
-			+ neocortex
-				+ new
-				+ 90% of b
-	+ inner layer
+		+ newer neocortex
+			+ 90% of cortex
+			+ 6 layers
+		+ older allocortex
+			+ 10% of cortex
+			+ 3-4 layers
+	+ inner subcortical area
 		+ mainly axons
 		+ white matter
 	+ further division into
@@ -29,42 +31,44 @@
 + brain stem
 + ![](../../../z_images/Pasted%20image%2020250616095619.png)
 
-### Important Parts of the Brain and their Function
-+ brain stem
-	+ connects brain with the spinal chord
-		+ thus also to the remaining nervous system/body
-	+ regulates vital body functions
-		+ breathing
-		+ heart rate
-		+ ...
-	+ 
-+ cerebellum
-	+ responsible for motor coordination and muscle control
-+ subcortical areas
-	 + mostly responsible for various less cognitive functions
-		 + motoric, emotions, connections, ...
-	+ amygdala
-		+ emotion control
-		+ emitting neurotransmitters and hormones based on emotion
-			+ e.g., emission of cortisol under stress for heightened awareness 
-		+ increasing memory formation under strong emotional load
-	+ thalamus
-		+ connects cerebrum and midbrain
-		+ acts as relay station for sensory inputs
-	+ hypothalamus
-		+ coordination of vital functions
-		+ regulates water, salt, body temperature, ...
-	+ hippocampus 
-		+ responsible for memory formation and spatial cognition (orientation)
-		+ located in temporal lobe, right below cortex and strongly connected to it
-+ cortex
-	+ mostly responsible for cognitive functions
-		+ thinking, learning, memory, language, ...
-	+ prefrontal cortex
-		+ responsible for planning, decision making, working memory, impulse and emotion control
-	+ divides into several functional regions
-		+ not well separated though
-		+ follows processing hierarchy similar to CNNs
-		+ ![](../../../z_images/Pasted%20image%2020250616102838.png)
-+ ![](../../../z_images/Pasted%20image%2020250616095736.png)
+### Brain Stem
++ connects brain with the spinal chord
+	+ thus also to the remaining nervous system/body
++ regulates vital body functions
+	+ breathing
+	+ heart rate
+	+ ...
+### Cerebellum
++ responsible for motor coordination and muscle control
+### Subcortical Areas
+ + mostly responsible for various less cognitive functions
+	 + motoric, emotions, connections, ...
++ amygdala
+	+ emotion control
+	+ emitting neurotransmitters and hormones based on emotion
+		+ e.g., emission of cortisol under stress for heightened awareness 
+	+ increasing memory formation under strong emotional load
++ thalamus
+	+ connects cerebrum and midbrain
+	+ acts as relay station for sensory inputs
++ hypothalamus
+	+ coordination of vital functions
+	+ regulates water, salt, body temperature, ...
++ hippocampus 
+	+ responsible for memory formation and spatial cognition (orientation)
+	+ located in temporal lobe, right below cortex and strongly connected to it
+### Cortex
++ mostly responsible for cognitive functions
+	+ thinking, learning, memory, language, ...
++ prefrontal cortex
+	+ responsible for planning, decision making, working memory, impulse and emotion control
++ mostly regular
+	+ i.e. same patter
++ divides into several functional regions
+	+ not well separated though
+	+ follows processing hierarchy similar to CNNs
+	+ ![](../../../z_images/Pasted%20image%2020250616102838.png)
+
+
+![](../../../z_images/Pasted%20image%2020250616095736.png)
 
