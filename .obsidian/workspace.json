@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Jacob",
+                "query": "case",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -64,7 +64,8 @@
               "title": "Search"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -113,6 +114,8 @@
   },
   "active": "43b3241bf388833c",
   "lastOpenFiles": [
+    "Informatik/Brain Computation/Neuromorphic Computing/Spiking Neural Networks.md",
+    "Informatik/Brain Computation/Plasticity/Spike-Timing Dependent Plasticity.md",
     "Informatik/Brain Computation/Neuromorphic Computing/Neuromorphic Computing.md",
     "Informatik/Data Management/Cloud Computing/Distributed Data Storage/Spark.md",
     "Informatik/Data Management/Cloud Computing/Distributed Data Storage/Serverless Computing.md",
@@ -127,14 +130,12 @@
     "z_images/Pasted image 20250618092449.png",
     "Informatik/Brain Computation/Brain Models/Dynamical Systems.md",
     "Informatik/Machine Learning/Retrieval Augmented Generation/Retrieval Augmented Generation.md",
-    "Informatik/Brain Computation/Neuromorphic Computing/Spiking Neural Networks.md",
     "Informatik/Brain Computation/Computation/Computation Modeling Approaches.md",
     "Informatik/Brain Computation/Neuroanatomy.md",
     "Informatik/Brain Computation/Plasticity/Clopath Learning.md",
     "z_images/Pasted image 20250617110258.png",
     "z_images/Pasted image 20250617110251.png",
     "z_images/Pasted image 20250617110240.png",
-    "Informatik/Brain Computation/Plasticity/Spike-Timing Dependent Plasticity.md",
     "Informatik/Brain Computation/Plasticity/Hebbian Learning.md",
     "Informatik/Brain Computation/Plasticity/Plasticity.md",
     "Informatik/Brain Computation/Brain Models/Tsodyks Synapse Model.md",
