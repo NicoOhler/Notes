@@ -10,6 +10,7 @@
 		+ current propagates towards soma but also away
 		+ currents leak through membrane
 		+ decay and delay
+			+ distal input and backpropagated AP may not reach soma
 		+ modeled via cable equation
 	+ active effects
 		+ nonlinear signal processing
@@ -30,3 +31,10 @@
 
 ### Cable Equation
 + ![](../../../z_images/Pasted%20image%2020250618140613.png)
++ ![](../../../z_images/Pasted%20image%2020250618140624.png)
++ solution
+	+ ![](../../../z_images/Pasted%20image%2020250618140641.png)
+	+ distance-dependent attenuation
+		+ exponential decay with length constant $\lambda$
+		+ depends on diameter $a$
+			+ large $a\Rightarrow$ slow decay, small amplitude
