@@ -1,5 +1,7 @@
-+ biologically plausible [brain models](Brain%20Models/Brain%20Models.md) are hard to interpret
-+ can we learn from regular [Machine Learning](../Machine%20Learning/Machine%20Learning.md) instead?
++ open questions about the brain based on regular [Machine Learning](../Machine%20Learning/Machine%20Learning.md)
+	+ what is its objective function?
+	+ what is its learning mechanism?
+	+ how is credit assigned?
 + relation between ANNs and the brain
 	+ brain and ANNs 
 		+ overparameterized networks of simple, identical units
@@ -11,7 +13,6 @@
 + inductive biases
 	+ bias towards simple solutions which make sense
 	+ great for generalization
-+ what is the brain's objective function? learning mechanism? how is credit assigned?
 ### Credit Assignment
 + define contribution of each neuron to output
 + requires feedback from output
@@ -30,5 +31,6 @@
 + alternatives to backpropagation
 	+ ![](../../z_images/Pasted%20image%2020250618223853.png)
 	+ synaptic eligibility traces as for [Spiking Neural Networks](Neuromorphic%20Computing/Spiking%20Neural%20Networks.md)
-
-### Reinforcement Learning in the Brain
+### Reinforcement Learning
++ trial and error approach
++ learn from f
