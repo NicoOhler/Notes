@@ -6,3 +6,6 @@
 	+ small latency indicates strong activation
 	+ prevalent for early/initial stimulus
 		+ e.g. first touch, sudden change in brightness
++ phase code
+	+ oscillation occur throughout the brain
+	+ 
