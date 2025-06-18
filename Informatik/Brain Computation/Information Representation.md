@@ -1,4 +1,4 @@
-### Neural Code
+### Neural Codes
 + [information representation](../Data%20Science%20and%20AI/Knowledge%20Representation/Knowledge%20Representation.md) of the brain
 	+ relationship between brain signal and contained information
 + learning stimuli to action mappings doable
@@ -16,5 +16,11 @@
 			+ i.e. process same situation differently
 	+ spike timing also encodes information
 		+ lost through averaging
-
-### 
+### Population Codes
++ estimate time-varying firing rate of whole [neuron](Neurons/Neurons.md) population
++ population rate
+	+ $A(t)=\frac{1}{N}\sum\limits_n\frac{1}{\Delta t}N_{sp,n}(t,t+\Delta t)$ 
+	+ instantaneous average over many neurons
+	+ robust estimate without need to repeat trials
+	+ assumes trulyhomogeneous population which do not exist
++ 
