@@ -10,4 +10,6 @@
 + high-dimensional [dynamical system](../Brain%20Models/Dynamical%20Systems.md)
 	+ individual [differential equation](../../../Mathematik/Analysis/Differentialgleichungen/Differentialgleichungen.md) per neuron
 	+ linked via synaptic interplay
-+ 
++ network of [LIF](../Brain%20Models/Leaky%20Integrate-And-Fire%20Model.md) [neurons](../Neurons/Neurons.md)
++ trained with special version of backpropagation
+	+ replaces

@@ -30,14 +30,19 @@
 	+ training based
 	+ energy efficient
 	+ training difficult to implement on neuromorphic hardware
-		1. train ANN on normal dataset and convert it to SNS
+		1. train ANN offline on normal dataset and convert it to SNS
 			+ mediocre results
 			+ optional finetuning
 		2. directly train SNN on special data
 			+ good results
 		3. train online via loss function and feedback
 			+ good results
+			+ weird and difficult to implement
 + unsupervised learning with biologically plausible learning rules
-	+ 
+	+ adaptation hardware-friendly
+	+ worse performance than regular deep learning
++ event-based sensing
+	+ extremely efficient for both memory and compute
+	+ ideal for low resource use cases such as edge computing 
 
 
