@@ -19,5 +19,15 @@
 		+ e.g. $g(x)=\gamma \,\text{max}(0,1-|x|)$
 + extends to 
 	+ recurrent spiking neural networks (RSNNs)
+		+ mediocre performance
 	+ long-short term memory (LSNNs)
-+ using backpr![](../../../z_images/Pasted%20image%2020250618134044.png)
+		+ some neurons exhibit adaptation
+		+ perform exceptionally
++ using backpropagation through time (BPTT)
+	+ ![](../../../z_images/Pasted%20image%2020250618134044.png)
+	+ implementation on neuromorphic hardware requires eligibility traces
+		+ $\frac{dE}{dw_{ij}}\approx\sum\limits_t\vb{}{L}_j^t \, \vb{e}^t_{ij}$
+		+ $\boldmath $a$$
+		+ 
+		+ ![](../../../z_images/Pasted%20image%2020250618134324.png)
+	+ 
