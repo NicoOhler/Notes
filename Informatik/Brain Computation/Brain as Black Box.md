@@ -11,4 +11,13 @@
 + inductive biases
 	+ bias towards simple solutions which make sense
 	+ great for generalization
-	+ what is the brain's objective function? learning mechanism? how is credit assigned?
++ what is the brain's objective function? learning mechanism? how is credit assigned?
+### Learning
++ credit assignment
+	+ define contribution of each neuron to output
+	+ requires feedback from output
+	+ neuron needs local information
+		+ spikes
+		+ neuromodulators
++ weight perturbation
+	+ 
