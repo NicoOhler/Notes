@@ -16,6 +16,6 @@
 			+ i.e. process same situation differently
 	+ spike timing also encodes information
 		+ lost through averaging
-+ various types such as
++ various other types such as
 	+ [Population Codes](Population%20Codes.md)
 	+ [[Temporal Codes]]
