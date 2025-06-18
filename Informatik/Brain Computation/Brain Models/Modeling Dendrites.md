@@ -5,18 +5,7 @@
 		+ dendrites more than 99% of neuron's surface
 	+ different compartments connected to different brain regions
 	+ ![](../../../z_images/Pasted%20image%2020250618140034.png)
-+ distance to soma impacts action potential
-	+ passive effects
-		+ current propagates towards soma but also away
-		+ currents leak through membrane
-		+ decay and delay
-			+ distal input and backpropagated AP may not reach soma
-		+ modeled via cable equation
-	+ active effects
-		+ nonlinear signal processing
-		+ [ion channels](../Neurons/Ion%20Channels.md)
-		+ structural [plasticity](../Plasticity/Plasticity.md)
-		+ ...
++ distance to soma impacts action potential via passive and active effects
 ### Multi-Compartment models
 + idea
 	+ divide dendrites into small cylindric volumes
@@ -28,13 +17,21 @@
 		+ parameters fit to recordings
 	+ simpler models use one compartment per branch
 	+ ![](../../../z_images/Pasted%20image%2020250618135209.png)
-
-### Cable Equation
-+ ![](../../../z_images/Pasted%20image%2020250618140613.png)
-+ ![](../../../z_images/Pasted%20image%2020250618140624.png)
-+ solution
-	+ ![](../../../z_images/Pasted%20image%2020250618140641.png)
-	+ distance-dependent attenuation
-		+ exponential decay with length constant $\lambda$
-		+ depends on diameter $a$
-			+ large $a\Rightarrow$ slow decay, small amplitude
+### Passive Dendrites Properties
++ current propagates towards soma but also away
++ currents leak through membrane
++ decay and delay
+	+ distal input and backpropagated AP may not reach soma
++ modeled via cable equation
+	+ ![](../../../z_images/Pasted%20image%2020250618140613.png)
+	+ ![](../../../z_images/Pasted%20image%2020250618140624.png)
+	+ solution
+		+ ![](../../../z_images/Pasted%20image%2020250618140641.png)
+		+ distance-dependent attenuation
+			+ exponential decay with length constant $\lambda$
+			+ depends on diameter $a$
+				+ large $a\Rightarrow$ slow decay, small amplitude
+### Active Dendrites Effects
++ nonlinear signal processing arises from [ion channels](../Neurons/Ion%20Channels.md)
+	+ e.g. potential above threshold causes channels to open
++ action potential typically increases bAP
