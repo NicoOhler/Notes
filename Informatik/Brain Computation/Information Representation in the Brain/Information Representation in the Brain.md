@@ -19,3 +19,4 @@
 + various other types such as
 	+ [Population Codes](Population%20Codes.md)
 	+ [[Temporal Codes]]
++ often times a combination of all these codes

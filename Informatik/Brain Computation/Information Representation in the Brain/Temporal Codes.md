@@ -7,5 +7,10 @@
 	+ prevalent for early/initial stimulus
 		+ e.g. first touch, sudden change in brightness
 + phase code
-	+ oscillation occur throughout the brain
-	+ 
+	+ oscillations occur throughout the brain
+	+ analyze firing time within oscillatory phase
+		+ do all neurons have to fire within cycle?
+		+ strongly activated neurons fire early
+		+ similar to a latency code
++ synchrony
+	+ information represented by multiple neurons linked if they fire synchronously 
