@@ -3,7 +3,7 @@
 	+ cell body
 	+ generates output action potential based on inputs
 	+ responsible for actual [[../Computation/Computation]]
-+ [Dendrites](Dendrites.md)
++ [Modeling Dendrites](../Brain%20Models/Modeling%20Dendrites.md)
 	+ deliver input currents to the soma
 	+ connected to axons of other neurons via [Synapses](Synapses.md)
 + axons

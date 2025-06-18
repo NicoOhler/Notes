@@ -26,8 +26,6 @@
 + using backpropagation through time (BPTT)
 	+ ![](../../../z_images/Pasted%20image%2020250618134044.png)
 	+ implementation on neuromorphic hardware requires eligibility traces
-		+ $\frac{dE}{dw_{ij}}\approx\sum\limits_t\vb{}{L}_j^t \, \vb{e}^t_{ij}$
-		+ $\boldmath $a$$
-		+ 
+		+ one eligibility trace $\mathbf{e}^t_{ij}$ per synapse $\frac{dE}{dw_{ij}}\approx\sum\limits_t\mathbf{}{L}_i^t \, \mathbf{e}^t_{ij}$
 		+ ![](../../../z_images/Pasted%20image%2020250618134324.png)
-	+ 
+		+ ![](../../../z_images/Pasted%20image%2020250618134746.png)

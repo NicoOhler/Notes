@@ -11,5 +11,5 @@
 + [Brain Models](Brain%20Models/Brain%20Models.md)
 + [Synapses](Neurons/Synapses.md)
 + [Plasticity](Plasticity/Plasticity.md)
-+ [Dendrites](Neurons/Dendrites.md)
++ [Modeling Dendrites](Brain%20Models/Modeling%20Dendrites.md)
 + [Neuromorphic Computing](Neuromorphic%20Computing/Neuromorphic%20Computing.md)
