@@ -6,6 +6,7 @@
 	+ different compartments connected to different brain regions
 	+ ![](../../../z_images/Pasted%20image%2020250618140034.png)
 + distance to soma impacts action potential via passive and active effects
++ 
 ### Multi-Compartment models
 + idea
 	+ divide dendrites into small cylindric volumes
@@ -39,6 +40,12 @@
 + dendritic spikes
 	+ chain reaction of many nearby channels opening
 		+ results in large all or nothing effects
-	+ complexity arises from varying densities of neuron types
-	+ e.g. sodium spikes lead to small but longer amplification than somatic spikes
-	+ e.g. calcium spikes lead to very long plateaus
+	+ highly dependent on channel density
+		+ complexity arises from varying densities for different neuron types
+	+ sodium spikes
+		+ small amplification 
+		+ longer duration than somatic spikes
+	+ calcium spikes 
+		+ lead to very long plateaus 
+		+ up to several 100 ms
+		+ evoked by simultaneous bAP and local input
