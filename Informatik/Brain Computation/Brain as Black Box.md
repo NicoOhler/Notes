@@ -19,5 +19,10 @@
 	+ neuron needs local information
 		+ spikes
 		+ neuromodulators
-+ weight perturbation
-	+ 
+	+ weight perturbation
+		+ same feedback for all neurons?
+		+ keep changes only if beneficial for objective
+		+ slow improvements due to high variance
+	+ issues of backpropagation
+		+ separate forward and backward pass required
+		+ symmetric weights 
