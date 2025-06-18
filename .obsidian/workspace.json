@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Brain Computation/Computation/Liquid State Machines.md",
+                "file": "Informatik/Brain Computation/Neuromorphic Computing/Neuromorphic Computing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Liquid State Machines"
+              "title": "Neuromorphic Computing"
             }
           }
         ],
@@ -126,13 +126,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "43b3241bf388833c",
+  "active": "097b9a58ea336072",
   "lastOpenFiles": [
+    "Informatik/Brain Computation/Neuromorphic Computing/Liquid State Machines.md",
+    "Informatik/Brain Computation/Computation/Computation.md",
+    "Informatik/Brain Computation/Neuromorphic Computing/Neuromorphic Computing.md",
     "z_images/Pasted image 20250618092449.png",
-    "Informatik/Brain Computation/Computation/Liquid State Machines.md",
     "Informatik/Brain Computation/Brain Models/Dynamical Systems.md",
     "Informatik/Machine Learning/Retrieval Augmented Generation/Retrieval Augmented Generation.md",
-    "Informatik/Brain Computation/Computation/Spiking Neural Networks.md",
+    "Informatik/Brain Computation/Neuromorphic Computing/Spiking Neural Networks.md",
     "Informatik/Brain Computation/Computation/Computation Modeling Approaches.md",
     "Informatik/Brain Computation/Neuroanatomy.md",
     "Informatik/Brain Computation/Plasticity/Clopath Learning.md",
@@ -154,7 +156,6 @@
     "z_images/Pasted image 20250617095124.png",
     "z_images/Pasted image 20250617095008.png",
     "z_images/Pasted image 20250617094947.png",
-    "Informatik/Brain Computation/Computation/Computation.md",
     "Informatik/Brain Computation/Brain Models/Brain Models.md",
     "Informatik/Brain Computation/Brain Models/Exponential Integrate-And-Fire Model.md",
     "Informatik/Brain Computation/Brain Models/Adaptive Exponential Integrate-And-Fire Model.md",
@@ -165,10 +166,9 @@
     "z_images/Pasted image 20250616151154.png",
     "z_images/Pasted image 20250616140856.png",
     "z_images/Pasted image 20250616140840.png",
-    "z_images/Pasted image 20250616130944.png",
     "Informatik/Machine Learning/Brain Computation/Neurons/Untitled",
     "Informatik/Brain Computation/Neurons",
-    "Informatik/Brain Computation/Computation",
+    "Informatik/Brain Computation/Neuromorphic Computing",
     "Informatik/Machine Learning/ML1/lecture07.pdf",
     "Informatik/Machine Learning/ML1/lecture06.pdf",
     "Informatik/Machine Learning/ML1/lecture08.pdf",

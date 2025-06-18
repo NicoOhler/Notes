@@ -12,4 +12,4 @@
 + [Synapses](Neurons/Synapses.md)
 + [Plasticity](Plasticity/Plasticity.md)
 + [Dendrites](Neurons/Dendrites.md)
-+ [Neuromorphic Computing](Computation/Neuromorphic%20Computing.md)
++ [Neuromorphic Computing](Neuromorphic%20Computing/Neuromorphic%20Computing.md)
