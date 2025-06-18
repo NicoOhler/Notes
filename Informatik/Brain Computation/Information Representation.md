@@ -22,5 +22,7 @@
 	+ $A(t)=\frac{1}{N}\sum\limits_n\frac{1}{\Delta t}N_{sp,n}(t,t+\Delta t)$ 
 	+ instantaneous average over many neurons
 	+ robust estimate without need to repeat trials
-	+ assumes trulyhomogeneous population which do not exist
-+ 
+	+ truly homogeneous populations do not exist
++ collaborative encoding through individual activity
+	+ i.e. construct signal vector instead of average
+	+ train linear decoder on activity veco
