@@ -1,5 +1,8 @@
 ### Reservoir and Liquid Computing
 + use complex [Dynamical System](../Brain%20Models/Dynamical%20Systems.md) to project input into high dimensional state space
+	+ echo state networks (ANNs)
+	+ liquid state machines ([SNNs](Spiking%20Neural%20Networks.md))
+	+ physical reservoir computing uses physical systems (liquids or living organisms)
 + assume a single stable state (i.e. an attractor)
 + extract results using a simple readout 
 + liquid filter performs simple high dimensional computation
@@ -14,6 +17,7 @@
 		+ return to flat water surface
 	+ extract knowledge about input by analyzing the new dynamics
 		+ waves from east to west $\Rightarrow$ east wind
++ lost relevance due to recent deep learning accomplishments
 ### Liquid State Machine
 + use liquid filter to map inputs to state space
 	+ receives no training
@@ -24,7 +28,7 @@
 		+ i.e. inputs from a select few neurons measured at certain time intervals
 		+ exponential filtered spike trains
 	+ trained to receive desired output
-	+ can be swapped for other tasks
+	+ exchangeable
 		+ simulate complex liquid filter once
 		+ use its outputs to train new readouts for different tasks
 	+ simple models often sufficient for good results
@@ -37,6 +41,8 @@
 		+ different inputs yield different outputs
 	+ approximation property
 		+ readout capable of distinguishing states and mapping them to target?
++ best performance at edge of chaos
+	+ rich and interesting dynamics for readout
 ### Implementation
 + liquid filter
 	+ often a recurrent [Spiking Neural Network](Spiking%20Neural%20Networks.md) of [LIF](../Brain%20Models/Leaky%20Integrate-And-Fire%20Model.md) [neurons](../Neurons/Neurons.md)
