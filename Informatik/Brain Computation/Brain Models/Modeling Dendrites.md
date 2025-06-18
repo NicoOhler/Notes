@@ -4,8 +4,18 @@
 	+ neurons extend spatially
 		+ dendrites more than 99% of neuron's surface
 	+ different compartments connected to different brain regions
-	+ 
 	+ ![](../../../z_images/Pasted%20image%2020250618140034.png)
++ distance to soma impacts action potential
+	+ passive effects
+		+ current propagates towards soma but also away
+		+ currents leak through membrane
+		+ decay and delay
+		+ modeled via cable equation
+	+ active effects
+		+ nonlinear signal processing
+		+ [ion channels](../Neurons/Ion%20Channels.md)
+		+ structural [plasticity](../Plasticity/Plasticity.md)
+		+ ...
 ### Multi-Compartment models
 + idea
 	+ divide dendrites into small cylindric volumes
@@ -17,3 +27,6 @@
 		+ parameters fit to recordings
 	+ simpler models use one compartment per branch
 	+ ![](../../../z_images/Pasted%20image%2020250618135209.png)
+
+### Cable Equation
++ ![](../../../z_images/Pasted%20image%2020250618140613.png)
