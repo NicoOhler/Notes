@@ -25,4 +25,13 @@
 	+ truly homogeneous populations do not exist
 + collaborative encoding through individual activity
 	+ i.e. construct signal vector instead of average
-	+ train linear decoder on activity veco
+	+ train linear decoder on activity vectors
++ neurons have receptive fields
+	+ i.e. responsible for certain stimulus range
+	+ continuous position code for overlaps
+	+ discrete labeled line code for 1:1 mapping of neuron to value range
+	+ ![](../../z_images/Pasted%20image%2020250618201412.png)
++ winner-take-all (WTA)
+	+ only best matching neuron fires
+	+ 
+ 
