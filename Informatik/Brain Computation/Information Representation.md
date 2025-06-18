@@ -7,7 +7,14 @@
 	+ average spike count for a duration $T$
 		+ $v=\frac{1}{T}N_{sp}(0,T)$ 
 		+ problem: rapid stimuli change
+		+ noisy and varying neural responses 
 	+ peristimulus time histogram (PSTH)
 		+ average over trials
 		+ $v(t)=\frac{1}{M}\sum\limits_m\frac{1}{\Delta t}N_{sp,m}(t,t+\Delta t)$ 
-		+ 
+		+ impossible to repeat experiments under identical conditions
+		+ non-uniform processing
+			+ i.e. process same situation differently
+	+ spike timing also encodes information
+		+ lost through averaging
+
+### 
