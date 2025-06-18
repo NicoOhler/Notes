@@ -1,12 +1,19 @@
 ### Motivation
 + dendrites impact [neurons](../Neurons/Neurons.md) via spatiotemporal filtering and active effects
-	+ are neuromodulators meant with active effects?
 	+ neurons extend spatially
 		+ dendrites more than 99% of neuron's surface
 	+ different compartments connected to different brain regions
 	+ ![](../../../z_images/Pasted%20image%2020250618140034.png)
 + distance to soma impacts action potential via passive and active effects
-+ 
+	+ see below
++ point neuron models are incapable of
+	+ logical operations on inputs
+		+ dendritic tree corresponds to cascade of logical operations
+	+ low pass filter and attenuation
+	+ coincidence detection
+		+ i.e. simultaneously bAP + input + channel behavior
+	+ segregation and amplification
+		+ i.e. strong local input $\Rightarrow$ dendritic spike $\Rightarrow$ nonlinear amplification
 ### Multi-Compartment models
 + idea
 	+ divide dendrites into small cylindric volumes
@@ -19,10 +26,11 @@
 	+ simpler models use one compartment per branch
 	+ ![](../../../z_images/Pasted%20image%2020250618135209.png)
 ### Passive Dendrites Properties
-+ current propagates towards soma but also away
-+ currents leak through membrane
-+ decay and delay
-	+ distal input and backpropagated AP may not reach soma
++ spatiotemporal filtering
+	+ current propagates towards soma but also away
+	+ currents leak through membrane
+	+ decay and delay
+		+ distal input and backpropagated AP may not reach soma
 + modeled via cable equation
 	+ ![](../../../z_images/Pasted%20image%2020250618140613.png)
 	+ ![](../../../z_images/Pasted%20image%2020250618140624.png)
