@@ -9,7 +9,6 @@
 + [Neuroanatomy](Neuroanatomy.md)
 + [Neurons](Neurons/Neurons.md)
 + [Brain Models](Brain%20Models/Brain%20Models.md)
-+ [Synapses](Neurons/Synapses.md)
 + [Plasticity](Plasticity/Plasticity.md)
-+ [Modeling Dendrites](Brain%20Models/Modeling%20Dendrites.md)
 + [Neuromorphic Computing](Neuromorphic%20Computing/Neuromorphic%20Computing.md)
++ [Information Representation in the Brain](Information%20Representation%20in%20the%20Brain/Information%20Representation%20in%20the%20Brain.md)

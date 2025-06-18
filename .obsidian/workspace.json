@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Brain Computation/Information Representation in the Brain/Information Representation in the Brain.md",
+                "file": "Informatik/Brain Computation/Brain Computation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Information Representation in the Brain"
+              "title": "Brain Computation"
             }
           }
         ]
@@ -113,8 +113,10 @@
   },
   "active": "030d8f737939a26a",
   "lastOpenFiles": [
-    "Informatik/Brain Computation/Information Representation in the Brain/Temporal Codes.md",
+    "Informatik/Brain Computation/Neuroanatomy.md",
+    "Informatik/Brain Computation/Brain Computation.md",
     "Informatik/Brain Computation/Information Representation in the Brain/Information Representation in the Brain.md",
+    "Informatik/Brain Computation/Information Representation in the Brain/Temporal Codes.md",
     "Informatik/Data Science and AI/Knowledge Representation/Knowledge Representation.md",
     "Informatik/Brain Computation/Information Representation in the Brain/Population Codes.md",
     "Informatik/Brain Computation/Information Representation in the Brain",
@@ -146,10 +148,8 @@
     "Informatik/Brain Computation/Brain Models/Dynamical Systems.md",
     "Informatik/Machine Learning/Retrieval Augmented Generation/Retrieval Augmented Generation.md",
     "Informatik/Brain Computation/Computation/Computation Modeling Approaches.md",
-    "Informatik/Brain Computation/Neuroanatomy.md",
     "Informatik/Brain Computation/Plasticity/Clopath Learning.md",
     "Informatik/Brain Computation/Plasticity/Hebbian Learning.md",
-    "Informatik/Brain Computation/Plasticity/Plasticity.md",
     "Informatik/Brain Computation/Plasticity",
     "Informatik/Machine Learning/Brain Computation/Untitled",
     "Informatik/Machine Learning/Brain Computation/Neurons/Untitled",
