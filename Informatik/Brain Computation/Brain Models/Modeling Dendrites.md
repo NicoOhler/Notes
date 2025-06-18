@@ -35,3 +35,10 @@
 + nonlinear signal processing arises from [ion channels](../Neurons/Ion%20Channels.md)
 	+ e.g. potential above threshold causes channels to open
 + action potential typically increases bAP
+	+ which boosts passive propagation
++ dendritic spikes
+	+ chain reaction of many nearby channels opening
+		+ results in large all or nothing effects
+	+ complexity arises from varying densities of neuron types
+	+ e.g. sodium spikes lead to small but longer amplification than somatic spikes
+	+ e.g. calcium spikes lead to very long plateaus
