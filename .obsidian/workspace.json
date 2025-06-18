@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Brain Computation/Brain Computation.md",
+                "file": "Informatik/Brain Computation/Brain as Black Box.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Brain Computation"
+              "title": "Brain as Black Box"
             }
           }
         ]
@@ -113,8 +113,11 @@
   },
   "active": "030d8f737939a26a",
   "lastOpenFiles": [
-    "Informatik/Brain Computation/Neuroanatomy.md",
+    "z_images/Pasted image 20250618222057.png",
+    "Informatik/Brain Computation/Brain Models/Brain Models.md",
+    "Informatik/Brain Computation/Brain as Black Box.md",
     "Informatik/Brain Computation/Brain Computation.md",
+    "Informatik/Brain Computation/Neuroanatomy.md",
     "Informatik/Brain Computation/Information Representation in the Brain/Information Representation in the Brain.md",
     "Informatik/Brain Computation/Information Representation in the Brain/Temporal Codes.md",
     "Informatik/Data Science and AI/Knowledge Representation/Knowledge Representation.md",
@@ -147,9 +150,6 @@
     "Informatik/Brain Computation/Computation/Computation.md",
     "Informatik/Brain Computation/Brain Models/Dynamical Systems.md",
     "Informatik/Machine Learning/Retrieval Augmented Generation/Retrieval Augmented Generation.md",
-    "Informatik/Brain Computation/Computation/Computation Modeling Approaches.md",
-    "Informatik/Brain Computation/Plasticity/Clopath Learning.md",
-    "Informatik/Brain Computation/Plasticity/Hebbian Learning.md",
     "Informatik/Brain Computation/Plasticity",
     "Informatik/Machine Learning/Brain Computation/Untitled",
     "Informatik/Machine Learning/Brain Computation/Neurons/Untitled",
