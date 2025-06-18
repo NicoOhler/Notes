@@ -20,3 +20,6 @@
 		+ output = sum of weights for all spiking neurons
 + stochastic
 + utilizes feedback and recurrence
++ memory and processing combined
++ parallel
++ adaptive due to learning 
