@@ -4,5 +4,12 @@
 + extract results using a simple readout 
 	+ inputs from a select few neurons
 	+ e.g. [Linear Regression](../../../Mathematik/Statistik/Regression/Lineare%20Regression.md)
-	+ complex, high dimensional space
+	+ equivalent to complex, high dimensional feature transformation
++ water pool analogy
+	+ flat water surface as stable state
+	+ inputs such as wind or pebbles cause waves and ripple effects
+	+ extract knowledge about input by analyzing the new dynamics
+	+ transient deviation from stable state
+		+ waves diminish
+		+ return to flat water surface
 	+ 
