@@ -9,7 +9,7 @@
 		+ i.e. everything needed is stored nearby
 	+ energy efficient 
 		+ e.g. our brain operates at ~20W and produces nearly no heat
-### Neuromorphic Computing
+### Neuromorphic Hardware
 + improves upon von Neumann architecture
 	+ bottleneck due to data transfer over central bus
 	+ ![](../../../z_images/Pasted%20image%2020250618131132.png)
@@ -22,4 +22,22 @@
 + utilizes feedback and recurrence
 + memory and processing combined
 + parallel
-+ adaptive due to learning 
++ adaptive due to learning and [plasticity](../Plasticity/Plasticity.md) 
+
+### Algorithms
++ deep learning with [SNNs](Spiking%20Neural%20Networks.md)
+	+ generic, well understood, generalizable
+	+ training based
+	+ energy efficient
+	+ training difficult to implement on neuromorphic hardware
+		1. train ANN on normal dataset and convert it to SNS
+			+ mediocre results
+			+ optional finetuning
+		2. directly train SNN on special data
+			+ good results
+		3. train online via loss function and feedback
+			+ good results
++ unsupervised learning with biologically plausible learning rules
+	+ 
+
+
