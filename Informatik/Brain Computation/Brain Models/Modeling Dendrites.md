@@ -14,6 +14,11 @@
 		+ i.e. simultaneously bAP + input + channel behavior
 	+ segregation and amplification
 		+ i.e. strong local input $\Rightarrow$ dendritic spike $\Rightarrow$ nonlinear amplification
++ cause structural plasticity by altering bAP
+	+ little to no learning for distal synapses
+	+ synapse location matters and affects learning behavior
+		+ e.g. [Clopath Learning](../Plasticity/Clopath%20Learning.md) needed instead of [Hebbian Learning](../Plasticity/Hebbian%20Learning.md)
+		+ in vivo synapses often form and deplete, size and location changes
 ### Multi-Compartment models
 + idea
 	+ divide dendrites into small cylindric volumes
