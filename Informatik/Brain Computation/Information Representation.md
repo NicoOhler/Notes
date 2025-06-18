@@ -3,4 +3,11 @@
 	+ relationship between brain signal and contained information
 + learning stimuli to action mappings doable
 	+ internal representation difficult
-	+ 
++ interpreting firing rate
+	+ average spike count for a duration $T$
+		+ $v=\frac{1}{T}N_{sp}(0,T)$ 
+		+ problem: rapid stimuli change
+	+ peristimulus time histogram (PSTH)
+		+ average over trials
+		+ $v(t)=\frac{1}{M}\sum\limits_m\frac{1}{\Delta t}N_{sp,m}(t,t+\Delta t)$ 
+		+ 
