@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Brain Computation/Brain Models/Modeling Dendrites.md",
+                "file": "Informatik/Brain Computation/Learning in the Brain.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Modeling Dendrites"
+              "title": "Learning in the Brain"
             }
           }
         ]
@@ -113,13 +113,14 @@
   },
   "active": "030d8f737939a26a",
   "lastOpenFiles": [
+    "Informatik/Brain Computation/Brain Computation.md",
+    "Informatik/Brain Computation/Brain Models/Tsodyks Synapse Model.md",
+    "Informatik/Brain Computation/Brain Models/Modeling Dendrites.md",
     "Informatik/Brain Computation/Brain Models/Adaptive Exponential Integrate-And-Fire Model.md",
     "Informatik/Brain Computation/Plasticity/Spike-Timing Dependent Plasticity.md",
     "Informatik/Brain Computation/Neurons/Ion Channels.md",
     "Informatik/Brain Computation/Neurons/Neurons.md",
-    "Informatik/Brain Computation/Brain Computation.md",
     "Informatik/Brain Computation/Neuroanatomy.md",
-    "Informatik/Brain Computation/Brain Models/Modeling Dendrites.md",
     "Informatik/Brain Computation/Brain Models/Leaky Integrate-And-Fire Model.md",
     "Informatik/Brain Computation/Brain Models/Brain Models.md",
     "Informatik/Brain Computation/Brain Models/Dynamical Systems.md",
@@ -128,7 +129,6 @@
     "Informatik/Brain Computation/Brain Models/Nonlinear Integrate-And-Fire Models.md",
     "Informatik/Brain Computation/Brain Models/Quadratic Integrate-And-Fire Model.md",
     "Informatik/Brain Computation/Brain Models/Synaptic Models.md",
-    "Informatik/Brain Computation/Brain Models/Tsodyks Synapse Model.md",
     "Informatik/Brain Computation/Information Representation in the Brain/Information Representation in the Brain.md",
     "Informatik/Brain Computation/Information Representation in the Brain/Temporal Codes.md",
     "Informatik/Brain Computation/Information Representation in the Brain/Population Codes.md",

@@ -1,6 +1,6 @@
 + expresses short term [plasticity](../Plasticity/Plasticity.md) as synaptic resources
 	+ complex behaviors arises from resource consumption and recovery
-	+ loosely related to vesicle pools
+	+ loosely inspired by vesicle pools
 + $A(t)=Au_+(t)R_-(t)$ with
 	+ max amplitude or synaptic efficacy $A$
 	+ fraction of resources to use $u_+(t)$
