@@ -66,3 +66,10 @@
 		+ function of neuromodulator concentration $F_M$
 + brain performs rapid learning
 	+ traditional RL/TD algorithms slow
+	+ episodic memory
+		+ decide on best action
+		+ based on previous, similar experiences
+		+ yielding highest expected reward
+	+ meta-learning
+		+ learn to learn fast
+		+ slow RL via dopamine trains prefrontal cortex to be a rapid RL agent
