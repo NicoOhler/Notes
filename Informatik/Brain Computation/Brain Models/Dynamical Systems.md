@@ -31,8 +31,8 @@
 	+ behavior depends on [Eigenwerte](../../../../Mathematik/NRLA/Eigenwerte/Eigenwerte.md) of Jacobian (see [Komplexe Analysis](../../../../Mathematik/Analysis/Komplexe%20Analysis/Komplexe%20Analysis.md))
 		+ $det(A-\lambda I)=0$
 		+ real with mixed signs $\Rightarrow$ saddle node
-		+ real and positive $\Rightarrow$ attractor
-		+ ? $\Rightarrow$ repeller
+		+ real and negative $\Rightarrow$ attractor
+		+ real and positive $\Rightarrow$ repeller
 ### High-Dimensional Dynamical Systems
 + stable point attractors
 + stable periodic motions due to multiple attractors
