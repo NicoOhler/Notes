@@ -50,5 +50,10 @@
 	+ $V(s_t)\rightarrow V(s_t) + \alpha [R_{t+1}+\gamma V(s_{t+1})-V(S_t)]$
 	+ TD error
 		+ updated expected reward - previously expected reward
-		+ measures surprise
-+ 
+		+ measure of surprise
+			+ unexpected reward $\Rightarrow$ large error
+			+ reward as expected $\Rightarrow$ small error
+			+ no expected reward $\Rightarrow$ negative error
++ dopamine hypothesis
+	+ dopamine encodes TD error
+	+ midbrain dopaminergic neurons release dopamine
