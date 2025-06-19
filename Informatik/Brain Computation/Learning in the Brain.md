@@ -55,5 +55,11 @@
 			+ reward as expected $\Rightarrow$ small error
 			+ no expected reward $\Rightarrow$ negative error
 + dopamine hypothesis
-	+ dopamine encodes TD error
-	+ midbrain dopaminergic neurons release dopamine
+	+ neuromodulator dopamine encodes TD error
+	+ released by dopaminergic neurons in midbrain
+		+ global reward signal
+	+ alters [synaptic](Neurons/Synapses.md) [plasticity](Plasticity/Plasticity.md)
+	+ three-factor rules
+		+ neuromodulators reshape [STDP](Plasticity/Spike-Timing%20Dependent%20Plasticity.md)
+		+ $\Delta w \propto F_{pre}(S_{pre}) \times F_{post}(S_{post}) \times F_M([M])$
+			+ pre/postsynaptic activity
