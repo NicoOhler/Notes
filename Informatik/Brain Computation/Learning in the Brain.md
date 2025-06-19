@@ -72,4 +72,4 @@
 		+ yielding highest expected reward
 	+ meta-learning
 		+ learn to learn fast
-		+ slow RL via dopamine trains prefrontal cortex to be a rapid RL agent
+		+ slow RL via dopamine teaches prefrontal cortex to be fast RL agent
