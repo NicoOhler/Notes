@@ -59,7 +59,10 @@
 	+ released by dopaminergic neurons in midbrain
 		+ global reward signal
 	+ alters [synaptic](Neurons/Synapses.md) [plasticity](Plasticity/Plasticity.md)
-	+ three-factor rules
-		+ neuromodulators reshape [STDP](Plasticity/Spike-Timing%20Dependent%20Plasticity.md)
-		+ $\Delta w \propto F_{pre}(S_{pre}) \times F_{post}(S_{post}) \times F_M([M])$
-			+ pre/postsynaptic activity
++ three-factor rules
+	+ neuromodulators reshape [STDP](Plasticity/Spike-Timing%20Dependent%20Plasticity.md)
+	+ $\Delta w \propto F_{pre}(S_{pre}) \times F_{post}(S_{post}) \times F_M([M])$
+		+ functions of pre/postsynaptic activity $F_{pre},F_{post}$
+		+ function of neuromodulator concentration $F_M$
++ brain performs rapid learning
+	+ traditional RL/TD algorithms slow
