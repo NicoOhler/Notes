@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Brain Computation/Brain Models/Leaky Integrate-And-Fire Model.md",
+                "file": "Informatik/Brain Computation/Neurons/Neurons.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Leaky Integrate-And-Fire Model"
+              "title": "Neurons"
             }
           }
         ]
@@ -113,13 +113,13 @@
   },
   "active": "030d8f737939a26a",
   "lastOpenFiles": [
+    "Informatik/Brain Computation/Brain Models/Modeling Dendrites.md",
+    "Informatik/Brain Computation/Brain Models/Leaky Integrate-And-Fire Model.md",
     "Informatik/Brain Computation/Brain Models/Adaptive Exponential Integrate-And-Fire Model.md",
     "Informatik/Brain Computation/Brain Models/Brain Models.md",
     "Informatik/Brain Computation/Brain Models/Dynamical Systems.md",
     "Informatik/Brain Computation/Brain Models/Exponential Integrate-And-Fire Model.md",
     "Informatik/Brain Computation/Brain Models/Hodgkin-Huxley Model.md",
-    "Informatik/Brain Computation/Brain Models/Leaky Integrate-And-Fire Model.md",
-    "Informatik/Brain Computation/Brain Models/Modeling Dendrites.md",
     "Informatik/Brain Computation/Brain Models/Nonlinear Integrate-And-Fire Models.md",
     "Informatik/Brain Computation/Brain Models/Quadratic Integrate-And-Fire Model.md",
     "Informatik/Brain Computation/Brain Models/Synaptic Models.md",
