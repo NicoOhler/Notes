@@ -38,15 +38,17 @@
 	+ receive reward or punishment
 	+ make beneficial actions more likely
 	+ maximize future return
-+ formally
-	+ future return
-		+ $G_t=\sum\limits_{k=0}\gamma^k R_{t+1+k}$
-		+ prefer immediate rewards due to discount factor $\gamma$
-	+ choose action based on policy function $\pi(a|s)$
-	+ state value function
-		+ $V(s)=\mathbb{E}[G_t|S_t=s]$
-	+ temporal difference learning
-		+ online learning rule
-		+ $V(s$
-+ no need for explicit targets
-+ ![](../../z_images/Pasted%20image%2020250618224654.png)
+	+ ![](../../z_images/Pasted%20image%2020250618224654.png)
++ future return
+	+ $G_t=\sum\limits_{k=0}\gamma^k R_{t+1+k}$
+	+ prefer immediate rewards due to discount factor $\gamma$
++ choose action based on policy function $\pi(a|s)$
++ expected reward
+	+ $V(s)=\mathbb{E}[G_t|S_t=s]$
++ temporal difference learning
+	+ online learning rule
+	+ $V(s_t)\rightarrow V(s_t) + \alpha [R_{t+1}+\gamma V(s_{t+1})-V(S_t)]$
+	+ TD error
+		+ updated expected reward - previously expected reward
+		+ measures surprise
++ 
