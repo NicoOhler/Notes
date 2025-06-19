@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Brain Computation/Brain Models/Adaptive Exponential Integrate-And-Fire Model.md",
+                "file": "Informatik/Brain Computation/Brain Models/Modeling Dendrites.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Adaptive Exponential Integrate-And-Fire Model"
+              "title": "Modeling Dendrites"
             }
           }
         ]
@@ -113,6 +113,7 @@
   },
   "active": "030d8f737939a26a",
   "lastOpenFiles": [
+    "Informatik/Brain Computation/Brain Models/Adaptive Exponential Integrate-And-Fire Model.md",
     "Informatik/Brain Computation/Plasticity/Spike-Timing Dependent Plasticity.md",
     "Informatik/Brain Computation/Neurons/Ion Channels.md",
     "Informatik/Brain Computation/Neurons/Neurons.md",
@@ -120,7 +121,6 @@
     "Informatik/Brain Computation/Neuroanatomy.md",
     "Informatik/Brain Computation/Brain Models/Modeling Dendrites.md",
     "Informatik/Brain Computation/Brain Models/Leaky Integrate-And-Fire Model.md",
-    "Informatik/Brain Computation/Brain Models/Adaptive Exponential Integrate-And-Fire Model.md",
     "Informatik/Brain Computation/Brain Models/Brain Models.md",
     "Informatik/Brain Computation/Brain Models/Dynamical Systems.md",
     "Informatik/Brain Computation/Brain Models/Exponential Integrate-And-Fire Model.md",
