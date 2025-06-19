@@ -1,6 +1,6 @@
 ### Basics
 + core of the nervous system
-+ connected via spinal chord to peripheral nervous system
++ connected via spinal cord to peripheral nervous system
 	+ i.e., the remaining body (muscles, sensors, actors)
 + consists of ~86 billion [Neurons](Neurons/Neurons.md)
 	+ interconnected via [Synapses](Neurons/Synapses.md)
@@ -32,7 +32,7 @@
 + ![](../../../z_images/Pasted%20image%2020250616095619.png)
 
 ### Brain Stem
-+ connects brain with the spinal chord
++ connects brain with the spinal cord
 	+ thus also to the remaining nervous system/body
 + regulates vital body functions
 	+ breathing
