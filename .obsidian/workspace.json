@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Brain Computation/Brain Models/Dynamical Systems.md",
+                "file": "Informatik/Brain Computation/Neurons/Neurons.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dynamical Systems"
+              "title": "Neurons"
             }
           }
         ]
@@ -113,6 +113,9 @@
   },
   "active": "030d8f737939a26a",
   "lastOpenFiles": [
+    "Informatik/Brain Computation/Neurons/Spike Generation.md",
+    "Informatik/Brain Computation/Plasticity/Clopath Learning.md",
+    "Informatik/Brain Computation/Brain Models/Dynamical Systems.md",
     "Informatik/Brain Computation/Learning in the Brain.md",
     "Informatik/Brain Computation/Brain Computation.md",
     "Informatik/Brain Computation/Brain Models/Tsodyks Synapse Model.md",
@@ -124,7 +127,6 @@
     "Informatik/Brain Computation/Neuroanatomy.md",
     "Informatik/Brain Computation/Brain Models/Leaky Integrate-And-Fire Model.md",
     "Informatik/Brain Computation/Brain Models/Brain Models.md",
-    "Informatik/Brain Computation/Brain Models/Dynamical Systems.md",
     "Informatik/Brain Computation/Brain Models/Exponential Integrate-And-Fire Model.md",
     "Informatik/Brain Computation/Brain Models/Hodgkin-Huxley Model.md",
     "Informatik/Brain Computation/Brain Models/Nonlinear Integrate-And-Fire Models.md",
@@ -137,8 +139,6 @@
     "Informatik/Brain Computation/Neuromorphic Computing/Neuromorphic Computing.md",
     "Informatik/Brain Computation/Neuromorphic Computing/Liquid State Machines.md",
     "Informatik/Brain Computation/Neurons/Synapses.md",
-    "Informatik/Brain Computation/Neurons/Spike Generation.md",
-    "Informatik/Brain Computation/Plasticity/Clopath Learning.md",
     "z_images/Pasted image 20250618224654.png",
     "z_images/Pasted image 20250618223853.png",
     "z_images/Pasted image 20250618222057.png",
