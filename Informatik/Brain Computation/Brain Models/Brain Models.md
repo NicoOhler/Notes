@@ -13,7 +13,7 @@
 		+ [neurons](../Neurons/Neurons.md) are highly interconnected
 		+ via [synapses](../Neurons/Synapses.md) with different effects
 	+ sheer volume	
-+ [cdnamical systems](Dynamical%20Systems.md) often used for modeling
++ [dynamical systems](Dynamical%20Systems.md) often used for modeling
 + interdisciplinary
 	+ ![](../../../../z_images/Pasted%20image%2020250616104713.png)
 
@@ -36,6 +36,7 @@
 + [Nonlinear Integrate-And-Fire Models](Nonlinear%20Integrate-And-Fire%20Models.md)
 + [Quadratic Integrate-And-Fire Model](Quadratic%20Integrate-And-Fire%20Model.md)
 + [Exponential Integrate-And-Fire Model](Exponential%20Integrate-And-Fire%20Model.md)
++ [Tsodyks Synapse Model](Tsodyks%20Synapse%20Model.md)
 + [Adaptive Exponential Integrate-And-Fire Model](Adaptive%20Exponential%20Integrate-And-Fire%20Model.md)
 + [Synaptic Models](Synaptic%20Models.md)
 + [Dendrite Models](Dendrite%20Models.md)
