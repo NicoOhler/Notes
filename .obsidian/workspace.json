@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Brain Computation/Brain Models/Tsodyks Synapse Model.md",
+                "file": "Informatik/Brain Computation/Neuromorphic Computing/Spike Response Models.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tsodyks Synapse Model"
+              "title": "Spike Response Models"
             }
           }
         ]
@@ -111,8 +111,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "097b9a58ea336072",
+  "active": "030d8f737939a26a",
   "lastOpenFiles": [
+    "Informatik/Brain Computation/Brain & Machine Learning.md",
+    "Informatik/Brain Computation/Neuromorphic Computing/Spike Response Models.md",
+    "Informatik/Brain Computation/Information Representation in the Brain/Temporal Codes.md",
+    "Informatik/Brain Computation/Information Representation in the Brain/Population Codes.md",
+    "Informatik/Brain Computation/Information Representation in the Brain/Information Representation in the Brain.md",
+    "Informatik/Brain Computation/Neuromorphic Computing/Spiking Neural Networks.md",
+    "Informatik/Brain Computation/Neuromorphic Computing/Liquid State Machines.md",
+    "Informatik/Brain Computation/Neuromorphic Computing/Neuromorphic Computing.md",
+    "Informatik/Brain Computation/Brain Models/Dendrite Models.md",
     "Informatik/Brain Computation/Brain Models/Synaptic Models.md",
     "Informatik/Brain Computation/Brain Models/Tsodyks Synapse Model.md",
     "Informatik/Brain Computation/Brain Models/Brain Models.md",
@@ -130,15 +139,6 @@
     "Informatik/Brain Computation/Plasticity/Plasticity.md",
     "Informatik/Brain Computation/Neurons/Spike Generation.md",
     "Informatik/Brain Computation/Neurons/Ion Channels.md",
-    "Informatik/Brain Computation/Neurons/Synapses.md",
-    "Informatik/Brain Computation/Neurons/Neurons.md",
-    "Informatik/Brain Computation/Neuroanatomy.md",
-    "Informatik/Brain Computation/Brain Computation.md",
-    "Informatik/Brain Computation/Brain Models/Dendrite Models.md",
-    "Informatik/Brain Computation/Information Representation in the Brain/Information Representation in the Brain.md",
-    "Informatik/Brain Computation/Information Representation in the Brain/Population Codes.md",
-    "Informatik/Brain Computation/Information Representation in the Brain/Temporal Codes.md",
-    "Informatik/Brain Computation/Neuromorphic Computing/Liquid State Machines.md",
     "z_images/Pasted image 20250621075853.png",
     "z_images/Pasted image 20250618224654.png",
     "z_images/Pasted image 20250618223853.png",
