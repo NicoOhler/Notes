@@ -7,19 +7,17 @@
 	+ chloride $Cl^-$
 + move because of 
 	+ diffusion
-		+ stochastic movement
+		+ stochastic movement due to [thermodynamics](../../../../Mathematik/Physik/Phys-ETTE-Thermodynamik_2017.pdf)
 		+ from low to high concentration regions 
 		+ only affects ions of same type
-		+ see [Phys-ETTE-Thermodynamik_2017](../../../../Mathematik/Physik/Phys-ETTE-Thermodynamik_2017.pdf)
 	+ electrical forces
-		+ opposite charges attract
+		+ opposite charges attract due to [electromagnetism](../../../../Mathematik/Physik/40-Phys-ETTE-Elektrizitaet-Magnetismus-2022.pdf)
 		+ attraction strength proportional 
 			+ variable potential
 			+ fixed conductance
 		+ anions (negative) move towards positive regions
 		+ cations (positive) move towards negative regions
 		+ affects all ions no matter the type
-		+ see [40-Phys-ETTE-Elektrizitaet-Magnetismus-2022](../../../../Mathematik/Physik/40-Phys-ETTE-Elektrizitaet-Magnetismus-2022.pdf)
 	+ equilibrium potential $E$
 		+ potential at which these two forces cancel each other
 		+ $I=-g(u-E)=0$

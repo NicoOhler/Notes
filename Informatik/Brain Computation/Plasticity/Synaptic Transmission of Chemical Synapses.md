@@ -1,4 +1,4 @@
-### Transmission Sequence for Chemical Synapses
+### Transmission Sequence
 1. action potential arrives at presynaptic terminal (axon end)
 2. depolarization open $Ca^{2+}$ channels
 3. $Ca^{2+}$ enters presynaptic terminal and triggers synaptic vesicles 

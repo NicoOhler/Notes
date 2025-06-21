@@ -13,5 +13,5 @@
 	+ way simpler than [Hodgkin-Huxley Model](Hodgkin-Huxley%20Model.md) allowing for easy parameter fitting
 	+ decent reproduction of recorded spike trains
 + $I=0pA$
-	+ semi-stable for at $\vartheta_{rh}$ for $I$
+	+ semi-stable for at $\vartheta_{rh}$ for $I\gg0pA$
 	+ ![](../../../z_images/Pasted%20image%2020250621075853.png)
