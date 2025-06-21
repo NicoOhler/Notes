@@ -25,7 +25,7 @@
 + adaptive due to learning and [plasticity](../Plasticity/Plasticity.md) 
 + optimized for [Liquid State Machines](Liquid%20State%20Machines.md) and [SNNs](Spiking%20Neural%20Networks.md)
 ### Algorithms
-+ deep learning with 
++ deep learning with SNNs
 	+ generic, well understood, generalizable
 	+ training based
 	+ energy efficient

@@ -28,7 +28,7 @@
 + equilibrium points at $\dot x=\dot y=0$
 	+ intersection of nullclines
 	+ attractors, repellers and saddle nodes still exist
-	+ behavior depends on [Eigenwerte](../../../../Mathematik/NRLA/Eigenwerte/Eigenwerte.md) of Jacobian (see [Komplexe Analysis](../../../../Mathematik/Analysis/Komplexe%20Analysis/Komplexe%20Analysis.md))
+	+ behavior depends on [eigenvalues](../../../../Mathematik/NRLA/Eigenwerte/Eigenwerte.md) of Jacobian (see [complex analysis](../../../../Mathematik/Analysis/Komplexe%20Analysis/Komplexe%20Analysis.md))
 		+ $det(A-\lambda I)=0$
 		+ real with mixed signs $\Rightarrow$ saddle node
 		+ real and negative $\Rightarrow$ attractor

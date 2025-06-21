@@ -12,4 +12,6 @@
 	+ realistic compared to [Leaky Integrate-And-Fire Model](Leaky%20Integrate-And-Fire%20Model.md)
 	+ way simpler than [Hodgkin-Huxley Model](Hodgkin-Huxley%20Model.md) allowing for easy parameter fitting
 	+ decent reproduction of recorded spike trains
-+ TODO: Skizze
++ $I=0pA$
+	+ semi-stable for at $\vartheta_{rh}$ for $I$
+	+ ![](../../../z_images/Pasted%20image%2020250621075853.png)
