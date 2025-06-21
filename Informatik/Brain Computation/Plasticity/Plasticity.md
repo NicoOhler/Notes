@@ -24,4 +24,4 @@
 + divided into
 	+ potentiation LTP
 	+ depression LTD
-+ special case [Spike-Timing Dependent Plasticity](Spike-Timing%20Dependent%20Plasticity.md) according to [Hebbian Learning](Hebbian%20Learning.md)
++ e.g. [STDP](Spike-Timing%20Dependent%20Plasticity.md) according to [Hebbian Learning](Hebbian%20Learning.md)

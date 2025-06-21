@@ -2,7 +2,7 @@
 	+ $F(u)$ is an arbitrary, nonlinear function
 + reset to $u_{reset}$ for $u\ge\vartheta_{reset}$
 + analytical solution often do not exist
-+ simulation via 1D [Dynamical Systems](Dynamical%20Systems.md)
++ simulation via 1D [dynamical systems](Dynamical%20Systems.md)
 + examples
 	+ [[Quadratic Integrate-And-Fire Model]]
 	+ [[Exponential Integrate-And-Fire Model]]

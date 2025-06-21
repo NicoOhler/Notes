@@ -1,3 +1,4 @@
++ [nonlinear IAF model](Nonlinear%20Integrate-And-Fire%20Models.md)
 + $F(u)=a_0(u-u_{reset})(u-u_c)$
 	+ $u_c\sim\vartheta$ for short current pulse injection
 		+ meaning?

@@ -29,4 +29,4 @@
 + neurons by themselves show deterministic behavior in vitro
 + stochasticity arises from synaptic bombardment
 	+ many, many inputs with variable membrane potentials?
-	+ modeled as [poisson](../../../Mathematik/Wahrscheinlichkeitstheorie/Wahrscheinlichkeitsverteilungen/Poisson%20Verteilung.md) background noise
+	+ modeled as [Poisson](../../../Mathematik/Wahrscheinlichkeitstheorie/Wahrscheinlichkeitsverteilungen/Poisson%20Verteilung.md) background noise

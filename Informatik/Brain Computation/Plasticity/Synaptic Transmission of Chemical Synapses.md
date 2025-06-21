@@ -5,7 +5,7 @@
 	+ containers full of neurotransmitter cocktails
 4. synaptic vesicles fuse with membrane
 	+ neurotransmitters released into synaptic cleft
-5. diffusion with [Ion Channels](Ion%20Channels.md) on postsynaptic side
+5. diffusion with [ion channels](Ion%20Channels.md) on postsynaptic side
 6. postsynaptic conductance change causes postsynaptic current 
 	+ $I_{syn}(t)=-g_{syn}(t)(u(t)-E_{syn})$ 
 	+ excitatory (e.g. glutamate) or inhibitory effect (e.g. GABA)
@@ -17,11 +17,11 @@
 ### Stochastic Neurotransmitter Release
 + probability depends on pre/postsynaptic factors such as
 	+ recent activity
-	+ long term [Plasticity](../Plasticity/Plasticity.md)
+	+ long term [plasticity](../Plasticity/Plasticity.md)
 	+ homeostasis
 + multiple release sites per synapse
-	+ $\Rightarrow$ postsynaptic potential varies
-	+ synaptic weight = average
+	+ postsynaptic potential varies
+	+ synaptic weight equates to average
 + transmit signals to individual neurons via synapses
 + fast but short lasting effect
 ### Release of Neuromodulators

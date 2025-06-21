@@ -10,10 +10,10 @@
 	+ different temporal scales
 		+ activity, [plasticity](../Plasticity/Plasticity.md) ranges from milliseconds to years
 	+ many interdependencies
-		+ [Neurons](../Neurons/Neurons.md) are highly interconnected
-		+ via [Synapses](../Neurons/Synapses.md) with different effects
+		+ [neurons](../Neurons/Neurons.md) are highly interconnected
+		+ via [synapses](../Neurons/Synapses.md) with different effects
 	+ sheer volume	
-+ [Dynamical Systems](Dynamical%20Systems.md) often used for modeling
++ [cdnamical systems](Dynamical%20Systems.md) often used for modeling
 + interdisciplinary
 	+ ![](../../../../z_images/Pasted%20image%2020250616104713.png)
 
@@ -38,3 +38,4 @@
 + [Exponential Integrate-And-Fire Model](Exponential%20Integrate-And-Fire%20Model.md)
 + [Adaptive Exponential Integrate-And-Fire Model](Adaptive%20Exponential%20Integrate-And-Fire%20Model.md)
 + [Synaptic Models](Synaptic%20Models.md)
++ [Dendrite Models](Dendrite%20Models.md)

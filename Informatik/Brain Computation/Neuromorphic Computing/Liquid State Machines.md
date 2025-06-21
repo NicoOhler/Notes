@@ -1,7 +1,7 @@
 ### Reservoir and Liquid Computing
 + use complex [dynamical system](../Brain%20Models/Dynamical%20Systems.md) to project input into high dimensional state space
-	+ echo state networks (ANNs)
-	+ liquid state machines ([SNNs](Spiking%20Neural%20Networks.md))
+	+ echo state networks use ANNs
+	+ liquid state machines use [SNNs](Spiking%20Neural%20Networks.md) 
 	+ physical reservoir computing uses physical systems (liquids or living organisms)
 + assume a single stable state (i.e. an attractor)
 + extract results using a simple readout 

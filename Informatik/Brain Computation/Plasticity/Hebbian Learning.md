@@ -6,5 +6,5 @@
 + unidirectional
 + Hebbian rule
 	+ $\frac{d}{dt}w_{ij}=\eta v_iv_j$
-+ utilized by [[Spike-Timing Dependent Plasticity]]
++ utilized by [STDP](Spike-Timing%20Dependent%20Plasticity.md)
 

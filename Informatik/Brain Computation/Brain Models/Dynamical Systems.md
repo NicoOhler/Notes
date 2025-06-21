@@ -1,6 +1,6 @@
 + mathematical models describing how a system changes over time
 	+ $\frac{ds}{dt}=F(s)$
-+ often used by [Brain Models](Brain%20Models.md)
++ often used by [brain models](Brain%20Models.md)
 ### Equilibrium Points
 + fix points where states no longer change
 + types

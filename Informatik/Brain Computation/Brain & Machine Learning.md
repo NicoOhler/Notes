@@ -30,7 +30,7 @@
 	+ biologically unrealistic
 + alternatives to backpropagation
 	+ ![](../../z_images/Pasted%20image%2020250618223853.png)
-	+ synaptic eligibility traces as for [Spiking Neural Networks](Neuromorphic%20Computing/Spiking%20Neural%20Networks.md)
+	+ synaptic eligibility traces as for [SNNs](Neuromorphic%20Computing/Spiking%20Neural%20Networks.md)
 ### Reinforcement Learning
 + well established [machine learning](../Machine%20Learning/Machine%20Learning.md) paradigm
 + approach
