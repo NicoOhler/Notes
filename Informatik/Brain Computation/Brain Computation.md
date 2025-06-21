@@ -1,10 +1,10 @@
 + understanding and modeling the brain
 + leveraging biologically plausible models for computation
-+ intersection of [Machine Learning](../Machine%20Learning/Machine%20Learning.md) and Neurology as well as
-	+ [[Electrical Studies]]
-	+ [[Biology]]
-	+ [[Physik]]
-	+ [Allgemeine Mathematik](../../../Mathematik/Allgemeine%20Mathematik/Allgemeine%20Mathematik.md)
++ intersection of [machine learning](../Machine%20Learning/Machine%20Learning.md) and Neurology as well as
+	+ [[electrical studies]]
+	+ [[biology]]
+	+ [physics](../../Mathematik/Physik/Physik.md)
+	+ [mathematics](../../../Mathematik/Allgemeine%20Mathematik/Allgemeine%20Mathematik.md)
 ### Overview
 + [Neuroanatomy](Neuroanatomy.md)
 + [Neurons](Neurons/Neurons.md)

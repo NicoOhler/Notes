@@ -1,6 +1,6 @@
 ### Electrical Synapses
 + common throughout the brain
-+ neglected in most [Brain Models](../Brain%20Models/Brain%20Models.md)
++ neglected in most [brain models](../Brain%20Models/Brain%20Models.md)
 + electrical transmission via gap junctions
 	+ i.e. connection between two membranes
 + transmission characteristics

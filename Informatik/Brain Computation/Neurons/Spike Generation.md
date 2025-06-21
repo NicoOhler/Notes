@@ -2,7 +2,7 @@
 	+ large enough magnitude to exceed firing threshold
 	+ e.g., via short burst of high current or prolonged low current
 + phasic behavior
-	+ interplay with [Ion Channels](Ion%20Channels.md)
+	+ interplay with [ion channels](Ion%20Channels.md)
 	+ regular behavior below the threshold
 	+ phases
 		+ rise triggered by threshold excess
