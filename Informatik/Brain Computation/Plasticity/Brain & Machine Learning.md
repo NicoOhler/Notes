@@ -1,4 +1,4 @@
-+ open questions about the brain based on regular [Machine Learning](../Machine%20Learning/Machine%20Learning.md)
++ open questions about the brain based on regular [Machine Learning](../../Machine%20Learning/Machine%20Learning.md)
 	+ what is its objective function?
 	+ what is its learning mechanism?
 	+ how is credit assigned?
@@ -9,7 +9,7 @@
 		+ perform well due to powerful learning algorithms
 		+ sometimes use similar representations e.g. CNNs
 	+ ANNs are slow learners, need tons of examples, humans fast
-	+ ![](../../z_images/Pasted%20image%2020250618222057.png)
+	+ ![](../../../z_images/Pasted%20image%2020250618222057.png)
 + inductive biases
 	+ bias towards simple solutions which make sense
 	+ great for generalization
@@ -29,16 +29,16 @@
 	+ feedback changes synaptic values, not activity?
 	+ biologically unrealistic
 + alternatives to backpropagation
-	+ ![](../../z_images/Pasted%20image%2020250618223853.png)
+	+ ![](../../../z_images/Pasted%20image%2020250618223853.png)
 	+ synaptic eligibility traces as for [SNNs](Neuromorphic%20Computing/Spiking%20Neural%20Networks.md)
 ### Reinforcement Learning
-+ well established [machine learning](../Machine%20Learning/Machine%20Learning.md) paradigm
++ well established [machine learning](../../Machine%20Learning/Machine%20Learning.md) paradigm
 + approach
 	+ fuck around and find out
 	+ receive reward or punishment
 	+ make beneficial actions more likely
 	+ maximize future return
-	+ ![](../../z_images/Pasted%20image%2020250618224654.png)
+	+ ![](../../../z_images/Pasted%20image%2020250618224654.png)
 + future return
 	+ $G_t=\sum\limits_{k=0}\gamma^k R_{t+1+k}$
 	+ prefer immediate rewards due to discount factor $\gamma$

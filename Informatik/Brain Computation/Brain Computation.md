@@ -12,4 +12,4 @@
 + [Plasticity](Plasticity/Plasticity.md)
 + [Neuromorphic Computing](Neuromorphic%20Computing/Neuromorphic%20Computing.md)
 + [Information Representation in the Brain](Information%20Representation%20in%20the%20Brain/Information%20Representation%20in%20the%20Brain.md)
-+ [Brain & Machine Learning](Brain%20&%20Machine%20Learning.md)
++ [Brain & Machine Learning](Plasticity/Brain%20&%20Machine%20Learning.md)
