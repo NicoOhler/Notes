@@ -15,9 +15,12 @@
 	+ via simplifying assumptions
 		+ prefer simplest solutions that still makes sense
 			+ great for generalization
-		+ modular and hierarchical brain wiring
-			+ extract local details 
-			+ merge to get the bigger picture
+		+ modular brain architecture
+			+ promotes specialization 
+			+ e.g. recognizing faces
+		+ hierarchical brain architecture
+			+ extract information from local details 
+			+ then integrate (combine, merge) this information it into a broader understanding
 			+ evolution optimized brain to be a good learner
 		+ nearest neighbor for KNN
 	+ reduce search space
