@@ -9,4 +9,3 @@
 	+ point neuron assumption
 	+ rapid plasticity without postsynaptic activity
 	+ ...
-+ TODO:
