@@ -12,22 +12,28 @@
 	+ ![](../../../z_images/Pasted%20image%2020250618222057.png)
 + inductive biases
 	+ structural mechanisms which support learning
+	+ reduce search space
+		+ prune impossible solutions
+		+ merge equivalent solutions
+		+ neglect unlikely solutions
 	+ via simplifying assumptions
 		+ prefer simplest solutions that still makes sense
 			+ great for generalization
+			+ reduces cognitive load
+			+ drastically speeds up learning
 		+ modular brain architecture
 			+ promotes specialization 
 			+ e.g. recognizing faces
 		+ hierarchical brain architecture
 			+ extract information from local details 
-			+ then integrate (combine, merge) this information it into a broader understanding
+			+ use/integrate/combine information for a broader understanding
 			+ evolution optimized brain to be a good learner
 		+ nearest neighbor for KNN
-	+ reduce search space
-		+ prune impossible solutions
-		+ merge equivalent solutions
-		+ neglect unlikely solutions
-	+ 
+	+ what is the learning goal?
+	+ + curiosity?
+		+ imitation?
+		+ ultimately increasing our survival odds $\Rightarrow$ gain an evolutionary advantage
+		
 ### Credit Assignment
 + define contribution of each neuron to output
 + requires feedback from output
