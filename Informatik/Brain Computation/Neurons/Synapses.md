@@ -14,4 +14,4 @@
 + electrical signal from axon causes chemical transmission at synapse which causes electrical signal at dendrite
 + slow, unidirectional transmission
 	+ presynaptic activity influences postsynaptic neuron
-+ [synaptic transmission](../Plasticity/Synaptic%20Transmission%20of%20Chemical%20Synapses.md)
++ [synaptic transmission](../Learning/Synaptic%20Transmission%20of%20Chemical%20Synapses.md)

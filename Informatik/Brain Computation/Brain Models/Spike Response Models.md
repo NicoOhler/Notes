@@ -1,5 +1,5 @@
 ### Motivation
-+ [synaptic transmissions](../Plasticity/Synaptic%20Transmission%20of%20Chemical%20Synapses.md) lead to postsynaptic potentials (PSPs)
++ [synaptic transmissions](../Learning/Synaptic%20Transmission%20of%20Chemical%20Synapses.md) lead to postsynaptic potentials (PSPs)
 + some [ion channels](../Neurons/Ion%20Channels.md) have nonlinear voltage dependencies
 	+ $I_{syn}(t)=-g_{syn}(t)\gamma(u(t))$
 ### Conductance-Based [Synapse](../Neurons/Synapses.md)

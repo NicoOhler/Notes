@@ -46,7 +46,7 @@
 ### Implementation
 + liquid filter
 	+ often a recurrent SNN of [LIF](../Brain%20Models/Leaky%20Integrate-And-Fire%20Model.md) [neurons](../Neurons/Neurons.md)
-	+ short time [plasticity](../Plasticity/Plasticity.md) with separate excitatory and inhibitory populations
+	+ short time [plasticity](../Learning/Plasticity.md) with separate excitatory and inhibitory populations
 		+ to ensure system stability and fading memory
 		+ noisy readout of previous inputs still possible, depends on wait time and STP
 + ![](../../../z_images/Pasted%20image%2020250618092449.png)

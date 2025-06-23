@@ -8,7 +8,7 @@
 	+ different spatial scales
 		+ molecular, cellular, regions, behavior
 	+ different temporal scales
-		+ activity, [plasticity](../Plasticity/Plasticity.md) ranges from milliseconds to years
+		+ activity, [plasticity](../Learning/Plasticity.md) ranges from milliseconds to years
 	+ many interdependencies
 		+ [neurons](../Neurons/Neurons.md) are highly interconnected
 		+ via [synapses](../Neurons/Synapses.md) with different effects

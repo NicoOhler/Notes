@@ -25,9 +25,9 @@
 + neuromodulator dopamine encodes TD error
 + released by dopaminergic neurons in midbrain
 	+ global reward signal
-+ alters [synaptic](Neurons/Synapses.md) [plasticity](Plasticity/Plasticity.md)
++ alters [synaptic](Neurons/Synapses.md) [plasticity](Plasticity.md)
 + three-factor rules
-	+ neuromodulators gate [STDP](Plasticity/Spike-Timing%20Dependent%20Plasticity.md)
+	+ neuromodulators gate [STDP](Spike-Timing%20Dependent%20Plasticity.md)
 	+ $\Delta w \propto F_{pre}(S_{pre}) \times F_{post}(S_{post}) \times F_M([M])$
 		+ functions of pre/postsynaptic activity $F_{pre},F_{post}$
 		+ function of neuromodulator concentration $F_M$

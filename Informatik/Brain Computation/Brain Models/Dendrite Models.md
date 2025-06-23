@@ -17,7 +17,7 @@
 + cause structural plasticity by altering bAP
 	+ little to no learning for distal synapses
 	+ synapse location matters and affects learning behavior
-		+ e.g. [Clopath Learning](../Plasticity/Clopath%20Learning.md) needed instead of [Hebbian Learning](../Plasticity/Hebbian%20Learning.md)
+		+ e.g. [Clopath Learning](../Learning/Clopath%20Learning.md) needed instead of [Hebbian Learning](../Learning/Hebbian%20Learning.md)
 		+ in vivo synapses often form and deplete, size and location changes
 ### Multi-Compartment models
 + idea
