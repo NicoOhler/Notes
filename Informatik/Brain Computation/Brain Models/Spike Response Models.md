@@ -30,8 +30,8 @@
 	+ no reliance on $u(t)$
 	+ may grow infinitely
 	+ constant amplitude
-### Spike Response Model
-+ linear [neuron](../Neurons/Neurons.md) model as motivation using [LIF](../Brain%20Models/Leaky%20Integrate-And-Fire%20Model.md) neurons with current-based [synapses](../Neurons/Synapses.md)
+### Spike Response Model (SRM)
++ linear [neuron](../Neurons/Neurons.md) model as motivation using [LIF](../Brain%20Models/Leaky%20Integrate-And-Fire%20Model.md) neurons with current-based synapses
 	+ linear response to incoming spikes and currents
 	+ reset mechanism expressed as subtraction
 + $u(t)=\eta(t-\hat t)+\sum\limits_j w_j \sum\limits_f \epsilon_j (t-\hat t, t-t^{(f)}_j) + \int_0^\infty \kappa(t-\hat t,s)I_{ext}(t-s)ds$

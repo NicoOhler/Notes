@@ -30,7 +30,7 @@
 		+ start from biology side
 		+ e.g., biophysical modeling, connectionism, artificial life
 
-### Common Models
+### Common Brain Models
 + [[Leaky Integrate-And-Fire Model]]
 + [Hodgkin-Huxley Model](Hodgkin-Huxley%20Model.md)
 + [Nonlinear Integrate-And-Fire Models](Nonlinear%20Integrate-And-Fire%20Models.md)
@@ -38,5 +38,5 @@
 + [Exponential Integrate-And-Fire Model](Exponential%20Integrate-And-Fire%20Model.md)
 + [Tsodyks Synapse Model](Tsodyks%20Synapse%20Model.md)
 + [Adaptive Exponential Integrate-And-Fire Model](Adaptive%20Exponential%20Integrate-And-Fire%20Model.md)
-+ [Synaptic Models](Synaptic%20Models.md)
++ [Spike Response Models](Spike%20Response%20Models.md)
 + [Dendrite Models](Dendrite%20Models.md)
