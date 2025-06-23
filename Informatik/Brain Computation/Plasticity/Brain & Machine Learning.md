@@ -10,30 +10,32 @@
 		+ sometimes use similar representations e.g. CNNs
 	+ ANNs are slow learners, need tons of examples, humans fast
 	+ ![](../../../z_images/Pasted%20image%2020250618222057.png)
-+ inductive biases
-	+ structural mechanisms which support learning
-	+ reduce search space
-		+ prune impossible solutions
-		+ merge equivalent solutions
-		+ neglect unlikely solutions
-	+ via simplifying assumptions
-		+ prefer simplest solutions that still makes sense
-			+ great for generalization
-			+ reduces cognitive load
-			+ drastically speeds up learning
-		+ modular brain architecture
-			+ promotes specialization 
+### Inductive Biases
++ structural mechanisms which support learning
++ reduce search space
+	+ prune impossible solutions
+	+ merge equivalent solutions
+	+ neglect unlikely solutions
++ via simplifying assumptions
+	+ prefer simplest solutions that still makes sense
+		+ great for generalization
+		+ reduces cognitive load
+		+ drastically speeds up learning
+	+ brain architecture
+		+ modular brain 
+			+ promotes specialization
 			+ e.g. recognizing faces
-		+ hierarchical brain architecture
+		+ hierarchical brain
 			+ extract information from local details 
 			+ use/integrate/combine information for a broader understanding
-			+ evolution optimized brain to be a good learner
-		+ nearest neighbor for KNN
-	+ what is the learning goal?
-	+ + curiosity?
-		+ imitation?
-		+ ultimately increasing our survival odds $\Rightarrow$ gain an evolutionary advantage
-		
+		+ both simplify credit assignment problem
+		+ evolution optimized brain to be a good learner
+	+ nearest neighbor for KNN
++ learning goal
+	+ curiosity or imitation?
+	+ brain architecture biases us towards certain types of learning to
+		+ gain an evolutionary advantage and
+		+ ultimately increase our survival odds
 ### Credit Assignment
 + define contribution of each neuron to output
 + requires feedback from output
