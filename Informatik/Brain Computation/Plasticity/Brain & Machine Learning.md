@@ -11,8 +11,13 @@
 	+ ANNs are slow learners, need tons of examples, humans fast
 	+ ![](../../../z_images/Pasted%20image%2020250618222057.png)
 + inductive biases
+	+ structural mechanisms which support learning
 	+ bias towards simple solutions which make sense
-	+ great for generalization
+		+ great for generalization
+	+ Architecture: wiring of brain networks
+	+ architecture
+		+ modular and hierarchical structure, local level: cortical microcircuit
+		+ evolution may have optimized the brain to be a good learner
 ### Credit Assignment
 + define contribution of each neuron to output
 + requires feedback from output
