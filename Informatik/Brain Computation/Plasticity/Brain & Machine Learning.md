@@ -12,18 +12,19 @@
 	+ ![](../../../z_images/Pasted%20image%2020250618222057.png)
 + inductive biases
 	+ structural mechanisms which support learning
-		+ via simplifying assumptions
-			+ bias towards simple solutions which make sense
-				+ great for generalization
-			+ nearest neighbor for KNN
+	+ via simplifying assumptions
+		+ prefer simplest solutions that still makes sense
+			+ great for generalization
+		+ modular and hierarchical brain wiring
+			+ extract local details 
+			+ merge to get the bigger picture
+			+ evolution optimized brain to be a good learner
+		+ nearest neighbor for KNN
 	+ reduce search space
 		+ prune impossible solutions
 		+ merge equivalent solutions
 		+ neglect unlikely solutions
-	+ architecture
-		+ wiring of brain networks
-		+ modular and hierarchical structure, local level: cortical microcircuit
-		+ evolution optimized brain to be a good learner
+	+ 
 ### Credit Assignment
 + define contribution of each neuron to output
 + requires feedback from output
