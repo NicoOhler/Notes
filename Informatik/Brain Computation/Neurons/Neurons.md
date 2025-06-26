@@ -5,7 +5,7 @@
 	+ responsible for actual computation
 + Dendrites
 	+ deliver input currents to the soma
-	+ connected to axons of other neurons via [synapses](Synapses.md)
+	+ connected to axons of other neurons via [synapses](../Synapses%20&%20Plasticity/Synapses.md)
 + axons
 	+ relay output action potentials to other neurons
 	+ spikes generated in axon hillocks

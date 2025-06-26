@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Brain Computation/Brain Models/Spike Response Models.md",
+                "file": "Informatik/Brain Computation/Synapses & Plasticity/Synapses.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spike Response Models"
+              "title": "Synapses"
             }
           }
         ]
@@ -68,7 +68,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.5
+    "width": 448.5
   },
   "right": {
     "id": "d1219e90b492538d",
@@ -113,18 +113,20 @@
   },
   "active": "030d8f737939a26a",
   "lastOpenFiles": [
-    "Informatik/Brain Computation/Neurons/Conductance & Current-Based Synapses.md",
-    "Informatik/Brain Computation/Learning/Synaptic Transmission of Chemical Synapses.md",
-    "Informatik/Brain Computation/Brain Models/Spike Response Models.md",
-    "Informatik/Brain Computation/Neurons/Synapses.md",
+    "Informatik/Brain Computation/Synapses & Plasticity/Plasticity.md",
+    "Informatik/Brain Computation/Synapses & Plasticity/Spike-Timing Dependent Plasticity.md",
+    "Informatik/Brain Computation/Synapses & Plasticity/Synapses.md",
+    "Informatik/Brain Computation/Synapses & Plasticity/Synaptic Transmission of Chemical Synapses.md",
     "Informatik/Brain Computation/Learning/Reinforcement Learning in the Brain.md",
-    "Informatik/Brain Computation/Brain Models/Leaky Integrate-And-Fire Model.md",
-    "Informatik/Brain Computation/Learning/Spike-Timing Dependent Plasticity.md",
-    "Informatik/Brain Computation/Learning/Clopath Learning.md",
-    "Informatik/Brain Computation/Learning/Inductive Biases.md",
     "Informatik/Brain Computation/Learning/Hebbian Learning.md",
+    "Informatik/Brain Computation/Learning/Clopath Learning.md",
     "Informatik/Brain Computation/Learning/Brain & Machine Learning.md",
-    "Informatik/Brain Computation/Learning/Plasticity.md",
+    "Informatik/Brain Computation/Brain Models/Spike Response Models.md",
+    "Informatik/Brain Computation/Neurons/Spike Generation.md",
+    "Informatik/Brain Computation/Synapses & Plasticity",
+    "Informatik/Brain Computation/Synapses & Plasticity/Conductance & Current-Based Synapses.md",
+    "Informatik/Brain Computation/Brain Models/Leaky Integrate-And-Fire Model.md",
+    "Informatik/Brain Computation/Learning/Inductive Biases.md",
     "Informatik/Brain Computation/Brain Models/Dynamical Systems.md",
     "Informatik/Brain Computation/Brain Models/Hodgkin-Huxley Model.md",
     "Informatik/Brain Computation/Brain Models/Adaptive Exponential Integrate-And-Fire Model.md",
@@ -139,7 +141,6 @@
     "Informatik/Brain Computation/Information Representation in the Brain/Temporal Codes.md",
     "Informatik/Brain Computation/Brain Models/Synaptic Models.md",
     "Informatik/Brain Computation/Neuromorphic Computing/Neuromorphic Computing.md",
-    "Informatik/Brain Computation/Neuromorphic Computing/Spiking Neural Networks.md",
     "z_images/Pasted image 20250621075853.png",
     "z_images/Pasted image 20250618224654.png",
     "z_images/Pasted image 20250618223853.png",
@@ -158,7 +159,6 @@
     "Informatik/Brain Computation/Neuromorphic Computing",
     "Informatik/Machine Learning/ML1/lecture07.pdf",
     "Informatik/Machine Learning/ML1/lecture06.pdf",
-    "Informatik/Machine Learning/ML1/lecture08.pdf",
     "Informatik/Untitled.canvas",
     "Untitled.canvas"
   ]

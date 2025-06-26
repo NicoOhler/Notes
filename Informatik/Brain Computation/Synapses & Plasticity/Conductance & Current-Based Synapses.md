@@ -1,4 +1,8 @@
-### Conductance-based [Synapses](../Neurons/Synapses.md)
+### Motivation
++ [synaptic transmissions](Synaptic%20Transmission%20of%20Chemical%20Synapses.md) lead to postsynaptic potentials (PSPs)
++ some [ion channels](../Neurons/Ion%20Channels.md) have nonlinear voltage dependencies
+	+ $I_{syn}(t)=-g_{syn}(t)\gamma(u(t))$
+### Conductance-based [Synapses](Synapses.md)
 + focus on modeling the conductance instead of the current
 	+ biologically plausible
 + $I_{syn}(t)=-g_{syn}(t)(u(t)-E_{syn})$

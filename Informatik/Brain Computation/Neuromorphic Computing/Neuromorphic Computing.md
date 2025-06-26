@@ -22,7 +22,7 @@
 + utilizes feedback and recurrence
 + memory and processing combined
 + parallel
-+ adaptive due to learning and [plasticity](../Learning/Plasticity.md) 
++ adaptive due to learning and [plasticity](../Synapses%20&%20Plasticity/Plasticity.md) 
 + optimized for [Liquid State Machines](Liquid%20State%20Machines.md) and [SNNs](Spiking%20Neural%20Networks.md)
 ### Algorithms
 + deep learning with SNNs

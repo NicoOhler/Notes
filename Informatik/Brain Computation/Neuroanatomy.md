@@ -3,7 +3,7 @@
 + connected via spinal cord to peripheral nervous system
 	+ i.e., the remaining body (muscles, sensors, actors)
 + consists of ~86 billion [neurons](Neurons/Neurons.md)
-	+ interconnected via [synapses](Neurons/Synapses.md)
+	+ interconnected via [synapses](Synapses%20&%20Plasticity/Synapses.md)
 + weighs ~1.5 kg 
 + volume ~2000 cm²
 + different regions and parts of the brain associated with different functionalities

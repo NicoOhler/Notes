@@ -1,3 +1,6 @@
+### Definition
++ connections between [neurons](../Neurons/Neurons.md) from
+	+ axons of presynaptic neuron and dendrites of 
 ### Electrical Synapses
 + common throughout the brain
 + neglected in most [brain models](../Brain%20Models/Brain%20Models.md)
@@ -14,4 +17,4 @@
 + electrical signal from axon causes chemical transmission at synapse which causes electrical signal at dendrite
 + slow, unidirectional transmission
 	+ presynaptic activity influences postsynaptic neuron
-+ [synaptic transmission](../Learning/Synaptic%20Transmission%20of%20Chemical%20Synapses.md)
++ [synaptic transmission](Synaptic%20Transmission%20of%20Chemical%20Synapses.md)
