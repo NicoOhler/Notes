@@ -24,4 +24,11 @@
 + divided into
 	+ potentiation LTP
 	+ depression LTD
-+ e.g. [STDP](Spike-Timing%20Dependent%20Plasticity.md) according to [Hebbian Learning](Hebbian%20Learning.md)
++ e.g. 
+	+ [STDP](Spike-Timing%20Dependent%20Plasticity.md) according to [Hebbian Learning](Hebbian%20Learning.md)
+	+ [Clopath Learning](Clopath%20Learning.md) relies on membrane depolarization instead of bAP
+	+ [Reinforcement Learning](Reinforcement%20Learning%20in%20the%20Brain.md) uses neuromodulators as learning signal
+
+	+ rapid plasticity without postsynaptic activity
+	+ ...
++ 
