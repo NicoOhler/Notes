@@ -5,6 +5,8 @@
 	+ pre/postsynaptic spike train
 	+ stochasticity
 	+ neuromodulators
++ rapid plasticity even without postsynaptic activity
+	+ e.g. remapping of silent cells allows reuse for other tasks
 ### Short Term Plasticity
 + change last a few milliseconds
 + recovers afterwards
@@ -21,14 +23,10 @@
 + [Tsodyks Synapse Model](../Brain%20Models/Tsodyks%20Synapse%20Model.md)
 ### Long Term Plasticity
 + change last hours to days
-+ divided into
-	+ potentiation LTP
-	+ depression LTD
++ potentiation LTP and depression LTD
 + e.g. 
 	+ [STDP](Spike-Timing%20Dependent%20Plasticity.md) according to [Hebbian Learning](Hebbian%20Learning.md)
 	+ [Clopath Learning](Clopath%20Learning.md) relies on membrane depolarization instead of bAP
-	+ [Reinforcement Learning](Reinforcement%20Learning%20in%20the%20Brain.md) uses neuromodulators as learning signal
-
-	+ rapid plasticity without postsynaptic activity
-	+ ...
-+ 
+	+ [Reinforcement Learning](Reinforcement%20Learning%20in%20the%20Brain.md)
+		+ uses neuromodulators as learning signal
+		+ yields three factor rule (neuromodulated STDP)
