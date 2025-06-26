@@ -9,5 +9,6 @@
 	+ relative size $\alpha$ between the two cases
 + interplay of excitation and inhibition ensures system stability
 	+ otherwise weights could grow infinitely
++ fails for distal synapses since bAP decays 
 + neglects other factors
 	+ [[Clopath Learning]]
