@@ -1,6 +1,8 @@
 ### Definition
-+ connections between [neurons](../Neurons/Neurons.md) from
-	+ axons of presynaptic neuron and dendrites of 
++ connections between [neurons](../Neurons/Neurons.md)
+	+ from axons of presynaptic neuron 
+	+ to dendrites of postsynaptic neuron
++ [plasticity](Plasticity.md) alters synaptic efficacy
 ### Electrical Synapses
 + common throughout the brain
 + neglected in most [brain models](../Brain%20Models/Brain%20Models.md)
