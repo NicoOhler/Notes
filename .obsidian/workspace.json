@@ -11,12 +11,14 @@
             "id": "030d8f737939a26a",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.14"
+                "file": "Informatik/Machine Learning/Graph Diffusion Models/finetune_results.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.14"
+              "icon": "lucide-file",
+              "title": "finetune_results"
             }
           }
         ]
@@ -112,6 +114,14 @@
   },
   "active": "030d8f737939a26a",
   "lastOpenFiles": [
+    "Informatik/Machine Learning/Graph Diffusion Models/results/train_20251207-220045_baseline_2.png",
+    "Informatik/Machine Learning/Graph Diffusion Models/results/train_20251207-220045_baseline_1.png",
+    "Informatik/Machine Learning/Graph Diffusion Models/results/sample_20251217-205958_regular_training.png",
+    "Informatik/Machine Learning/Graph Diffusion Models/results/sample_20251216-210849_baseline.png",
+    "Informatik/Machine Learning/Graph Diffusion Models/results/sample_20251216-203957_finetune.png",
+    "Informatik/Machine Learning/Graph Diffusion Models/results/finetune_20251214-145444_finetune.png",
+    "Informatik/Machine Learning/Graph Diffusion Models/results",
+    "Informatik/Machine Learning/Graph Diffusion Models/finetune_results.md",
     "Informatik/Machine Learning/Graph Diffusion Models/SparseDiff - Sparse Discrete Diffusion for Scalable Graph Generation.md",
     "Informatik/Machine Learning/Graph Diffusion Models",
     "Informatik/Brain Computation/Information Representation in the Brain/Information Representation in the Brain.md",
@@ -138,8 +148,6 @@
     "Informatik/Brain Computation/Brain Models/Dynamical Systems.md",
     "Informatik/Brain Computation/Brain Models/Hodgkin-Huxley Model.md",
     "Informatik/Brain Computation/Brain Models/Adaptive Exponential Integrate-And-Fire Model.md",
-    "Informatik/Brain Computation/Brain Models/Exponential Integrate-And-Fire Model.md",
-    "Informatik/Brain Computation/Brain Models/Brain Models.md",
     "Informatik/Brain Computation/Plasticity/Untitled",
     "z_images/Pasted image 20250621075853.png",
     "z_images/Pasted image 20250618224654.png",
@@ -147,17 +155,11 @@
     "z_images/Pasted image 20250618222057.png",
     "Informatik/Brain Computation/Information Representation in the Brain",
     "z_images/Pasted image 20250618202006.png",
-    "z_images/Pasted image 20250618201934.png",
-    "z_images/Pasted image 20250618201928.png",
-    "z_images/Pasted image 20250618201911.png",
-    "z_images/Pasted image 20250618201900.png",
-    "z_images/Pasted image 20250618201412.png",
     "Informatik/Brain Computation/Learning",
     "Informatik/Machine Learning/Brain Computation/Untitled",
     "Informatik/Machine Learning/Brain Computation/Neurons/Untitled",
     "Informatik/Brain Computation/Neurons",
     "Informatik/Brain Computation/Neuromorphic Computing",
-    "Informatik/Machine Learning/ML1/lecture07.pdf",
     "Informatik/Untitled.canvas",
     "Untitled.canvas"
   ]
