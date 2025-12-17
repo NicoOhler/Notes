@@ -11,14 +11,12 @@
             "id": "030d8f737939a26a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "Informatik/Machine Learning/Graph Diffusion Models/SparseDiff - Sparse Discrete Diffusion for Scalable Graph Generation.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.9.14"
               },
-              "icon": "lucide-file",
-              "title": "SparseDiff - Sparse Discrete Diffusion for Scalable Graph Generation"
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
             }
           }
         ]
@@ -106,6 +104,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "command-palette:Open command palette": false
