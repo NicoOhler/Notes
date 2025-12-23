@@ -35,12 +35,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Algorithms/Design Patterns/Architectural Patterns/Structure & Decomposition.md",
+                "file": "Informatik/Algorithms/Design Patterns/Design Patterns/Structural Patterns.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Structure & Decomposition"
+              "title": "Structural Patterns"
             }
           }
         ]
@@ -137,6 +137,7 @@
   "active": "db2e1f70de8794e2",
   "lastOpenFiles": [
     "Informatik/Algorithms/Design Patterns/Types of Design Patterns.md",
+    "Informatik/Algorithms/Design Patterns/Design Patterns/Behavioral Patterns.md",
     "Informatik/Algorithms/Design Patterns/Architectural Patterns/Structure & Decomposition.md",
     "Informatik/Algorithms/Design Patterns/Architectural Patterns/Distributed Systems & Communication.md",
     "Informatik/Algorithms/Design Patterns/Architectural Patterns/User Interface.md",
@@ -144,7 +145,6 @@
     "Informatik/Algorithms/Design Patterns/Architectural Patterns/Concurrency Architectures.md",
     "Informatik/Algorithms/Design Patterns/Design Patterns/Creational Patterns.md",
     "Informatik/Algorithms/Design Patterns/Design Patterns/Structural Patterns.md",
-    "Informatik/Algorithms/Design Patterns/Design Patterns/Behavioral Patterns.md",
     "Informatik/Algorithms/Design Patterns/Design Patterns/Concurrency.md",
     "Informatik/Algorithms/Design Patterns/Design Patterns/Resource Management.md",
     "Informatik/Algorithms/Design Patterns/Idioms.md",
