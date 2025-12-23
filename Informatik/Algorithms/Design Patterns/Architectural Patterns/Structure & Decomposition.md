@@ -1,10 +1,11 @@
-### Name
+### Active Record
 + 
-### Name
+### Blackboard
 + 
-### Name
+### Layers
 + 
-### Name
+### Pipes & Filters
 + 
-### Name
+### Microkernel
 + 
+

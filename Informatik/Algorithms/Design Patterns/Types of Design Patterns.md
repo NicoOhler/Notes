@@ -1,11 +1,11 @@
 ### Architectural Patterns
 + fundamental structural patterns for whole architecture
 + [[Architectural Patterns/Structure & Decomposition]]
+	+ Active Record
+	+ Blackboard
 	+ Layers
 	+ Pipes & Filters
 	+ Microkernel
-	+ Blackboard
-	+ Active Record
 + [[Architectural Patterns/Distributed Systems & Communication]]
 	+ Broker
 	+ Client-Server
