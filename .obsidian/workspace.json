@@ -13,28 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Machine Learning/Graph Diffusion Models/finetune_results.md",
+                "file": "Informatik/Algorithms/Design Patterns/Design Patterns.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "finetune_results"
-            }
-          },
-          {
-            "id": "ecfd5466889e2d42",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.6"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.6"
+              "title": "Design Patterns"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -125,8 +112,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ecfd5466889e2d42",
+  "active": "030d8f737939a26a",
   "lastOpenFiles": [
+    "Informatik/Machine Learning/Graph Diffusion Models/finetune_results.md",
+    "Informatik/Algorithms/Design Patterns/Design Patterns.md",
+    "Informatik/Algorithms/Design Patterns",
     "Informatik/Machine Learning/Graph Diffusion Models/results/train_20251207-220045_baseline_2.png",
     "Informatik/Machine Learning/Graph Diffusion Models/results/train_20251207-220045_baseline_1.png",
     "Informatik/Machine Learning/Graph Diffusion Models/results/sample_20251217-205958_regular_training.png",
@@ -134,7 +124,6 @@
     "Informatik/Machine Learning/Graph Diffusion Models/results/sample_20251216-203957_finetune.png",
     "Informatik/Machine Learning/Graph Diffusion Models/results/finetune_20251214-145444_finetune.png",
     "Informatik/Machine Learning/Graph Diffusion Models/results",
-    "Informatik/Machine Learning/Graph Diffusion Models/finetune_results.md",
     "Informatik/Machine Learning/Graph Diffusion Models/SparseDiff - Sparse Discrete Diffusion for Scalable Graph Generation.md",
     "Informatik/Machine Learning/Graph Diffusion Models",
     "Informatik/Brain Computation/Information Representation in the Brain/Information Representation in the Brain.md",
@@ -167,12 +156,10 @@
     "z_images/Pasted image 20250618223853.png",
     "z_images/Pasted image 20250618222057.png",
     "Informatik/Brain Computation/Information Representation in the Brain",
-    "z_images/Pasted image 20250618202006.png",
     "Informatik/Brain Computation/Learning",
     "Informatik/Machine Learning/Brain Computation/Untitled",
     "Informatik/Machine Learning/Brain Computation/Neurons/Untitled",
     "Informatik/Brain Computation/Neurons",
-    "Informatik/Brain Computation/Neuromorphic Computing",
     "Informatik/Untitled.canvas",
     "Untitled.canvas"
   ]
