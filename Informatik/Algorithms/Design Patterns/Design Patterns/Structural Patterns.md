@@ -18,7 +18,8 @@
 > > + two variants
 > > 	+ class adapter inherits from adaptee
 > > 	+ object adapter contains adaptee as member
-> 
+![](../../../../z_images/Pasted%20image%2020251223212158.png)
+>
 > >[!quote] Consequences of class adapter
 > > > [!success] Good
 > > > + use override
@@ -90,21 +91,20 @@
 > > [!success] Solution
 > > + create subclass which forwards requests (function calls) to its object
 > > + perform additional operations before or after request
+![](../../../../z_images/Pasted%20image%2020251223211942.png)
 >
 > >[!quote] Consequences
 > > > [!success] Good
-> > > + 
-> >
-> > > [!question] Mixed
-> > > + 
+> > > + flexible and dynamic addition and removal of responsibilities during runtime
+> > > + easy to add property twice??
+> > > + avoids feature laden classes and class explosion issue
 > >
 > >> [!failure] Bad
-> >> + 
+> >> + decorator and component not identical??
+> >> + hard to learn and debug since object
 > 
 > > [!example] Examples
 > > + 
-
-![](../../../../z_images/Pasted%20image%2020251223211942.png)
 
  >[!quote] Facade
 > > [!info] Context
@@ -124,6 +124,7 @@
 > > + implement a simple high level wrapper 
 > > + hides complexities and implementation details
 > > + provide easy to use OO interface
+![](../../../../z_images/Pasted%20image%2020251223212122.png)
 >
 > >[!quote] Consequences
 > > > [!success] Good
