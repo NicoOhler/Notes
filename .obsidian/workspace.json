@@ -112,10 +112,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "030d8f737939a26a",
+  "active": "097b9a58ea336072",
   "lastOpenFiles": [
-    "Informatik/Algorithms/Design Patterns/Principles of Good Programming.md",
+    "Informatik/Algorithms/Design Patterns/Architectural Patterns/Structure & Decomposition",
+    "Informatik/Algorithms/Design Patterns/Architectural Patterns.md",
     "Informatik/Algorithms/Design Patterns/Types of Design Patterns.md",
+    "Informatik/Algorithms/Design Patterns/Idioms.md",
+    "Informatik/Algorithms/Design Patterns/Design Patterns",
+    "Informatik/Algorithms/Design Patterns/Architectural Patterns",
+    "Informatik/Algorithms/Design Patterns/Principles of Good Programming.md",
     "z_images/Pasted image 20251223155306.png",
     "Informatik/Algorithms/Design Patterns/Design Patterns.md",
     "z_images/Pasted image 20251223154248.png",
@@ -150,16 +155,11 @@
     "Informatik/Brain Computation/Synapses & Plasticity/Plasticity.md",
     "Informatik/Brain Computation/Neurons/Spike Generation.md",
     "Informatik/Brain Computation/Synapses & Plasticity",
-    "Informatik/Brain Computation/Synapses & Plasticity/Conductance & Current-Based Synapses.md",
-    "Informatik/Brain Computation/Brain Models/Leaky Integrate-And-Fire Model.md",
-    "Informatik/Brain Computation/Brain Models/Dynamical Systems.md",
     "Informatik/Brain Computation/Plasticity/Untitled",
     "z_images/Pasted image 20250621075853.png",
     "Informatik/Brain Computation/Information Representation in the Brain",
     "Informatik/Brain Computation/Learning",
     "Informatik/Machine Learning/Brain Computation/Untitled",
-    "Informatik/Machine Learning/Brain Computation/Neurons/Untitled",
-    "Informatik/Brain Computation/Neurons",
     "Informatik/Untitled.canvas",
     "Untitled.canvas"
   ]
