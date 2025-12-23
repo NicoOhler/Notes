@@ -29,3 +29,21 @@
 + known uses
 	+ real world examples
 ![](../../../z_images/Pasted%20image%2020251223154248.png)
+
+### Emergence
++ they emerge out of real use cases
++ found instead of invented
++ life cycle
+	+ patterns found among multiple solutions/use cases
+	+ core idea (pattern) written down
+	+ discussion
+	+ improvement
+	+ publication
+	+ repeat discussion after improvement or publication
+
+### Pattern Languages
++ coherent system of patterns
++ consist of
+	+ patterns
+	+ relations - how patterns influence each other
+	+ principles - implementati
