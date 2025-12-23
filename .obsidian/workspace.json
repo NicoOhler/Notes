@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Algorithms/Design Patterns/Design Patterns.md",
+                "file": "Informatik/Algorithms/Design Patterns/Principles of Good Programming.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Design Patterns"
+              "title": "Principles of Good Programming"
             }
           }
         ]
@@ -114,10 +114,11 @@
   },
   "active": "030d8f737939a26a",
   "lastOpenFiles": [
+    "Informatik/Algorithms/Design Patterns/Design Patterns.md",
+    "Informatik/Algorithms/Design Patterns/Principles of Good Programming.md",
     "z_images/Pasted image 20251223154248.png",
     "z_images/Pasted image 20251223154235.png",
     "Informatik/Machine Learning/Graph Diffusion Models/finetune_results.md",
-    "Informatik/Algorithms/Design Patterns/Design Patterns.md",
     "Informatik/Algorithms/Design Patterns",
     "Informatik/Machine Learning/Graph Diffusion Models/results/train_20251207-220045_baseline_2.png",
     "Informatik/Machine Learning/Graph Diffusion Models/results/train_20251207-220045_baseline_1.png",
@@ -154,7 +155,6 @@
     "Informatik/Brain Computation/Plasticity/Untitled",
     "z_images/Pasted image 20250621075853.png",
     "z_images/Pasted image 20250618224654.png",
-    "z_images/Pasted image 20250618223853.png",
     "Informatik/Brain Computation/Information Representation in the Brain",
     "Informatik/Brain Computation/Learning",
     "Informatik/Machine Learning/Brain Computation/Untitled",

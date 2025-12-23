@@ -45,5 +45,8 @@
 + coherent system of patterns
 + consist of
 	+ patterns
-	+ relations - how patterns influence each other
-	+ principles - implementati
+	+ relations
+		+ how patterns influence each other
+		+ (anti)synergies
+	+ principles
+		+ guidelines for implementation, combination with other patterns and evolution
