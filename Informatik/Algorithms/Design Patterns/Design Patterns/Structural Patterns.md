@@ -77,21 +77,26 @@
 
  >[!quote] Facade
 > > [!info] Context
-> > + working with complex structure
-> > + potentially with differe
+> > + working with complex code
+> > + potentially with different programming paradigms
 >
 > > [!danger] Problem
-> > + 
+> > + make use of complex code easy and intuitive
 >
 > > [!tip] Forces
-> > + 
+> > + different platforms, paradigms, environments and conventions
+> > + heterogeneous code is difficult to maintain
+> > + change of underlying code is costly or impossible
+> > + details should be hidden
 >
 > > [!success] Solution
-> > + 
+> > + implement a simple high level wrapper 
+> > + hides complexities and implementation details
+> > + provide easy to use OO interface
 >
 > >[!quote] Consequences
 > > > [!success] Good
-> > > + 
+> > > + concise, cohesive, high lebv
 > >
 > > > [!question] Mixed
 > > > + 
