@@ -46,13 +46,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Algorithms/Design Patterns/tmp.md",
+                "file": "Informatik/Algorithms/Design Patterns/Template.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "tmp"
+              "title": "Template"
             }
           }
         ],
@@ -150,7 +150,7 @@
   "active": "ee2cadfe0860e26e",
   "lastOpenFiles": [
     "Informatik/Algorithms/Design Patterns/Design Patterns/Structural Patterns.md",
-    "Informatik/Algorithms/Design Patterns/tmp.md",
+    "Informatik/Algorithms/Design Patterns/Template.md",
     "Informatik/Algorithms/Design Patterns/Design Patterns.md",
     "Informatik/Algorithms/Design Patterns/Types of Design Patterns.md",
     "Informatik/Algorithms/Design Patterns/Design Patterns/Behavioral Patterns.md",
