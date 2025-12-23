@@ -50,8 +50,17 @@
 	+ Concurrency
 		+ Monitor
 		+ Future
-		+ 
+		+ Active Object
+		+ Thread Specific Storage
+		+ Locks
+	+ Resource Management
+		+ Lazy Acquisition
+		+ Eager Acquisition
+		+ Partial Acquisition
+		+ Caching
+		+ Pooling
+		+ Leasing
+		+ Garbage Collector
 + Idioms
 	+ fine-grained patterns for problems in specific environments
-		+ Locking
-	+ Messaging Family
+	+ e.g. Scoped Locking, Counted Pointer
