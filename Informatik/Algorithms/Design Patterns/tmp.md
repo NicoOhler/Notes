@@ -12,12 +12,12 @@
 > > + 
 >
 > >[!quote] consequences
-> > > [!success] Pros
+> > > [!success] Good
 > > > + 
 > >
-> > > [!question] ?
+> > > [!question] Mixed
 > > > + 
 > >
-> >> [!failure] Cons
+> >> [!failure] Bad
 > >> + 
 

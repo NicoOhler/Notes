@@ -1,33 +1,4 @@
-### Adapter
-+ context
-	+ multiple different frameworks or libraries
-+ problem
-	+ incompatible classes should work together
-+ forces
-	+ class interfaces do not match
-	+ reuse functionality without rewriting class
-	+ source code for class might not be available
-	+ inheritance prevented due to sealed class
-+ solution
-	+ create wrapper class around adaptee (used class)
-		+ supports the desired interface
-	+ two variants
-		+ class adapter inherits from adaptee
-		+ object adapter contains adaptee as member
-+ class adapter
->[!quote] consequences
-> > [!success] Pros
-> > + convenient without additional indirection
-> > + only change
->
-> >[!question] Pros
-> >+ convenient without additional indirection
-> >+ only change
->
-> >[!failure] Cons
-> >+ would have to adapt subclasses as well
-
- >[!quote] name
+ >[!quote] Adapter
 > > [!info] context
 > > + multiple different frameworks or libraries
 >
@@ -42,19 +13,31 @@
 >
 > > [!success] solution
 > > + create wrapper class around adaptee (used class)
-> > + supports the desired interface
-	+ two variants
-		+ class adapter inherits from adaptee
-		+ object adapter contains adaptee as member
->
-> >[!quote] consequences
-> > > [!success] Pros
+> > 	+ supports the desired interface
+> > + two variants
+> > 	+ class adapter inherits from adaptee
+> > 	+ object adapter contains adaptee as member
+> 
+> >[!quote] consequences of class adapter
+> > > [!success] Good
+> > > + use override
+> > > + access to protected members
+> > > + simple inheritance without additional indirection
+> >
+> > > [!question] Mixed
+> > > + only chan
+> >
+> >> [!failure] Bad
+> >> + a
+> 
+> >[!quote] consequences of class adapter
+> > > [!success] Good
 > > > + 
 > >
-> > > [!question] ?
+> > > [!question] Mixed
 > > > + 
 > >
-> >> [!failure] Cons
+> >> [!failure] Bad
 > >> + 
 
 
