@@ -1,15 +1,34 @@
-context
-	+ 
+ >[!quote] name
+> > [!quote] context
+> > + a
+> > + 
+>
+> > [!quote] problem
+> > + a
+> > + 
+>
+> [!quote] problem
+> > + a
+>
+> [!quote] problem
+> > + a
+> > + 
++ 
 + problem
 	+ 
 + forces
 	+ 
 + solution
-	+ 
-> [!success] Pros
-> + 
-> + 
 
->[!error] Cons
-> + a
-> + a
+
+> >[!quote] consequences
+> > [!success] Pros
+> > + convenient without additional indirection
+> > + only change
+>
+> >[!question] Pros
+> >+ convenient without additional indirection
+> >+ only change
+>
+> >[!failure] Cons
+> >+ would have to adapt subclasses as well

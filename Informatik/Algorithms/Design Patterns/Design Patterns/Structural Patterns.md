@@ -15,20 +15,20 @@
 		+ class adapter inherits from adaptee
 		+ object adapter contains adaptee as member
 + class adapter
->[!info] consequences
->[!success] Pros
-> + convenient without additional indirection
-> + only change
-
->[!question] Pros
-> + convenient without additional indirection
-> + only change
-
->[!error] Cons
-> + would have to adapt subclasses as well
+>[!quote] consequences
+> > [!success] Pros
+> > + convenient without additional indirection
+> > + only change
+>
+> >[!question] Pros
+> >+ convenient without additional indirection
+> >+ only change
+>
+> >[!failure] Cons
+> >+ would have to adapt subclasses as well
 ### Bridge
 + 
-### Composite
+### Composite 
 + 
 ### Decorator
 + 

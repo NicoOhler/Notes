@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -147,10 +147,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "db2e1f70de8794e2",
+  "active": "ee2cadfe0860e26e",
   "lastOpenFiles": [
-    "Informatik/Algorithms/Design Patterns/tmp.md",
     "Informatik/Algorithms/Design Patterns/Design Patterns/Structural Patterns.md",
+    "Informatik/Algorithms/Design Patterns/tmp.md",
     "Informatik/Algorithms/Design Patterns/Design Patterns.md",
     "Informatik/Algorithms/Design Patterns/Types of Design Patterns.md",
     "Informatik/Algorithms/Design Patterns/Design Patterns/Behavioral Patterns.md",
