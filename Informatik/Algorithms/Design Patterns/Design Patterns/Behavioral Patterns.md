@@ -1,24 +1,22 @@
-### Name
+### Command
 + 
-### Name
+### Chain of Responsibility
 + 
-### Name
+### Iterator
 + 
-### Name
+### Interpreter
++ Abstract Syntax Tree?
+### Mediator
 + 
-### Name
+### Memento
 + 
-### Name
+### Observer
 + 
-### Name
+### Strategy
 + 
-### Name
+### State
 + 
-### Name
+### Template Method
 + 
-### Name
-+ 
-### Name
-+ 
-### Name
+### Visitor
 + 

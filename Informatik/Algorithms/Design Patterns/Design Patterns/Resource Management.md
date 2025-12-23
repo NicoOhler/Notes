@@ -1,14 +1,14 @@
-### Name
+### Caching
 + 
-### Name
+### Leasing
 + 
-### Name
+### Pooling
 + 
-### Name
+### Lazy Acquisition
 + 
-### Name
+### Eager Acquisition
 + 
-### Name
+### Partial Acquisition
 + 
-### Name
+### Garbage Collector
 + 

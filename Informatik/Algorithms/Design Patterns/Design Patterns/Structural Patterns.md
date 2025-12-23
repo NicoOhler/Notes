@@ -1,14 +1,14 @@
-### Name
+### Adapter
 + 
-### Name
+### Bridge
 + 
-### Name
+### Composite
 + 
-### Name
+### Decorator
 + 
-### Name
+### Facade
 + 
-### Name
+### Flyweight
 + 
-### Name
+### Proxy
 + 

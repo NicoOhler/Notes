@@ -35,12 +35,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Algorithms/Design Patterns/Idioms.md",
+                "file": "Informatik/Algorithms/Design Patterns/Architectural Patterns/Concurrency Architectures.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Idioms"
+              "title": "Concurrency Architectures"
             }
           }
         ]
@@ -134,17 +134,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "030d8f737939a26a",
+  "active": "db2e1f70de8794e2",
   "lastOpenFiles": [
-    "Informatik/Algorithms/Design Patterns/Idioms.md",
     "Informatik/Algorithms/Design Patterns/Types of Design Patterns.md",
-    "Informatik/Algorithms/Design Patterns/Design Patterns/Resource Management.md",
-    "Informatik/Algorithms/Design Patterns/Design Patterns/Concurrency.md",
-    "Informatik/Algorithms/Design Patterns/Design Patterns/Behavioral Patterns.md",
-    "Informatik/Algorithms/Design Patterns/Design Patterns/Structural Patterns.md",
-    "Informatik/Algorithms/Design Patterns/Design Patterns/Creational Patterns.md",
-    "Informatik/Algorithms/Design Patterns/Architectural Patterns/Messaging Family.md",
     "Informatik/Algorithms/Design Patterns/Architectural Patterns/Concurrency Architectures.md",
+    "Informatik/Algorithms/Design Patterns/Design Patterns/Creational Patterns.md",
+    "Informatik/Algorithms/Design Patterns/Design Patterns/Structural Patterns.md",
+    "Informatik/Algorithms/Design Patterns/Design Patterns/Behavioral Patterns.md",
+    "Informatik/Algorithms/Design Patterns/Design Patterns/Concurrency.md",
+    "Informatik/Algorithms/Design Patterns/Design Patterns/Resource Management.md",
+    "Informatik/Algorithms/Design Patterns/Idioms.md",
+    "Informatik/Algorithms/Design Patterns/Architectural Patterns/Messaging Family.md",
     "Informatik/Algorithms/Design Patterns/Architectural Patterns/User Interface.md",
     "Informatik/Algorithms/Design Patterns/Architectural Patterns/Distributed Systems & Communication.md",
     "Informatik/Algorithms/Design Patterns/Architectural Patterns/Structure & Decomposition.md",

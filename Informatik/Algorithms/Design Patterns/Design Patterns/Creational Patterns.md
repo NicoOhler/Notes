@@ -1,10 +1,10 @@
-### Name
+### Singleton
 + 
-### Name
+### Builder
 + 
-### Name
+### Factory Method
 + 
-### Name
+### Abstract Factory
 + 
-### Name
+### Prototype
 + 

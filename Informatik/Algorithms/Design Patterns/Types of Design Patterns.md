@@ -42,17 +42,17 @@
 	+ Proxy
 + [[Design Patterns/Behavioral Patterns]]
 	+ Command
+	+ Chain of Responsibility
 	+ Iterator
+	+ Interpreter
+		+ Abstract Syntax Tree
+	+ Mediator
+	+ Memento
 	+ Observer
 	+ Strategy
 	+ State
-	+ Visitor
 	+ Template Method
-	+ Mediator
-	+ Chain of Responsibility
-	+ Interpreter
-		+ Abstract Syntax Tree
-	+ Memento
+	+ Visitor
 + [[Design Patterns/Concurrency]]
 	+ Active Object
 	+ Future
