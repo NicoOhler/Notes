@@ -6,5 +6,10 @@ context
 	+ 
 + solution
 	+ 
-+ consequences
-	+ 
+> [!success] Pros
+> + 
+> + 
+
+>[!error] Cons
+> + a
+> + a
