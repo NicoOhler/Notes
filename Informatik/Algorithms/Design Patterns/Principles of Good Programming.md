@@ -32,7 +32,16 @@
 	+ prioritize composition over inheritance
 	+ Hollywood principle: "Don't call us, we call you!"
 + Usability and Simplicity
+	+ keep everything simple
+		+ single responsibility
+		+ avoid premature optimization
 	+ easy to use right, hard to use wrong
 	+ adhere to expectations, intuitive usage
-	+ YAGNI: you ain't gonna need it
-	+ 
+		+ Principle of least astonishment
+		+ Don’t make me think
+		+ Code for the Maintainer
+	+ common schemes
+		+ YAGNI – You ain’t gonna need it!
+		+ DRY – Don’t repeat yourself!
+		+ KISS – Keep it simple, stupid!
+		+ Ockham’s razor - Do the simplest thing possible 
