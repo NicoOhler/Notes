@@ -13,7 +13,8 @@
 >
 > > [!success] solution
 > > + create wrapper class around adaptee (used class)
-> > 	+ supports the desired interface
+> > 	+ implements desired interface and handles conversion 
+> > 	+ hides complexity
 > > + two variants
 > > 	+ class adapter inherits from adaptee
 > > 	+ object adapter contains adaptee as member
@@ -25,22 +26,21 @@
 > > > + simple inheritance without additional indirection
 > >
 > > > [!question] Mixed
-> > > + only chan
+> > > + everything is inherited, only changes have to be implemented
 > >
 > >> [!failure] Bad
-> >> + a
+> >> + need to also implement subclasses
 > 
-> >[!quote] consequences of class adapter
+> >[!quote] consequences of object adapter
 > > > [!success] Good
-> > > + 
+> > > + supports subclasses and Liskov substitution
+> > > + hides underlying adaptee
 > >
 > > > [!question] Mixed
-> > > + 
+> > > + no methods automatically inherited
 > >
 > >> [!failure] Bad
-> >> + 
-
-
+> >> + additional indirection
 ### Bridge
 + 
 ### Composite 
