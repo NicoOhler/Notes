@@ -27,10 +27,13 @@
 	+ reduce dependencies
 	+ minimize coupling and maximize cohesion
 	+ separation of concerns
-	+ late binding
-	+ shift binding time to later
+	+ late binding, shift binding time to later
 	+ prioritize composition over inheritance
-	+ Hollywood principle: "Don't call us, we call you!"
+		+ inheritance is hard to understand
+		+ however, not everything in same class $\Rightarrow$ Open Closed principle
+	+ inversion of control??
+		+ Hollywood principle: "Don't call us, we call you!"
+		+ single direction communication?
 + Usability and Simplicity
 	+ keep everything simple
 		+ single responsibility
