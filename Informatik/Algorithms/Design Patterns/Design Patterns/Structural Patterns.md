@@ -9,9 +9,15 @@
 	+ source code for class might not be available
 	+ inheritance prevented due to sealed class
 + solution
-	+ create adapter class (wrapper around adaptee)
+	+ create wrapper class around adaptee (used class)
+		+ supports the desired interface
+	+ two variants
+		+ class adapter inherits from adaptee
+		+ object adapter contains adaptee as member
 + consequences
-	+ 
+	+ class adapter
+>[!success] Pros
+>a
 ### Bridge
 + 
 ### Composite
