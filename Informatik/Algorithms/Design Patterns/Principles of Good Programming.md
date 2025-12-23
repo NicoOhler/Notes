@@ -2,7 +2,7 @@
 + Single Responsibility
 	+ class should have exactly one reason to change??
 	+ small classes with single responsibility
-	+ do one thing and stick to that (Curly's law)
+	+ Curly's law: "Do one thing and stick to that!" 
 	+ avoid god classes
 + Open Closed
 	+ extend class behavior without modification
@@ -21,12 +21,18 @@
 	+ divide and conquer
 	+ separate concerns
 + Abstraction
-	+ wrap another layer around a problem
+	+ wrap another layer around a problem (Liskov Substitution)
 	+ hide implementation details
 + Decoupling
 	+ reduce dependencies
+	+ minimize coupling and maximize cohesion
+	+ separation of concerns
 	+ late binding
 	+ shift binding time to later
+	+ prioritize composition over inheritance
+	+ Hollywood principle: "Don't call us, we call you!"
 + Usability and Simplicity
 	+ easy to use right, hard to use wrong
 	+ adhere to expectations, intuitive usage
+	+ YAGNI: you ain't gonna need it
+	+ 
