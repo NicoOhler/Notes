@@ -3,12 +3,12 @@
 + 100 epochs of regular training
 + serves as basis for finetuning via negative sampling
 + samples generated during first 50 epochs of training
-![alt text](./results/train_20251207-220045_baseline_1.png)
+	![alt text](./results/train_20251207-220045_baseline_1.png)
 + samples generated during second 50 epochs of training
-![alt text](./results/train_20251207-220045_baseline_2.png)
-+ 100 samples generated after training 
+	![alt text](./results/train_20251207-220045_baseline_2.png)
++ 100 samples generated after training
 	+ mean edge_crossing_ratio: ~0.0131
-![alt text](./results/sample_20251216-210849_baseline.png)
+	![alt text](./results/sample_20251216-210849_baseline.png)
 
 ### Negative Sampling
 + selecting only two negative samples (i.e. one edge) per graph per training step
@@ -38,6 +38,6 @@
 	    + mean edge_crossing_ratio: ~0.0858
 	    + seems to perform better than negative sampling
 	    + could be due to the low sample size, but 100 samples are already quite a lot
-![alt text](./results/sample_20251217-205958_regular_training.png)
+		![alt text](./results/sample_20251217-205958_regular_training.png)
 
 

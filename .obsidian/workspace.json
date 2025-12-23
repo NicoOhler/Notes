@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "finetune_results"
             }
+          },
+          {
+            "id": "ecfd5466889e2d42",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,7 +125,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "030d8f737939a26a",
+  "active": "ecfd5466889e2d42",
   "lastOpenFiles": [
     "Informatik/Machine Learning/Graph Diffusion Models/results/train_20251207-220045_baseline_2.png",
     "Informatik/Machine Learning/Graph Diffusion Models/results/train_20251207-220045_baseline_1.png",
