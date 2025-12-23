@@ -19,51 +19,55 @@
 	+ Proactor/Reactor
 + Messaging Family
 	+ Messages
-	+ Message Endpoi
+	+ Message Endpoint
+	+ Request-Response
 	+ Message Bus
 	+ Message Router
 	+ Message Translator
-
- ### Design Patterns
+### Design Patterns
 + solve more isolated problems
 + Creational Patterns
-	+ Singleton
-	+ Factory Method
 	+ Abstract Factory
 	+ Builder
+	+ Factory Method
+	+ Prototype
+	+ Singleton
 + Structural Patterns
 	+ Adapter
-	+ Facade
-	+ Decorator
-	+ Proxy
 	+ Bridge
+	+ Composite
+	+ Decorator
+	+ Facade
 	+ Flyweight
+	+ Proxy
 + Behavioral Patterns
+	+ Command
 	+ Iterator
 	+ Observer
 	+ Strategy
-	+ Command
 	+ State
 	+ Visitor
 	+ Template Method
 	+ Mediator
 	+ Chain of Responsibility
 	+ Interpreter
+		+ Abstract Syntax Tree
 	+ Memento
 + Concurrency
-	+ Monitor
-	+ Future
 	+ Active Object
-	+ Thread Specific Storage
+	+ Future
 	+ Locks
+	+ Monitor
+	+ Thread Specific Storage
 + Resource Management
-	+ Lazy Acquisition
+	+ Caching
+	+ Leasing
+	+ PoolingLazy Acquisition
 	+ Eager Acquisition
 	+ Partial Acquisition
-	+ Caching
-	+ Pooling
-	+ Leasing
 	+ Garbage Collector
 ### Idioms
 + fine-grained patterns for problems in specific environments
-+ e.g. Scoped Locking, Counted Pointer
+	+ Counted Pointer
+	+ Scoped Locking
+	+ Double-Checked Locking
