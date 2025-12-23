@@ -81,11 +81,15 @@
 > > + how to add or extend functionality without changing object
 >
 > > [!tip] Forces
-> > + add functionality/responsibility dynamically without affecting other objects
-> > + reuse functionality and dynam
+> > + add/remove functionality/responsibility dynamically without affecting other objects
+> > + reuse functionality
+> > + extensions subclasses would be impractical
+> > 	+ many subclasses/extensions/combinations
+> > 	+ less dynamic
 >
 > > [!success] Solution
-> > + 
+> > + create subclass which forwards requests (function calls) to its object
+> > + perform additional operations before or after request
 >
 > >[!quote] Consequences
 > > > [!success] Good
@@ -100,6 +104,7 @@
 > > [!example] Examples
 > > + 
 
+![](../../../../z_images/Pasted%20image%2020251223211942.png)
 
  >[!quote] Facade
 > > [!info] Context
