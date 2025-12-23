@@ -1,23 +1,23 @@
 ### Architectural Patterns
 + fundamental structural patterns for whole architecture
-+ Structure & Decomposition
++ [[Architectural Patterns/Structure & Decomposition]]
 	+ Layers
 	+ Pipes & Filters
 	+ Microkernel
 	+ Blackboard
 	+ Active Record
-+ Distributed Systems & Communication
++ [[Architectural Patterns/Distributed Systems & Communication]]
 	+ Broker
 	+ Client-Server
 	+ Master-Slave
-+ User Interface
++ [[Architectural Patterns/User Interface]]
 	+ Model-View-Controller
 	+ Model-View-Presenter/ViewModel
 	+ Presentation-Abstraction-Control
-+ Concurrency 
++ [[Architectural Patterns/Concurrency Architectures]]
 	+ Async-Await
 	+ Proactor/Reactor
-+ Messaging Family
++ [[Architectural Patterns/Messaging Family]]
 	+ Messages
 	+ Message Endpoint
 	+ Request-Response
@@ -26,13 +26,13 @@
 	+ Message Translator
 ### Design Patterns
 + solve more isolated problems
-+ Creational Patterns
++ [[Design Patterns/Creational Patterns]]
 	+ Abstract Factory
 	+ Builder
 	+ Factory Method
 	+ Prototype
 	+ Singleton
-+ Structural Patterns
++ [[Design Patterns/Structural Patterns]]
 	+ Adapter
 	+ Bridge
 	+ Composite
@@ -40,7 +40,7 @@
 	+ Facade
 	+ Flyweight
 	+ Proxy
-+ Behavioral Patterns
++ [[Design Patterns/Behavioral Patterns]]
 	+ Command
 	+ Iterator
 	+ Observer
@@ -53,20 +53,21 @@
 	+ Interpreter
 		+ Abstract Syntax Tree
 	+ Memento
-+ Concurrency
++ [[Design Patterns/Concurrency]]
 	+ Active Object
 	+ Future
 	+ Locks
 	+ Monitor
 	+ Thread Specific Storage
-+ Resource Management
++ [[Design Patterns/Resource Management]]
 	+ Caching
 	+ Leasing
-	+ PoolingLazy Acquisition
+	+ Pooling
+	+ Lazy Acquisition
 	+ Eager Acquisition
 	+ Partial Acquisition
 	+ Garbage Collector
-### Idioms
+### [[Idioms]]
 + fine-grained patterns for problems in specific environments
 	+ Counted Pointer
 	+ Scoped Locking
