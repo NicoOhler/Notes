@@ -71,9 +71,35 @@
 > > [!example] Examples
 > > + a
 ### Composite 
-+ 
-### Decorator
-+ 
+
+
+ >[!quote] Decorator
+> > [!info] Context
+> > + extend functionality of objects
+>
+> > [!danger] Problem
+> > + how to add or extend functionality without changing object
+>
+> > [!tip] Forces
+> > + add functionality/responsibility dynamically without affecting other objects
+> > + reuse functionality and dynam
+>
+> > [!success] Solution
+> > + 
+>
+> >[!quote] Consequences
+> > > [!success] Good
+> > > + 
+> >
+> > > [!question] Mixed
+> > > + 
+> >
+> >> [!failure] Bad
+> >> + 
+> 
+> > [!example] Examples
+> > + 
+
 
  >[!quote] Facade
 > > [!info] Context
@@ -96,13 +122,13 @@
 >
 > >[!quote] Consequences
 > > > [!success] Good
-> > > + concise, cohesive, high lebv
-> >
-> > > [!question] Mixed
-> > > + 
+> > > + concise, cohesive and robust high level
+> > > + code becomes robust and easy to learn/understand/maintain
 > >
 > >> [!failure] Bad
-> >> + 
+> >> + reduced functionality
+> >> + lose benefits of underlying paradigm
+> >> + additional abstraction with potential performance loss
 > 
 > > [!example] Examples
 > > + 
