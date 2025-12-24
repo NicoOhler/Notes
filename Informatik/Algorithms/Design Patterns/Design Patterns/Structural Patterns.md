@@ -148,8 +148,33 @@
 >
 > > [!success] Solution
 > > + proxy class provides interface identical to subject
-> > + maintain reference to subject
+> > + maintain reference to subject and control access to it
 > > + similar to decorator but with different intent: access control vs. extension
+![](../../../../z_images/Pasted%20image%2020251224122850.png)
+>
+> >[!quote] Consequences
+> > > [!success] Good
+> > > + separates original functionality from housekeeping
+> > > + potential for hidden optimizations (delay creation, caching) and access control
+> >
+> >> [!failure] Bad
+> >> + performance and complexity overhead due to indirection
+
+ >[!quote] Composite
+> > [!tip] Core idea
+> > + 
+> 
+> > [!info] Context
+> > + 
+>
+> > [!danger] Problem
+> > + 
+>
+> > [!examples] Forces
+> > + 
+>
+> > [!success] Solution
+> > + 
 UML
 >
 > >[!quote] Consequences
@@ -161,7 +186,8 @@ UML
 > >
 > >> [!failure] Bad
 > >> + 
-### Composite 
+> 
+
 
 ### Flyweight
 + 
