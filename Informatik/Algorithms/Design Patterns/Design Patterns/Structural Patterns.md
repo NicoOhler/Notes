@@ -162,6 +162,7 @@
 
  >[!quote] Composite
 > > [!tip] Core idea
+> > + treat object hierarchies identically
 > > + composite may be leaves, chains or object trees (e.g. HTML DOM)
 > > + action on composite forwarded to children
 > 
@@ -169,18 +170,22 @@
 > > + object hierarchies with different granularities
 >
 > > [!danger] Problem
-> > + how to handle different granularities of objects identically 
+> > + how to handle different granularities of objects identically in hierarchies
 >
 > > [!examples] Forces
-> > + 
+> > + need to represent arbitrary hierarchies but also treat them identical
+> > + each object should has its own behavior (implementation)
+> > + apply method call on all objects
 >
 > > [!success] Solution
-> > + 
+> > + define interface for all granularities with needed methods
+> > + composites forward the call while children execute them
 ![](../../../../z_images/Pasted%20image%2020251224123221.png)
 >
 > >[!quote] Consequences
 > > > [!success] Good
-> > > + 
+> > > + provides hierarchy of primitives and composites
+> > > + simple hierarchy handling
 > >
 > > > [!question] Mixed
 > > > + 
