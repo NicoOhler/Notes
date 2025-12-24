@@ -140,7 +140,7 @@
 
  >[!quote] Proxy
 > > [!info] Context
-> > + 
+> > + need for versatile references to objects
 >
 > > [!danger] Problem
 > > + 
