@@ -53,8 +53,11 @@
 	+ caller/client does not need to care about locks
 + What is the disadvantage of a Monitor compared to using locks?
 	+ need for locks internally
-	+ wasteful and coarse locking of whole components instead of locking only the required resource
-	+ block
+	+ bottleneck due to wasteful and coarse locking of whole components instead of locking only the required resource
+	+ prevents multiple simultaneous reads
+	+ nested monitors may lead to deadlocks
++ Cache vs. Pool
+	+ TODO
 
 
 
