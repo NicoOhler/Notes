@@ -20,5 +20,13 @@
 + Which pattern should be used if the creation of objects is very complicated and consists of many steps.
 	+ builder
 + The "singleton" patterns ensures that only one instance of an object is present in the system. What mechanism prohibits developers from creating more instances?
-	+ private constructor is not accessible from outside. Factory method creates object once during the first calls, stores re and returns referen 
+	+ private constructor inaccessible from outside. Factory method creates object once during first call, stores reference and returns it on subsequent calls 
++ Which resources does the Flyweight pattern save?
+	+ memory, performance, disk read/write, data bus-traffic
++ When I implement Netflix, which patterns are useful?
+	+ broker for communication and distribution of movies and their metadata
+	+ layers to separate high level logic, UI, networking, database, ...
+	+ facade to provide simple public API
+	+ MVC/MVVM/MVP for UI
+	+ memento to store settings and progress (which movies watched, where)
 
