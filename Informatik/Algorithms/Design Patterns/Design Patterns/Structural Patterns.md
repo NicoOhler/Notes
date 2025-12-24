@@ -141,10 +141,15 @@
 > > + how to control the access to objects
 >
 > > [!tip] Forces
-> > + 
+> > + objects in different address spaces
+> > + delay expensive object creation to when it is needed
+> > + restrict access e.g. via rights
+> > + perform additional action upon access to object 
 >
 > > [!success] Solution
-> > + 
+> > + proxy class provides interface identical to subject
+> > + maintain reference to subject
+> > + similar to decorator but with different intent: access control vs. extension
 UML
 >
 > >[!quote] Consequences
