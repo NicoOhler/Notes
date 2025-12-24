@@ -48,7 +48,14 @@
 	+ visitor patterns allows performing the "same" action on all elements of an aggregate. however, action implementation may differ between objects due to implementation?
 + Compare Active Object vs. Master Slave!
 	+ TODO
++ What is the huge advantage of a Monitor compared to using locks?
+	+ monitor provides safe easy to use synchronization and takes care of locking
+	+ caller/client does not need to care about locks
++ What is the disadvantage of a Monitor compared to using locks?
+	+ need for locks internally
+	+ wasteful and coarse locking of whole components instead of locking only the required resource
+	+ block
 
 
 
-Master-Slave: Client gives Master a task. Master splits tasks and gives slaves asynchronous tasks.
+
