@@ -26,7 +26,11 @@
 + When I implement Netflix, which patterns are useful?
 	+ broker for communication and distribution of movies and their metadata
 	+ layers to separate high level logic, UI, networking, database, ...
-	+ facade to provide simple public API
+	+ facade and message endpoint to provide simple public API
+	+ messaging patterns such as messages, request-response, endpoint and router
 	+ MVC/MVVM/MVP for UI
-	+ memento to store settings and progress (which movies watched, where)
+	+ memento to store settings and progress (which movies watched, where stopped, ...)
++ What are the differences between Mediator/Microkernel/Client-Dispatcher Server/Observer?
+	+ mediator handles communication between similar objects
+	+ microkernel connects different components by forwarding requests
 
