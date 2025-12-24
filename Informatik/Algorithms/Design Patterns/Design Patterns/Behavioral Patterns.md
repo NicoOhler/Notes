@@ -47,22 +47,24 @@
 ### Strategy
 + 
 
- >[!quote] name
+ >[!quote] Strategy
 > > [!tip] Core idea
-> > + 
+> > + change complex behavior (dynamically) while keeping things relatively simple
 > 
 > > [!info] Context
-> > + 
+> > + many related classes that differ in complex behavior but not data
 >
 > > [!danger] Problem
-> > + 
+> > + how to handle different behaviors without making everything complicated
 >
 > > [!examples] Forces
-> > + 
+> > + different algorithm variants
+> > + exchangeable at runtime
+> > + split behavior from class
 >
 > > [!success] Solution
-> > + 
-UML
+> > + provide interface for algorithms and allow interchange of concrete algorithms
+![](../../../../z_images/Pasted%20image%2020251224125516.png)
 >
 > >[!quote] Consequences
 > > > [!success] Good
