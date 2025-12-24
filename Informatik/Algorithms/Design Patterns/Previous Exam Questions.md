@@ -1,3 +1,4 @@
++ Broker in detail!!!
 + The "strategy" pattern allows for inserting or changing the behavior of a class at runtime.
 + The "observer" pattern can be used for informing other objects about changes
 + What would be a useful situation for the factory method pattern? Explain in a few words.
@@ -39,7 +40,15 @@
 	+ implementation and abstraction
 	+ maybe use?
 + Which sub-patterns are direct participants of broker pattern?
-	+ message, bridge, proxy iterator
-	+ factory
-	+ decorator
+	+ message, bridge, proxy, iterator, factory, decorator
++ Compare Template-Method, Strategy and Command. What are the differences? What are commonalities?
+	+ TODO
++ Compare Visitor, Iterator and Composite. What are the differences? What are commonalities?
+	+ iterator loops over all elements in a collection
+	+ visitor patterns allows performing the "same" action on all elements of an aggregate. however, action implementation may differ between objects due to implementation?
++ Compare Active Object vs. Master Slave!
+	+ TODO
 
+
+
+Master-Slave: Client gives Master a task. Master splits tasks and gives slaves asynchronous tasks.
