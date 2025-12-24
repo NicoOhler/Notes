@@ -46,3 +46,10 @@
 		+ (anti)synergies
 	+ principles
 		+ guidelines for implementation, combination with other patterns and evolution
+
+### Real World Examples
++ stairs
++ table
++ chair
++ car
++ pen
