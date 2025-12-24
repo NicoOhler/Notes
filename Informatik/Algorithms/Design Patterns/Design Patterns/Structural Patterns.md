@@ -43,22 +43,25 @@
 > >> [!failure] Bad
 > >> + additional indirection
 
- >[!quote] name
+ >[!quote] Bridge
 > > [!tip] Core idea
 > > + 
 > 
 > > [!info] Context
-> > + 
+> > + application with abstraction and implementation hierarchies
 >
 > > [!danger] Problem
-> > + 
+> > + decouple abstraction from implementation
 >
 > > [!examples] Forces
-> > + 
+> > + avoid binding between abstraction and implementation
+> > + both should support subclasses
+> > + change contained to one side
+> > + hide implementation details
 >
 > > [!success] Solution
 > > + 
-UML
+![](../../../../z_images/Pasted%20image%2020251224115629.png)
 >
 > >[!quote] Consequences
 > > > [!success] Good
