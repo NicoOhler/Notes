@@ -16,19 +16,20 @@
 >
 > > [!success] Solution
 > > + define simple command interface
-> > + implement beh
+> > + implement behavior in concrete commands which may contain receiving object
+> > + client calls command, passes parameters or initializes them before
 ![](../../../../z_images/Pasted%20image%2020251224130543.png)
 >
 > >[!quote] Consequences
 > > > [!success] Good
-> > > + 
-> >
-> > > [!question] Mixed
-> > > + 
+> > > + request does not depend on invoker, can be executed in isolation
+> > > + undo/redo possible
+> > > + switch receivers during runtime
+> > > + reuse for multiple receivers
 > >
 > >> [!failure] Bad
-> >> + 
-> 
+> >> + more objects
+> >> + need to store parameters or their references
 
 ### Chain of Responsibility
 + 

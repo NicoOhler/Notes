@@ -24,4 +24,3 @@ UML
 > >
 > >> [!failure] Bad
 > >> + 
-> 
