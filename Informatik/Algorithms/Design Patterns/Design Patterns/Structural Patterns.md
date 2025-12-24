@@ -71,8 +71,6 @@
 > 
 > > [!example] Examples
 > > + a
-### Composite 
-
 
  >[!quote] Decorator
 > > [!info] Context
@@ -101,7 +99,8 @@
 > >
 > >> [!failure] Bad
 > >> + decorator and component not identical??
-> >> + hard to learn and debug since object
+> >> + hard to learn and debug
+> >> + many little objects which only differ in their interconnection??
 > 
 > > [!example] Examples
 > > + 
@@ -139,8 +138,33 @@
 > > [!example] Examples
 > > + 
 
+ >[!quote] Proxy
+> > [!info] Context
+> > + 
+>
+> > [!danger] Problem
+> > + 
+>
+> > [!tip] Forces
+> > + 
+>
+> > [!success] Solution
+> > + 
+UML
+>
+> >[!quote] Consequences
+> > > [!success] Good
+> > > + 
+> >
+> > > [!question] Mixed
+> > > + 
+> >
+> >> [!failure] Bad
+> >> + 
+> 
+> > [!example] Examples
+> > + 
+### Composite 
 
 ### Flyweight
-+ 
-### Proxy
 + 
