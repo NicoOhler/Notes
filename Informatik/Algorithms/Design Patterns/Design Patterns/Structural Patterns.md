@@ -184,16 +184,21 @@
 >
 > >[!quote] Consequences
 > > > [!success] Good
-> > > + provides hierarchy of primitives and composites
+> > > + provides flexible and extensible hierarchy of primitives and composites
 > > > + simple hierarchy handling
 > >
 > > > [!question] Mixed
-> > > + 
+> > > + changing roles 
+> > > 	+ leaf turns into composite or vice versa
+> > > + references to parent
 > >
 > >> [!failure] Bad
-> >> + 
+> >> + client unaware of call complexity and potential side effects
 > 
 
+ >[!quote] Flyweight
+> > [!tip] Core idea
+> > + share global state and vary differences only when needed
+> 
+![](../../../../z_images/Pasted%20image%2020251224124420.png)
 
-### Flyweight
-+ 
