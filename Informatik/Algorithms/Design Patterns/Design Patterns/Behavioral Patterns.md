@@ -44,9 +44,6 @@
 > >> [!failure] Bad
 > >> + potential for unexpected/cascading updates
 
-### Strategy
-+ 
-
  >[!quote] Strategy
 > > [!tip] Core idea
 > > + change complex behavior (dynamically) while keeping things relatively simple
@@ -63,19 +60,23 @@
 > > + split behavior from class
 >
 > > [!success] Solution
-> > + provide interface for algorithms and allow interchange of concrete algorithms
+> > + provide interface for algorithms
+> > + client uses interface without caring about details
+> > + allow interchange of concrete algorithms
 ![](../../../../z_images/Pasted%20image%2020251224125516.png)
 >
 > >[!quote] Consequences
 > > > [!success] Good
-> > > + 
+> > > + split behavior from decision logic
+> > > + avoids subclasses for different behavior
+> > > + reuse behavior for multiple classes
 > >
 > > > [!question] Mixed
-> > > + 
+> > > + how to decide on strategy? 
 > >
 > >> [!failure] Bad
-> >> + 
-> 
+> >> + additional indirection, objects and communication
+> >> + no access to private attributes
 
 ### Template Method
 + 
