@@ -1,5 +1,35 @@
-### Command
-+ 
+ >[!quote] Command
+> > [!tip] Core idea
+> > + decouple invocation from execution via a request
+> > + allow reversal of action
+> 
+> > [!info] Context
+> > + invoke behavior of other object
+>
+> > [!danger] Problem
+> > + invoke regardless of concrete implementation and context
+>
+> > [!examples] Forces
+> > + avoid coupling of invoker and request context
+> > + unaware of concrete implementation
+> > + undo requests
+>
+> > [!success] Solution
+> > + define simple command interface
+> > + implement beh
+![](../../../../z_images/Pasted%20image%2020251224130543.png)
+>
+> >[!quote] Consequences
+> > > [!success] Good
+> > > + 
+> >
+> > > [!question] Mixed
+> > > + 
+> >
+> >> [!failure] Bad
+> >> + 
+> 
+
 ### Chain of Responsibility
 + 
 ### Iterator
