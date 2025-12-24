@@ -60,18 +60,23 @@
 > > + hide implementation details
 >
 > > [!success] Solution
-> > + 
+> > + create abstraction and implementation interface and implement via subclasses
+> > + abstraction uses implementation interface instead of concrete implementation
 ![](../../../../z_images/Pasted%20image%2020251224115629.png)
 >
 > >[!quote] Consequences
 > > > [!success] Good
-> > > + 
+> > > + separates implementation and abstraction
+> > > + both are extensive and grow independently 
+> > > + implementation can be decided/swapped during runtime
+> > > + hide implementation details
+> > > + encourages layering
 > >
 > > > [!question] Mixed
 > > > + 
 > >
 > >> [!failure] Bad
-> >> + 
+> >> + higher complexity with more classes and interfaces
 > 
 
  >[!quote] Decorator
