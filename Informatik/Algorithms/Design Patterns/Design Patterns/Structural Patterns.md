@@ -42,22 +42,23 @@
 > >
 > >> [!failure] Bad
 > >> + additional indirection
-> 
-> > > [!example] Examples
-> > + 
 
- >[!quote] Bridge
+ >[!quote] name
+> > [!tip] Core idea
+> > + 
+> 
 > > [!info] Context
 > > + 
 >
 > > [!danger] Problem
 > > + 
 >
-> > [!tip] Forces
+> > [!examples] Forces
 > > + 
 >
 > > [!success] Solution
 > > + 
+UML
 >
 > >[!quote] Consequences
 > > > [!success] Good
@@ -69,8 +70,6 @@
 > >> [!failure] Bad
 > >> + 
 > 
-> > [!example] Examples
-> > + a
 
  >[!quote] Decorator
 > > [!info] Context
@@ -101,9 +100,6 @@
 > >> + decorator and component not identical??
 > >> + hard to learn and debug
 > >> + many little objects which only differ in their interconnection??
-> 
-> > [!example] Examples
-> > + 
 
  >[!quote] Facade
 > > [!info] Context
@@ -134,9 +130,6 @@
 > >> + reduced functionality
 > >> + lose benefits of underlying paradigm
 > >> + additional abstraction with potential performance loss
-> 
-> > [!example] Examples
-> > + 
 
  >[!quote] Proxy
 > > [!info] Context
@@ -161,9 +154,6 @@ UML
 > >
 > >> [!failure] Bad
 > >> + 
-> 
-> > [!example] Examples
-> > + 
 ### Composite 
 
 ### Flyweight

@@ -1,11 +1,14 @@
  >[!quote] name
+> > [!tip] Core idea
+> > + 
+> 
 > > [!info] Context
 > > + 
 >
 > > [!danger] Problem
 > > + 
 >
-> > [!tip] Forces
+> > [!examples] Forces
 > > + 
 >
 > > [!success] Solution
@@ -22,6 +25,3 @@ UML
 > >> [!failure] Bad
 > >> + 
 > 
-> > [!example] Examples
-> > + 
-
