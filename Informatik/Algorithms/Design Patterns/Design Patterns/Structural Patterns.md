@@ -44,9 +44,6 @@
 > >> + additional indirection
 
  >[!quote] Bridge
-> > [!tip] Core idea
-> > + 
-> 
 > > [!info] Context
 > > + application with abstraction and implementation hierarchies
 >
@@ -71,9 +68,6 @@
 > > > + implementation can be decided/swapped during runtime
 > > > + hide implementation details
 > > > + encourages layering
-> >
-> > > [!question] Mixed
-> > > + 
 > >
 > >> [!failure] Bad
 > >> + higher complexity with more classes and interfaces
@@ -144,7 +138,7 @@
 > > + need for versatile references to objects
 >
 > > [!danger] Problem
-> > + 
+> > + how to control the access to objects
 >
 > > [!tip] Forces
 > > + 
