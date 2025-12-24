@@ -162,20 +162,21 @@
 
  >[!quote] Composite
 > > [!tip] Core idea
-> > + 
+> > + composite may be leaves, chains or object trees (e.g. HTML DOM)
+> > + action on composite forwarded to children
 > 
 > > [!info] Context
-> > + 
+> > + object hierarchies with different granularities
 >
 > > [!danger] Problem
-> > + 
+> > + how to handle different granularities of objects identically 
 >
 > > [!examples] Forces
 > > + 
 >
 > > [!success] Solution
 > > + 
-UML
+![](../../../../z_images/Pasted%20image%2020251224123221.png)
 >
 > >[!quote] Consequences
 > > > [!success] Good
