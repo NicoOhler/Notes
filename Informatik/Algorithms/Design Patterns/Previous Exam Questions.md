@@ -19,7 +19,7 @@
 		+ taking turns in processing a task
 + Which pattern should be used if the creation of objects is very complicated and consists of many steps.
 	+ builder
-+ The "singleton" patterns ensures that only one instance of an object is present in the system. What mechanism prohibits developers from creating more instances?
++ The "singleton" pattern ensures that only one instance of an object is present in the system. What mechanism prohibits developers from creating more instances?
 	+ private constructor inaccessible from outside. Factory method creates object once during first call, stores reference and returns it on subsequent calls 
 + Which resources does the Flyweight pattern save?
 	+ memory, performance, disk read/write, data bus-traffic
@@ -33,4 +33,13 @@
 + What are the differences between Mediator/Microkernel/Client-Dispatcher Server/Observer?
 	+ mediator handles communication between similar objects
 	+ microkernel connects different components by forwarding requests
+	+ observer register to subject, informed upon specific event, one-way 
++ The "message translator" pattern converts a message from one data format to another?
++ Which two sides of views does the bridge pattern "connect"?
+	+ implementation and abstraction
+	+ maybe use?
++ Which sub-patterns are direct participants of broker pattern?
+	+ message, bridge, proxy iterator
+	+ factory
+	+ decorator
 
