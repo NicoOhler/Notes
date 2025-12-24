@@ -5,7 +5,7 @@
 > > [!danger] Problem
 > > + incompatible classes should work together
 >
-> > [!hint] Forces
+> > [!example] Forces
 > > +  class interfaces do not match
 > > + reuse functionality without rewriting class
 > > + source code for class might not be available
@@ -50,7 +50,7 @@
 > > [!danger] Problem
 > > + decouple abstraction from implementation
 >
-> > [!examples] Forces
+> > [!example] Forces
 > > + avoid binding between abstraction and implementation
 > > + both should support subclasses
 > > + change contained to one side
@@ -80,7 +80,7 @@
 > > [!danger] Problem
 > > + how to add or extend functionality without changing object
 >
-> > [!tip] Forces
+> > [!example] Forces
 > > + add/remove functionality/responsibility dynamically without affecting other objects
 > > + reuse functionality
 > > + extensions subclasses would be impractical
@@ -111,7 +111,7 @@
 > > [!danger] Problem
 > > + make use of complex code easy and intuitive
 >
-> > [!tip] Forces
+> > [!example] Forces
 > > + different platforms, paradigms, environments and conventions
 > > + heterogeneous code is difficult to maintain
 > > + change of underlying code is costly or impossible
@@ -140,7 +140,7 @@
 > > [!danger] Problem
 > > + how to control the access to objects
 >
-> > [!tip] Forces
+> > [!example] Forces
 > > + objects in different address spaces
 > > + delay expensive object creation to when it is needed
 > > + restrict access e.g. via rights
@@ -172,7 +172,7 @@
 > > [!danger] Problem
 > > + how to handle different granularities of objects identically in hierarchies
 >
-> > [!examples] Forces
+> > [!example] Forces
 > > + need to represent arbitrary hierarchies but also treat them identical
 > > + each object should has its own behavior (implementation)
 > > + apply method call on all objects

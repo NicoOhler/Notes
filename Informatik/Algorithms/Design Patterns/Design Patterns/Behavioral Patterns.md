@@ -9,7 +9,7 @@
 > > [!danger] Problem
 > > + invoke regardless of concrete implementation and context
 >
-> > [!examples] Forces
+> > [!example] Forces
 > > + avoid coupling of invoker and request context
 > > + unaware of concrete implementation
 > > + undo requests
@@ -33,8 +33,33 @@
 
 ### Chain of Responsibility
 + 
-### Iterator
-+ 
+ >[!quote] Iterator
+> > [!tip] Core idea
+> > + access all elements of arbitrary collections uniformly
+> > + different data structures (e.g. lists, trees, maps, ...) with different access 
+> 
+> > [!info] Context
+> > + 
+>
+> > [!danger] Problem
+> > + 
+>
+> > [!example] Forces
+> > + 
+>
+> > [!success] Solution
+> > + 
+UML
+>
+> >[!quote] Consequences
+> > > [!success] Good
+> > > + 
+> >
+> > > [!question] Mixed
+> > > + 
+> >
+> >> [!failure] Bad
+> >> + 
 ### Interpreter
 + Abstract Syntax Tree?
 ### Mediator
@@ -52,7 +77,7 @@
 > > [!danger] Problem
 > > + how to maintain consistency between them
 >
-> > [!examples] Forces
+> > [!example] Forces
 > > + update others when object changes
 > > + polling is costly
 > > + other objects not know at compile-time
@@ -85,7 +110,7 @@
 > > [!danger] Problem
 > > + how to handle different behaviors without making everything complicated
 >
-> > [!examples] Forces
+> > [!example] Forces
 > > + different algorithm variants
 > > + exchangeable at runtime
 > > + split behavior from class

@@ -8,7 +8,7 @@
 > > [!danger] Problem
 > > + 
 >
-> > [!examples] Forces
+> > [!example] Forces
 > > + 
 >
 > > [!success] Solution
