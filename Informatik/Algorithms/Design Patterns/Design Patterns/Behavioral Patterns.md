@@ -35,17 +35,17 @@
 + 
  >[!quote] Iterator
 > > [!tip] Core idea
-> > + access all elements of arbitrary collections uniformly
-> > + different data structures (e.g. lists, trees, maps, ...) with different access 
+> > + uniform access to next element of arbitrary collections
 > 
 > > [!info] Context
-> > + 
+> > + different data structures (lists, trees, maps, ...) 
+> > + different orders (start to end, reverse, depth/breadth first, FIFO, ...)
 >
 > > [!danger] Problem
-> > + 
+> > + how to simplify handling of different data structures with different orders 
 >
 > > [!example] Forces
-> > + 
+> > + simple, uniform access
 >
 > > [!success] Solution
 > > + 
