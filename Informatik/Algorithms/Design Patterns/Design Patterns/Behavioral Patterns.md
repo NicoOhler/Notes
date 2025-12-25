@@ -42,24 +42,26 @@
 > > + different orders (start to end, reverse, depth/breadth first, FIFO, ...)
 >
 > > [!danger] Problem
-> > + how to simplify handling of different data structures with different orders 
+> > + how to simplify this
 >
 > > [!example] Forces
-> > + simple, uniform access
+> > + simple, uniform access to different data structures and different orders
 >
 > > [!success] Solution
-> > + 
-UML
+> > + define simple iterator interface
+> > + implement concrete iterator for each collection and access order
+![](../../../../z_images/Pasted%20image%2020251224132656.png)
 >
 > >[!quote] Consequences
 > > > [!success] Good
-> > > + 
-> >
-> > > [!question] Mixed
-> > > + 
+> > > + simple, uniform access
+> > > + allow multiple simultaneous iterations
+> > > + traversal may vary
 > >
 > >> [!failure] Bad
-> >> + 
+> >> + hides underlying structure
+> >> + robustness wrt insertions and deletions not guaranteed
+> >> + lower efficiency
 ### Interpreter
 + Abstract Syntax Tree?
 ### Mediator
