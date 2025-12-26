@@ -85,10 +85,8 @@
 > > > + simplifies synchronization, very convenient for client
 > > > + command executed in separate thread
 > >
-> > > [!question] Mixed
-> > > + order of execution and invocation may differ
-> >
 > >> [!failure] Bad
+> >> + order of execution and invocation may differ
 > >> + performance overhead
 > >> + trickier debugging
 
