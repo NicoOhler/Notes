@@ -34,5 +34,34 @@
 > >> + hard to test and debug due to many involved components
 ### Client-Server
 + 
-### Master-Slave
-+ 
+
+ >[!quote] Master-Slace
+> > [!tip] Core idea
+> > + distribute work amongst helpers
+> 
+> > [!info] Context
+> > + dividing work into identical subtasks
+>
+> > [!danger] Problem
+> > + how to solve instances of same problem in different computing contexts
+> > + how to separate their concerns?
+>
+> > [!example] Forces
+> > + subtasks independent of partitioning work and recombining results
+> > + coordination of subtasks needed
+> > + solve many identical subproblems (potentially with different algorithms)
+> > + multiple threads or even devices
+>
+> > [!success] Solution
+> > + 
+![](../../../../z_images/Pasted%20image%2020251226154932.png)
+>
+> >[!quote] Consequences
+> > > [!success] Good
+> > > + 
+> >
+> > > [!question] Mixed
+> > > + 
+> >
+> >> [!failure] Bad
+> >> + 
