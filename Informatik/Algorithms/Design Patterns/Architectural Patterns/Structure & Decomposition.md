@@ -10,21 +10,25 @@
 > > + many dependencies, functions and responsibilities
 >
 > > [!example] Forces
-> > + change should apply to 
+> > + change should apply to single component
+> > + clear boundaries of responsibility
+> > + exchangeable and reusable parts
+> > + divide code for easier understanding and maintenance
 >
 > > [!success] Solution
-> > + 
+> > + structure code into different layers based on abstraction level
+> > + layers use well defined functionality of sublayer
 ![](../../../../z_images/Pasted%20image%2020251226151722.png)
 >
 > >[!quote] Consequences
 > > > [!success] Good
-> > > + 
-> >
-> > > [!question] Mixed
-> > > + 
+> > > + local dependencies and changes
+> > > + well defined interfaces
+> > > + layers can be exchanged and reused
 > >
 > >> [!failure] Bad
-> >> + 
+> >> + lower efficiency and control of sublayers
+> >> + right gran
 pipes
 
  >[!quote] Active Object
