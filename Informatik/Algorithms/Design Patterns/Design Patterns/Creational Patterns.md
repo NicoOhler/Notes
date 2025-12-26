@@ -90,8 +90,39 @@
 >
 > > [!success] Solution
 > > + define interfaces for products and factories
-> > + implement both and select 
+> > + implement both
+> > + select appropriate factory at runtime to create matching products
 ![](../../../../z_images/Pasted%20image%2020251226133832.png)
+>
+> >[!quote] Consequences
+> > > [!success] Good
+> > > + easy swapping of product families
+> > > + promotes consistency among products
+> > > + separates concrete classes elegantly
+> >
+> > > [!question] Mixed
+> > > + how to select families?
+> > > + prevent mixing of different factories via singleton?
+> >
+> >> [!failure] Bad
+> >> + adding new products becomes more difficult
+
+ >[!quote] Prototype
+> > [!tip] Core idea
+> > + create objects by cloning from templates
+> 
+> > [!info] Context
+> > + 
+>
+> > [!danger] Problem
+> > + 
+>
+> > [!example] Forces
+> > + 
+>
+> > [!success] Solution
+> > + 
+![](../../../../z_images/Pasted%20image%2020251226134651.png)
 >
 > >[!quote] Consequences
 > > > [!success] Good
@@ -102,5 +133,3 @@
 > >
 > >> [!failure] Bad
 > >> + 
-### Prototype
-+ 
