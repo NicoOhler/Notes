@@ -79,10 +79,33 @@
 > >> + hides underlying structure
 > >> + robustness wrt insertions and deletions not guaranteed
 > >> + lower efficiency
-### Interpreter
-+ Abstract Syntax Tree?
-### Mediator
-+ 
+ 
+ >[!quote] Interpreter/Abstract Syntax Tree
+> > [!tip] Core idea
+> > + read expressions one after another and build a tree of expressions
+> > + parse 
+> 
+> > [!info] Context
+> > + 
+>
+> > [!danger] Problem
+> > + 
+>
+> > [!example] Forces
+> > + 
+>
+> > [!success] Solution
+> > + 
+![](../../../../z_images/Pasted%20image%2020251226125102.png)
+
+
+ >[!quote] Mediator
+> > [!tip] Core idea
+> > + handle 1:n communication between multiple objects
+>
+> > [!success] Solution
+![](../../../../z_images/Pasted%20image%2020251226124902.png)
+
 ### Memento
 + 
  >[!quote] Observer
