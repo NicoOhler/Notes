@@ -43,8 +43,35 @@
 > >> [!failure] Bad
 > >> + construction becomes trickier?
 > >> + how to ensure a proper configuration?
-### Factory Method
-+ 
+
+ >[!quote] Factory Method
+> > [!tip] Core idea
+> > + delegate object creation to someone else
+> 
+> > [!info] Context
+> > + concrete class unknown at compile time
+>
+> > [!danger] Problem
+> > + how to create object for which the class is not known
+>
+> > [!example] Forces
+> > + object does not matter as long as it provides same functionality
+> > + cannot anticipate class, delegate decision to someone else
+>
+> > [!success] Solution
+> > + define interface of expected functionality
+> > + define 
+![](../../../../z_images/Pasted%20image%2020251226132740.png)
+>
+> >[!quote] Consequences
+> > > [!success] Good
+> > > + 
+> >
+> > > [!question] Mixed
+> > > + 
+> >
+> >> [!failure] Bad
+> >> + 
 ### Abstract Factory
 + 
 ### Prototype
