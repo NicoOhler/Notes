@@ -212,10 +212,9 @@
 >
 > >[!quote] Consequences
 > > > [!success] Good
-> > > + 
-> >
-> > > [!question] Mixed
-> > > + 
+> > > + new functionality is easy
 > >
 > >> [!failure] Bad
-> >> + 
+> >> + more classes
+> >> + adding classes becomes harder
+> >> + access to private members?
