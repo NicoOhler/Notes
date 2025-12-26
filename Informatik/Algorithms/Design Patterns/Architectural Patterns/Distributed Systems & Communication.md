@@ -9,10 +9,13 @@
 > > + how to coordinate decoupled, interoperating components in complex systems
 >
 > > [!example] Forces
-> > + remote method invocation
+> > + support for remote method invocation
+> > + dynamic addition, exchange or removal of services
+> > + client should not be responsible for locating and selecting components
+> > + hide details from other components
 >
 > > [!success] Solution
-> > + 
+> > + specify broker API for clie
 ![](../../../../z_images/Pasted%20image%2020251226153540.png)
 >
 > >[!quote] Consequences
