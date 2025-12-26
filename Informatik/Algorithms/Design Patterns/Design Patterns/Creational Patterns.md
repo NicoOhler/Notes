@@ -59,19 +59,22 @@
 > > + cannot anticipate class, delegate decision to someone else
 >
 > > [!success] Solution
-> > + define interface of expected functionality
-> > + define 
+> > + define interface of expected functionality and the creation
+> > + subclass implements its own creation
 ![](../../../../z_images/Pasted%20image%2020251226132740.png)
 >
 > >[!quote] Consequences
 > > > [!success] Good
-> > > + 
+> > > + flexible creation during runtime
+> > > + separates creation and usage
+> > > + fewer dependencies
 > >
 > > > [!question] Mixed
-> > > + 
+> > > + hide constructor?
+> > > + abs
 > >
 > >> [!failure] Bad
-> >> + 
+> >> + additional abstraction
 ### Abstract Factory
 + 
 ### Prototype
