@@ -32,8 +32,33 @@
 > >> + communication overhead
 > >> + single point of failure
 > >> + hard to test and debug due to many involved components
-### Client-Server
-+ 
+ 
+ >[!quote] Client-Server
+> > [!tip] Core idea
+> > + let clients send requests to server which answers with responses
+> 
+> > [!info] Context
+> > + distributed application
+>
+> > [!danger] Problem
+> > + how to provide services (resources, content, services) to multiple distributed clients
+>
+> > [!example] Forces
+> > + availability of resources
+>
+> > [!success] Solution
+> > + 
+![](../../../../z_images/Pasted%20image%2020251226160125.png)
+>
+> >[!quote] Consequences
+> > > [!success] Good
+> > > + 
+> >
+> > > [!question] Mixed
+> > > + 
+> >
+> >> [!failure] Bad
+> >> + 
 
  >[!quote] Master-Slace
 > > [!tip] Core idea
@@ -61,10 +86,10 @@
 > >[!quote] Consequences
 > > > [!success] Good
 > > > + separate concerns
-> > > + 
-> >
-> > > [!question] Mixed
-> > > + 
+> > > + exchange and extensible
+> > > + fault tolerant
+> > > + parallel and potentially even distributed computation
 > >
 > >> [!failure] Bad
-> >> + 
+> >> + not always feasible
+> >> + partitioning and recombining can be difficult
