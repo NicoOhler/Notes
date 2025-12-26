@@ -190,5 +190,29 @@
 > 
 > > [!success] Solution
 ![](../../../../z_images/Pasted%20image%2020251226130128.png)
-### Visitor
-+ 
+
+ >[!quote] Visitor
+> > [!tip] Core idea
+> > +  add behavior to aggregates of different objects
+> 
+> > [!danger] Problem
+> > + how to execute desired behavior on aggregate of objects
+> > + without explicitly defining it in each class as with composite
+>
+> > [!example] Forces
+> > + keep classes free of unrelated operations
+> > + objects of different interfaces
+>
+> > [!success] Solution
+> > + 
+![](../../../../z_images/Pasted%20image%2020251226130301.png)
+>
+> >[!quote] Consequences
+> > > [!success] Good
+> > > + 
+> >
+> > > [!question] Mixed
+> > > + 
+> >
+> >> [!failure] Bad
+> >> + 
