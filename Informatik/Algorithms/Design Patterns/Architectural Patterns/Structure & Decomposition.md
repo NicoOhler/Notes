@@ -5,29 +5,24 @@
 > > [!info] Context
 > > + multiple clients access objects in different threads or contexts
 >
-> > [!danger] Problem
-> > + how to execute commands in different context
->
-> > [!example] Forces
-> > + clients invoke remote operation and fetch results later
-> > + synchronized access to worker threads
->
 > > [!success] Solution
 > > + implement proxy which encapsulates method calls using commands
-> > + proxy sends requests to scheduler
+> > + clients use proxy to send requests to scheduler
 > > + execute commands in separate thread(pool)
-> > + clients wait or 
+> > + clients wait or fetch results later (sync vs. async)
 ![](../../../../z_images/Pasted%20image%2020251226150417.png)
 >
 > >[!quote] Consequences
 > > > [!success] Good
-> > > + 
+> > > + simplifies synchronization, very convenient for client
+> > > + command executed in separate thread
 > >
 > > > [!question] Mixed
-> > > + 
+> > > + order of execution and invocation may differ
 > >
 > >> [!failure] Bad
-> >> + 
+> >> + performance overhead
+> >> + trickier debugging
 ### Blackboard
 + 
 ### Layers
