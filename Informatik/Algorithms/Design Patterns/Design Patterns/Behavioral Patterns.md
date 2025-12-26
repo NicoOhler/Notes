@@ -31,8 +31,34 @@
 > >> + more objects
 > >> + need to store parameters or their references
 
-### Chain of Responsibility
-+ 
+ >[!quote] Chain of Responsibility
+> > [!tip] Core idea
+> > + forward a request until someone can handle it
+>
+> > [!info] Context
+> > + 
+>
+> > [!danger] Problem
+> > + 
+>
+> > [!example] Forces
+> > + 
+>
+> > [!success] Solution
+> > + implement a chain of handlers (specific early, general later)
+> > + handle if capable of handling otherwise forward to successor
+![](../../../../z_images/Pasted%20image%2020251226124039.png)
+>
+> >[!quote] Consequences
+> > > [!success] Good
+> > > + 
+> >
+> > > [!question] Mixed
+> > > + 
+> >
+> >> [!failure] Bad
+> >> + 
+
  >[!quote] Iterator
 > > [!tip] Core idea
 > > + uniform access to next element of arbitrary collections
