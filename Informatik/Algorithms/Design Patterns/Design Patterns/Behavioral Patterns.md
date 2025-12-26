@@ -39,25 +39,16 @@
 > > + 
 >
 > > [!danger] Problem
-> > + 
+> > + how to resolve who is responsible for a specific task
 >
 > > [!example] Forces
-> > + 
+> >  + multiple escalation levels that may dynamically change during runtime
+> > + handling of different tasks by different objects
 >
 > > [!success] Solution
 > > + implement a chain of handlers (specific early, general later)
 > > + handle if capable of handling otherwise forward to successor
 ![](../../../../z_images/Pasted%20image%2020251226124039.png)
->
-> >[!quote] Consequences
-> > > [!success] Good
-> > > + 
-> >
-> > > [!question] Mixed
-> > > + 
-> >
-> >> [!failure] Bad
-> >> + 
 
  >[!quote] Iterator
 > > [!tip] Core idea
