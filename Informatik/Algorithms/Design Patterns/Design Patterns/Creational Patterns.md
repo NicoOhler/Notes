@@ -112,16 +112,18 @@
 > > + create objects by cloning from templates
 > 
 > > [!info] Context
-> > + 
+> > + creation of objects with class and properties unknown at compile time
 >
 > > [!danger] Problem
-> > + 
+> > + dynamically instantiate and use object with unknown properties
 >
 > > [!example] Forces
-> > + 
+> > + simplify long and complex instantiations
+> > + avoid complex hierarchies and factories
 >
 > > [!success] Solution
-> > + 
+> > + define and implement cloning interface
+> > + add getter and setter to dynamically change properties if needed
 ![](../../../../z_images/Pasted%20image%2020251226134651.png)
 >
 > >[!quote] Consequences
