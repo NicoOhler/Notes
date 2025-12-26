@@ -44,9 +44,14 @@
 > > + how to provide services (resources, content, services) to multiple distributed clients
 >
 > > [!example] Forces
-> > + availability of resources
+> > + availability of resources limited but needed by multiple clients
+> > + service provided by single, centralized provider
+> > + clients lack processing power or resources
+> > + number of requests unknown
 >
 > > [!success] Solution
+> > + define protocol for communication via requests and responses
+> > + implement server with listener waiting for responses from multiple clients and answers with responses
 > > + 
 ![](../../../../z_images/Pasted%20image%2020251226160125.png)
 >
