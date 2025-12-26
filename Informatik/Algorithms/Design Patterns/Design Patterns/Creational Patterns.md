@@ -71,11 +71,36 @@
 > >
 > > > [!question] Mixed
 > > > + hide constructor?
-> > > + abs
+> > > + abstract vs concrete creator (subclasses may override default implementation)
 > >
 > >> [!failure] Bad
 > >> + additional abstraction
-### Abstract Factory
-+ 
+
+ >[!quote] Abstract Factory
+> > [!tip] Core idea
+> > + create families of related objects
+> 
+> > [!danger] Problem
+> > + how to create only matching objects
+>
+> > [!example] Forces
+> > + objects should fit together
+> > + choose object family at runtime
+> > + hide concrete implementation
+>
+> > [!success] Solution
+> > + define interfaces for products and factories
+> > + implement both and select 
+![](../../../../z_images/Pasted%20image%2020251226133832.png)
+>
+> >[!quote] Consequences
+> > > [!success] Good
+> > > + 
+> >
+> > > [!question] Mixed
+> > > + 
+> >
+> >> [!failure] Bad
+> >> + 
 ### Prototype
 + 
