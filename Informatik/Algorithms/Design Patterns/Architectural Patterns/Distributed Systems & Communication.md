@@ -53,11 +53,14 @@
 > > + multiple threads or even devices
 >
 > > [!success] Solution
-> > + 
+> > + master distributes work into subtasks, delegates to slaves and combines results
+> > + clients communicate only with coordinator (master)
+> > + slave have uniform interface, handle work and communicate only with master
 ![](../../../../z_images/Pasted%20image%2020251226154932.png)
 >
 > >[!quote] Consequences
 > > > [!success] Good
+> > > + separate concerns
 > > > + 
 > >
 > > > [!question] Mixed
