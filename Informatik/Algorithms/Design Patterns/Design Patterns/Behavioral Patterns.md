@@ -196,15 +196,18 @@
 > > +  add behavior to aggregates of different objects
 > 
 > > [!danger] Problem
-> > + how to execute desired behavior on aggregate of objects
-> > + without explicitly defining it in each class as with composite
+> > + how to execute desired behavior on aggregate of different objects
+> > + difference to composite: 
+> > 	+ support of different objects
+> > 	+ do not explicitly define behavior in each class
 >
 > > [!example] Forces
 > > + keep classes free of unrelated operations
 > > + objects of different interfaces
 >
 > > [!success] Solution
-> > + 
+> > + define visitor interface
+> > + add function which calls visitor function to elements
 ![](../../../../z_images/Pasted%20image%2020251226130301.png)
 >
 > >[!quote] Consequences
