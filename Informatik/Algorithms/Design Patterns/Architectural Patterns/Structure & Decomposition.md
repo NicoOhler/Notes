@@ -47,18 +47,24 @@
 > > + multiprocessing
 >
 > > [!success] Solution
-> > + 
+> > + divide into sequence of small processing steps
+> > 	+ each depends only on output of predecessor
+> > + define uniform data format for output
+> > + implement connection pipes which push or pull information
+> > + implement filters that filter or transform data
+> > + setup final pipeline to use
 ![](../../../../z_images/Pasted%20image%2020251226152530.png)
 >
 > >[!quote] Consequences
 > > > [!success] Good
-> > > + 
-> >
-> > > [!question] Mixed
-> > > + 
+> > > + intermediate steps and results
+> > > + flexible addition, removal, reordering, ...
+> > > + simple parallel processing
 > >
 > >> [!failure] Bad
-> >> + 
+> >> + data transformation overhead
+> >> + difficult to share state infos
+> >> + proper error handling is crucial
 
  >[!quote] Active Object
 > > [!tip] Core idea
