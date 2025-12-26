@@ -40,19 +40,131 @@
             }
           },
           {
-            "id": "b13fa4a98e8b69dd",
+            "id": "8f0f8bd158e3ad5a",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Algorithms/Design Patterns/Design Patterns/Creational Patterns.md",
+                "file": "Informatik/Algorithms/Design Patterns/Architectural Patterns/Structure & Decomposition.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Creational Patterns"
+              "title": "Structure & Decomposition"
+            }
+          },
+          {
+            "id": "a742795b7ad726e2",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Informatik/Algorithms/Design Patterns/Architectural Patterns/Distributed Systems & Communication.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Distributed Systems & Communication"
+            }
+          },
+          {
+            "id": "ad6f982f44e93c83",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Informatik/Algorithms/Design Patterns/Architectural Patterns/Messaging Family.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Messaging Family"
+            }
+          },
+          {
+            "id": "c48c5a75f7587776",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Informatik/Algorithms/Design Patterns/Design Patterns/Resource Management.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Resource Management"
+            }
+          },
+          {
+            "id": "05af619ba77b03d2",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Informatik/Algorithms/Design Patterns/Design Patterns/Concurrency.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Concurrency"
+            }
+          },
+          {
+            "id": "b1deb76cbef6a377",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Informatik/Algorithms/Design Patterns/Architectural Patterns/Concurrency Architectures.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Concurrency Architectures"
+            }
+          },
+          {
+            "id": "6ac07ac25ba4af0f",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Informatik/Algorithms/Design Patterns/Architectural Patterns/User Interface.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "User Interface"
+            }
+          },
+          {
+            "id": "88102c4d489681d6",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Informatik/Algorithms/Design Patterns/Idioms.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Idioms"
             }
           }
         ],
@@ -147,34 +259,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b13fa4a98e8b69dd",
+  "active": "8f0f8bd158e3ad5a",
   "lastOpenFiles": [
-    "z_images/Pasted image 20251226134651.png",
+    "Informatik/Algorithms/Design Patterns/Architectural Patterns/User Interface.md",
+    "Informatik/Algorithms/Design Patterns/Architectural Patterns/Concurrency Architectures.md",
+    "Informatik/Algorithms/Design Patterns/Design Patterns/Concurrency.md",
+    "Informatik/Algorithms/Design Patterns/Design Patterns/Resource Management.md",
+    "Informatik/Algorithms/Design Patterns/Architectural Patterns/Structure & Decomposition.md",
+    "Informatik/Algorithms/Design Patterns/Architectural Patterns/Messaging Family.md",
+    "Informatik/Algorithms/Design Patterns/Architectural Patterns/Distributed Systems & Communication.md",
+    "Informatik/Algorithms/Design Patterns/Idioms.md",
     "Informatik/Algorithms/Design Patterns/Template.md",
     "Informatik/Algorithms/Design Patterns/Design Patterns/Creational Patterns.md",
+    "z_images/Pasted image 20251226134651.png",
     "z_images/Pasted image 20251226133832.png",
     "z_images/Pasted image 20251226132740.png",
     "Informatik/Algorithms/Design Patterns/Design Patterns/Structural Patterns.md",
     "Informatik/Algorithms/Design Patterns/Design Patterns/Behavioral Patterns.md",
     "z_images/Pasted image 20251226132043.png",
     "z_images/Pasted image 20251226131431.png",
-    "Informatik/Algorithms/Design Patterns/Design Patterns/Concurrency.md",
     "z_images/Pasted image 20251226130301.png",
     "z_images/Pasted image 20251226130128.png",
     "z_images/Pasted image 20251226125453.png",
     "z_images/Pasted image 20251226125102.png",
     "z_images/Pasted image 20251226124902.png",
-    "z_images/Pasted image 20251226124039.png",
-    "Informatik/Algorithms/Design Patterns/Architectural Patterns/Structure & Decomposition.md",
     "Informatik/Algorithms/Design Patterns/Previous Exam Questions.md",
     "Informatik/Algorithms/Design Patterns/Design Patterns.md",
-    "Informatik/Algorithms/Design Patterns/Architectural Patterns/Messaging Family.md",
-    "Informatik/Algorithms/Design Patterns/Architectural Patterns/User Interface.md",
-    "Informatik/Algorithms/Design Patterns/Idioms.md",
     "Informatik/Algorithms/Design Patterns/Types of Design Patterns.md",
-    "Informatik/Algorithms/Design Patterns/Architectural Patterns/Distributed Systems & Communication.md",
-    "Informatik/Algorithms/Design Patterns/Architectural Patterns/Concurrency Architectures.md",
-    "Informatik/Algorithms/Design Patterns/Design Patterns/Resource Management.md",
     "Informatik/Algorithms/Design Patterns/Principles of Good Programming.md",
     "Informatik/Algorithms/Design Patterns/Architectural Patterns/Structure & Decomposition",
     "Informatik/Algorithms/Design Patterns/Architectural Patterns.md",

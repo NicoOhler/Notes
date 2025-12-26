@@ -118,7 +118,7 @@
 > > + dynamically instantiate and use object with unknown properties
 >
 > > [!example] Forces
-> > + simplify long and complex instantiations
+> > + avoid long and complex instantiations
 > > + avoid complex hierarchies and factories
 >
 > > [!success] Solution
@@ -128,10 +128,8 @@
 >
 > >[!quote] Consequences
 > > > [!success] Good
-> > > + 
-> >
-> > > [!question] Mixed
-> > > + 
+> > > + flexible and dynamic creation without complex class hierarchies
+> > > + avoid repeated instantiations
 > >
 > >> [!failure] Bad
-> >> + 
+> >> + no type safety or compile time errors
