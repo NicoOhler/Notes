@@ -35,9 +35,6 @@
 > > [!tip] Core idea
 > > + forward a request until someone can handle it
 >
-> > [!info] Context
-> > + 
->
 > > [!danger] Problem
 > > + how to resolve who is responsible for a specific task
 >
@@ -83,21 +80,10 @@
  >[!quote] Interpreter/Abstract Syntax Tree
 > > [!tip] Core idea
 > > + read expressions one after another and build a tree of expressions
-> > + parse 
-> 
-> > [!info] Context
-> > + 
->
-> > [!danger] Problem
-> > + 
->
-> > [!example] Forces
-> > + 
+> > + resolve/interpret leaves first and pass results up
 >
 > > [!success] Solution
-> > + 
 ![](../../../../z_images/Pasted%20image%2020251226125102.png)
-
 
  >[!quote] Mediator
 > > [!tip] Core idea
@@ -106,8 +92,31 @@
 > > [!success] Solution
 ![](../../../../z_images/Pasted%20image%2020251226124902.png)
 
-### Memento
-+ 
+ >[!quote] Memento
+> > [!tip] Core idea
+> > + store and load internal state of object
+> 
+> > [!danger] Problem
+> > + how to persist an object?
+>
+> > [!example] Forces
+> > + object state should be (re)storable
+> > + do not break encapsulation (i.e. no external access)
+>
+> > [!success] Solution
+> > + 
+![](../../../../z_images/Pasted%20image%2020251226125453.png)
+>
+> >[!quote] Consequences
+> > > [!success] Good
+> > > + 
+> >
+> > > [!question] Mixed
+> > > + 
+> >
+> >> [!failure] Bad
+> >> + 
+
  >[!quote] Observer
 > > [!tip] Core idea
 > > + subject informs registered observers about changes
