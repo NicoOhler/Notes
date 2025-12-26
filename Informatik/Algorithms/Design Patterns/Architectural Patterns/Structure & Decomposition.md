@@ -28,8 +28,37 @@
 > >
 > >> [!failure] Bad
 > >> + lower efficiency and control of sublayers
-> >> + right gran
-pipes
+> >> + right granularity hard to find 
+
+ >[!quote] Pipes & Filters
+> > [!tip] Core idea
+> > + form sequence of processing steps using a common interface
+> 
+> > [!info] Context
+> > + processing of data streams
+>
+> > [!danger] Problem
+> > + how to decompose data streams into several processing stages
+>
+> > [!example] Forces
+> > + dynamically change order of processing steps
+> > + small processing steps are easy to reuse
+> > + support for different input sources and means of storing results
+> > + multiprocessing
+>
+> > [!success] Solution
+> > + 
+![](../../../../z_images/Pasted%20image%2020251226152530.png)
+>
+> >[!quote] Consequences
+> > > [!success] Good
+> > > + 
+> >
+> > > [!question] Mixed
+> > > + 
+> >
+> >> [!failure] Bad
+> >> + 
 
  >[!quote] Active Object
 > > [!tip] Core idea
