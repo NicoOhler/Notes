@@ -104,18 +104,17 @@
 > > + do not break encapsulation (i.e. no external access)
 >
 > > [!success] Solution
-> > + 
+> > + create memento class, data class for internal state
+> > + implement getter and setter for memento
 ![](../../../../z_images/Pasted%20image%2020251226125453.png)
 >
 > >[!quote] Consequences
 > > > [!success] Good
-> > > + 
-> >
-> > > [!question] Mixed
-> > > + 
+> > > + persistence and restoration of state without exposure to outside
+> > > + synergy with command pattern
 > >
 > >> [!failure] Bad
-> >> + 
+> >> + outside manipulation of memento $\Rightarrow$ checksum or signature
 
  >[!quote] Observer
 > > [!tip] Core idea
@@ -185,7 +184,11 @@
 > >> + additional indirection, objects and communication
 > >> + no access to private attributes
 
-### Template Method
-+ 
+ >[!quote] Template Method
+> > [!tip] Core idea
+> > + define methods and let children define the behavior
+> 
+> > [!success] Solution
+![](../../../../z_images/Pasted%20image%2020251226130128.png)
 ### Visitor
 + 
