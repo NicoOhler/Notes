@@ -84,7 +84,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -175,11 +175,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b13fa4a98e8b69dd",
+  "active": "e344f0e6ed06690a",
   "lastOpenFiles": [
-    "z_images/Pasted image 20251226132043.png",
     "Informatik/Algorithms/Design Patterns/Template.md",
     "Informatik/Algorithms/Design Patterns/Design Patterns/Creational Patterns.md",
+    "z_images/Pasted image 20251226132043.png",
     "z_images/Pasted image 20251226131431.png",
     "Informatik/Algorithms/Design Patterns/Design Patterns/Concurrency.md",
     "Informatik/Algorithms/Design Patterns/Design Patterns/Structural Patterns.md",
@@ -193,7 +193,6 @@
     "z_images/Pasted image 20251224132656.png",
     "z_images/Pasted image 20251224130543.png",
     "Informatik/Algorithms/Design Patterns/Architectural Patterns/Structure & Decomposition.md",
-    "z_images/Pasted image 20251224125516.png",
     "Informatik/Algorithms/Design Patterns/Previous Exam Questions.md",
     "Informatik/Algorithms/Design Patterns/Design Patterns.md",
     "Informatik/Algorithms/Design Patterns/Architectural Patterns/Messaging Family.md",
