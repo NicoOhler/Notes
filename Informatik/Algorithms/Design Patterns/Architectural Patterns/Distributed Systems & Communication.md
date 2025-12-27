@@ -67,7 +67,7 @@
 > >> + communication overhead
 > >> + client depend on networks and servers
 
- >[!quote] Master-Slace
+ >[!quote] Master-Slave
 > > [!tip] Core idea
 > > + distribute work amongst helpers
 > 
