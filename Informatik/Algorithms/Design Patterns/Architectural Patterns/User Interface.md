@@ -35,6 +35,13 @@
 + MVVM
 	+ synchronize model and view via data bindings in view model
 	+ view is bound to properties of view model
+		+ view/model updates itself when property changed by model/view
 + ![](../../../../z_images/Pasted%20image%2020251229114749.png)
-### Presentation-Abstraction-Control
-+ 
+
+ >[!quote] Presentation-Abstraction-Control
+> > [!tip] Core idea
+> > + decompose GUI generation into smaller agents
+> > + each agent consists of presentation, abstraction and control part
+>
+> > [!success] Solution
+![](../../../../z_images/Pasted%20image%2020251229120453.png)
