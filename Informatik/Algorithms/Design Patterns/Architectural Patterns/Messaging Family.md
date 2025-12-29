@@ -80,19 +80,21 @@
 > >
 > >> [!failure] Bad
 > >> + bottleneck/single point of failure/man in the middle attacks
-> >> + 
+> >> + configuration overhead?
 
- >[!quote] Messages
+ >[!quote] Message Bus
 > > [!tip] Core idea
-> > + encapsulate information in a standardized way
+> > + provide common communication platform for sending and receiving messages
 > 
 > > [!success] Solution
-![](../../../../z_images/Pasted%20image%2020251229094726.png)
+![](../../../../z_images/Pasted%20image%2020251229100633.png)
 >
 > >[!quote] Consequences
 > > > [!success] Good
-> > > + 
+> > > + single communication interface with unified platform/protocol
+> > > + enables congestion control, prioritization, ...
 > >
 > >> [!failure] Bad
-> >> + 
+> >> + bottleneck/single point of failure/broadcasting/babbling idiot
+> >> + inefficient and potentially insecure
 
