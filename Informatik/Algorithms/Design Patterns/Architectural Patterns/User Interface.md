@@ -24,14 +24,17 @@
 ### Difference between MVC, MVP and MVVM
 + MVC
 	+ controller handles user inputs by updating model
-	+ model notifies view about changes (view observes model)
+		+ model notifies view about changes (view observes model)
 	+ view and model are aware of each other
 	+ tight coupling of model and view
 + MVP
 	+ addresses coupling issues via presenter
-	+ presenter acts as interface between view and model
-	+ view receives user inputs and calls presenter method
-	+ presenter then upda
+	+ presenter acts as connector between view and model
+	+ view handles rendering and calls presenter method upon user inputs
+		+ presenter then updates model and afterwards view if needed
++ MVVM
+	+ synchronize model and view via data bindings in view model
+	+ view is bound to properties of view model
 + ![](../../../../z_images/Pasted%20image%2020251229114749.png)
 ### Presentation-Abstraction-Control
 + 
