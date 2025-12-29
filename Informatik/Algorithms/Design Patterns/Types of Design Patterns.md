@@ -20,7 +20,6 @@
 	+ Monitor
 	+ Thread Specific Storage
 	+ Async-Await
-	+ Proactor/Reactor
 + [[Architectural Patterns/Messaging Family]]
 	+ Messages
 	+ Message Endpoint
