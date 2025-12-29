@@ -50,12 +50,19 @@
 
 >[!quote] Monitor
 > > [!tip] Core idea
-> > + 
-> 
+> > + synchronize method calls to an object
 >
 > > [!success] Solution
-> > + 
-UML
+![](../../../../z_images/Pasted%20image%2020251229105645.png)
+>
+> > >[!quote] Consequences
+> > > [!success] Good
+> > > + simplifies synchronization and scheduling
+> >
+> >> [!failure] Bad
+> >> + wasteful and coarse locking of whole components leads to bottleneck
+> >> + no simultaneous reads
+> >> + nested monitors may lead to deadlocks
 
 >[!quote] Thread-Specific Storage
 > > [!tip] Core idea
