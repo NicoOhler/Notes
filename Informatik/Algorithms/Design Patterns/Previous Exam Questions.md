@@ -49,7 +49,16 @@
 	+ iterator loops over all elements in a collection
 	+ visitor patterns allows performing the "same" action on all elements of an aggregate. however, action implementation may differ between objects due to implementation?
 + Compare Active Object vs. Master Slave!
-	+ TODO
+	+ master slave
+		+ client gives master a large task
+		+ master splits into smaller, more manageable subtasks
+		+ delegates them to slaves, which operate on remote devices or in threads
+		+ master combines partial results into final result
+	+ active object
+		+ client creates commands which specify what to do
+		+ inserts them into command queue
+		+ separate thread iterates through commands in an event loop
+			+ usually a single thread e.g. Python, JavaScript async
 + What is the huge advantage of a Monitor compared to using locks?
 	+ monitor provides safe easy to use synchronization and takes care of locking
 	+ caller/client does not need to care about locks
