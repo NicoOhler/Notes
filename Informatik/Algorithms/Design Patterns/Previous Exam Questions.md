@@ -32,7 +32,7 @@
 + What are the differences between Mediator/Microkernel/Requestor + Request Handler/Observer?
 	+ mediator handles communication between similar objects
 	+ microkernel routes requests to responsible components by forwarding requests
-	+ requestor is responsible 
+	+ requestor is responsible for creating and forwarding messages to server, request handler is server side equivalent responsible for parsing request and dispatching responses
 	+ observer register to subject, informed upon specific event, one-way 
 + The "message translator" pattern converts a message from one data format to another?
 + Which two sides of views does the bridge pattern "connect"?
@@ -49,8 +49,8 @@
 	+ strategy utilizes template methods to dynamic swap concrete behaviors by swapping to another class
 	+ command pattern packs the desired behavior (high level) and needed parameters into a command object, transmits it to some other object else and lets them execute the command. However, the concrete implementation of the desired behavior (detailed) is defined and handled by the executioner.
 + Compare Visitor, Iterator and Composite. What are the differences? What are commonalities?
-	+ iterator loops over all elements in a collection
-	+ visitor patterns allows performing the "same" action on all elements of an aggregate. however, action implementation may differ between objects due to implementation?
+	+ iterator loops over all elements of an arbitrary collection in a specific order
+	+ visitor pattern allows execution of behavior on all elements of an aggregate. behavior however, action implementation may differ between objects due to implementation?
 + Compare Active Object vs. Master Slave!
 	+ master slave
 		+ client gives master a large task
