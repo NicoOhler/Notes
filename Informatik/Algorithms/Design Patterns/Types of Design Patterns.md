@@ -4,17 +4,13 @@
 	+ Blackboard
 	+ Layers
 	+ Pipes & Filters
+	+ Active Object
 	+ Microkernel
 + [[Architectural Patterns/Distributed Systems & Communication]]
 	+ Broker
 	+ Client-Server
 	+ Master-Slave
-+ [[Architectural Patterns/User Interface]]
-	+ Model-View-Controller
-	+ Model-View-Presenter/ViewModel
-	+ Presentation-Abstraction-Control
 + [[Architectural Patterns/Concurrency]]
-	+ Active Object
 	+ Future
 	+ Locks
 	+ Monitor
@@ -27,6 +23,10 @@
 	+ Message Bus
 	+ Message Router
 	+ Message Translator
++ [[Architectural Patterns/User Interface]]
+	+ Model-View-Controller
+	+ Model-View-Presenter/ViewModel
+	+ Presentation-Abstraction-Control
 ### Design Patterns
 + solve more isolated problems
 + [[Design Patterns/Creational Patterns]]
