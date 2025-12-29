@@ -24,22 +24,6 @@
             }
           },
           {
-            "id": "ad6f982f44e93c83",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Informatik/Algorithms/Design Patterns/Architectural Patterns/Messaging Family.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Messaging Family"
-            }
-          },
-          {
             "id": "c48c5a75f7587776",
             "type": "leaf",
             "pinned": true,
@@ -225,12 +209,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ad6f982f44e93c83",
+  "active": "c48c5a75f7587776",
   "lastOpenFiles": [
+    "z_images/Pasted image 20251229102613.png",
     "Informatik/Algorithms/Design Patterns/Template.md",
+    "Informatik/Algorithms/Design Patterns/Design Patterns/Resource Management.md",
+    "z_images/Pasted image 20251229102444.png",
     "Informatik/Algorithms/Design Patterns/Architectural Patterns/User Interface.md",
-    "Informatik/Algorithms/Design Patterns/Idioms.md",
     "Informatik/Algorithms/Design Patterns/Architectural Patterns/Messaging Family.md",
+    "Informatik/Algorithms/Design Patterns/Idioms.md",
     "z_images/Pasted image 20251229100633.png",
     "z_images/Pasted image 20251229100351.png",
     "z_images/Pasted image 20251229100119.png",
@@ -244,9 +231,7 @@
     "z_images/Pasted image 20251226154932.png",
     "z_images/Pasted image 20251226153540.png",
     "Informatik/Algorithms/Design Patterns/Design Patterns/Concurrency.md",
-    "Informatik/Algorithms/Design Patterns/Design Patterns/Resource Management.md",
     "Informatik/Algorithms/Design Patterns/Types of Design Patterns.md",
-    "z_images/Pasted image 20251226152530.png",
     "Informatik/Algorithms/Design Patterns/Design Patterns/Creational Patterns.md",
     "Informatik/Algorithms/Design Patterns/Design Patterns/Structural Patterns.md",
     "Informatik/Algorithms/Design Patterns/Design Patterns/Behavioral Patterns.md",
