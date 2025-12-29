@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "template",
+                "query": "pool",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,8 @@
               "title": "Search"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -128,12 +129,13 @@
   },
   "active": "66129f55657354e0",
   "lastOpenFiles": [
-    "Informatik/Algorithms/Design Patterns/Architectural Patterns/Concurrency.md",
-    "Informatik/Algorithms/Design Patterns/Architectural Patterns/Distributed Systems & Communication.md",
-    "Informatik/Algorithms/Design Patterns/Architectural Patterns/Structure & Decomposition.md",
+    "Informatik/Algorithms/Design Patterns/Design Patterns/Resource Management.md",
     "Informatik/Algorithms/Design Patterns/Previous Exam Questions.md",
     "Informatik/Algorithms/Design Patterns/Principles of Good Programming.md",
     "Informatik/Algorithms/Design Patterns/Design Patterns/Behavioral Patterns.md",
+    "Informatik/Algorithms/Design Patterns/Architectural Patterns/Concurrency.md",
+    "Informatik/Algorithms/Design Patterns/Architectural Patterns/Distributed Systems & Communication.md",
+    "Informatik/Algorithms/Design Patterns/Architectural Patterns/Structure & Decomposition.md",
     "Informatik/Algorithms/Design Patterns/Architectural Patterns/User Interface.md",
     "Informatik/Algorithms/Design Patterns/Template.md",
     "z_images/Pasted image 20251229120453.png",
@@ -153,7 +155,6 @@
     "Informatik/Algorithms/Design Patterns/Architectural Patterns/Untitled.base",
     "Informatik/Algorithms/Design Patterns/Architectural Patterns/Untitled 1.base",
     "Informatik/Algorithms/Design Patterns/Architectural Patterns/Messaging Family.md",
-    "Informatik/Algorithms/Design Patterns/Design Patterns/Resource Management.md",
     "Informatik/Algorithms/Design Patterns/Design Patterns/Untitled.base",
     "Informatik/Algorithms/Design Patterns/Design Patterns/Creational Patterns.md",
     "Informatik/Algorithms/Design Patterns/Design Patterns/Structural Patterns.md",

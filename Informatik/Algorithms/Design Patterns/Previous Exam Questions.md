@@ -68,7 +68,9 @@
 	+ prevents multiple simultaneous reads
 	+ nested monitors may lead to deadlocks
 + Cache vs. Pool
-	+ TODO
+	+ cache stores resources for later reuse
+	+ pool provides exclusive access to a reusable resource
+		+ usually multiple identical resources are available
 
 
 
