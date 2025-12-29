@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Algorithms/Design Patterns/Previous Exam Questions.md",
+                "file": "Informatik/Algorithms/Design Patterns/Design Patterns.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Previous Exam Questions"
+              "title": "Design Patterns"
             }
           },
           {
@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pool",
+                "query": "broker",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,8 +78,7 @@
               "title": "Search"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -127,14 +126,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "66129f55657354e0",
+  "active": "097b9a58ea336072",
   "lastOpenFiles": [
-    "Informatik/Algorithms/Design Patterns/Design Patterns/Resource Management.md",
-    "Informatik/Algorithms/Design Patterns/Previous Exam Questions.md",
     "Informatik/Algorithms/Design Patterns/Principles of Good Programming.md",
+    "Informatik/Algorithms/Design Patterns/Previous Exam Questions.md",
+    "Informatik/Algorithms/Design Patterns/Architectural Patterns/Distributed Systems & Communication.md",
+    "Informatik/Algorithms/Design Patterns/Design Patterns/Resource Management.md",
     "Informatik/Algorithms/Design Patterns/Design Patterns/Behavioral Patterns.md",
     "Informatik/Algorithms/Design Patterns/Architectural Patterns/Concurrency.md",
-    "Informatik/Algorithms/Design Patterns/Architectural Patterns/Distributed Systems & Communication.md",
     "Informatik/Algorithms/Design Patterns/Architectural Patterns/Structure & Decomposition.md",
     "Informatik/Algorithms/Design Patterns/Architectural Patterns/User Interface.md",
     "Informatik/Algorithms/Design Patterns/Template.md",
