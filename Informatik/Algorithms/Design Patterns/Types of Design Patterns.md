@@ -1,7 +1,6 @@
 ### Architectural Patterns
 + fundamental structural patterns for whole architecture
 + [[Architectural Patterns/Structure & Decomposition]]
-	+ Active Object
 	+ Blackboard
 	+ Layers
 	+ Pipes & Filters
@@ -14,7 +13,12 @@
 	+ Model-View-Controller
 	+ Model-View-Presenter/ViewModel
 	+ Presentation-Abstraction-Control
-+ [[Architectural Patterns/Concurrency Architectures]]
++ [[Architectural Patterns/Concurrency]]
+	+ Active Object
+	+ Future
+	+ Locks
+	+ Monitor
+	+ Thread Specific Storage
 	+ Async-Await
 	+ Proactor/Reactor
 + [[Architectural Patterns/Messaging Family]]
@@ -53,12 +57,6 @@
 	+ State
 	+ Template Method
 	+ Visitor
-+ [[Design Patterns/Concurrency]]
-	+ Active Object
-	+ Future
-	+ Locks
-	+ Monitor
-	+ Thread Specific Storage
 + [[Design Patterns/Resource Management]]
 	+ Caching
 	+ Leasing
