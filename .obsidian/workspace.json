@@ -113,7 +113,8 @@
               "title": "Previous Exam Questions"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -205,13 +206,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ee2cadfe0860e26e",
+  "active": "88102c4d489681d6",
   "lastOpenFiles": [
+    "z_images/Pasted image 20251229110502.png",
+    "z_images/Pasted image 20251229110349.png",
+    "z_images/Pasted image 20251229110254.png",
     "Informatik/Algorithms/Design Patterns/Architectural Patterns/User Interface.md",
+    "Informatik/Algorithms/Design Patterns/Template.md",
     "Informatik/Algorithms/Design Patterns/Idioms.md",
     "Informatik/Algorithms/Design Patterns/Architectural Patterns/Concurrency.md",
     "Informatik/Algorithms/Design Patterns/Previous Exam Questions.md",
-    "Informatik/Algorithms/Design Patterns/Template.md",
     "z_images/Pasted image 20251229105645.png",
     "z_images/Pasted image 20251229105200.png",
     "Informatik/Algorithms/Design Patterns/Architectural Patterns/Structure & Decomposition.md",
@@ -230,8 +234,6 @@
     "z_images/Pasted image 20251229103607.png",
     "z_images/Pasted image 20251229103228.png",
     "z_images/Pasted image 20251229103006.png",
-    "z_images/Pasted image 20251229102917.png",
-    "z_images/Pasted image 20251229102815.png",
     "Informatik/Algorithms/Design Patterns/Design Patterns/Creational Patterns.md",
     "Informatik/Algorithms/Design Patterns/Design Patterns/Structural Patterns.md",
     "Informatik/Algorithms/Design Patterns/Design Patterns/Behavioral Patterns.md",
