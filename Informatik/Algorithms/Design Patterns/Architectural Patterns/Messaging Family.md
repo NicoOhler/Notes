@@ -50,32 +50,36 @@
 > >> + async is difficult to debug
 > >> + requires error handling (e.g. error response or no response)
 
- >[!quote] Messages
+ >[!quote] Message Translator
 > > [!tip] Core idea
-> > + encapsulate information in a standardized way
+> > + translate between different message formats
 > 
 > > [!success] Solution
-![](../../../../z_images/Pasted%20image%2020251229094726.png)
+![](../../../../z_images/Pasted%20image%2020251229100119.png)
 >
 > >[!quote] Consequences
 > > > [!success] Good
-> > > + 
+> > > + sender and receiver may use different formats
 > >
 > >> [!failure] Bad
-> >> + 
+> >> + performance overhead
+> >> + protocols incompatible $\Rightarrow$ degraded basic communication as fallback
 
- >[!quote] Messages
+ >[!quote] Message Router/Queues
 > > [!tip] Core idea
-> > + encapsulate information in a standardized way
+> > + transmit messages to the right receiver
 > 
 > > [!success] Solution
-![](../../../../z_images/Pasted%20image%2020251229094726.png)
+![](../../../../z_images/Pasted%20image%2020251229100351.png)
 >
 > >[!quote] Consequences
 > > > [!success] Good
-> > > + 
+> > > + separate sender and receiver
+> > > + enable dynamic routing, load balancing, multi/broadcasting
+> > > + queues allow for retransmissions, guaranteed deliveries, ...
 > >
 > >> [!failure] Bad
+> >> + bottleneck/single point of failure/man in the middle attacks
 > >> + 
 
  >[!quote] Messages
