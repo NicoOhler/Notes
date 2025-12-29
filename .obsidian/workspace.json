@@ -147,8 +147,7 @@
               "title": "Search"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -198,13 +197,16 @@
   },
   "active": "05af619ba77b03d2",
   "lastOpenFiles": [
+    "Informatik/Algorithms/Design Patterns/Template.md",
+    "Informatik/Algorithms/Design Patterns/Architectural Patterns/Untitled.base",
+    "Informatik/Algorithms/Design Patterns/Architectural Patterns/Untitled 1.base",
+    "Informatik/Algorithms/Design Patterns/Architectural Patterns/Concurrency Architectures.md",
+    "Informatik/Algorithms/Design Patterns/Design Patterns/Concurrency.md",
     "Informatik/Algorithms/Design Patterns/Architectural Patterns/User Interface.md",
     "Informatik/Algorithms/Design Patterns/Architectural Patterns/Structure & Decomposition.md",
     "Informatik/Algorithms/Design Patterns/Types of Design Patterns.md",
     "Informatik/Algorithms/Design Patterns/Architectural Patterns/Messaging Family.md",
     "Informatik/Algorithms/Design Patterns/Architectural Patterns/Distributed Systems & Communication.md",
-    "Informatik/Algorithms/Design Patterns/Architectural Patterns/Concurrency Architectures.md",
-    "Informatik/Algorithms/Design Patterns/Design Patterns/Concurrency.md",
     "Informatik/Algorithms/Design Patterns/Design Patterns/Resource Management.md",
     "Informatik/Algorithms/Design Patterns/Design Patterns/Untitled.base",
     "z_images/Pasted image 20251229103607.png",
@@ -214,7 +216,6 @@
     "z_images/Pasted image 20251229102815.png",
     "z_images/Pasted image 20251229102702.png",
     "z_images/Pasted image 20251229102613.png",
-    "Informatik/Algorithms/Design Patterns/Template.md",
     "z_images/Pasted image 20251229102444.png",
     "Informatik/Algorithms/Design Patterns/Idioms.md",
     "z_images/Pasted image 20251229100633.png",
@@ -241,8 +242,6 @@
     "Informatik/Brain Computation/Learning/Hebbian Learning.md",
     "Informatik/Brain Computation/Learning/Inductive Biases.md",
     "Informatik/Brain Computation/Synapses & Plasticity",
-    "Informatik/Brain Computation/Plasticity/Untitled",
-    "Informatik/Brain Computation/Information Representation in the Brain",
     "Informatik/Untitled.canvas",
     "Untitled.canvas"
   ]
