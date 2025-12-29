@@ -25,7 +25,7 @@
 >[!quote] Lazy Acquisition
 > > [!tip] Core idea
 > > + acquire on demand when resource is actually needed
-> > + faster loading 
+> > + delay/avoid acquisition for faster loading 
 > 
 > > [!success] Solution
 ![](../../../../z_images/Pasted%20image%2020251229103006.png)
@@ -33,28 +33,17 @@
 
 >[!quote] Eager Acquisition
 > > [!tip] Core idea
-> > + 
+> > + acquire resources in advance
+> > + preloading avoids having to wait during runtime
 > 
 > > [!success] Solution
-UML
+![](../../../../z_images/Pasted%20image%2020251229103228.png)
 >
 
->[!quote] Caching
+>[!quote] Partial Acquisition
 > > [!tip] Core idea
-> > + 
+> > + acquire smaller parts which are currently needed
+> > + e.g. current minute of a video, current page of a PDF
 > 
 > > [!success] Solution
-UML
->
-
-
-### Pooling
-+ 
-### Lazy Acquisition
-+ 
-### Eager Acquisition
-+ 
-### Partial Acquisition
-+ 
-### Garbage Collector
-+ 
+![](../../../../z_images/Pasted%20image%2020251229103607.png)
