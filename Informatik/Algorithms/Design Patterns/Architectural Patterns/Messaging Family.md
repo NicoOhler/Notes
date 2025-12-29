@@ -11,26 +11,31 @@
 > > > + enclosed packet instead of continuous data stream 
 > >
 > >> [!failure] Bad
-> >> + overhead due to (de)serialization
-> >> + 
+> >> + computation overhead due to (de)serialization
+> >> + communication overhead due to protocol
+> >> + costlier changes and new versions
+> >> + format must be well defined and respected
 
- >[!quote] Messages
+ >[!quote] Message Endpoint
 > > [!tip] Core idea
-> > + encapsulate information in a standardized way
+> > + provide functionality to send and receive messages
 > 
 > > [!success] Solution
-![](../../../../z_images/Pasted%20image%2020251229094726.png)
+![](../../../../z_images/Pasted%20image%2020251229095259.png)
 >
 > >[!quote] Consequences
 > > > [!success] Good
-> > > + 
+> > > + endpoint handles message conversion
+> > > + decouples external messaging from internal communication
+> > > + separation of concerns
 > >
 > >> [!failure] Bad
-> >> + 
+> >> + additional performance overhead and abstraction
+> >> + potentially a single point of failure or bottleneck
 
- >[!quote] Messages
+ >[!quote] Request-Response
 > > [!tip] Core idea
-> > + encapsulate information in a standardized way
+> > + answer ev
 > 
 > > [!success] Solution
 ![](../../../../z_images/Pasted%20image%2020251229094726.png)
