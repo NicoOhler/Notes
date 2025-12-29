@@ -20,7 +20,7 @@
 > > > + decouples data and representation
 > >
 > >> [!failure] Bad
-> >> + (unit testing) comp
+> >> + (unit testing) complexity increases
 ### Model-View-Presenter/ViewModel
 + 
 ### Presentation-Abstraction-Control
