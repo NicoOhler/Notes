@@ -43,7 +43,9 @@
 	+ message, bridge, proxy, iterator, factory, decorator
 + Compare Template-Method, Strategy and Command. What are the differences? What are commonalities?
 	+ template method defines methods and lets child classes define concrete behavior
-	+ strategy utilizes template methods to dynamic swap concrete behaviors
+	+ strategy utilizes template methods to dynamic swap concrete behaviors by swapping to another class
+	+ command pattern packs the desired behavior and needed parameters into a command object, transmits it to some other object else and lets them execute the command. The concrete implementation 
+
 + Compare Visitor, Iterator and Composite. What are the differences? What are commonalities?
 	+ iterator loops over all elements in a collection
 	+ visitor patterns allows performing the "same" action on all elements of an aggregate. however, action implementation may differ between objects due to implementation?
