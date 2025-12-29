@@ -1,5 +1,5 @@
 ### Active Object
-+ 
++ see [[Architectural Patterns/Structure & Decomposition]]
 ### Future
 + 
 ### Locks

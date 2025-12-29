@@ -1,7 +1,7 @@
 ### Architectural Patterns
 + fundamental structural patterns for whole architecture
 + [[Architectural Patterns/Structure & Decomposition]]
-	+ Active Record
+	+ Active Object
 	+ Blackboard
 	+ Layers
 	+ Pipes & Filters

@@ -24,22 +24,6 @@
             }
           },
           {
-            "id": "c48c5a75f7587776",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Informatik/Algorithms/Design Patterns/Design Patterns/Resource Management.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Resource Management"
-            }
-          },
-          {
             "id": "05af619ba77b03d2",
             "type": "leaf",
             "pinned": true,
@@ -106,6 +90,7 @@
           {
             "id": "4fac209978d91945",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -113,6 +98,7 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "User Interface"
             }
@@ -150,7 +136,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Synaptic%20Models.md)file:section:()",
+                "query": "active",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -161,7 +147,8 @@
               "title": "Search"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -209,8 +196,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c48c5a75f7587776",
+  "active": "05af619ba77b03d2",
   "lastOpenFiles": [
+    "Informatik/Algorithms/Design Patterns/Architectural Patterns/User Interface.md",
+    "Informatik/Algorithms/Design Patterns/Architectural Patterns/Structure & Decomposition.md",
+    "Informatik/Algorithms/Design Patterns/Types of Design Patterns.md",
+    "Informatik/Algorithms/Design Patterns/Architectural Patterns/Messaging Family.md",
+    "Informatik/Algorithms/Design Patterns/Architectural Patterns/Distributed Systems & Communication.md",
+    "Informatik/Algorithms/Design Patterns/Architectural Patterns/Concurrency Architectures.md",
+    "Informatik/Algorithms/Design Patterns/Design Patterns/Concurrency.md",
+    "Informatik/Algorithms/Design Patterns/Design Patterns/Resource Management.md",
+    "Informatik/Algorithms/Design Patterns/Design Patterns/Untitled.base",
     "z_images/Pasted image 20251229103607.png",
     "z_images/Pasted image 20251229103228.png",
     "z_images/Pasted image 20251229103006.png",
@@ -219,19 +215,10 @@
     "z_images/Pasted image 20251229102702.png",
     "z_images/Pasted image 20251229102613.png",
     "Informatik/Algorithms/Design Patterns/Template.md",
-    "Informatik/Algorithms/Design Patterns/Design Patterns/Resource Management.md",
     "z_images/Pasted image 20251229102444.png",
-    "Informatik/Algorithms/Design Patterns/Architectural Patterns/User Interface.md",
-    "Informatik/Algorithms/Design Patterns/Architectural Patterns/Messaging Family.md",
     "Informatik/Algorithms/Design Patterns/Idioms.md",
     "z_images/Pasted image 20251229100633.png",
     "z_images/Pasted image 20251229100351.png",
-    "z_images/Pasted image 20251229100119.png",
-    "Informatik/Algorithms/Design Patterns/Architectural Patterns/Distributed Systems & Communication.md",
-    "Informatik/Algorithms/Design Patterns/Architectural Patterns/Structure & Decomposition.md",
-    "Informatik/Algorithms/Design Patterns/Architectural Patterns/Concurrency Architectures.md",
-    "Informatik/Algorithms/Design Patterns/Design Patterns/Concurrency.md",
-    "Informatik/Algorithms/Design Patterns/Types of Design Patterns.md",
     "Informatik/Algorithms/Design Patterns/Design Patterns/Creational Patterns.md",
     "Informatik/Algorithms/Design Patterns/Design Patterns/Structural Patterns.md",
     "Informatik/Algorithms/Design Patterns/Design Patterns/Behavioral Patterns.md",
@@ -256,7 +243,6 @@
     "Informatik/Brain Computation/Synapses & Plasticity",
     "Informatik/Brain Computation/Plasticity/Untitled",
     "Informatik/Brain Computation/Information Representation in the Brain",
-    "Informatik/Brain Computation/Learning",
     "Informatik/Untitled.canvas",
     "Untitled.canvas"
   ]
