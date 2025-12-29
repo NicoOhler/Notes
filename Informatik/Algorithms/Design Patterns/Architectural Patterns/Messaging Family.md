@@ -35,17 +35,20 @@
 
  >[!quote] Request-Response
 > > [!tip] Core idea
-> > + answer ev
+> > + answer every request with a response
 > 
 > > [!success] Solution
-![](../../../../z_images/Pasted%20image%2020251229094726.png)
+![](../../../../z_images/Pasted%20image%2020251229095618.png)
 >
 > >[!quote] Consequences
 > > > [!success] Good
-> > > + 
+> > > + enables timeout detection, windowing and buffered responses
+> > > + two decoupled communication events: question and answer
 > >
 > >> [!failure] Bad
-> >> + 
+> >> + no continuous data stream, broad or multicasting?
+> >> + async is difficult to debug
+> >> + requires error handling (e.g. error response or no response)
 
  >[!quote] Messages
 > > [!tip] Core idea
