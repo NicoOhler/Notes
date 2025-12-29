@@ -1,36 +1,37 @@
  >[!quote] Caching
 > > [!tip] Core idea
-> > + 
+> > + store resources for later reuse
 > 
 > > [!success] Solution
 ![](../../../../z_images/Pasted%20image%2020251229102613.png)
 >
 
->[!quote] Caching
+>[!quote] Pooling
 > > [!tip] Core idea
-> > + 
+> > + provide resource access via a manager
 > 
 > > [!success] Solution
-UML
+![](../../../../z_images/Pasted%20image%2020251229102702.png)
 >
 
->[!quote] Caching
+>[!quote] Leasing
 > > [!tip] Core idea
-> > + 
+> > + access to resource expires after a certain time (timeout)
 > 
 > > [!success] Solution
-UML
+![](../../../../z_images/Pasted%20image%2020251229102917.png)
 >
 
->[!quote] Caching
+>[!quote] Lazy Acquisition
 > > [!tip] Core idea
-> > + 
+> > + acquire on demand when resource is actually needed
+> > + faster loading 
 > 
 > > [!success] Solution
-UML
+![](../../../../z_images/Pasted%20image%2020251229103006.png)
 >
 
->[!quote] Caching
+>[!quote] Eager Acquisition
 > > [!tip] Core idea
 > > + 
 > 
