@@ -23,8 +23,15 @@
 > >> + (unit testing) complexity increases
 ### Difference between MVC, MVP and MVVM
 + MVC
-	+ controller handles user inputs
-		+ update model which often notifies the view
+	+ controller handles user inputs by updating model
+	+ model notifies view about changes (view observes model)
+	+ view and model are aware of each other
+	+ tight coupling of model and view
++ MVP
+	+ addresses coupling issues via presenter
+	+ presenter acts as interface between view and model
+	+ view receives user inputs and calls presenter method
+	+ presenter then upda
 + ![](../../../../z_images/Pasted%20image%2020251229114749.png)
 ### Presentation-Abstraction-Control
 + 
