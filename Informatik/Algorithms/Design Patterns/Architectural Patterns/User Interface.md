@@ -21,7 +21,10 @@
 > >
 > >> [!failure] Bad
 > >> + (unit testing) complexity increases
-### Model-View-Presenter/ViewModel
-+ 
+### Difference between MVC, MVP and MVVM
++ MVC
+	+ controller handles user inputs
+		+ update model which often notifies the view
++ ![](../../../../z_images/Pasted%20image%2020251229114749.png)
 ### Presentation-Abstraction-Control
 + 
