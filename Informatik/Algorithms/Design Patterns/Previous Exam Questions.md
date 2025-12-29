@@ -39,6 +39,9 @@
 	+ implementation and abstraction
 	+ maybe use?
 + Which sub-patterns are direct participants of broker pattern?
+	+ broker pattern follows a client-server strategy
+	+ client and server use proxies instead of a direct communication
+	+ proxies create messages (requests and r)
 	+ message, bridge, proxy, iterator, factory, decorator
 + Compare Template-Method, Strategy and Command. What are the differences? What are commonalities?
 	+ template method defines methods and lets child classes define concrete behavior
