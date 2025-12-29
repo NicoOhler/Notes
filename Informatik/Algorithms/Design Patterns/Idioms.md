@@ -2,12 +2,12 @@
 + limited to a small scope instead of being widely applicable
 + rather specific, no general solution template
 
- >[!quote] Counted Pointer
+ >[!quote] Counted/Smart/Shared/Auto Pointer
 > > [!tip] Core idea
-> > + 
+> > + count references and automatically call destructor when object no longer used
 > 
 > > [!success] Solution
-UML
+![](../../../z_images/Pasted%20image%2020251229110713.png)
 
  >[!quote] Scoped Locking
 > > [!tip] Core idea
