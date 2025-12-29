@@ -15,14 +15,13 @@
 		+ connecting nodes together for communication
 	+ master-slave
 		+ distributing work amongst multiple nodes
-	+ leader-follower
-		+ taking turns in processing a task
 + Which pattern should be used if the creation of objects is very complicated and consists of many steps.
 	+ builder
 + The "singleton" pattern ensures that only one instance of an object is present in the system. What mechanism prohibits developers from creating more instances?
 	+ private constructor inaccessible from outside. Factory method creates object once during first call, stores reference and returns it on subsequent calls 
 + Which resources does the Flyweight pattern save?
-	+ memory, performance, disk read/write, data bus-traffic
+	+ primarily memory
+	+ potentially also computations, disk read/write, data bus-traffic
 + When I implement Netflix, which patterns are useful?
 	+ broker for communication and distribution of movies and their metadata
 	+ layers to separate high level logic, UI, networking, database, ...
@@ -30,9 +29,10 @@
 	+ messaging patterns such as messages, request-response, endpoint and router
 	+ MVC/MVVM/MVP for UI
 	+ memento to store settings and progress (which movies watched, where stopped, ...)
-+ What are the differences between Mediator/Microkernel/Client-Dispatcher Server/Observer?
++ What are the differences between Mediator/Microkernel/Requestor + Request Handler/Observer?
 	+ mediator handles communication between similar objects
-	+ microkernel connects different components by forwarding requests
+	+ microkernel routes requests to responsible components by forwarding requests
+	+ requestor is responsible 
 	+ observer register to subject, informed upon specific event, one-way 
 + The "message translator" pattern converts a message from one data format to another?
 + Which two sides of views does the bridge pattern "connect"?
@@ -43,7 +43,7 @@
 	+ client and server use proxies instead of a direct communication
 	+ proxies create messages (requests and responses) and send them to broker
 	+ broker acts as middleman/bridge and potentially as a router/mediator/translator/...
-	+ many more patterns can be used depending on the use case
+	+ many more patterns can be used in a meaningful way depending on use case
 + Compare Template-Method, Strategy and Command. What are the differences? What are commonalities?
 	+ template method defines methods and lets child classes define concrete behavior
 	+ strategy utilizes template methods to dynamic swap concrete behaviors by swapping to another class
