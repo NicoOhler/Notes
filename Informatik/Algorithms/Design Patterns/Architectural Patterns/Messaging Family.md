@@ -1,161 +1,86 @@
  >[!quote] Messages
 > > [!tip] Core idea
-> > + 
+> > + encapsulate information in a standardized way
 > 
-> > [!info] Context
-> > + 
->
-> > [!danger] Problem
-> > + 
->
-> > [!example] Forces
-> > + 
->
 > > [!success] Solution
-> > + 
-UML
+![](../../../../z_images/Pasted%20image%2020251229094726.png)
 >
 > >[!quote] Consequences
 > > > [!success] Good
-> > > + 
-> >
-> > > [!question] Mixed
-> > > + 
+> > > + combine data and metadata in explicitly defined format/protocol
+> > > + enclosed packet instead of continuous data stream 
 > >
 > >> [!failure] Bad
-> >> +
+> >> + overhead due to (de)serialization
+> >> + 
 
- >[!quote] Message Endpoint
+ >[!quote] Messages
 > > [!tip] Core idea
-> > + 
+> > + encapsulate information in a standardized way
 > 
-> > [!info] Context
-> > + 
->
-> > [!danger] Problem
-> > + 
->
-> > [!example] Forces
-> > + 
->
 > > [!success] Solution
-> > + 
-UML
+![](../../../../z_images/Pasted%20image%2020251229094726.png)
 >
 > >[!quote] Consequences
 > > > [!success] Good
-> > > + 
-> >
-> > > [!question] Mixed
 > > > + 
 > >
 > >> [!failure] Bad
 > >> + 
 
- >[!quote] Request Response
+ >[!quote] Messages
 > > [!tip] Core idea
-> > + 
+> > + encapsulate information in a standardized way
 > 
-> > [!info] Context
-> > + 
->
-> > [!danger] Problem
-> > + 
->
-> > [!example] Forces
-> > + 
->
 > > [!success] Solution
-> > + 
-UML
+![](../../../../z_images/Pasted%20image%2020251229094726.png)
 >
 > >[!quote] Consequences
 > > > [!success] Good
-> > > + 
-> >
-> > > [!question] Mixed
 > > > + 
 > >
 > >> [!failure] Bad
 > >> + 
 
- >[!quote] Message Translator
+ >[!quote] Messages
 > > [!tip] Core idea
-> > + 
+> > + encapsulate information in a standardized way
 > 
-> > [!info] Context
-> > + 
->
-> > [!danger] Problem
-> > + 
->
-> > [!example] Forces
-> > + 
->
 > > [!success] Solution
-> > + 
-UML
+![](../../../../z_images/Pasted%20image%2020251229094726.png)
 >
 > >[!quote] Consequences
 > > > [!success] Good
-> > > + 
-> >
-> > > [!question] Mixed
 > > > + 
 > >
 > >> [!failure] Bad
 > >> + 
 
- >[!quote] Message Bus
+ >[!quote] Messages
 > > [!tip] Core idea
-> > + 
+> > + encapsulate information in a standardized way
 > 
-> > [!info] Context
-> > + 
->
-> > [!danger] Problem
-> > + 
->
-> > [!example] Forces
-> > + 
->
 > > [!success] Solution
-> > + 
-UML
+![](../../../../z_images/Pasted%20image%2020251229094726.png)
 >
 > >[!quote] Consequences
 > > > [!success] Good
-> > > + 
-> >
-> > > [!question] Mixed
 > > > + 
 > >
 > >> [!failure] Bad
 > >> + 
 
- >[!quote] Message Router
+ >[!quote] Messages
 > > [!tip] Core idea
-> > + 
+> > + encapsulate information in a standardized way
 > 
-> > [!info] Context
-> > + 
->
-> > [!danger] Problem
-> > + 
->
-> > [!example] Forces
-> > + 
->
 > > [!success] Solution
-> > + 
-UML
+![](../../../../z_images/Pasted%20image%2020251229094726.png)
 >
 > >[!quote] Consequences
 > > > [!success] Good
 > > > + 
 > >
-> > > [!question] Mixed
-> > > + 
-> >
 > >> [!failure] Bad
 > >> + 
+
