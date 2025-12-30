@@ -14,11 +14,11 @@
 > >> + computation overhead due to (de)serialization
 > >> + communication overhead due to protocol
 > >> + costlier changes and new versions
-> >> + format must be well defined and respected
+> >> + format must be well defined and respected by both sender and receiver
 
  >[!quote] Message Endpoint
 > > [!tip] Core idea
-> > + provide functionality to send and receive messages
+> > + provide functionality to create, send, receive, and parse messages
 > 
 > > [!success] Solution
 ![](../../../../z_images/Pasted%20image%2020251229095259.png)
@@ -63,7 +63,7 @@
 > >
 > >> [!failure] Bad
 > >> + performance overhead
-> >> + protocols incompatible $\Rightarrow$ degraded basic communication as fallback
+> >> + incompatible protocols use degraded communication as fallback
 
  >[!quote] Message Router/Queues
 > > [!tip] Core idea
@@ -80,7 +80,7 @@
 > >
 > >> [!failure] Bad
 > >> + bottleneck/single point of failure/man in the middle attacks
-> >> + configuration overhead?
+> >> + configuration overhead
 
  >[!quote] Message Bus
 > > [!tip] Core idea

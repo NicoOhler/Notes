@@ -54,7 +54,7 @@
 > > + define protocol for communication via requests and responses
 > > + implement server with listener waiting for requests from multiple clients and answers with responses
 > > + request handling delegated to other threads or servers
-> > + implement clients who just send requests and wait for responses
+> > + implement clients who just send requests and await responses
 ![](../../../../z_images/Pasted%20image%2020251226160125.png)
 >
 > >[!quote] Consequences
