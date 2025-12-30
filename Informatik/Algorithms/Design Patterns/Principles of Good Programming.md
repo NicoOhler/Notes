@@ -37,13 +37,13 @@
 			+ Open/Closed principle
 	+ inversion of control?
 		+ Hollywood principle: "Don't call us, we call you!"
-		+ high level uses low level, not the other way aroun
+		+ high level uses low level, not the other way around
 + Usability and Simplicity
 	+ keep everything simple
 		+ single responsibility
 		+ avoid premature optimization
-	+ easy to use right, hard to use wrong
-	+ adhere to expectations, intuitive usage
+	+ adhere to expectations and intuitive usage
+		+ easy to use right, hard to use wrong
 		+ Principle of least astonishment
 		+ Don’t make me think
 		+ Code for the Maintainer

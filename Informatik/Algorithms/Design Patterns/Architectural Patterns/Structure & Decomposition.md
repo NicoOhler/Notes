@@ -1,13 +1,13 @@
  >[!quote] Layers
 > > [!tip] Core idea
 > > + split system into layers based on abstraction level
+> > + each layer uses well defined functionality of sublayer
 > 
 > > [!info] Context
 > > + large systems that require decompositions
 >
 > > [!danger] Problem
-> > + hard to understand system
-> > + many dependencies, functions and responsibilities
+> > + how to simplify hard to understand systems with lots of dependencies, functions and responsibilities
 >
 > > [!example] Forces
 > > + change should apply to single component
@@ -22,17 +22,17 @@
 >
 > >[!quote] Consequences
 > > > [!success] Good
-> > > + local dependencies and changes
+> > > + dependencies and changes kept local
 > > > + well defined interfaces
-> > > + layers can be exchanged and reused
+> > > + exchangeable and reusable layers
 > >
 > >> [!failure] Bad
-> >> + lower efficiency and control of sublayers
+> >> + lower efficiency and control over sublayers
 > >> + right granularity hard to find 
 
  >[!quote] Pipes & Filters
 > > [!tip] Core idea
-> > + form sequence of processing steps using a common interface
+> > + form sequence of processing steps using a common interface and intermediate data format
 > 
 > > [!info] Context
 > > + processing of data streams
@@ -44,7 +44,8 @@
 > > + dynamically change order of processing steps
 > > + small processing steps are easy to reuse
 > > + support for different input sources and means of storing results
-> > + multiprocessing
+> > + uniform 
+> > + parallelization
 >
 > > [!success] Solution
 > > + divide into sequence of small processing steps
