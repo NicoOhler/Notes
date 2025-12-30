@@ -1,6 +1,6 @@
 ### Difference to other [[Types of Design Patterns]]
 + limited to a small scope instead of being widely applicable
-	+ e.g. specific programming language or framework
+	+ e.g. specific programming language, framework or context
 + rather specific, no general solution template
 
  >[!quote] Counted/Smart/Shared/Auto Pointer
@@ -20,8 +20,7 @@
 
  >[!quote] Double Checked Locking
 > > [!tip] Core idea
-> > + check twice to ensure condition
-> > 	+ once before locking, once after 
+> > + check twice to ensure condition is met, once before locking, once after 
 > > + avoid having to wait for lock if condition is anyway not met 
 > 
 > > [!success] Solution
