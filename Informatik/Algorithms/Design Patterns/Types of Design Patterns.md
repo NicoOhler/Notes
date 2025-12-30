@@ -23,7 +23,7 @@
 	+ Message Bus
 	+ Message Router
 	+ Message Translator
-+ [[Architectural Patterns/User Interface]]
++ [[Architectural Patterns/User Interfaces]]
 	+ Model-View-Controller
 	+ Model-View-Presenter/ViewModel
 	+ Presentation-Abstraction-Control

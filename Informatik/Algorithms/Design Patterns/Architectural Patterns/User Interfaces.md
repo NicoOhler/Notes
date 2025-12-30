@@ -1,17 +1,17 @@
  >[!quote] Model-View-Controller
 > > [!tip] Core idea
-> > + separate responsibilities of visualizing, processing and data management in GUI
+> > + separate responsibilities for data storage, manipulation and visualization
 > 
 > > [!danger] Problem
 > > + separate data from its representation
 >
 > > [!example] Forces
-> > + view and data changes independently
+> > + view and data change independently from each other
 > > + separation of concerns
 > > + different update rates
 >
 > > [!success] Solution
-> > + decouple data storage (model), visualization (view) and data manipulation (controller)
+> > + decouple storage (model), visualization (view) and manipulation (controller)
 ![](../../../../z_images/Pasted%20image%2020251229113409.png)
 >
 > >[!quote] Consequences
@@ -24,12 +24,13 @@
 ### Difference between MVC, MVP and MVVM
 + MVC
 	+ controller handles user inputs by updating model
-		+ model notifies view about changes (view observes model)
+		+ model typically notifies view about changes
+		+ view is observer of model
 	+ view and model are aware of each other
 	+ tight coupling of model and view
 + MVP
 	+ addresses coupling issues via presenter
-	+ presenter acts as connector between view and model
+	+ presenter acts as boundary between view and model
 	+ view handles rendering and calls presenter method upon user inputs
 		+ presenter then updates model and afterwards view if needed
 + MVVM
@@ -42,6 +43,7 @@
 > > [!tip] Core idea
 > > + decompose GUI generation into smaller agents
 > > + each agent consists of presentation, abstraction and control part
+> > 	+ control components contains lower level agents
 >
 > > [!success] Solution
 ![](../../../../z_images/Pasted%20image%2020251229120453.png)

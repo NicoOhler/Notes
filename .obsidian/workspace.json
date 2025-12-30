@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Algorithms/Design Patterns/Architectural Patterns/Messaging Family.md",
+                "file": "Informatik/Algorithms/Design Patterns/Design Patterns/Creational Patterns.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Messaging Family"
+              "title": "Creational Patterns"
             }
           }
         ]
@@ -114,11 +114,12 @@
   },
   "active": "73aab318c28f51b5",
   "lastOpenFiles": [
+    "Informatik/Algorithms/Design Patterns/Architectural Patterns/User Interfaces.md",
+    "Informatik/Algorithms/Design Patterns/Architectural Patterns/Structure & Decomposition.md",
+    "Informatik/Algorithms/Design Patterns/Architectural Patterns/Messaging Family.md",
     "Informatik/Algorithms/Design Patterns/Architectural Patterns/Distributed Systems & Communication.md",
     "Informatik/Algorithms/Design Patterns/Architectural Patterns/Concurrency.md",
     "Informatik/Algorithms/Design Patterns/Design Patterns/Behavioral Patterns.md",
-    "Informatik/Algorithms/Design Patterns/Architectural Patterns/Structure & Decomposition.md",
-    "Informatik/Algorithms/Design Patterns/Architectural Patterns/Messaging Family.md",
     "Informatik/Algorithms/Design Patterns/Principles of Good Programming.md",
     "Informatik/Algorithms/Design Patterns/Design Patterns.md",
     "Informatik/Algorithms/Design Patterns/Design Patterns/Structural Patterns.md",
@@ -127,7 +128,6 @@
     "Informatik/Algorithms/Design Patterns/Design Patterns/Creational Patterns.md",
     "Informatik/Algorithms/Design Patterns/Design Patterns/Resource Management.md",
     "Informatik/Algorithms/Design Patterns/Idioms.md",
-    "Informatik/Algorithms/Design Patterns/Architectural Patterns/User Interface.md",
     "Informatik/Algorithms/Design Patterns/Template.md",
     "z_images/Pasted image 20251229120453.png",
     "z_images/Pasted image 20251229114749.png",
