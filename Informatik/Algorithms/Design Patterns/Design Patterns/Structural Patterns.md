@@ -53,7 +53,7 @@
 > > [!example] Forces
 > > + avoid binding between abstraction and implementation
 > > + both should support subclasses
-> > + change contained to one side
+> > + change should be contained to one side
 > > + hide implementation details
 >
 > > [!success] Solution
@@ -65,7 +65,7 @@
 > > > [!success] Good
 > > > + separates implementation and abstraction
 > > > + both are extensive and grow independently 
-> > > + implementation can be decided/swapped during runtime
+> > > + implementation can be selected and swapped during runtime
 > > > + hide implementation details
 > > > + encourages layering
 > >
@@ -83,7 +83,8 @@
 > > [!example] Forces
 > > + add/remove functionality/responsibility dynamically without affecting other objects
 > > + reuse functionality
-> > + extensions subclasses would be impractical
+> > + exten
+> nding subclasses would be impractical
 > > 	+ many subclasses/extensions/combinations
 > > 	+ less dynamic
 >
@@ -187,10 +188,9 @@
 > > > + provides flexible and extensible hierarchy of primitives and composites
 > > > + simple hierarchy handling
 > >
-> > > [!question] Mixed
-> > > + changing roles 
-> > > 	+ leaf turns into composite or vice versa
-> > > + references to parent
+> > > [!question] Open Questions
+> > > + how to deal with changing roles?
+> > > + should references to parent be kept?
 > >
 > >> [!failure] Bad
 > >> + client unaware of call complexity and potential side effects

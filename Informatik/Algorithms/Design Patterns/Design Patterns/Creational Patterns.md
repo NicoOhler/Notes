@@ -49,7 +49,7 @@
 > >
 > >> [!failure] Bad
 > >> + construction is no longer as simple as writing "new"
-> >> + how to ensure a proper configuration?
+> >> + need to ensure proper configuration
 
  >[!quote] Factory Method
 > > [!tip] Core idea
@@ -76,9 +76,9 @@
 > > > + separates creation and usage
 > > > + fewer dependencies
 > >
-> > > [!question] Mixed
-> > > + hide constructor?
-> > > + abstract vs concrete creator (subclasses may override default implementation)
+> > > [!question] Open Questions
+> > > + should the constructor be hidden
+> > > + abstract or concrete creator (subclasses must/may override default implementation)
 > >
 > >> [!failure] Bad
 > >> + additional abstraction
@@ -107,9 +107,9 @@
 > > > + promotes consistency among products
 > > > + separates concrete classes elegantly
 > >
-> > > [!question] Mixed
+> > > [!question] Open Questions
 > > > + how to select families?
-> > > + prevent mixing of different factories via singleton?
+> > > + how to prevent mixing of different factories? via a singleton?
 > >
 > >> [!failure] Bad
 > >> + adding new products becomes more difficult

@@ -144,7 +144,7 @@
 > > > + encourages reuse
 > > > + supports m:n communication without polling
 > >
-> > > [!question] Mixed
+> > > [!question] Open Questions
 > > > + synchronous vs. asynchronous
 > >
 > >> [!failure] Bad
@@ -177,7 +177,7 @@
 > > > + avoids subclasses for different behavior
 > > > + reuse behavior for multiple classes
 > >
-> > > [!question] Mixed
+> > > [!question] Open Questions
 > > > + how to decide on strategy? 
 > >
 > >> [!failure] Bad

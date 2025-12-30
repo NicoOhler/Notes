@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Algorithms/Design Patterns/Design Patterns/Creational Patterns.md",
+                "file": "Informatik/Algorithms/Design Patterns/Design Patterns/Structural Patterns.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Creational Patterns"
+              "title": "Structural Patterns"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"know \"",
+                "query": "Mixed",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -112,20 +112,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "73aab318c28f51b5",
+  "active": "097b9a58ea336072",
   "lastOpenFiles": [
+    "Informatik/Algorithms/Design Patterns/Design Patterns/Behavioral Patterns.md",
+    "Informatik/Brain Computation/Synapses & Plasticity/Plasticity.md",
+    "Informatik/Data Management/Database APIs/Transactions/Locking and Concurrency Control.md",
+    "Informatik/Algorithms/Design Patterns/Design Patterns/Creational Patterns.md",
     "Informatik/Algorithms/Design Patterns/Architectural Patterns/User Interfaces.md",
     "Informatik/Algorithms/Design Patterns/Architectural Patterns/Structure & Decomposition.md",
     "Informatik/Algorithms/Design Patterns/Architectural Patterns/Messaging Family.md",
     "Informatik/Algorithms/Design Patterns/Architectural Patterns/Distributed Systems & Communication.md",
     "Informatik/Algorithms/Design Patterns/Architectural Patterns/Concurrency.md",
-    "Informatik/Algorithms/Design Patterns/Design Patterns/Behavioral Patterns.md",
     "Informatik/Algorithms/Design Patterns/Principles of Good Programming.md",
     "Informatik/Algorithms/Design Patterns/Design Patterns.md",
     "Informatik/Algorithms/Design Patterns/Design Patterns/Structural Patterns.md",
     "Informatik/Algorithms/Design Patterns/Previous Exam Questions.md",
     "Informatik/Algorithms/Design Patterns/Types of Design Patterns.md",
-    "Informatik/Algorithms/Design Patterns/Design Patterns/Creational Patterns.md",
     "Informatik/Algorithms/Design Patterns/Design Patterns/Resource Management.md",
     "Informatik/Algorithms/Design Patterns/Idioms.md",
     "Informatik/Algorithms/Design Patterns/Template.md",
@@ -157,7 +159,6 @@
     "Informatik/Brain Computation/Brain Models/Nonlinear Integrate-And-Fire Models.md",
     "Informatik/Brain Computation/Brain Models/Spike Response Models.md",
     "Informatik/Brain Computation/Learning/Brain & Machine Learning.md",
-    "Informatik/Brain Computation/Learning/Hebbian Learning.md",
     "Informatik/Brain Computation/Synapses & Plasticity",
     "Informatik/Untitled.canvas",
     "Untitled.canvas"
