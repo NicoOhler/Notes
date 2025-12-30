@@ -1,5 +1,5 @@
  >[!quote] Singleton
-> > [!tip] Core idea
+> > [!tip] Core idea/Context
 > > + allow only one instance of an object
 > 
 > > [!danger] Problem
@@ -15,6 +15,13 @@
 > > + instead provide public factory method which creates instance during first access
 > > + return references to this instance on subsequent accesses
 ![](../../../../z_images/Pasted%20image%2020251226131431.png)
+> 
+> >[!quote] Consequences
+> > > [!success] Good
+> > > + controlled access to singular instance
+> > > + enables refinement via subclassing
+> > > + allows for a variable number of instances
+> > > + more flexible and elegant compared to static class functions
 
  >[!quote] Builder
 > > [!tip] Core idea
@@ -31,8 +38,8 @@
 > > + creation independent of assembly
 >
 > > [!success] Solution
-> > + implement interface for creation of individual parts and their use
-> > + assembly in separate class
+> > + implement interface for creation of individual parts
+> > + handle assembly in separate class
 ![](../../../../z_images/Pasted%20image%2020251226132043.png)
 >
 > >[!quote] Consequences
@@ -41,7 +48,7 @@
 > > > + separate creation from assembly
 > >
 > >> [!failure] Bad
-> >> + construction becomes trickier?
+> >> + construction is no longer as simple as writing "new"
 > >> + how to ensure a proper configuration?
 
  >[!quote] Factory Method
