@@ -16,7 +16,7 @@
 >
 > > [!success] Solution
 > > + define simple command interface
-> > + implement behavior in concrete commands which may contain receiving object
+> > + implement behavior in concrete commands which may contain receiver
 > > + client calls command, passes parameters or initializes them before
 ![](../../../../z_images/Pasted%20image%2020251224130543.png)
 >
@@ -24,8 +24,7 @@
 > > > [!success] Good
 > > > + request does not depend on invoker, can be executed in isolation
 > > > + undo/redo possible
-> > > + switch receivers during runtime
-> > > + reuse for multiple receivers
+> > > + supports reuse for multiple receivers by swapping them during runtime
 > >
 > >> [!failure] Bad
 > >> + more objects
@@ -44,7 +43,7 @@
 >
 > > [!success] Solution
 > > + implement a chain of handlers (specific early, general later)
-> > + handle if capable of handling otherwise forward to successor
+> > + handle if possible otherwise forward to successor
 ![](../../../../z_images/Pasted%20image%2020251226124039.png)
 
  >[!quote] Iterator

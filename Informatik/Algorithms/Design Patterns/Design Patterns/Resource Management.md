@@ -8,7 +8,7 @@
 
 >[!quote] Pooling
 > > [!tip] Core idea
-> > + provide resource access via a manager
+> > + provide access to limited reusable resource via manager class
 > 
 > > [!success] Solution
 ![](../../../../z_images/Pasted%20image%2020251229102702.png)
@@ -16,7 +16,8 @@
 
 >[!quote] Leasing
 > > [!tip] Core idea
-> > + access to resource expires after a certain time (timeout)
+> > + access to resource expires after a certain time
+> > + release resource after timeout
 > 
 > > [!success] Solution
 ![](../../../../z_images/Pasted%20image%2020251229102917.png)
@@ -25,7 +26,7 @@
 >[!quote] Lazy Acquisition
 > > [!tip] Core idea
 > > + acquire on demand when resource is actually needed
-> > + delay/avoid acquisition for faster loading 
+> > + delay or even completely avoid acquisition for faster loading 
 > 
 > > [!success] Solution
 ![](../../../../z_images/Pasted%20image%2020251229103006.png)
@@ -33,8 +34,7 @@
 
 >[!quote] Eager Acquisition
 > > [!tip] Core idea
-> > + acquire resources in advance
-> > + preloading avoids having to wait during runtime
+> > + acquire resources in advance and avoid having to wait during runtime
 > 
 > > [!success] Solution
 ![](../../../../z_images/Pasted%20image%2020251229103228.png)
