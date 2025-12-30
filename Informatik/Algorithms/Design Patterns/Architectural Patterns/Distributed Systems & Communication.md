@@ -27,6 +27,7 @@
 > > > + interoperability between different broker
 > > > + reuse, add, remove and exchange components dynamically
 > > > + components may fail gracefully
+> > > + enables additional functionality like load balancing, replacing faulty components, translation, ...
 > >
 > >> [!failure] Bad
 > >> + communication overhead
@@ -41,7 +42,7 @@
 > > + distributed application
 >
 > > [!danger] Problem
-> > + how to provide services (resources, content, services) to multiple distributed clients
+> > + how to provide services (resources, content, ...) to multiple distributed clients
 >
 > > [!example] Forces
 > > + availability of resources limited but needed by multiple clients

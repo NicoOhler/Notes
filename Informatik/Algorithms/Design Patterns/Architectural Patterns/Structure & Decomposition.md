@@ -43,17 +43,16 @@
 > > [!example] Forces
 > > + dynamically change order of processing steps
 > > + small processing steps are easy to reuse
+> > + uniform format for input/intermediate/output data
 > > + support for different input sources and means of storing results
-> > + uniform 
 > > + parallelization
 >
 > > [!success] Solution
 > > + divide into sequence of small processing steps
-> > 	+ each depends only on output of predecessor
+> > 	+ each step depends only on output of predecessor
 > > + define uniform data format for output
 > > + implement connection pipes which push or pull information
 > > + implement filters that filter or transform data
-> > + setup final pipeline to use
 ![](../../../../z_images/Pasted%20image%2020251226152530.png)
 >
 > >[!quote] Consequences
@@ -64,7 +63,7 @@
 > >
 > >> [!failure] Bad
 > >> + data transformation overhead
-> >> + difficult to share state infos
+> >> + difficult to share state internals
 > >> + proper error handling is crucial
 
  >[!quote] Active Object
