@@ -5,18 +5,18 @@
 		+ Curly's law: "Do one thing and stick to that!" 
 	+ avoid god classes
 	+ aim for small classes with single responsibility
-+ Open Closed
++ Open/Closed
 	+ objects should be open for extension but closed for modification
 	+ extend class behavior without modification of base class
 	+ e.g. inheritance, adapter, strategy
 + Liskov Substitution
 	+ derived classes must be substitutable for their base classes
 + Interface Segregation
-	+ 
-	+ fine grained, client specific interfaces??
+	+ client should not be forced to implement interface which is not needed
+	+ aim for fine grained, client specific interfaces that do one thing
+	+ avoid general purpose interfaces, otherwise clients might need to implement undesired behavior
 + Dependency Inversion
-	+ depend on abstraction instead of concrete implementations
-
+	+ high level objects should depend on abstractions instead of concrete low level implementations
 ### Principles of Good Programming
 + Decomposition
 	+ makes a large problem more manageable
@@ -33,10 +33,11 @@
 	+ late binding, shift binding time to later
 	+ prioritize composition over inheritance
 		+ inheritance is hard to understand
-		+ however, not everything in same class $\Rightarrow$ Open Closed principle
-	+ inversion of control??
+		+ however, not everything in same class 
+			+ Open/Closed principle
+	+ inversion of control?
 		+ Hollywood principle: "Don't call us, we call you!"
-		+ single direction communication?
+		+ high level uses low level, not the other way aroun
 + Usability and Simplicity
 	+ keep everything simple
 		+ single responsibility
