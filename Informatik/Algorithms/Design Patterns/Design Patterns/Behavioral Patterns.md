@@ -67,9 +67,9 @@
 >
 > >[!quote] Consequences
 > > > [!success] Good
-> > > + simple, uniform access
+> > > + simple uniform access
 > > > + allow multiple simultaneous iterations
-> > > + traversal may vary
+> > > + traversal order may vary
 > >
 > >> [!failure] Bad
 > >> + hides underlying structure
@@ -79,7 +79,7 @@
  >[!quote] Interpreter/Abstract Syntax Tree
 > > [!tip] Core idea
 > > + read expressions one after another and build a tree of expressions
-> > + resolve/interpret leaves first and pass results up
+> > + interpret leaves first and pass results up
 >
 > > [!success] Solution
 ![](../../../../z_images/Pasted%20image%2020251226125102.png)
@@ -100,10 +100,10 @@
 >
 > > [!example] Forces
 > > + object state should be (re)storable
-> > + do not break encapsulation (i.e. no external access)
+> > + avoid external access as to not break encapsulation 
 >
 > > [!success] Solution
-> > + create memento class, data class for internal state
+> > + create memento, data class for internal state
 > > + implement getter and setter for memento
 ![](../../../../z_images/Pasted%20image%2020251226125453.png)
 >
@@ -113,7 +113,7 @@
 > > > + synergy with command pattern
 > >
 > >> [!failure] Bad
-> >> + outside manipulation of memento $\Rightarrow$ checksum or signature
+> >> + prevention of outside manipulation of memento requires checksum or signature
 
  >[!quote] Observer
 > > [!tip] Core idea
@@ -147,7 +147,7 @@
 > > > + synchronous vs. asynchronous
 > >
 > >> [!failure] Bad
-> >> + potential for unexpected/cascading updates
+> >> + potential for unexpected cascading updates
 
  >[!quote] Strategy
 > > [!tip] Core idea
@@ -169,6 +169,40 @@
 > > + client uses interface without caring about details
 > > + allow interchange of concrete algorithms
 ![](../../../../z_images/Pasted%20image%2020251224125516.png)
+>
+> >[!quote] Consequences
+> > > [!success] Good
+> > > + split behavior from decision logic
+> > > + avoids subclasses for different behavior
+> > > + reuse behavior for multiple classes
+> >
+> > > [!question] Open Questions
+> > > + how to decide on strategy? 
+> >
+> >> [!failure] Bad
+> >> + additional indirection, objects and communication
+> >> + no access to private attributes
+
+>[!quote] State
+> > [!tip] Core idea/Conte4
+> > + change object behavior depending on current situation
+> 
+> > [!info] Context
+> > + objects change behavior according to current situ
+>
+> > [!danger] Problem
+> > + how to handle different behaviors without making everything complicated
+>
+> > [!example] Forces
+> > + different algorithm variants
+> > + exchangeable at runtime
+> > + split behavior from class
+>
+> > [!success] Solution
+> > + provide interface for algorithms
+> > + client uses interface without caring about details
+> > + allow interchange of concrete algorithms
+![](../../../../z_images/Pasted%20image%2020251230135744.png)
 >
 > >[!quote] Consequences
 > > > [!success] Good
