@@ -130,7 +130,7 @@
 > > [!example] Forces
 > > + update others when object changes
 > > + polling is costly
-> > + other objects not know at compile-time
+> > + other objects not known at compile-time
 >
 > > [!success] Solution
 > > + subject maintains observer list and means to add or remove observers

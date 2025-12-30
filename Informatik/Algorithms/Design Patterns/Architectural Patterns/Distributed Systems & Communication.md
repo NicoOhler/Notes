@@ -42,11 +42,11 @@
 > > + distributed application
 >
 > > [!danger] Problem
-> > + how to provide services (resources, content, ...) to multiple distributed clients
+> > + how to provide resources (services, content, ...) to multiple remote clients
 >
 > > [!example] Forces
 > > + availability of resources limited but needed by multiple clients
-> > + service provided by single, centralized provider
+> > + service should be provided by single, centralized provider
 > > + clients lack processing power or resources
 > > + number of requests unknown
 >
@@ -60,13 +60,13 @@
 > >[!quote] Consequences
 > > > [!success] Good
 > > > + services available for arbitrary number of clients
-> > > + heavy lifting moved to centralized server
+> > > + heavy lifting handled by centralized server
 > > > + exchangeable and extensive
 > >
 > >> [!failure] Bad
 > >> + single point of failure, DDoS, overload
 > >> + communication overhead
-> >> + client depend on networks and servers
+> >> + client depends on networks and servers
 
  >[!quote] Master-Slave
 > > [!tip] Core idea
@@ -82,12 +82,13 @@
 > > [!example] Forces
 > > + subtasks independent of partitioning work and recombining results
 > > + coordination of subtasks needed
-> > + solve many identical subproblems (potentially with different algorithms)
+> > + solve many identical subproblems
+> > 	+ potentially with different algorithms
 > > + multiple threads or even devices
 >
 > > [!success] Solution
 > > + master distributes work into subtasks, delegates to slaves and combines results
-> > + clients communicate only with coordinator (master)
+> > + clients communicate only with coordinating master
 > > + slave have uniform interface, handle work and communicate only with master
 ![](../../../../z_images/Pasted%20image%2020251226154932.png)
 >
@@ -95,7 +96,7 @@
 > > > [!success] Good
 > > > + separate concerns
 > > > + exchange and extensible
-> > > + fault tolerant
+> > > + fault tolerant, failure of individual slaves is not that bad
 > > > + parallel and potentially even distributed computation
 > >
 > >> [!failure] Bad

@@ -1,6 +1,6 @@
  >[!quote] Future
 > > [!tip] Core idea
-> > + provide a placeholder for future results
+> > + provide a placeholder, where future results will be stored
 >
 > > [!success] Solution
 ![](../../../../z_images/Pasted%20image%2020251229104636.png)
@@ -13,7 +13,7 @@
 > > [!success] Solution
 ![](../../../../z_images/Pasted%20image%2020251229105200.png)
 >
-> > >[!quote] Consequences
+> >[!quote] Consequences
 > > > [!success] Good
 > > > + mutual exclusive access enforces consistency
 > > > + parallel access to shared resources
@@ -31,7 +31,7 @@
 > > [!success] Solution
 ![](../../../../z_images/Pasted%20image%2020251229105645.png)
 >
-> > >[!quote] Consequences
+> > [!quote] Consequences
 > > > [!success] Good
 > > > + simplifies synchronization and scheduling
 > >
