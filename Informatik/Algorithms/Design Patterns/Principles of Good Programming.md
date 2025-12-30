@@ -1,15 +1,18 @@
 ### SOLID
 + Single Responsibility
-	+ class should have exactly one reason to change??
-	+ small classes with single responsibility
-	+ Curly's law: "Do one thing and stick to that!" 
+	+ class should have exactly one reason to change
+		+ class should have one job
+		+ Curly's law: "Do one thing and stick to that!" 
 	+ avoid god classes
+	+ aim for small classes with single responsibility
 + Open Closed
-	+ extend class behavior without modification
+	+ objects should be open for extension but closed for modification
+	+ extend class behavior without modification of base class
 	+ e.g. inheritance, adapter, strategy
 + Liskov Substitution
 	+ derived classes must be substitutable for their base classes
 + Interface Segregation
+	+ 
 	+ fine grained, client specific interfaces??
 + Dependency Inversion
 	+ depend on abstraction instead of concrete implementations

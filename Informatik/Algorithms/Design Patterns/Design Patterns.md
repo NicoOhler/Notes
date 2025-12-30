@@ -15,7 +15,7 @@
 + forces
 	+ requirements, constraints and challenges
 	+ motivating factor
-	+ why is the problem difficult in this context
+	+ why does the problem hurt in this context
 + solution
 	+ generic description of the implementation
 	+ describes components and how they interact
@@ -39,7 +39,7 @@
 	+ repeat discussion after improvement or publication
 ### Pattern Languages
 + coherent system of patterns
-+ consist of
++ involves
 	+ patterns
 	+ relations
 		+ how patterns influence each other
