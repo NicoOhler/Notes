@@ -51,7 +51,7 @@
 + Compare Visitor, Iterator and Composite. What are the differences? What are commonalities?
 	+ iterator loops over all elements of an arbitrary collection in a specific order
 	+ visitor pattern allows execution of behavior on all elements of an aggregate,  custom behavior is explicitly defined for each object type, making it easy to create new arbitrary functionality
-	+ composite allows for hierarchies of different objects which provide the same functionality. Concrete behavior is however fixed for each object type, making it costly to add functionality,
+	+ composite allows for hierarchies of different objects which provide the same functionality. Concrete behavior is however fixed for each object type, making it costly to add new, rarely used functionality
 + Compare Active Object vs. Master Slave!
 	+ master slave
 		+ client gives master a large task
