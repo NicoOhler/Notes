@@ -193,26 +193,27 @@
 > > [!example] Forces
 > > + behavior should change with internal state during runtime
 > > + complicated conditionals, if-else constructs should be avoided
-> > + mutually exclusive states
+> > + prevent mixing of mutually exclusive states
 >
 > > [!success] Solution
-> > + define context manager, keeping track of state and transitions
+> > + define context manager, keeping track of state and handling transitions
 > > + client uses interface of context
-> > + define interface for all states a
+> > + define general state interface and implement them
+> > + transition logic may be part of context manager or states
 ![](../../../../z_images/Pasted%20image%2020251230135744.png)
 >
 > >[!quote] Consequences
 > > > [!success] Good
-> > > + split behavior from decision logic
-> > > + avoids subclasses for different behavior
-> > > + reuse behavior for multiple classes
+> > > + state specific behavior is encapsulated
+> > > + easier to define new states and transitions
+> > > + state object can be shared via flyweight
 > >
 > > > [!question] Open Questions
-> > > + how to decide on strategy? 
+> > > + who decides upon transitions? 
 > >
 > >> [!failure] Bad
 > >> + additional indirection, objects and communication
-> >> + no access to private attributes
+> >> + transitions can still be quite tricky
 
  >[!quote] Template Method
 > > [!tip] Core idea

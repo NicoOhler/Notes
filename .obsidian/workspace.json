@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Algorithms/Design Patterns/Design Patterns/Behavioral Patterns.md",
+                "file": "Informatik/Algorithms/Design Patterns/Idioms.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Behavioral Patterns"
+              "title": "Idioms"
             }
           }
         ]
@@ -114,9 +114,9 @@
   },
   "active": "73aab318c28f51b5",
   "lastOpenFiles": [
+    "Informatik/Algorithms/Design Patterns/Design Patterns/Behavioral Patterns.md",
     "z_images/Pasted image 20251230135744.png",
     "Informatik/Algorithms/Design Patterns/Design Patterns/Structural Patterns.md",
-    "Informatik/Algorithms/Design Patterns/Design Patterns/Behavioral Patterns.md",
     "Informatik/Algorithms/Design Patterns/Design Patterns/Resource Management.md",
     "Informatik/Brain Computation/Synapses & Plasticity/Plasticity.md",
     "Informatik/Data Management/Database APIs/Transactions/Locking and Concurrency Control.md",
@@ -142,7 +142,6 @@
     "z_images/Pasted image 20251229105645.png",
     "z_images/Pasted image 20251229105200.png",
     "Informatik/Algorithms/Algorithms.md",
-    "z_images/Pasted image 20251229105045.png",
     "Informatik/Algorithms/Design Patterns/Architectural Patterns/Concurrency Architectures.md",
     "Informatik/Algorithms/Design Patterns/Architectural Patterns/Untitled.base",
     "Informatik/Algorithms/Design Patterns/Architectural Patterns/Untitled 1.base",

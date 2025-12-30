@@ -1,5 +1,6 @@
 ### Difference to other [[Types of Design Patterns]]
 + limited to a small scope instead of being widely applicable
+	+ e.g. specific programming language or framework
 + rather specific, no general solution template
 
  >[!quote] Counted/Smart/Shared/Auto Pointer
