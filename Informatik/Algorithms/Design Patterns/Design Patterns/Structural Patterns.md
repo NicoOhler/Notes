@@ -83,9 +83,8 @@
 > > [!example] Forces
 > > + add/remove functionality/responsibility dynamically without affecting other objects
 > > + reuse functionality
-> > + exten
-> nding subclasses would be impractical
-> > 	+ many subclasses/extensions/combinations
+> > + extending subclasses would be impractical
+> > 	+ many subclasses, extensions, combinations
 > > 	+ less dynamic
 >
 > > [!success] Solution
@@ -100,9 +99,8 @@
 > > > + avoids feature laden classes and class explosion issue
 > >
 > >> [!failure] Bad
-> >> + decorator and component not identical??
-> >> + hard to learn and debug
-> >> + many little objects which only differ in their interconnection??
+> >> + decorator and component are both subclasses but not really identical
+> >> + hard to learn and debug, due to many small objects which differ only in their interconnection?
 
  >[!quote] Facade
 > > [!info] Context
@@ -121,13 +119,13 @@
 > > [!success] Solution
 > > + implement a simple high level wrapper 
 > > + hides complexities and implementation details
-> > + provide easy to use OO interface
+> > + provide easy to use OO interface in desired paradigm
 ![](../../../../z_images/Pasted%20image%2020251223212122.png)
 >
 > >[!quote] Consequences
 > > > [!success] Good
 > > > + concise, cohesive and robust high level
-> > > + code becomes robust and easy to learn/understand/maintain
+> > > + code becomes robust and easy to learn, understand and maintain
 > >
 > >> [!failure] Bad
 > >> + reduced functionality
@@ -198,7 +196,8 @@
 
  >[!quote] Flyweight
 > > [!tip] Core idea
-> > + share global state and vary differences only when needed
+> > + share global intrinsic state and vary differences only when needed
+> > + extrinsic state represents concrete instance and is passed as input
 > 
 ![](../../../../z_images/Pasted%20image%2020251224124420.png)
 
