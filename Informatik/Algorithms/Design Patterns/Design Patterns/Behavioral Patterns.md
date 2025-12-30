@@ -184,24 +184,21 @@
 > >> + no access to private attributes
 
 >[!quote] State
-> > [!tip] Core idea/Conte4
-> > + change object behavior depending on current situation
+> > [!tip] Core idea/Context
+> > + objects change behavior depending on current situation
 > 
-> > [!info] Context
-> > + objects change behavior according to current situ
->
 > > [!danger] Problem
-> > + how to handle different behaviors without making everything complicated
+> > + how to handle different behaviors without convoluted implementation
 >
 > > [!example] Forces
-> > + different algorithm variants
-> > + exchangeable at runtime
-> > + split behavior from class
+> > + behavior should change with internal state during runtime
+> > + complicated conditionals, if-else constructs should be avoided
+> > + mutually exclusive states
 >
 > > [!success] Solution
-> > + provide interface for algorithms
-> > + client uses interface without caring about details
-> > + allow interchange of concrete algorithms
+> > + define context manager, keeping track of state and transitions
+> > + client uses interface of context
+> > + define interface for all states a
 ![](../../../../z_images/Pasted%20image%2020251230135744.png)
 >
 > >[!quote] Consequences
