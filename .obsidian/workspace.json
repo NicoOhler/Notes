@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Machine Learning/Brain Computation/Spiking SSMs/Spiking SSMs.md",
+                "file": "Informatik/Machine Learning/Brain Computation/Brain Models/Adaptive Exponential Integrate-And-Fire Model.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spiking SSMs"
+              "title": "Adaptive Exponential Integrate-And-Fire Model"
             }
           }
         ],
@@ -129,10 +129,11 @@
   },
   "active": "504110136dbb08fb",
   "lastOpenFiles": [
-    "Informatik/Machine Learning/Brain Computation/Spiking SSMs/TODOs.md",
-    "Informatik/Machine Learning/Brain Computation/Spiking SSMs/Spiking SSMs.md",
-    "Informatik/Software Development/Algorithms/Algorithms.md",
+    "Informatik/Machine Learning/Brain Computation/Brain Models/Exponential Integrate-And-Fire Model.md",
     "Informatik/Machine Learning/Brain Computation/Brain Models/Adaptive Exponential Integrate-And-Fire Model.md",
+    "Informatik/Machine Learning/Brain Computation/Spiking SSMs/Spiking SSMs.md",
+    "Informatik/Machine Learning/Brain Computation/Spiking SSMs/TODOs.md",
+    "Informatik/Software Development/Algorithms/Algorithms.md",
     "Informatik/Software Development",
     "Informatik/Computers & Networks",
     "Informatik/Software Development/OOP2.md",
@@ -159,7 +160,6 @@
     "Informatik/Software Development/Design Patterns/Architectural Patterns/Distributed Systems & Communication.md",
     "Informatik/Software Development/Design Patterns/Architectural Patterns/Concurrency.md",
     "z_images/Pasted image 20251230135744.png",
-    "Informatik/Machine Learning/Brain Computation/Synapses & Plasticity/Plasticity.md",
     "z_images/Pasted image 20251229120453.png",
     "z_images/Pasted image 20251229114749.png",
     "z_images/Pasted image 20251229113409.png",
