@@ -42,4 +42,4 @@
 	+ Knoten mit Eingangsgrad 0 heißt Quelle
 	+ ![](Pasted%20image%2020220508153515.png)
 
-[[Diskrete Mathematik]] [[Graphs KR]]
+[[Diskrete Mathematik]] [[../../../Informatik/Machine Learning/Data Science and AI/Knowledge Representation/Graphs KR/Graphs KR]]

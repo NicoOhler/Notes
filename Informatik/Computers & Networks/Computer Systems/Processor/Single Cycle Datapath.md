@@ -1,0 +1,12 @@
+
+### Overview
++ ![](Pasted%20image%2020221112165957.png)
++ each instruction takes one cycle to execute
+	+ maximum [[../Circuits/Clock Frequency]] defined by slowest instruction
+
+### Performance
++ goal to maximise instruction executions per time
++ determined by
+	+ clock cycles per instruction CPI
+	+ [[../Circuits/Clock Frequency]], cycles per second
++ program with N instruction takes $N*CPI*(1/f)$

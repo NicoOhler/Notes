@@ -8,7 +8,7 @@
 	+ rekursiv definiert
 	+ ![](Pasted%20image%2020221114134732.png)
 + ![](Pasted%20image%2020221114134924.png)
-+  Beispiel mittels [[Infix - Postfix Notationen]]
++  Beispiel mittels [[../../../../Computers & Networks/CS Basics/Infix - Postfix Notationen]]
 	+ symmetrisch
 		+ ![](Pasted%20image%2020221114134833.png)
 	+ Haupt und Nebenreihenfolge

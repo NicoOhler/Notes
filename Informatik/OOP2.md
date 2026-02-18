@@ -175,7 +175,7 @@
 	+ executed in threads parallel for batches of the stream
 	+ ![](Pasted%20image%2020230121182514.png)
 
-### [[Networking]]
+### [[Computers & Networks/Networking/Networking]]
 + network types
 	+ (W)PAN 
 		+ USB
@@ -335,9 +335,9 @@
 		+ `parallelStream`
 			+ ![](Pasted%20image%2020230124112836.png)
 
-### [[Transaction]] Concepts
+### [[Computers & Networks/Data Management/Database APIs/Transactions/Transaction]] Concepts
 + set of operations executed atomically
-+ provides [[ACID]]
++ provides [[Computers & Networks/Data Management/Database APIs/Transactions/ACID]]
 	+ ![](Pasted%20image%2020230122151611.png)
 +  serial equivalence 
 	+ interleaving of transactions/operations is serially equivalent if the combined effect is the same as if performed sequentially

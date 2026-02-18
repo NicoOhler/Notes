@@ -4,7 +4,7 @@
 	+ change in brain structure
 + for machines: 
 	+ change in parameters of represented knowledge
-		+ [[Artificial Neural Networks]]
+		+ [[Data Science and AI/Machine Learning/Artificial Neural Networks]]
 	+ structure of KR/formalism changes
 
 ### Feedback to Use for Learning
@@ -16,10 +16,10 @@
 	+ rewards or punishments
 + supervised learning	
 	+ example input/output pairs given
-	+ e.g. [[Classification]]
+	+ e.g. [[Data Science and AI/Machine Learning/Classification]]
 	+ people are bad at specifying rules but good at giving examples
 
 ### Selected Topics
 + [Retrieval Augmented Generation](Retrieval%20Augmented%20Generation/Retrieval%20Augmented%20Generation.md)
 
-[[Data Science and AI]]
+[[Data Science and AI/Data Science and AI]]

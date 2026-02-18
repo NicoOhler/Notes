@@ -1,7 +1,7 @@
 ### Definition
 + Art von a-b-Baum
 	+ Spezialfall von [[Balancierte Bäume]] 
-	+ ähnlich wie [[Binary Search and BTree]]
+	+ ähnlich wie [[../../../../Computers & Networks/Data Management/Database Performance Tuning/Binary Search and BTree]]
 +  Eigenschaften
 	+ leicht zuhalten bei blattorientierter Speicherung
 		+ anstatt knotenorientiert 

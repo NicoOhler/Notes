@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Algorithms/Design Patterns/Types of Design Patterns.md",
+                "file": "Informatik/Machine Learning/Brain Computation/Brain Models/Leaky Integrate-And-Fire Model.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Types of Design Patterns"
+              "title": "Leaky Integrate-And-Fire Model"
+            }
+          },
+          {
+            "id": "504110136dbb08fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Informatik/Machine Learning/Brain Computation/Brain Models/Adaptive Exponential Integrate-And-Fire Model.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Adaptive Exponential Integrate-And-Fire Model"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,8 +127,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "73aab318c28f51b5",
+  "active": "097b9a58ea336072",
   "lastOpenFiles": [
+    "Informatik/Computers & Networks",
+    "Informatik/OOP2.md",
+    "Informatik/Machine Learning/Brain Computation/Brain Models/Adaptive Exponential Integrate-And-Fire Model.md",
+    "Informatik/Machine Learning/Brain Computation/Brain Models/Leaky Integrate-And-Fire Model.md",
+    "Informatik/Machine Learning/Brain Computation/Brain Models/Brain Models.md",
+    "Informatik/Machine Learning/Brain Computation/Brain Models/Quadratic Integrate-And-Fire Model.md",
+    "Informatik/Machine Learning/Brain Computation/Brain Models/Nonlinear Integrate-And-Fire Models.md",
+    "Informatik/Machine Learning/Brain Computation/Spiking SSMs/Neurons",
+    "Informatik/Machine Learning/Brain Computation/Synapses & Plasticity/Synaptic Transmission of Chemical Synapses.md",
+    "Informatik/Machine Learning/Brain Computation/Synapses & Plasticity/Synapses.md",
+    "Informatik/Machine Learning/Brain Computation/Synapses & Plasticity/Spike-Timing Dependent Plasticity.md",
+    "Informatik/Algorithms/Design Patterns/Types of Design Patterns.md",
+    "Informatik/Machine Learning/Brain Computation/Spiking SSMs",
     "Informatik/Algorithms/Design Patterns/Principles of Good Programming.md",
     "Informatik/Algorithms/Design Patterns/Idioms.md",
     "Informatik/Algorithms/Design Patterns/Design Patterns.md",
@@ -127,11 +155,9 @@
     "Informatik/Algorithms/Design Patterns/Architectural Patterns/Distributed Systems & Communication.md",
     "Informatik/Algorithms/Design Patterns/Architectural Patterns/Concurrency.md",
     "z_images/Pasted image 20251230135744.png",
-    "Informatik/Brain Computation/Synapses & Plasticity/Plasticity.md",
-    "Informatik/Data Management/Database APIs/Transactions/Locking and Concurrency Control.md",
+    "Informatik/Machine Learning/Brain Computation/Synapses & Plasticity/Plasticity.md",
+    "Informatik/Computers & Networks/Data Management/Database APIs/Transactions/Locking and Concurrency Control.md",
     "Informatik/Algorithms/Design Patterns/Previous Exam Questions.md",
-    "Informatik/Algorithms/Design Patterns/Types of Design Patterns.md",
-    "Informatik/Algorithms/Design Patterns/Template.md",
     "z_images/Pasted image 20251229120453.png",
     "z_images/Pasted image 20251229114749.png",
     "z_images/Pasted image 20251229113409.png",
@@ -141,24 +167,14 @@
     "z_images/Pasted image 20251229110254.png",
     "z_images/Pasted image 20251229105645.png",
     "z_images/Pasted image 20251229105200.png",
-    "Informatik/Algorithms/Algorithms.md",
-    "Informatik/Algorithms/Design Patterns/Architectural Patterns/Concurrency Architectures.md",
     "Informatik/Algorithms/Design Patterns/Architectural Patterns/Untitled.base",
     "Informatik/Algorithms/Design Patterns/Architectural Patterns/Untitled 1.base",
     "Informatik/Algorithms/Design Patterns/Design Patterns/Untitled.base",
     "Informatik/Algorithms/Design Patterns/Architectural Patterns/Structure & Decomposition",
-    "Informatik/Algorithms/Design Patterns/Architectural Patterns.md",
     "Informatik/Algorithms/Design Patterns/Design Patterns",
     "Informatik/Algorithms/Design Patterns/Architectural Patterns",
-    "Informatik/Machine Learning/Graph Diffusion Models/finetune_results.md",
     "Informatik/Algorithms/Design Patterns",
     "Informatik/Machine Learning/Graph Diffusion Models/results",
-    "Informatik/Machine Learning/Graph Diffusion Models/SparseDiff - Sparse Discrete Diffusion for Scalable Graph Generation.md",
-    "Informatik/Machine Learning/Graph Diffusion Models",
-    "Informatik/Brain Computation/Information Representation in the Brain/Information Representation in the Brain.md",
-    "Informatik/Brain Computation/Brain Models/Nonlinear Integrate-And-Fire Models.md",
-    "Informatik/Brain Computation/Brain Models/Spike Response Models.md",
-    "Informatik/Brain Computation/Synapses & Plasticity",
     "Informatik/Untitled.canvas",
     "Untitled.canvas"
   ]
