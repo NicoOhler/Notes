@@ -1,0 +1,245 @@
+ >[!quote] Command
+> > [!tip] Core idea
+> > + decouple invocation from execution via a request
+> > + allow reversal of action
+> 
+> > [!info] Context
+> > + invoke behavior of other object
+>
+> > [!danger] Problem
+> > + invoke regardless of concrete implementation and context
+>
+> > [!example] Forces
+> > + avoid coupling of invoker and request context
+> > + unaware of concrete implementation
+> > + undo requests
+>
+> > [!success] Solution
+> > + define simple command interface
+> > + implement behavior in concrete commands which may contain receiver
+> > + client calls command, passes parameters or initializes them before
+![](../../../../../z_images/Pasted%20image%2020251224130543.png)
+>
+> >[!quote] Consequences
+> > > [!success] Good
+> > > + request does not depend on invoker, can be executed in isolation
+> > > + undo/redo possible
+> > > + supports reuse for multiple receivers by swapping them during runtime
+> >
+> >> [!failure] Bad
+> >> + more objects
+> >> + need to store parameters or their references
+
+ >[!quote] Chain of Responsibility
+> > [!tip] Core idea
+> > + forward a request until someone can handle it
+>
+> > [!danger] Problem
+> > + how to resolve who is responsible for a specific task
+>
+> > [!example] Forces
+> >  + multiple escalation levels that may dynamically change during runtime
+> > + handling of different tasks by different objects
+>
+> > [!success] Solution
+> > + implement a chain of handlers (specific early, general later)
+> > + handle if possible otherwise forward to successor
+![](../../../../../z_images/Pasted%20image%2020251226124039.png)
+
+ >[!quote] Iterator
+> > [!tip] Core idea
+> > + uniform access to next element of arbitrary collections
+> 
+> > [!info] Context
+> > + different data structures (lists, trees, maps, ...) 
+> > + different orders (start to end, reverse, depth/breadth first, FIFO, ...)
+>
+> > [!danger] Problem
+> > + how to simplify this
+>
+> > [!example] Forces
+> > + simple, uniform access to different data structures and different orders
+>
+> > [!success] Solution
+> > + define simple iterator interface
+> > + implement concrete iterator for each collection and access order
+![](../../../../../z_images/Pasted%20image%2020251224132656.png)
+>
+> >[!quote] Consequences
+> > > [!success] Good
+> > > + simple uniform access
+> > > + allow multiple simultaneous iterations
+> > > + traversal order may vary
+> >
+> >> [!failure] Bad
+> >> + hides underlying structure
+> >> + robustness wrt insertions and deletions not guaranteed
+> >> + lower efficiency
+ 
+ >[!quote] Interpreter/Abstract Syntax Tree
+> > [!tip] Core idea
+> > + read expressions one after another and build a tree of expressions
+> > + interpret leaves first and pass results up
+>
+> > [!success] Solution
+![[](../../../../../z_images/Pasted%20image%2020251226125102.png) >[!quote] Mediator
+> > [!tip] Core idea
+> > + handle 1:n communication between multiple objects
+>
+> > [!success] Solution
+![[](../../../../../z_images/Pasted%20image%2020251226124902.png) >[!quote] Memento
+> > [!tip] Core idea
+> > + store and load internal state of object
+> 
+> > [!danger] Problem
+> > + how to persist an object?
+>
+> > [!example] Forces
+> > + object state should be (re)storable
+> > + avoid external access as to not break encapsulation 
+>
+> > [!success] Solution
+> > + create memento, data class for internal state
+> > + implement getter and setter for memento
+![](../../../../../z_images/Pasted%20image%2020251226125453.png)
+>
+> >[!quote] Consequences
+> > > [!success] Good
+> > > + persistence and restoration of state without exposure to outside
+> > > + synergy with command pattern
+> >
+> >> [!failure] Bad
+> >> + prevention of outside manipulation of memento requires checksum or signature
+
+ >[!quote] Observer
+> > [!tip] Core idea
+> > + subject informs registered observers about changes
+> > + e.g. onClick events or MQTT
+> 
+> > [!info] Context
+> > + data distributed over multiple related objects
+>
+> > [!danger] Problem
+> > + how to maintain consistency between them
+>
+> > [!example] Forces
+> > + update others when object changes
+> > + polling is costly
+> > + other objects not known at compile-time
+>
+> > [!success] Solution
+> > + subject maintains observer list and means to add or remove observers
+> > + notify all observers on change by calling their update method
+> > + observers react to change and optionally accesses subject data
+![](../../../../../z_images/Pasted%20image%2020251224124616.png)
+>
+> >[!quote] Consequences
+> > > [!success] Good
+> > > + decouples subjects and observers
+> > > + encourages reuse
+> > > + supports m:n communication without polling
+> >
+> > > [!question] Open Questions
+> > > + synchronous vs. asynchronous
+> >
+> >> [!failure] Bad
+> >> + potential for unexpected cascading updates
+
+ >[!quote] Strategy
+> > [!tip] Core idea
+> > + change complex behavior (dynamically) while keeping things relatively simple
+> 
+> > [!info] Context
+> > + many related classes that differ in complex behavior but not data
+>
+> > [!danger] Problem
+> > + how to handle different behaviors without making everything complicated
+>
+> > [!example] Forces
+> > + different algorithm variants
+> > + exchangeable at runtime
+> > + split behavior from class
+>
+> > [!success] Solution
+> > + provide interface for algorithms
+> > + client uses interface without caring about details
+> > + allow interchange of concrete algorithms
+![](../../../../../z_images/Pasted%20image%2020251224125516.png)
+>
+> >[!quote] Consequences
+> > > [!success] Good
+> > > + split behavior from decision logic
+> > > + avoids subclasses for different behavior
+> > > + reuse behavior for multiple classes
+> >
+> > > [!question] Open Questions
+> > > + how to decide on strategy? 
+> >
+> >> [!failure] Bad
+> >> + additional indirection, objects and communication
+> >> + no access to private attributes
+
+>[!quote] State
+> > [!tip] Core idea/Context
+> > + objects change behavior depending on current situation
+> 
+> > [!danger] Problem
+> > + how to handle different behaviors without convoluted implementation
+>
+> > [!example] Forces
+> > + behavior should change with internal state during runtime
+> > + complicated conditionals, if-else constructs should be avoided
+> > + prevent mixing of mutually exclusive states
+>
+> > [!success] Solution
+> > + define context manager, keeping track of state and handling transitions
+> > + client uses interface of context
+> > + define general state interface and implement them
+> > + transition logic may be part of context manager or states
+![](../../../../../z_images/Pasted%20image%2020251230135744.png)
+>
+> >[!quote] Consequences
+> > > [!success] Good
+> > > + state specific behavior is encapsulated
+> > > + easier to define new states and transitions
+> > > + state object can be shared via flyweight
+> >
+> > > [!question] Open Questions
+> > > + who decides upon transitions? 
+> >
+> >> [!failure] Bad
+> >> + additional indirection, objects and communication
+> >> + transitions can still be quite tricky
+
+ >[!quote] Template Method
+> > [!tip] Core idea
+> > + define methods and let children define the behavior
+> 
+> > [!success] Solution
+![[](../../../../../z_images/Pasted%20image%2020251226130128.png) >[!quote] Visitor
+> > [!tip] Core idea
+> > +  add behavior to aggregates of different objects
+> 
+> > [!danger] Problem
+> > + how to execute desired behavior on aggregate of different objects
+> > + difference to composite: 
+> > 	+ support of different objects
+> > 	+ do not explicitly define behavior in each class
+>
+> > [!example] Forces
+> > + keep classes free of unrelated operations
+> > + objects of different interfaces
+>
+> > [!success] Solution
+> > + define visitor interface
+> > + add function which calls visitor function to elements
+![](../../../../../z_images/Pasted%20image%2020251226130301.png)
+>
+> >[!quote] Consequences
+> > > [!success] Good
+> > > + new functionality is easy
+> >
+> >> [!failure] Bad
+> >> + more classes
+> >> + adding classes becomes harder
+> >> + access to private members?
