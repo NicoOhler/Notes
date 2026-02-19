@@ -34,21 +34,9 @@
               "icon": "lucide-file",
               "title": "Adaptive Exponential Integrate-And-Fire Model"
             }
-          },
-          {
-            "id": "f9876c2c4d6f989f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.7"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -139,7 +127,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f9876c2c4d6f989f",
+  "active": "504110136dbb08fb",
   "lastOpenFiles": [
     "Informatik/Machine Learning/Brain Computation/Brain Models/Exponential Integrate-And-Fire Model.md",
     "Informatik/Machine Learning/Brain Computation/Brain Models/Adaptive Exponential Integrate-And-Fire Model.md",
