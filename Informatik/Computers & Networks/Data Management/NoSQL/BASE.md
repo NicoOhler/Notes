@@ -13,11 +13,11 @@
 
 ### Two-Phase Commit Protocol
 + distributed TX processing
-	+ n nodes with related but distributed data (vertical partitiong)
+	+ n nodes with related but distributed data (vertical partitioning)
 	+ ensures consistent view
 		+ atomicity
 		+ durability
-+ two-phase commit (via 2n msgs)
++ two-phase commit (via 2n messages)
 	+ prepare - check for success, log 
 	+ commit - release locks and other cleanups
 	+ each node was successful ==> release locks
