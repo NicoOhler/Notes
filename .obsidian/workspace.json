@@ -25,12 +25,14 @@
             "id": "242781fd6a99f64c",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.12.7"
+                "file": "Informatik/Computers & Networks/Data Management/Database Performance Tuning/Background Storage System.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.7"
+              "icon": "lucide-file",
+              "title": "Background Storage System"
             }
           }
         ],
@@ -66,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "colum",
+                "query": "column",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -126,8 +128,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "67d43403474fe91c",
+  "active": "242781fd6a99f64c",
   "lastOpenFiles": [
+    "Informatik/Computers & Networks/Data Management/Database Performance Tuning/Physical Design.md",
+    "Informatik/Computers & Networks/Data Management/Database Performance Tuning/Index Structures.md",
+    "Informatik/Computers & Networks/Information Security/Cryptography.md",
+    "Informatik/Computers & Networks/Data Management/Database Performance Tuning/Background Storage System.md",
     "Informatik/Computers & Networks/Data Management/Database APIs/Transactions/ACID.md",
     "Informatik/Computers & Networks/Data Management/NoSQL/BASE.md",
     "Informatik/Machine Learning/Brain Computation/Brain Models/Adaptive Exponential Integrate-And-Fire Model.md",
@@ -155,10 +161,6 @@
     "Informatik/Machine Learning/Brain Computation/Synapses & Plasticity/Spike-Timing Dependent Plasticity.md",
     "Informatik/Software Development/Design Patterns/Types of Design Patterns.md",
     "Informatik/Machine Learning/Brain Computation/Spiking SSMs",
-    "Informatik/Software Development/Design Patterns/Principles of Good Programming.md",
-    "Informatik/Software Development/Design Patterns/Idioms.md",
-    "Informatik/Software Development/Design Patterns/Design Patterns.md",
-    "Informatik/Software Development/Design Patterns/Design Patterns/Structural Patterns.md",
     "z_images/Pasted image 20251230135744.png",
     "z_images/Pasted image 20251229120453.png",
     "z_images/Pasted image 20251229114749.png",
