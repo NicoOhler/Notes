@@ -64,7 +64,8 @@
               "title": "Search"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -112,7 +113,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "73aab318c28f51b5",
+  "active": "67d43403474fe91c",
   "lastOpenFiles": [
     "Informatik/Machine Learning/Brain Computation/Brain Models/Leaky Integrate-And-Fire Model.md",
     "Informatik/Machine Learning/Brain Computation/Brain Models/Adaptive Exponential Integrate-And-Fire Model.md",
