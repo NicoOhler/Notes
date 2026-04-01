@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "BASE"
             }
+          },
+          {
+            "id": "242781fd6a99f64c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "change data capt",
+                "query": "colum",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
