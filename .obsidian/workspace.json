@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "acid",
+                "query": "change data capt",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -113,7 +113,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "73aab318c28f51b5",
+  "active": "67d43403474fe91c",
   "lastOpenFiles": [
     "Informatik/Computers & Networks/Data Management/Database APIs/Transactions/ACID.md",
     "Informatik/Computers & Networks/Data Management/NoSQL/BASE.md",
