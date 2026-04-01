@@ -28,8 +28,8 @@
 ### Cap Theorem
 + at most 2 of the following attributes
 	+ consistency - changes consistent among all nodes
-	+ availablity - services must be always availabe
-	+ partition tolerance - tolerance of temporarily unreachable noces
+	+ availability - services must be always available
+	+ partition tolerance - tolerance of temporarily unreachable nodes
 + possible combinations
 	+ ![](Pasted%20image%2020220608173739.png)
 

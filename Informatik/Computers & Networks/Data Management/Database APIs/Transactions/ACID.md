@@ -8,7 +8,7 @@
 + isolation
 	+ multiple concurrent transaction seem to execute sequentially
 + durability
-	+ succesful transactions survive permanently even if system fails
+	+ successful transactions survive permanently even if system fails
 	+ system failure ==> db recoverable - REDO
 
 ### [[../../NoSQL/BASE]] Alternative

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Machine Learning/Brain Computation/Brain Models/Adaptive Exponential Integrate-And-Fire Model.md",
+                "file": "Informatik/Computers & Networks/Data Management/NoSQL/BASE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Adaptive Exponential Integrate-And-Fire Model"
+              "title": "BASE"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Mixed",
+                "query": "acid",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -113,10 +113,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "67d43403474fe91c",
+  "active": "73aab318c28f51b5",
   "lastOpenFiles": [
-    "Informatik/Machine Learning/Brain Computation/Brain Models/Leaky Integrate-And-Fire Model.md",
+    "Informatik/Computers & Networks/Data Management/Database APIs/Transactions/ACID.md",
+    "Informatik/Computers & Networks/Data Management/NoSQL/BASE.md",
     "Informatik/Machine Learning/Brain Computation/Brain Models/Adaptive Exponential Integrate-And-Fire Model.md",
+    "Informatik/Computers & Networks/Data Management/Database Performance Tuning/Database Performance Tuning.md",
+    "Informatik/Computers & Networks/Data Management/Database Performance Tuning/Database Compression Techniques.md",
+    "Informatik/Computers & Networks/Data Management/Database Performance Tuning/output.pdf",
+    "Informatik/Computers & Networks/Data Management/SQL/Indexing.md",
+    "Informatik/Computers & Networks/Data Management/SQL/Grouping and Aggregation.md",
+    "Informatik/Computers & Networks/Data Management/SQL/Database Catalog.md",
+    "Informatik/Computers & Networks/Data Management/SQL/Basic SQL Concepts.md",
+    "Informatik/Machine Learning/Brain Computation/Brain Models/Leaky Integrate-And-Fire Model.md",
     "Informatik/Machine Learning/Brain Computation/Spiking SSMs/Spiking SSMs.md",
     "Informatik/Machine Learning/Brain Computation/Brain Models/Exponential Integrate-And-Fire Model.md",
     "Informatik/Machine Learning/Brain Computation/Spiking SSMs/TODOs.md",
@@ -137,14 +146,6 @@
     "Informatik/Software Development/Design Patterns/Idioms.md",
     "Informatik/Software Development/Design Patterns/Design Patterns.md",
     "Informatik/Software Development/Design Patterns/Design Patterns/Structural Patterns.md",
-    "Informatik/Software Development/Design Patterns/Design Patterns/Resource Management.md",
-    "Informatik/Software Development/Design Patterns/Design Patterns/Creational Patterns.md",
-    "Informatik/Software Development/Design Patterns/Design Patterns/Behavioral Patterns.md",
-    "Informatik/Software Development/Design Patterns/Architectural Patterns/User Interfaces.md",
-    "Informatik/Software Development/Design Patterns/Architectural Patterns/Structure & Decomposition.md",
-    "Informatik/Software Development/Design Patterns/Architectural Patterns/Messaging Family.md",
-    "Informatik/Software Development/Design Patterns/Architectural Patterns/Distributed Systems & Communication.md",
-    "Informatik/Software Development/Design Patterns/Architectural Patterns/Concurrency.md",
     "z_images/Pasted image 20251230135744.png",
     "z_images/Pasted image 20251229120453.png",
     "z_images/Pasted image 20251229114749.png",
@@ -160,7 +161,6 @@
     "Informatik/Algorithms/Design Patterns/Design Patterns/Untitled.base",
     "Informatik/Algorithms/Design Patterns/Architectural Patterns/Structure & Decomposition",
     "Informatik/Software Development/Design Patterns/Design Patterns",
-    "Informatik/Software Development/Design Patterns/Architectural Patterns",
     "Informatik/Untitled.canvas",
     "Untitled.canvas"
   ]
