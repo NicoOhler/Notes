@@ -88,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 448.5,
-    "collapsed": true
+    "width": 448.5
   },
   "right": {
     "id": "d1219e90b492538d",
@@ -133,11 +132,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d5e95accb5b3ff5f",
+  "active": "242781fd6a99f64c",
   "lastOpenFiles": [
+    "Informatik/Machine Learning/Brain Computation/Neurons/Spike Generation.md",
+    "Informatik/Machine Learning/Brain Computation/Neurons/Ion Channels.md",
     "Informatik/Machine Learning/Brain Computation/Neurons/Neurons.md",
-    "Informatik/Computers & Networks/Data Management/NoSQL/BASE.md",
     "Informatik/Machine Learning/Brain Computation/Brain Models/Leaky Integrate-And-Fire Model.md",
+    "Informatik/Computers & Networks/Data Management/NoSQL/BASE.md",
     "Informatik/Machine Learning/Brain Computation/Brain Models/Exponential Integrate-And-Fire Model.md",
     "Informatik/Machine Learning/Brain Computation/Brain Models/Nonlinear Integrate-And-Fire Models.md",
     "Informatik/Machine Learning/Brain Computation/Brain Models/Adaptive Exponential Integrate-And-Fire Model.md",
@@ -163,8 +164,6 @@
     "Informatik/Machine Learning/Brain Computation/Brain Models/Brain Models.md",
     "Informatik/Machine Learning/Brain Computation/Brain Models/Quadratic Integrate-And-Fire Model.md",
     "Informatik/Machine Learning/Brain Computation/Spiking SSMs/Neurons",
-    "Informatik/Machine Learning/Brain Computation/Synapses & Plasticity/Synaptic Transmission of Chemical Synapses.md",
-    "Informatik/Machine Learning/Brain Computation/Synapses & Plasticity/Synapses.md",
     "Informatik/Machine Learning/Brain Computation/Spiking SSMs",
     "z_images/Pasted image 20251230135744.png",
     "z_images/Pasted image 20251229120453.png",
