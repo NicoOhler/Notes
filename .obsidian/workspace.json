@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Machine Learning/Brain Computation/Neurons/Spike Generation.md",
+                "file": "Informatik/Machine Learning/Brain Computation/Neurons/Neurons.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spike Generation"
+              "title": "Neurons"
             }
           }
         ]
@@ -134,10 +134,10 @@
   },
   "active": "242781fd6a99f64c",
   "lastOpenFiles": [
+    "Informatik/Machine Learning/Brain Computation/Brain Models/Leaky Integrate-And-Fire Model.md",
+    "Informatik/Machine Learning/Brain Computation/Neurons/Spike Generation.md",
     "Informatik/Machine Learning/Brain Computation/Neurons/Neurons.md",
     "Informatik/Machine Learning/Brain Computation/Neurons/Ion Channels.md",
-    "Informatik/Machine Learning/Brain Computation/Neurons/Spike Generation.md",
-    "Informatik/Machine Learning/Brain Computation/Brain Models/Leaky Integrate-And-Fire Model.md",
     "Informatik/Computers & Networks/Data Management/NoSQL/BASE.md",
     "Informatik/Machine Learning/Brain Computation/Brain Models/Exponential Integrate-And-Fire Model.md",
     "Informatik/Machine Learning/Brain Computation/Brain Models/Nonlinear Integrate-And-Fire Models.md",
